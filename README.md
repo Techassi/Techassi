@@ -11,6 +11,8 @@
 
 🔭 I’m currently working on gomark and qu
 
+⚡ I’m writing by bachelors thesis about [go-chapper](https://github.com/go-chapper)
+
 📫 How to reach me: hi@web-warrior.de
 
 <!--
