@@ -10,7 +10,7 @@
 
 ---
 
-🔭 I’m currently working on gomark and qu
+🔭 ~I’m currently working on gomark and qu~ No I’m not. Bussy working on my thesis!
 
 ⚡ I’m writing by bachelors thesis about [go-chapper](https://github.com/go-chapper)
 
