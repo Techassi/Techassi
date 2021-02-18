@@ -3,9 +3,9 @@
 
 ---
 
-🔭 ~I’m currently working on gomark and qu~ No I’m not. Doing my last assignment for this semester! 
+🔭 ~I’m currently working on gomark and qu~ No I’m not. Doing my last assignment for this semester: [tinytowers](https://github.com/Techassi/tinytowers)
 
-⚡ I’m writing by bachelors thesis about [go-chapper](https://github.com/go-chapper)
+⚡ I wrote by bachelors thesis about [go-chapper](https://github.com/go-chapper)
 
 📫 How to reach me: hi@web-warrior.de
 
