@@ -3,11 +3,11 @@
 
 ---
 
-🔭 ~I’m currently working on gomark and qu~ No I’m not. Doing my last assignment for this semester: [tinytowers](https://github.com/Techassi/tinytowers)
+🔭 I’m currently working on various projects like [vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe), [vue-lazy-image](https://github.com/Techassi/vue-lazy-image) and maybe some other projects here and there.
 
 ⚡ I wrote by bachelors thesis about [go-chapper](https://github.com/go-chapper)
 
-📫 How to reach me: hi@web-warrior.de
+📫 How to reach me: git@techassi.dev
 
 <!--
 **Techassi/Techassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
