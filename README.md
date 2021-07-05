@@ -1,4 +1,4 @@
-### Hi 👋, I'm Techassi
+### Hey there 👋
 #### A passionate student, freelancer & developer
 
 ---
