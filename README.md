@@ -5,7 +5,7 @@
 
 - [jonashellmann/skip-netflix-intro](https://github.com/jonashellmann/skip-netflix-intro) - Firefox addon to automatically skip intros on Netflix (1 week ago)
 - [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu) - switch git user easily (1 week ago)
-- [go-void/.github](https://github.com/go-void/.github) -  (1 week ago)
+- [go-void/.github](https://github.com/go-void/.github) -  (2 weeks ago)
 - [olithissen/dgf-monitoring](https://github.com/olithissen/dgf-monitoring) -  (1 month ago)
 - [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe) - This Vue plugin makes it easy to integrate the YouTube Iframe API into your Vue 3 app. (6 months ago)
 
@@ -16,7 +16,7 @@
 - [Update button class to fix auto skip](https://github.com/jonashellmann/skip-netflix-intro/pull/1) on [jonashellmann/skip-netflix-intro](https://github.com/jonashellmann/skip-netflix-intro) (1 week ago)
 - [Fix issue when trying to modify user profiles](https://github.com/matsuyoshi30/gitsu/pull/20) on [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu) (2 weeks ago)
 - [Add multi output Telegraf config](https://github.com/olithissen/dgf-monitoring/pull/2) on [olithissen/dgf-monitoring](https://github.com/olithissen/dgf-monitoring) (1 month ago)
-- [Rewrite: Applied DRY principle, better code structure &amp; maintainability and new features](https://github.com/matsuyoshi30/gitsu/pull/16) on [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu) (2 months ago)
+- [Rewrite: Applied DRY principle, better code structure &amp; maintainability and new features](https://github.com/matsuyoshi30/gitsu/pull/16) on [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu) (3 months ago)
 
 #### 📫 How to reach me
 
