@@ -14,7 +14,7 @@
 
 - [Update target class to fix autoskip](https://github.com/jonashellmann/skip-netflix-intro/pull/2) on [jonashellmann/skip-netflix-intro](https://github.com/jonashellmann/skip-netflix-intro) (1 week ago)
 - [Update button class to fix auto skip](https://github.com/jonashellmann/skip-netflix-intro/pull/1) on [jonashellmann/skip-netflix-intro](https://github.com/jonashellmann/skip-netflix-intro) (2 weeks ago)
-- [Fix issue when trying to modify user profiles](https://github.com/matsuyoshi30/gitsu/pull/20) on [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu) (2 weeks ago)
+- [Fix issue when trying to modify user profiles](https://github.com/matsuyoshi30/gitsu/pull/20) on [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu) (3 weeks ago)
 - [Add multi output Telegraf config](https://github.com/olithissen/dgf-monitoring/pull/2) on [olithissen/dgf-monitoring](https://github.com/olithissen/dgf-monitoring) (2 months ago)
 - [Rewrite: Applied DRY principle, better code structure &amp; maintainability and new features](https://github.com/matsuyoshi30/gitsu/pull/16) on [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu) (3 months ago)
 
