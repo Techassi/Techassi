@@ -3,7 +3,7 @@
 #### 🔥 Check out what I'm working on
 
 
-- [jonashellmann/skip-netflix-intro](https://github.com/jonashellmann/skip-netflix-intro) - Firefox addon to automatically skip intros on Netflix (1 week ago)
+- [jonashellmann/skip-netflix-intro](https://github.com/jonashellmann/skip-netflix-intro) - Firefox addon to automatically skip intros on Netflix (2 weeks ago)
 - [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu) - switch git user easily (2 weeks ago)
 - [go-void/.github](https://github.com/go-void/.github) -  (2 weeks ago)
 - [olithissen/dgf-monitoring](https://github.com/olithissen/dgf-monitoring) -  (2 months ago)
@@ -12,7 +12,7 @@
 #### 🧪 Latest PRs
 
 
-- [Update target class to fix autoskip](https://github.com/jonashellmann/skip-netflix-intro/pull/2) on [jonashellmann/skip-netflix-intro](https://github.com/jonashellmann/skip-netflix-intro) (1 week ago)
+- [Update target class to fix autoskip](https://github.com/jonashellmann/skip-netflix-intro/pull/2) on [jonashellmann/skip-netflix-intro](https://github.com/jonashellmann/skip-netflix-intro) (2 weeks ago)
 - [Update button class to fix auto skip](https://github.com/jonashellmann/skip-netflix-intro/pull/1) on [jonashellmann/skip-netflix-intro](https://github.com/jonashellmann/skip-netflix-intro) (2 weeks ago)
 - [Fix issue when trying to modify user profiles](https://github.com/matsuyoshi30/gitsu/pull/20) on [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu) (3 weeks ago)
 - [Add multi output Telegraf config](https://github.com/olithissen/dgf-monitoring/pull/2) on [olithissen/dgf-monitoring](https://github.com/olithissen/dgf-monitoring) (2 months ago)
