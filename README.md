@@ -5,7 +5,7 @@
 
 - [jonashellmann/skip-netflix-intro](https://github.com/jonashellmann/skip-netflix-intro) - Firefox addon to automatically skip intros on Netflix (3 weeks ago)
 - [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu) - switch git user easily (3 weeks ago)
-- [go-void/.github](https://github.com/go-void/.github) -  (3 weeks ago)
+- [go-void/.github](https://github.com/go-void/.github) -  (4 weeks ago)
 - [olithissen/dgf-monitoring](https://github.com/olithissen/dgf-monitoring) -  (2 months ago)
 - [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe) - This Vue plugin makes it easy to integrate the YouTube Iframe API into your Vue 3 app. (7 months ago)
 
