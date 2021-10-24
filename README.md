@@ -4,10 +4,10 @@
 
 
 - [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in Go (today)
+- [ixd-2021/diagrams](https://github.com/ixd-2021/diagrams) -  (4 days ago)
+- [ixd-2021/docs](https://github.com/ixd-2021/docs) -  (4 days ago)
 - [jonashellmann/skip-netflix-intro](https://github.com/jonashellmann/skip-netflix-intro) - Firefox addon to automatically skip intros on Netflix (4 weeks ago)
 - [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu) - switch git user easily (1 month ago)
-- [go-void/.github](https://github.com/go-void/.github) -  (1 month ago)
-- [olithissen/dgf-monitoring](https://github.com/olithissen/dgf-monitoring) -  (2 months ago)
 
 #### 🧪 Latest PRs
 
