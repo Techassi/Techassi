@@ -3,10 +3,10 @@
 #### 🔥 Check out what I'm working on
 
 
-- [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in Go (today)
-- [Techassi/hfu-ixd](https://github.com/Techassi/hfu-ixd) - Slide source files about &#34;Dark Patterns&#34; (1 day ago)
-- [ixd-2021/diagrams](https://github.com/ixd-2021/diagrams) - Different draw.io diagrams (6 days ago)
-- [ixd-2021/docs](https://github.com/ixd-2021/docs) - Documentation (6 days ago)
+- [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in Go (1 day ago)
+- [Techassi/hfu-ixd](https://github.com/Techassi/hfu-ixd) - Slide source files about &#34;Dark Patterns&#34; (2 days ago)
+- [ixd-2021/diagrams](https://github.com/ixd-2021/diagrams) - Different draw.io diagrams (1 week ago)
+- [ixd-2021/docs](https://github.com/ixd-2021/docs) - Documentation (1 week ago)
 - [jonashellmann/skip-netflix-intro](https://github.com/jonashellmann/skip-netflix-intro) - Firefox addon to automatically skip intros on Netflix (1 month ago)
 
 #### 🧪 Latest PRs
