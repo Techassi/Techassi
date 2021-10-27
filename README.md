@@ -3,7 +3,7 @@
 #### 🔥 Check out what I'm working on
 
 
-- [ixd-2021/docs](https://github.com/ixd-2021/docs) - Documentation (today)
+- [ixd-2021/docs](https://github.com/ixd-2021/docs) - Dokumentation zur PnP Anwendung (today)
 - [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in Go (1 day ago)
 - [Techassi/hfu-ixd](https://github.com/Techassi/hfu-ixd) - Slide source files about &#34;Dark Patterns&#34; (2 days ago)
 - [ixd-2021/diagrams](https://github.com/ixd-2021/diagrams) - Different draw.io diagrams (1 week ago)
