@@ -3,10 +3,10 @@
 #### 🔥 Check out what I'm working on
 
 
-- [ixd-2021/web](https://github.com/ixd-2021/web) - Prototype of the web-based frontend (1 day ago)
-- [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in Go (1 day ago)
+- [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in Go (today)
+- [ixd-2021/web](https://github.com/ixd-2021/web) - Prototype of the web-based frontend (2 days ago)
 - [ixd-2021/docs](https://github.com/ixd-2021/docs) - Documentation of our PnP application (1 week ago)
-- [ixd-2021/diagrams](https://github.com/ixd-2021/diagrams) - Different draw.io diagrams (2 weeks ago)
+- [ixd-2021/diagrams](https://github.com/ixd-2021/diagrams) - Different draw.io diagrams (3 weeks ago)
 - [jonashellmann/skip-netflix-intro](https://github.com/jonashellmann/skip-netflix-intro) - Firefox addon to automatically skip intros on Netflix (1 month ago)
 
 #### 🧪 Latest PRs
