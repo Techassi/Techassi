@@ -3,9 +3,9 @@
 #### 🔥 Check out what I'm working on
 
 
+- [ixd-2021/web](https://github.com/ixd-2021/web) - Prototype of the web-based frontend (today)
 - [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in Go (2 days ago)
 - [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe) - Integrate the YouTube Iframe player into your Vue 3 app. (2 days ago)
-- [ixd-2021/web](https://github.com/ixd-2021/web) - Prototype of the web-based frontend (1 week ago)
 - [ixd-2021/docs](https://github.com/ixd-2021/docs) - Documentation of our PnP application (2 weeks ago)
 - [ixd-2021/diagrams](https://github.com/ixd-2021/diagrams) - Different draw.io diagrams (4 weeks ago)
 
