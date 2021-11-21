@@ -3,7 +3,7 @@
 #### 🔥 Check out what I'm working on
 
 
-- [go-void/void](https://github.com/go-void/void) - Void is a DNS level adblocker written in Go (1 day ago)
+- [go-void/void](https://github.com/go-void/void) - Void is a DNS level adblocker written in Go (today)
 - [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in Go (1 day ago)
 - [ixd-2021/web](https://github.com/ixd-2021/web) - Prototype of the web-based frontend (3 days ago)
 - [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe) - Integrate the YouTube Iframe player into your Vue 3 app. (5 days ago)
