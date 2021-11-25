@@ -12,11 +12,11 @@
 #### 🧪 Latest PRs
 
 
+- [Add home view](https://github.com/ixd-2021/web/pull/3) on [ixd-2021/web](https://github.com/ixd-2021/web) (today)
 - [Login view](https://github.com/ixd-2021/web/pull/1) on [ixd-2021/web](https://github.com/ixd-2021/web) (1 week ago)
 - [Add new events](https://github.com/Techassi/vue-youtube-iframe/pull/8) on [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe) (1 week ago)
 - [Switch to Vite toolchain](https://github.com/Techassi/vue-youtube-iframe/pull/7) on [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe) (2 weeks ago)
 - [Update target class to fix autoskip](https://github.com/jonashellmann/skip-netflix-intro/pull/2) on [jonashellmann/skip-netflix-intro](https://github.com/jonashellmann/skip-netflix-intro) (2 months ago)
-- [Update button class to fix auto skip](https://github.com/jonashellmann/skip-netflix-intro/pull/1) on [jonashellmann/skip-netflix-intro](https://github.com/jonashellmann/skip-netflix-intro) (2 months ago)
 
 #### 📫 How to reach me
 
