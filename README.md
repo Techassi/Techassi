@@ -4,10 +4,10 @@
 
 
 - [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in Go (today)
+- [ixd-2021/docs](https://github.com/ixd-2021/docs) - Documentation of our PnP application (today)
 - [ixd-2021/web](https://github.com/ixd-2021/web) - Prototype of the web-based frontend (4 days ago)
 - [go-void/void](https://github.com/go-void/void) - Void is a DNS level ad blocker written in Go (1 week ago)
 - [go-void/web](https://github.com/go-void/web) - Web based frontend of Void powered by Vue, TypeScript and WindiCSS (1 week ago)
-- [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe) - Integrate the YouTube Iframe player into your Vue 3 app. (2 weeks ago)
 
 #### 🧪 Latest PRs
 
