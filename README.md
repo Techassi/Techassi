@@ -12,11 +12,11 @@
 #### 🧪 Latest PRs
 
 
+- [WIP Text decoration adjustments to be compatible with Tailwind v3](https://github.com/windicss/windicss/pull/601) on [windicss/windicss](https://github.com/windicss/windicss) (today)
+- [Add .aspect-{ratio} classes](https://github.com/windicss/windicss/pull/600) on [windicss/windicss](https://github.com/windicss/windicss) (today)
 - [Scene overview](https://github.com/ixd-2021/web/pull/5) on [ixd-2021/web](https://github.com/ixd-2021/web) (1 week ago)
 - [Add home view](https://github.com/ixd-2021/web/pull/3) on [ixd-2021/web](https://github.com/ixd-2021/web) (2 weeks ago)
 - [Login view](https://github.com/ixd-2021/web/pull/1) on [ixd-2021/web](https://github.com/ixd-2021/web) (3 weeks ago)
-- [Add new events](https://github.com/Techassi/vue-youtube-iframe/pull/8) on [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe) (4 weeks ago)
-- [Switch to Vite toolchain](https://github.com/Techassi/vue-youtube-iframe/pull/7) on [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe) (1 month ago)
 
 #### 📫 How to reach me
 
