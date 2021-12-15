@@ -12,11 +12,11 @@
 #### 🧪 Latest PRs
 
 
+- [feat: add &#39;.columns-x&#39; utility and friends classes](https://github.com/windicss/windicss/pull/606) on [windicss/windicss](https://github.com/windicss/windicss) (today)
 - [Add &#39;scroll-snap-align: none&#39; utility class](https://github.com/windicss/windicss/pull/603) on [windicss/windicss](https://github.com/windicss/windicss) (1 day ago)
-- [WIP Text decoration adjustments to be compatible with Tailwind v3](https://github.com/windicss/windicss/pull/601) on [windicss/windicss](https://github.com/windicss/windicss) (1 day ago)
+- [feat: add &#39;.decoration-x&#39; utility classes](https://github.com/windicss/windicss/pull/601) on [windicss/windicss](https://github.com/windicss/windicss) (1 day ago)
 - [feat: add .aspect-{ratio} classes](https://github.com/windicss/windicss/pull/600) on [windicss/windicss](https://github.com/windicss/windicss) (1 day ago)
 - [Scene overview](https://github.com/ixd-2021/web/pull/5) on [ixd-2021/web](https://github.com/ixd-2021/web) (1 week ago)
-- [Add home view](https://github.com/ixd-2021/web/pull/3) on [ixd-2021/web](https://github.com/ixd-2021/web) (2 weeks ago)
 
 #### 📫 How to reach me
 
