@@ -3,7 +3,7 @@
 #### 🔥 Check out what I'm working on
 
 
-- [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework. (1 day ago)
+- [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework. (today)
 - [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in Go (1 day ago)
 - [Techassi/hfu-admepr-slides](https://github.com/Techassi/hfu-admepr-slides) - Slides for Advances in Media Production (6 days ago)
 - [ixd-2021/docs](https://github.com/ixd-2021/docs) - Documentation of our PnP application (1 week ago)
