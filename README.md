@@ -12,11 +12,11 @@
 #### 🧪 Latest PRs
 
 
+- [feat: add ability to use opacity values for box-shadows](https://github.com/windicss/windicss/pull/614) on [windicss/windicss](https://github.com/windicss/windicss) (today)
 - [feat: add &#39;portrait:&#39; and &#39;landscape:&#39; variants](https://github.com/windicss/windicss/pull/612) on [windicss/windicss](https://github.com/windicss/windicss) (1 day ago)
 - [feat: add &#39;.basis-x&#39; utility classes](https://github.com/windicss/windicss/pull/611) on [windicss/windicss](https://github.com/windicss/windicss) (1 day ago)
 - [feat: add &#39;.touch-x&#39; and &#39;.scroll-x&#39; utility classes](https://github.com/windicss/windicss/pull/609) on [windicss/windicss](https://github.com/windicss/windicss) (2 days ago)
 - [feat: add &#39;.will-change-x&#39; utility class](https://github.com/windicss/windicss/pull/608) on [windicss/windicss](https://github.com/windicss/windicss) (2 days ago)
-- [feat: add &#39;.columns-x&#39; utility and friends classes](https://github.com/windicss/windicss/pull/606) on [windicss/windicss](https://github.com/windicss/windicss) (2 days ago)
 
 #### 📫 How to reach me
 
