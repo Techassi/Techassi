@@ -12,6 +12,10 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
+#### 🗨 Some of my talks
+
+- [[de] Lustiges Implementieren von RFCs](https://github.com/Techassi/talks/tree/main/2021-12-20)
+
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/Techxassi
