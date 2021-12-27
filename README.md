@@ -12,11 +12,11 @@
 #### 🧪 Latest PRs
 
 
+- [chore: add  &#39;inherit&#39; color to color functions](https://github.com/windicss/windicss/pull/632) on [windicss/windicss](https://github.com/windicss/windicss) (today)
+- [feat: re-add ability to customize box shadow size](https://github.com/windicss/windicss/pull/631) on [windicss/windicss](https://github.com/windicss/windicss) (today)
 - [feat: add ability to use opacity values for box-shadows](https://github.com/windicss/windicss/pull/614) on [windicss/windicss](https://github.com/windicss/windicss) (1 week ago)
 - [feat: add &#39;portrait:&#39; and &#39;landscape:&#39; variants](https://github.com/windicss/windicss/pull/612) on [windicss/windicss](https://github.com/windicss/windicss) (1 week ago)
 - [feat: add &#39;.basis-x&#39; utility classes](https://github.com/windicss/windicss/pull/611) on [windicss/windicss](https://github.com/windicss/windicss) (1 week ago)
-- [feat: add &#39;.touch-x&#39; and &#39;.scroll-x&#39; utility classes](https://github.com/windicss/windicss/pull/609) on [windicss/windicss](https://github.com/windicss/windicss) (1 week ago)
-- [feat: add &#39;.will-change-x&#39; utility class](https://github.com/windicss/windicss/pull/608) on [windicss/windicss](https://github.com/windicss/windicss) (1 week ago)
 
 #### 🗨 Some of my talks
 
