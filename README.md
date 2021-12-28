@@ -12,11 +12,11 @@
 #### 🧪 Latest PRs
 
 
+- [feat: add &#39;file:&#39; variant](https://github.com/windicss/windicss/pull/636) on [windicss/windicss](https://github.com/windicss/windicss) (today)
+- [feat: add &#39;marker:&#39; variant](https://github.com/windicss/windicss/pull/635) on [windicss/windicss](https://github.com/windicss/windicss) (today)
 - [docs: bring docs up-to-date with v3.4.0](https://github.com/windicss/docs/pull/147) on [windicss/docs](https://github.com/windicss/docs) (1 day ago)
 - [chore: add  &#39;inherit&#39; color to color functions](https://github.com/windicss/windicss/pull/632) on [windicss/windicss](https://github.com/windicss/windicss) (1 day ago)
 - [feat: re-add ability to customize box shadow size](https://github.com/windicss/windicss/pull/631) on [windicss/windicss](https://github.com/windicss/windicss) (1 day ago)
-- [feat: add ability to use opacity values for box-shadows](https://github.com/windicss/windicss/pull/614) on [windicss/windicss](https://github.com/windicss/windicss) (1 week ago)
-- [feat: add &#39;portrait:&#39; and &#39;landscape:&#39; variants](https://github.com/windicss/windicss/pull/612) on [windicss/windicss](https://github.com/windicss/windicss) (1 week ago)
 
 #### 🗨 Some of my talks
 
