@@ -3,7 +3,7 @@
 #### 🔥 Check out what I'm working on
 
 
-- [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework. (2 days ago)
+- [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework. (today)
 - [windicss/docs](https://github.com/windicss/docs) - 📖 Documentation for Windi CSS (2 days ago)
 - [Techassi/talks](https://github.com/Techassi/talks) - Some of my talks (1 week ago)
 - [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in Go (2 weeks ago)
