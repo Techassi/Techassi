@@ -20,8 +20,8 @@
 
 #### 🗨 Some of my talks
 
-- [[de] Lustiges Implementieren von RFCs](https://github.com/Techassi/talks/tree/main/2021-12-20)
 - [[de] dotm](https://github.com/Techassi/talks/tree/main/2021-06-24)
+- [[de] Lustiges Implementieren von RFCs](https://github.com/Techassi/talks/tree/main/2021-12-20)
 
 #### 📫 How to reach me
 
