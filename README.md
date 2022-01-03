@@ -1,13 +1,15 @@
 ### Hey there 👋
 
+#### 📃 Personal blog coming soon: [https://techassi.dev](https://techassi.dev) - [Source](https://github.com/Techassi/blog)
+
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/talks](https://github.com/Techassi/talks) - Some of my talks (1 day ago)
+- [Techassi/blog](https://github.com/Techassi/blog) - Source code of my personal blog (today)
 - [windicss/docs](https://github.com/windicss/docs) - 📖 Documentation for Windi CSS (1 day ago)
+- [Techassi/talks](https://github.com/Techassi/talks) - Some of my talks (1 day ago)
 - [Techassi/eslint-config](https://github.com/Techassi/eslint-config) - Personal ESLint config (4 days ago)
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework. (5 days ago)
-- [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in Go (2 weeks ago)
 
 #### 🧪 Latest PRs
 
