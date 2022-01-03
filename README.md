@@ -1,7 +1,5 @@
 ### Hey there 👋
 
-#### 📃 Personal blog coming soon: [https://techassi.dev](https://techassi.dev) - [Source](https://github.com/Techassi/blog)
-
 #### 🔥 Check out what I'm working on
 
 
@@ -29,3 +27,5 @@
 
 - Twitter: https://twitter.com/Techxassi
 - E-Mail: git@techassi.dev
+
+#### 📃 Personal blog coming soon. [Source](https://github.com/Techassi/blog)
