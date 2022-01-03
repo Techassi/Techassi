@@ -1,5 +1,7 @@
 ### Hey there 👋
 
+#### 📃 Personal blog coming soon: [https://techassi.dev](https://techassi.dev) - [Source](https://github.com/Techassi/blog)
+
 #### 🔥 Check out what I'm working on
 
 {{range recentContributions 5}}
