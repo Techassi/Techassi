@@ -3,16 +3,16 @@
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/eslint-config](https://github.com/Techassi/eslint-config) - Personal ESLint config (1 day ago)
-- [Techassi/blog](https://github.com/Techassi/blog) - Source code of my personal blog (3 days ago)
-- [Techassi/talks](https://github.com/Techassi/talks) - Some of my talks (4 days ago)
-- [windicss/docs](https://github.com/windicss/docs) - 📖 Documentation for Windi CSS (4 days ago)
+- [Techassi/eslint-config](https://github.com/Techassi/eslint-config) - Personal ESLint config (2 days ago)
+- [Techassi/blog](https://github.com/Techassi/blog) - Source code of my personal blog (4 days ago)
+- [Techassi/talks](https://github.com/Techassi/talks) - Some of my talks (5 days ago)
+- [windicss/docs](https://github.com/windicss/docs) - 📖 Documentation for Windi CSS (5 days ago)
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework. (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [docs: restructure and bring up-to-date with v3.4.2](https://github.com/windicss/docs/pull/149) on [windicss/docs](https://github.com/windicss/docs) (4 days ago)
+- [docs: restructure and bring up-to-date with v3.4.2](https://github.com/windicss/docs/pull/149) on [windicss/docs](https://github.com/windicss/docs) (5 days ago)
 - [feat: add &#39;.accent-x&#39; utility class](https://github.com/windicss/windicss/pull/637) on [windicss/windicss](https://github.com/windicss/windicss) (1 week ago)
 - [feat: add &#39;file:&#39; variant](https://github.com/windicss/windicss/pull/636) on [windicss/windicss](https://github.com/windicss/windicss) (1 week ago)
 - [feat: add &#39;marker:&#39; variant](https://github.com/windicss/windicss/pull/635) on [windicss/windicss](https://github.com/windicss/windicss) (1 week ago)
