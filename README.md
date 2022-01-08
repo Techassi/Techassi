@@ -3,11 +3,11 @@
 #### 🔥 Check out what I'm working on
 
 
+- [Techassi/paper-template](https://github.com/Techassi/paper-template) - This is my personal LaTeX template for writing papers (today)
 - [Techassi/eslint-config](https://github.com/Techassi/eslint-config) - Personal ESLint config (3 days ago)
 - [Techassi/blog](https://github.com/Techassi/blog) - Source code of my personal blog (5 days ago)
 - [Techassi/talks](https://github.com/Techassi/talks) - Some of my talks (6 days ago)
 - [windicss/docs](https://github.com/windicss/docs) - 📖 Documentation for Windi CSS (6 days ago)
-- [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework. (1 week ago)
 
 #### 🧪 Latest PRs
 
