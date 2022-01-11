@@ -3,9 +3,9 @@
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/thesis-template](https://github.com/Techassi/thesis-template) - This is my personal LaTeX template for writing theses (1 day ago)
-- [Techassi/paper-template](https://github.com/Techassi/paper-template) - This is my personal LaTeX template for writing papers (2 days ago)
-- [Techassi/eslint-config](https://github.com/Techassi/eslint-config) - Personal ESLint config (5 days ago)
+- [Techassi/thesis-template](https://github.com/Techassi/thesis-template) - This is my personal LaTeX template for writing theses (2 days ago)
+- [Techassi/paper-template](https://github.com/Techassi/paper-template) - This is my personal LaTeX template for writing papers (3 days ago)
+- [Techassi/eslint-config](https://github.com/Techassi/eslint-config) - Personal ESLint config (6 days ago)
 - [Techassi/blog](https://github.com/Techassi/blog) - Source code of my personal blog (1 week ago)
 - [windicss/docs](https://github.com/windicss/docs) - 📖 Documentation for Windi CSS (1 week ago)
 
@@ -13,9 +13,9 @@
 
 
 - [docs: restructure and bring up-to-date with v3.4.2](https://github.com/windicss/docs/pull/149) on [windicss/docs](https://github.com/windicss/docs) (1 week ago)
-- [feat: add &#39;.accent-x&#39; utility class](https://github.com/windicss/windicss/pull/637) on [windicss/windicss](https://github.com/windicss/windicss) (1 week ago)
-- [feat: add &#39;file:&#39; variant](https://github.com/windicss/windicss/pull/636) on [windicss/windicss](https://github.com/windicss/windicss) (1 week ago)
-- [feat: add &#39;marker:&#39; variant](https://github.com/windicss/windicss/pull/635) on [windicss/windicss](https://github.com/windicss/windicss) (1 week ago)
+- [feat: add &#39;.accent-x&#39; utility class](https://github.com/windicss/windicss/pull/637) on [windicss/windicss](https://github.com/windicss/windicss) (2 weeks ago)
+- [feat: add &#39;file:&#39; variant](https://github.com/windicss/windicss/pull/636) on [windicss/windicss](https://github.com/windicss/windicss) (2 weeks ago)
+- [feat: add &#39;marker:&#39; variant](https://github.com/windicss/windicss/pull/635) on [windicss/windicss](https://github.com/windicss/windicss) (2 weeks ago)
 - [docs: bring docs up-to-date with v3.4.0](https://github.com/windicss/docs/pull/147) on [windicss/docs](https://github.com/windicss/docs) (2 weeks ago)
 
 #### 🗨 Some of my talks
