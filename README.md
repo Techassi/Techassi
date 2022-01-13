@@ -3,8 +3,8 @@
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/thesis-template](https://github.com/Techassi/thesis-template) - This is my personal LaTeX template for writing theses (3 days ago)
-- [Techassi/paper-template](https://github.com/Techassi/paper-template) - This is my personal LaTeX template for writing papers (4 days ago)
+- [Techassi/thesis-template](https://github.com/Techassi/thesis-template) - This is my personal LaTeX template for writing theses (4 days ago)
+- [Techassi/paper-template](https://github.com/Techassi/paper-template) - This is my personal LaTeX template for writing papers (5 days ago)
 - [Techassi/eslint-config](https://github.com/Techassi/eslint-config) - Personal ESLint config (1 week ago)
 - [Techassi/blog](https://github.com/Techassi/blog) - Source code of my personal blog (1 week ago)
 - [windicss/docs](https://github.com/windicss/docs) - 📖 Documentation for Windi CSS (1 week ago)
