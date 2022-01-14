@@ -3,7 +3,7 @@
 #### 🔥 Check out what I'm working on
 
 
-- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (1 day ago)
+- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (today)
 - [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in Go (1 day ago)
 - [Techassi/thesis-template](https://github.com/Techassi/thesis-template) - This is my personal LaTeX template for writing theses (5 days ago)
 - [Techassi/paper-template](https://github.com/Techassi/paper-template) - This is my personal LaTeX template for writing papers (6 days ago)
