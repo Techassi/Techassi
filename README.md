@@ -3,10 +3,10 @@
 #### 🔥 Check out what I'm working on
 
 
+- [Techassi/thesis-template](https://github.com/Techassi/thesis-template) - This is my personal LaTeX template for writing theses (today)
 - [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in pure Go (today)
+- [Techassi/paper-template](https://github.com/Techassi/paper-template) - This is my personal LaTeX template for writing papers (today)
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (2 days ago)
-- [Techassi/thesis-template](https://github.com/Techassi/thesis-template) - This is my personal LaTeX template for writing theses (1 week ago)
-- [Techassi/paper-template](https://github.com/Techassi/paper-template) - This is my personal LaTeX template for writing papers (1 week ago)
 - [Techassi/eslint-config](https://github.com/Techassi/eslint-config) - Personal ESLint config (1 week ago)
 
 #### 🧪 Latest PRs
