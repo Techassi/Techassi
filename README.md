@@ -4,19 +4,19 @@
 
 
 - [Techassi/paper-template](https://github.com/Techassi/paper-template) - This is my personal LaTeX template for writing papers (today)
-- [Techassi/hfu-wiar](https://github.com/Techassi/hfu-wiar) - Final submission of Wissenschaftliches Arbeiten WiSe 21/22 (today)
-- [Techassi/thesis-template](https://github.com/Techassi/thesis-template) - This is my personal LaTeX template for writing theses (1 day ago)
-- [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in pure Go (1 day ago)
-- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (3 days ago)
+- [Techassi/hfu-wiar](https://github.com/Techassi/hfu-wiar) - Final submission of Wissenschaftliches Arbeiten WiSe 21/22 (1 day ago)
+- [Techassi/thesis-template](https://github.com/Techassi/thesis-template) - This is my personal LaTeX template for writing theses (2 days ago)
+- [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in pure Go (2 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (4 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [zap: Add ParseAtomicLevel func](https://github.com/uber-go/zap/pull/1048) on [uber-go/zap](https://github.com/uber-go/zap) (4 days ago)
-- [zapcore: Add ParseLevel](https://github.com/uber-go/zap/pull/1047) on [uber-go/zap](https://github.com/uber-go/zap) (4 days ago)
+- [zap: Add ParseAtomicLevel func](https://github.com/uber-go/zap/pull/1048) on [uber-go/zap](https://github.com/uber-go/zap) (5 days ago)
+- [zapcore: Add ParseLevel](https://github.com/uber-go/zap/pull/1047) on [uber-go/zap](https://github.com/uber-go/zap) (5 days ago)
 - [docs: restructure and bring up-to-date with v3.4.2](https://github.com/windicss/docs/pull/149) on [windicss/docs](https://github.com/windicss/docs) (2 weeks ago)
-- [feat: add &#39;.accent-x&#39; utility class](https://github.com/windicss/windicss/pull/637) on [windicss/windicss](https://github.com/windicss/windicss) (2 weeks ago)
-- [feat: add &#39;file:&#39; variant](https://github.com/windicss/windicss/pull/636) on [windicss/windicss](https://github.com/windicss/windicss) (2 weeks ago)
+- [feat: add &#39;.accent-x&#39; utility class](https://github.com/windicss/windicss/pull/637) on [windicss/windicss](https://github.com/windicss/windicss) (3 weeks ago)
+- [feat: add &#39;file:&#39; variant](https://github.com/windicss/windicss/pull/636) on [windicss/windicss](https://github.com/windicss/windicss) (3 weeks ago)
 
 #### 🗨 Some of my talks
 
