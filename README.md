@@ -3,11 +3,11 @@
 #### 🔥 Check out what I'm working on
 
 
+- [ixd-2021/web](https://github.com/ixd-2021/web) - Prototype of the web-based frontend (today)
 - [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in pure Go (today)
 - [Techassi/paper-template](https://github.com/Techassi/paper-template) - This is my personal LaTeX template for writing papers (2 days ago)
 - [Techassi/thesis-template](https://github.com/Techassi/thesis-template) - This is my personal LaTeX template for writing theses (4 days ago)
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (6 days ago)
-- [Techassi/eslint-config](https://github.com/Techassi/eslint-config) - Personal ESLint config (2 weeks ago)
 
 #### 🧪 Latest PRs
 
