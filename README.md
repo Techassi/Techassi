@@ -3,7 +3,7 @@
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/hfu-admepr-slides](https://github.com/Techassi/hfu-admepr-slides) - Slides for Advances in Media Production (1 day ago)
+- [Techassi/hfu-admepr-slides](https://github.com/Techassi/hfu-admepr-slides) - Slides for Advances in Media Production (today)
 - [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe) - Integrate the YouTube Iframe player into your Vue 3 app. (2 days ago)
 - [Techassi/eslint-config](https://github.com/Techassi/eslint-config) - Personal ESLint config (3 days ago)
 - [ixd-2021/web](https://github.com/ixd-2021/web) - Prototype of a web-based PnP app (6 days ago)
