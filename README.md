@@ -3,9 +3,9 @@
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/hfu-admepr-slides](https://github.com/Techassi/hfu-admepr-slides) - Slides for Advances in Media Production (3 days ago)
-- [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe) - Integrate the YouTube Iframe player into your Vue 3 app. (5 days ago)
-- [Techassi/eslint-config](https://github.com/Techassi/eslint-config) - Personal ESLint config (6 days ago)
+- [Techassi/hfu-admepr-slides](https://github.com/Techassi/hfu-admepr-slides) - Slides for Advances in Media Production (4 days ago)
+- [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe) - Integrate the YouTube Iframe player into your Vue 3 app. (6 days ago)
+- [Techassi/eslint-config](https://github.com/Techassi/eslint-config) - Personal ESLint config (1 week ago)
 - [ixd-2021/web](https://github.com/ixd-2021/web) - Prototype of a web-based PnP app (1 week ago)
 - [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in pure Go (1 week ago)
 
