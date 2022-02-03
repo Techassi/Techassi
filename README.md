@@ -22,11 +22,8 @@
 
 
 - [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.4.3) ([v3.4.3](https://github.com/windicss/windicss/releases/tag/v3.4.3)) - Next generation utility-first CSS framework. (2 weeks ago)
-
 - [uber-go/zap](https://github.com/uber-go/zap/releases/tag/v1.20.0) ([v1.20.0](https://github.com/uber-go/zap/releases/tag/v1.20.0)) - Blazing fast, structured, leveled logging in Go. (1 month ago)
-
 - [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu/releases/tag/v1.0.0) ([v1.0.0](https://github.com/matsuyoshi30/gitsu/releases/tag/v1.0.0)) - switch git user easily (7 months ago)
-
 
 #### 📫 How to reach me
 
