@@ -3,19 +3,19 @@
 #### 🔥 Check out what I'm working on
 
 
-- [ixd-2021/web](https://github.com/ixd-2021/web) - Prototype of a web-based PnP app (today)
-- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (1 day ago)
-- [Techassi/hfu-admepr-slides](https://github.com/Techassi/hfu-admepr-slides) - Slides for Advances in Media Production (6 days ago)
+- [windicss/docs](https://github.com/windicss/docs) - 📖 Documentation for Windi CSS (1 day ago)
+- [ixd-2021/web](https://github.com/ixd-2021/web) - Prototype of a web-based PnP app (1 day ago)
+- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (2 days ago)
+- [Techassi/hfu-admepr-slides](https://github.com/Techassi/hfu-admepr-slides) - Slides for Advances in Media Production (1 week ago)
 - [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe) - Integrate the YouTube Iframe player into your Vue 3 app. (1 week ago)
-- [Techassi/eslint-config](https://github.com/Techassi/eslint-config) - Personal ESLint config (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: adjust top navigation and sidebar](https://github.com/windicss/docs/pull/154) on [windicss/docs](https://github.com/windicss/docs) (today)
+- [chore: adjust top navigation and sidebar](https://github.com/windicss/docs/pull/154) on [windicss/docs](https://github.com/windicss/docs) (1 day ago)
 - [Adjust eslint config](https://github.com/Techassi/vue-youtube-iframe/pull/9) on [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe) (1 week ago)
-- [zap: Add ParseAtomicLevel func](https://github.com/uber-go/zap/pull/1048) on [uber-go/zap](https://github.com/uber-go/zap) (2 weeks ago)
-- [zapcore: Add ParseLevel](https://github.com/uber-go/zap/pull/1047) on [uber-go/zap](https://github.com/uber-go/zap) (2 weeks ago)
+- [zap: Add ParseAtomicLevel func](https://github.com/uber-go/zap/pull/1048) on [uber-go/zap](https://github.com/uber-go/zap) (3 weeks ago)
+- [zapcore: Add ParseLevel](https://github.com/uber-go/zap/pull/1047) on [uber-go/zap](https://github.com/uber-go/zap) (3 weeks ago)
 - [docs: restructure and bring up-to-date with v3.4.2](https://github.com/windicss/docs/pull/149) on [windicss/docs](https://github.com/windicss/docs) (1 month ago)
 
 #### 🗨 Some of my talks
