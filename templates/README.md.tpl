@@ -12,10 +12,13 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 🗨 Some of my talks
+#### 📦 Latest releases I've contributed to
 
-- [[de] dotm (Dot File Manager)](https://github.com/Techassi/talks/tree/main/2021-06-24)
-- [[de] Lustiges Implementieren von RFCs](https://github.com/Techassi/talks/tree/main/2021-12-20)
+{{range recentReleases 3}}
+- [{{.Name}}]({{.LastRelease.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}})) - {{.Description}} ({{humanize .LastRelease.PublishedAt}})
+{{else}}
+Currently no new releases. Check back later!
+{{- end}}
 
 #### 📫 How to reach me
 
