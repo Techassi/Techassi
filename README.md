@@ -3,11 +3,11 @@
 #### 🔥 Check out what I'm working on
 
 
-- [windicss/docs](https://github.com/windicss/docs) - 📖 Documentation for Windi CSS (1 day ago)
+- [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework. (today)
+- [Techassi/hfu-admepr-slides](https://github.com/Techassi/hfu-admepr-slides) - Slides for Advances in Media Production (today)
 - [ixd-2021/web](https://github.com/ixd-2021/web) - Prototype of a web-based PnP app (1 day ago)
+- [windicss/docs](https://github.com/windicss/docs) - 📖 Documentation for Windi CSS (1 day ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (2 days ago)
-- [Techassi/hfu-admepr-slides](https://github.com/Techassi/hfu-admepr-slides) - Slides for Advances in Media Production (1 week ago)
-- [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe) - Integrate the YouTube Iframe player into your Vue 3 app. (1 week ago)
 
 #### 🧪 Latest PRs
 
