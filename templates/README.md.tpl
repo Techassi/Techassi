@@ -16,8 +16,6 @@
 
 {{range recentReleases 3}}
 - [{{.Name}}]({{.LastRelease.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}})) - {{.Description}} ({{humanize .LastRelease.PublishedAt}})
-{{else}}
-Currently no new releases. Check back later!
 {{- end}}
 
 #### 📫 How to reach me
