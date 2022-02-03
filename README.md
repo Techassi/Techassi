@@ -18,10 +18,15 @@
 - [zapcore: Add ParseLevel](https://github.com/uber-go/zap/pull/1047) on [uber-go/zap](https://github.com/uber-go/zap) (3 weeks ago)
 - [docs: restructure and bring up-to-date with v3.4.2](https://github.com/windicss/docs/pull/149) on [windicss/docs](https://github.com/windicss/docs) (1 month ago)
 
-#### 🗨 Some of my talks
+#### 📦 Latest releases I've contributed to
 
-- [[de] dotm (Dot File Manager)](https://github.com/Techassi/talks/tree/main/2021-06-24)
-- [[de] Lustiges Implementieren von RFCs](https://github.com/Techassi/talks/tree/main/2021-12-20)
+
+- [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.4.3) ([v3.4.3](https://github.com/windicss/windicss/releases/tag/v3.4.3)) - Next generation utility-first CSS framework. (2 weeks ago)
+
+- [uber-go/zap](https://github.com/uber-go/zap/releases/tag/v1.20.0) ([v1.20.0](https://github.com/uber-go/zap/releases/tag/v1.20.0)) - Blazing fast, structured, leveled logging in Go. (1 month ago)
+
+- [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu/releases/tag/v1.0.0) ([v1.0.0](https://github.com/matsuyoshi30/gitsu/releases/tag/v1.0.0)) - switch git user easily (7 months ago)
+
 
 #### 📫 How to reach me
 
