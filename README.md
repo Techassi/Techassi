@@ -3,11 +3,11 @@
 #### 🔥 Check out what I'm working on
 
 
-- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (1 day ago)
+- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (today)
 - [Techassi/eslint-config](https://github.com/Techassi/eslint-config) - Personal ESLint config (2 days ago)
-- [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework. (6 days ago)
 - [Techassi/hfu-admepr-slides](https://github.com/Techassi/hfu-admepr-slides) - Slides for Advances in Media Production (6 days ago)
-- [ixd-2021/web](https://github.com/ixd-2021/web) - Prototype of a web-based PnP app (1 week ago)
+- [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework. (6 days ago)
+- [windicss/docs](https://github.com/windicss/docs) - 📖 Documentation for Windi CSS (1 week ago)
 
 #### 🧪 Latest PRs
 
