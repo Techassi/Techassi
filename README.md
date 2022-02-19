@@ -3,8 +3,8 @@
 #### 🔥 Check out what I'm working on
 
 
-- [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (1 day ago)
-- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (1 day ago)
+- [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (2 days ago)
+- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (2 days ago)
 - [Techassi/eslint-config](https://github.com/Techassi/eslint-config) - Personal ESLint config (1 week ago)
 - [Techassi/hfu-admepr-slides](https://github.com/Techassi/hfu-admepr-slides) - Slides for Advances in Media Production (2 weeks ago)
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework. (2 weeks ago)
@@ -13,7 +13,7 @@
 
 
 - [chore: adjust top navigation and sidebar](https://github.com/windicss/docs/pull/154) on [windicss/docs](https://github.com/windicss/docs) (2 weeks ago)
-- [Adjust eslint config](https://github.com/Techassi/vue-youtube-iframe/pull/9) on [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe) (3 weeks ago)
+- [Adjust eslint config](https://github.com/Techassi/vue-youtube-iframe/pull/9) on [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe) (4 weeks ago)
 - [zap: Add ParseAtomicLevel func](https://github.com/uber-go/zap/pull/1048) on [uber-go/zap](https://github.com/uber-go/zap) (1 month ago)
 - [zapcore: Add ParseLevel](https://github.com/uber-go/zap/pull/1047) on [uber-go/zap](https://github.com/uber-go/zap) (1 month ago)
 - [docs: restructure and bring up-to-date with v3.4.2](https://github.com/windicss/docs/pull/149) on [windicss/docs](https://github.com/windicss/docs) (1 month ago)
