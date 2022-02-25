@@ -3,8 +3,8 @@
 #### 🔥 Check out what I'm working on
 
 
-- [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (1 day ago)
-- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (1 day ago)
+- [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (2 days ago)
+- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (2 days ago)
 - [Techassi/eslint-config](https://github.com/Techassi/eslint-config) - Personal ESLint config (2 weeks ago)
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework. (3 weeks ago)
 - [Techassi/hfu-admepr-slides](https://github.com/Techassi/hfu-admepr-slides) - Slides for Advances in Media Production (3 weeks ago)
@@ -21,7 +21,7 @@
 #### 📦 Latest releases I've contributed to
 
 
-- [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.4.4) ([v3.4.4](https://github.com/windicss/windicss/releases/tag/v3.4.4)) - Next generation utility-first CSS framework. (2 days ago)
+- [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.4.4) ([v3.4.4](https://github.com/windicss/windicss/releases/tag/v3.4.4)) - Next generation utility-first CSS framework. (3 days ago)
 - [uber-go/zap](https://github.com/uber-go/zap/releases/tag/v1.21.0) ([v1.21.0](https://github.com/uber-go/zap/releases/tag/v1.21.0)) - Blazing fast, structured, leveled logging in Go. (2 weeks ago)
 - [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu/releases/tag/v1.0.0) ([v1.0.0](https://github.com/matsuyoshi30/gitsu/releases/tag/v1.0.0)) - switch git user easily (7 months ago)
 
