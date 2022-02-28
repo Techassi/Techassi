@@ -3,11 +3,11 @@
 #### 🔥 Check out what I'm working on
 
 
+- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal blog (today)
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework. (2 days ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (5 days ago)
 - [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (5 days ago)
 - [Techassi/eslint-config](https://github.com/Techassi/eslint-config) - Personal ESLint config (3 weeks ago)
-- [Techassi/hfu-admepr-slides](https://github.com/Techassi/hfu-admepr-slides) - Slides for Advances in Media Production (3 weeks ago)
 
 #### 🧪 Latest PRs
 
@@ -30,4 +30,4 @@
 - Twitter: https://twitter.com/Techxassi
 - E-Mail: git@techassi.dev
 
-#### 📃 Personal blog coming soon. [Source](https://github.com/Techassi/blog)
+#### 📃 Personal blog coming soon. [Source](https://github.com/Techassi/page)
