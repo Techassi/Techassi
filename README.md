@@ -21,7 +21,7 @@
 #### 📦 Latest releases I've contributed to
 
 
-- [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.5.0) ([v3.5.0](https://github.com/windicss/windicss/releases/tag/v3.5.0)) - Next generation utility-first CSS framework. (5 days ago)
+- [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.5.1) ([v3.5.1](https://github.com/windicss/windicss/releases/tag/v3.5.1)) - Next generation utility-first CSS framework. (today)
 - [uber-go/zap](https://github.com/uber-go/zap/releases/tag/v1.21.0) ([v1.21.0](https://github.com/uber-go/zap/releases/tag/v1.21.0)) - Blazing fast, structured, leveled logging in Go. (3 weeks ago)
 - [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu/releases/tag/v1.0.0) ([v1.0.0](https://github.com/matsuyoshi30/gitsu/releases/tag/v1.0.0)) - switch git user easily (7 months ago)
 
