@@ -25,6 +25,11 @@
 - [uber-go/zap](https://github.com/uber-go/zap/releases/tag/v1.21.0) ([v1.21.0](https://github.com/uber-go/zap/releases/tag/v1.21.0)) - Blazing fast, structured, leveled logging in Go. (3 weeks ago)
 - [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu/releases/tag/v1.0.0) ([v1.0.0](https://github.com/matsuyoshi30/gitsu/releases/tag/v1.0.0)) - switch git user easily (8 months ago)
 
+#### 📜 My recent blog posts
+
+
+- [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (1 week ago)
+
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/Techxassi
