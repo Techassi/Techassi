@@ -18,6 +18,12 @@
 - [{{.Name}}]({{.LastRelease.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}})) - {{.Description}} ({{humanize .LastRelease.PublishedAt}})
 {{- end}}
 
+#### 📜 My recent blog posts
+
+{{range rss "https://techassi.dev/posts/index.xml" 3}}
+- [{{.Title}}](https://techassi.dev{{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/Techxassi
