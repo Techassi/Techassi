@@ -23,4 +23,4 @@
 - Twitter: https://twitter.com/Techxassi
 - E-Mail: git@techassi.dev
 
-#### 📃 Personal blog coming soon. [Source](https://github.com/Techassi/page)
+#### 📃 Personal blog is now LIVE. [Link](https://techassi.dev/posts/) [Source](https://github.com/Techassi/page)
