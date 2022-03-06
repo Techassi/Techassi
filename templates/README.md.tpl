@@ -18,7 +18,7 @@
 - [{{.Name}}]({{.LastRelease.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}})) - {{.Description}} ({{humanize .LastRelease.PublishedAt}})
 {{- end}}
 
-#### 📜 My recent blog posts
+#### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
 {{range rss "https://techassi.dev/posts/index.xml" 3}}
 - [{{.Title}}](https://techassi.dev{{.URL}}) ({{humanize .PublishedAt}})
@@ -28,5 +28,3 @@
 
 - Twitter: https://twitter.com/Techxassi
 - E-Mail: git@techassi.dev
-
-#### 📃 Personal blog is now LIVE. [Link](https://techassi.dev/posts/) [Source](https://github.com/Techassi/page)
