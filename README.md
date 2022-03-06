@@ -3,7 +3,7 @@
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page (1 day ago)
+- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page (today)
 - [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in pure Go (2 days ago)
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework. (1 week ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (1 week ago)
@@ -30,4 +30,4 @@
 - Twitter: https://twitter.com/Techxassi
 - E-Mail: git@techassi.dev
 
-#### 📃 Personal blog coming soon. [Source](https://github.com/Techassi/page)
+#### 📃 Personal blog is now LIVE. [Link](https://techassi.dev/posts/) [Source](https://github.com/Techassi/page)
