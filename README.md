@@ -3,7 +3,7 @@
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page (today)
+- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page (1 day ago)
 - [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in pure Go (1 week ago)
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework. (2 weeks ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (3 weeks ago)
@@ -21,14 +21,14 @@
 #### 📦 Latest releases I've contributed to
 
 
-- [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.5.1) ([v3.5.1](https://github.com/windicss/windicss/releases/tag/v3.5.1)) - Next generation utility-first CSS framework. (1 week ago)
+- [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.5.1) ([v3.5.1](https://github.com/windicss/windicss/releases/tag/v3.5.1)) - Next generation utility-first CSS framework. (2 weeks ago)
 - [uber-go/zap](https://github.com/uber-go/zap/releases/tag/v1.21.0) ([v1.21.0](https://github.com/uber-go/zap/releases/tag/v1.21.0)) - Blazing fast, structured, leveled logging in Go. (1 month ago)
 - [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu/releases/tag/v1.0.0) ([v1.0.0](https://github.com/matsuyoshi30/gitsu/releases/tag/v1.0.0)) - switch git user easily (8 months ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
 
-- [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (2 weeks ago)
+- [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (3 weeks ago)
 
 #### 📫 How to reach me
 
