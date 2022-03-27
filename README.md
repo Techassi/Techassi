@@ -3,11 +3,11 @@
 #### 🔥 Check out what I'm working on
 
 
+- [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) - Image processing and computer graphics (today)
 - [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page (1 day ago)
 - [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in pure Go (4 days ago)
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework. (4 weeks ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (1 month ago)
-- [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (1 month ago)
 
 #### 🧪 Latest PRs
 
