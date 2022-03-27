@@ -3,8 +3,8 @@
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page (today)
-- [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in pure Go (3 days ago)
+- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page (1 day ago)
+- [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in pure Go (4 days ago)
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework. (4 weeks ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (1 month ago)
 - [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (1 month ago)
@@ -28,7 +28,7 @@
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
 
-- [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (4 days ago)
+- [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (5 days ago)
 
 #### 📫 How to reach me
 
