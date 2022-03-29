@@ -3,10 +3,10 @@
 #### 🔥 Check out what I'm working on
 
 
-- [windicss/docs-cn](https://github.com/windicss/docs-cn) - 📖 Chinese documentation for Windi CSS (today)
-- [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) - Image processing and computer graphics (1 day ago)
-- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page (2 days ago)
-- [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in pure Go (5 days ago)
+- [windicss/docs-cn](https://github.com/windicss/docs-cn) - 📖 Chinese documentation for Windi CSS (1 day ago)
+- [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) - Image processing and computer graphics (2 days ago)
+- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page (3 days ago)
+- [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in pure Go (6 days ago)
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework. (1 month ago)
 
 #### 🧪 Latest PRs
@@ -28,7 +28,7 @@
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
 
-- [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (6 days ago)
+- [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (1 week ago)
 
 #### 📫 How to reach me
 
