@@ -3,9 +3,9 @@
 #### 🔥 Check out what I'm working on
 
 
-- [windicss/docs-cn](https://github.com/windicss/docs-cn) - 📖 Chinese documentation for Windi CSS (1 day ago)
-- [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) - Image processing and computer graphics (3 days ago)
-- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page (4 days ago)
+- [windicss/docs-cn](https://github.com/windicss/docs-cn) - 📖 Chinese documentation for Windi CSS (2 days ago)
+- [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) - Image processing and computer graphics (4 days ago)
+- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page (5 days ago)
 - [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in pure Go (1 week ago)
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework. (1 month ago)
 
@@ -21,7 +21,7 @@
 #### 📦 Latest releases I've contributed to
 
 
-- [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.5.1) ([v3.5.1](https://github.com/windicss/windicss/releases/tag/v3.5.1)) - Next generation utility-first CSS framework. (3 weeks ago)
+- [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.5.1) ([v3.5.1](https://github.com/windicss/windicss/releases/tag/v3.5.1)) - Next generation utility-first CSS framework. (4 weeks ago)
 - [uber-go/zap](https://github.com/uber-go/zap/releases/tag/v1.21.0) ([v1.21.0](https://github.com/uber-go/zap/releases/tag/v1.21.0)) - Blazing fast, structured, leveled logging in Go. (1 month ago)
 - [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu/releases/tag/v1.0.0) ([v1.0.0](https://github.com/matsuyoshi30/gitsu/releases/tag/v1.0.0)) - switch git user easily (8 months ago)
 
