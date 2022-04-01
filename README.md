@@ -12,11 +12,11 @@
 #### 🧪 Latest PRs
 
 
-- [feat: add ONT, OPNsense, Pi-hole, SIP, UniFi, VLAN (MERGED)](https://github.com/antfu/case-police/pull/88) on [antfu/case-police](https://github.com/antfu/case-police) (today)
-- [feat: align outline utility classes (MERGED)](https://github.com/windicss/windicss/pull/716) on [windicss/windicss](https://github.com/windicss/windicss) (1 month ago)
-- [chore: adjust top navigation and sidebar (MERGED)](https://github.com/windicss/docs/pull/154) on [windicss/docs](https://github.com/windicss/docs) (1 month ago)
-- [Adjust eslint config (MERGED)](https://github.com/Techassi/vue-youtube-iframe/pull/9) on [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe) (2 months ago)
-- [zap: Add ParseAtomicLevel func (MERGED)](https://github.com/uber-go/zap/pull/1048) on [uber-go/zap](https://github.com/uber-go/zap) (2 months ago)
+- [feat: add ONT, OPNsense, Pi-hole, SIP, UniFi, VLAN](https://github.com/antfu/case-police/pull/88) on [antfu/case-police](https://github.com/antfu/case-police) (today)
+- [feat: align outline utility classes](https://github.com/windicss/windicss/pull/716) on [windicss/windicss](https://github.com/windicss/windicss) (1 month ago)
+- [chore: adjust top navigation and sidebar](https://github.com/windicss/docs/pull/154) on [windicss/docs](https://github.com/windicss/docs) (1 month ago)
+- [Adjust eslint config](https://github.com/Techassi/vue-youtube-iframe/pull/9) on [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe) (2 months ago)
+- [zap: Add ParseAtomicLevel func](https://github.com/uber-go/zap/pull/1048) on [uber-go/zap](https://github.com/uber-go/zap) (2 months ago)
 
 #### 📦 Latest releases I've contributed to
 
