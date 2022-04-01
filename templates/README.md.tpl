@@ -15,7 +15,7 @@
 #### 📦 Latest releases I've contributed to
 
 {{range recentReleases 3}}
-- [{{.Name}}]({{.LastRelease.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}})) - {{.Description}} ({{humanize .LastRelease.PublishedAt}})
+- [{{.Name}} ({{.State}})]({{.LastRelease.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}})) - {{.Description}} ({{humanize .LastRelease.PublishedAt}})
 {{- end}}
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
