@@ -9,7 +9,7 @@
 #### 🧪 Latest PRs
 
 {{range recentPullRequests 5}}
-- [{{.Title}} ({{.State}})]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 #### 📦 Latest releases I've contributed to
