@@ -9,13 +9,13 @@
 #### 🧪 Latest PRs
 
 {{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+- [{{.Title}} ({{.State}})]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 #### 📦 Latest releases I've contributed to
 
 {{range recentReleases 3}}
-- [{{.Name}} ({{.State}})]({{.LastRelease.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}})) - {{.Description}} ({{humanize .LastRelease.PublishedAt}})
+- [{{.Name}}]({{.LastRelease.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}})) - {{.Description}} ({{humanize .LastRelease.PublishedAt}})
 {{- end}}
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
