@@ -3,9 +3,9 @@
 #### 🔥 Check out what I'm working on
 
 
+- [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) - Image processing and computer graphics (today)
 - [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE! (1 day ago)
 - [windicss/docs-cn](https://github.com/windicss/docs-cn) - 📖 Chinese documentation for Windi CSS (4 days ago)
-- [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) - Image processing and computer graphics (6 days ago)
 - [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page (1 week ago)
 - [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in pure Go (1 week ago)
 
