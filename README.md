@@ -4,7 +4,7 @@
 
 
 - [windicss/docs-cn](https://github.com/windicss/docs-cn) - 📖 Chinese documentation for Windi CSS (today)
-- [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) - Image processing and computer graphics (1 day ago)
+- [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) - Image processing and computer graphics (today)
 - [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE! (3 days ago)
 - [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page (1 week ago)
 - [go-void/portal](https://github.com/go-void/portal) - Portal is a domain name server written in pure Go (1 week ago)
@@ -21,7 +21,7 @@
 #### 📦 Latest releases I've contributed to
 
 
-- [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.4.0) ([v0.4.0](https://github.com/antfu/case-police/releases/tag/v0.4.0)) - 🚨 Make the case correct, PLEASE! (2 days ago)
+- [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.1) ([v0.5.1](https://github.com/antfu/case-police/releases/tag/v0.5.1)) - 🚨 Make the case correct, PLEASE! (today)
 - [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.5.1) ([v3.5.1](https://github.com/windicss/windicss/releases/tag/v3.5.1)) - Next generation utility-first CSS framework. (1 month ago)
 - [uber-go/zap](https://github.com/uber-go/zap/releases/tag/v1.21.0) ([v1.21.0](https://github.com/uber-go/zap/releases/tag/v1.21.0)) - Blazing fast, structured, leveled logging in Go. (1 month ago)
 
