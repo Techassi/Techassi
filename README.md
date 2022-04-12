@@ -21,14 +21,14 @@
 #### 📦 Latest releases I've contributed to
 
 
-- [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.3) ([v0.5.3](https://github.com/antfu/case-police/releases/tag/v0.5.3)) - 🚨 Make the case correct, PLEASE! (3 days ago)
+- [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.3) ([v0.5.3](https://github.com/antfu/case-police/releases/tag/v0.5.3)) - 🚨 Make the case correct, PLEASE! (4 days ago)
 - [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.5.1) ([v3.5.1](https://github.com/windicss/windicss/releases/tag/v3.5.1)) - Next generation utility-first CSS framework. (1 month ago)
 - [uber-go/zap](https://github.com/uber-go/zap/releases/tag/v1.21.0) ([v1.21.0](https://github.com/uber-go/zap/releases/tag/v1.21.0)) - Blazing fast, structured, leveled logging in Go. (2 months ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
 
-- [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (2 weeks ago)
+- [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (3 weeks ago)
 
 #### 📫 How to reach me
 
