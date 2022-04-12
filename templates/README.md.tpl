@@ -1,5 +1,8 @@
 ### Hey there 👋
 
+I'm a student, freelancer and tinkerer working on a few small projects and trying new things in Go,
+Vue and TypeScript. Currently in the process of learning a new language: Rust 🦀
+
 #### 🔥 Check out what I'm working on
 
 {{range recentContributions 5}}
