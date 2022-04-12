@@ -1,9 +1,12 @@
 ### Hey there 👋
 
+I'm a student, freelancer and tinkerer working on a few small projects and trying new things in Go,
+Vue and TypeScript. Currently in the process of learning a new language: Rust 🦀
+
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) - Image processing and computer graphics (1 week ago)
+- [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) - Image processing and computer graphics (today)
 - [windicss/docs-cn](https://github.com/windicss/docs-cn) - 📖 Chinese documentation for Windi CSS (1 week ago)
 - [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE! (1 week ago)
 - [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page (2 weeks ago)
