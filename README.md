@@ -6,7 +6,7 @@ Vue and TypeScript. Currently in the process of learning a new language: Rust �
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) - Image processing and computer graphics (6 days ago)
+- [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) - Image processing and computer graphics (1 week ago)
 - [windicss/docs-cn](https://github.com/windicss/docs-cn) - 📖 Chinese documentation for Windi CSS (2 weeks ago)
 - [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE! (2 weeks ago)
 - [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page (3 weeks ago)
@@ -31,7 +31,7 @@ Vue and TypeScript. Currently in the process of learning a new language: Rust �
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
 
-- [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (3 weeks ago)
+- [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (4 weeks ago)
 
 #### 📫 How to reach me
 
