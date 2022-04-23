@@ -6,11 +6,11 @@ Vue and TypeScript. Currently in the process of learning a new language: Rust �
 #### 🔥 Check out what I'm working on
 
 
-- [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (1 day ago)
-- [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) - Image processing and computer graphics (2 days ago)
+- [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (2 days ago)
+- [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) - Image processing and computer graphics (3 days ago)
 - [windicss/docs-cn](https://github.com/windicss/docs-cn) - 📖 Chinese documentation for Windi CSS (2 weeks ago)
 - [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE! (3 weeks ago)
-- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page (3 weeks ago)
+- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page (4 weeks ago)
 
 #### 🧪 Latest PRs
 
