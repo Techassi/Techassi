@@ -6,8 +6,8 @@ Vue and TypeScript. Currently in the process of learning a new language: Rust �
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) - Image processing and computer graphics (2 days ago)
-- [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (6 days ago)
+- [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) - Image processing and computer graphics (3 days ago)
+- [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (1 week ago)
 - [windicss/docs-cn](https://github.com/windicss/docs-cn) - 📖 Chinese documentation for Windi CSS (3 weeks ago)
 - [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE! (3 weeks ago)
 - [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page (1 month ago)
@@ -15,7 +15,7 @@ Vue and TypeScript. Currently in the process of learning a new language: Rust �
 #### 🧪 Latest PRs
 
 
-- [Merge mug height calculation](https://github.com/Techassi/hfu-imgcomp/pull/1) on [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) (2 days ago)
+- [Merge mug height calculation](https://github.com/Techassi/hfu-imgcomp/pull/1) on [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) (3 days ago)
 - [Restructure: Fixes #11](https://github.com/muesli/markscribe/pull/42) on [muesli/markscribe](https://github.com/muesli/markscribe) (3 weeks ago)
 - [feat: add ONT, OPNsense, Pi-hole, SIP, UniFi, VLAN](https://github.com/antfu/case-police/pull/88) on [antfu/case-police](https://github.com/antfu/case-police) (3 weeks ago)
 - [feat: align outline utility classes](https://github.com/windicss/windicss/pull/716) on [windicss/windicss](https://github.com/windicss/windicss) (2 months ago)
