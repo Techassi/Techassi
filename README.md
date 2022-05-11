@@ -24,7 +24,7 @@ Vue and TypeScript. Currently in the process of learning a new language: Rust �
 #### 📦 Latest releases I've contributed to
 
 
-- [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.5.2) ([v3.5.2](https://github.com/windicss/windicss/releases/tag/v3.5.2)) - Next generation utility-first CSS framework. (2 days ago)
+- [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.5.3) ([v3.5.3](https://github.com/windicss/windicss/releases/tag/v3.5.3)) - Next generation utility-first CSS framework. (today)
 - [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.3) ([v0.5.3](https://github.com/antfu/case-police/releases/tag/v0.5.3)) - 🚨 Make the case correct, PLEASE! (1 month ago)
 - [uber-go/zap](https://github.com/uber-go/zap/releases/tag/v1.21.0) ([v1.21.0](https://github.com/uber-go/zap/releases/tag/v1.21.0)) - Blazing fast, structured, leveled logging in Go. (3 months ago)
 
