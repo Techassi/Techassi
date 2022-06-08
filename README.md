@@ -7,7 +7,7 @@ Pixelflut ingress server (which maybe will be on GitHub at some point).
 #### 🔥 Check out what I'm working on
 
 
-- [hfu-graph-ml/interface](https://github.com/hfu-graph-ml/interface) - Projection and tracker based graph manipulation interface (6 days ago)
+- [hfu-graph-ml/interface](https://github.com/hfu-graph-ml/interface) - Projection and tracker based graph manipulation interface (1 week ago)
 - [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) - Image processing and computer graphics SOSE 22 (2 weeks ago)
 - [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (1 month ago)
 - [windicss/docs-cn](https://github.com/windicss/docs-cn) - 📖 Chinese documentation for Windi CSS (2 months ago)
@@ -25,7 +25,7 @@ Pixelflut ingress server (which maybe will be on GitHub at some point).
 #### 📦 Latest releases I've contributed to
 
 
-- [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.5.4) ([v3.5.4](https://github.com/windicss/windicss/releases/tag/v3.5.4)) - Next generation utility-first CSS framework. (2 weeks ago)
+- [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.5.4) ([v3.5.4](https://github.com/windicss/windicss/releases/tag/v3.5.4)) - Next generation utility-first CSS framework. (3 weeks ago)
 - [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.3) ([v0.5.3](https://github.com/antfu/case-police/releases/tag/v0.5.3)) - 🚨 Make the case correct, PLEASE! (2 months ago)
 - [uber-go/zap](https://github.com/uber-go/zap/releases/tag/v1.21.0) ([v1.21.0](https://github.com/uber-go/zap/releases/tag/v1.21.0)) - Blazing fast, structured, leveled logging in Go. (4 months ago)
 
