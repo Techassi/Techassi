@@ -7,11 +7,11 @@ Pixelflut ingress server (which maybe will be on GitHub at some point).
 #### 🔥 Check out what I'm working on
 
 
-- [hfu-graph-ml/interface](https://github.com/hfu-graph-ml/interface) - Projection and tracker based graph manipulation interface (today)
+- [hfu-graph-ml/interface](https://github.com/hfu-graph-ml/interface) - Projection and tracker based graph manipulation interface (1 day ago)
 - [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) - Image processing and computer graphics SOSE 22 (2 weeks ago)
 - [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (1 month ago)
+- [hfu-graph-ml/backend](https://github.com/hfu-graph-ml/backend) - Backend to manipulate graph data (1 month ago)
 - [windicss/docs-cn](https://github.com/windicss/docs-cn) - 📖 Chinese documentation for Windi CSS (2 months ago)
-- [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE! (2 months ago)
 
 #### 🧪 Latest PRs
 
