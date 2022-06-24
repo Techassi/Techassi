@@ -25,7 +25,7 @@ Pixelflut ingress server (which maybe will be on GitHub at some point).
 #### 📦 Latest releases I've contributed to
 
 
-- [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.5.4) ([v3.5.4](https://github.com/windicss/windicss/releases/tag/v3.5.4)) - Next generation utility-first CSS framework. (1 month ago)
+- [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.5.5) ([v3.5.5](https://github.com/windicss/windicss/releases/tag/v3.5.5)) - Next generation utility-first CSS framework. (today)
 - [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.3) ([v0.5.3](https://github.com/antfu/case-police/releases/tag/v0.5.3)) - 🚨 Make the case correct, PLEASE! (2 months ago)
 - [uber-go/zap](https://github.com/uber-go/zap/releases/tag/v1.21.0) ([v1.21.0](https://github.com/uber-go/zap/releases/tag/v1.21.0)) - Blazing fast, structured, leveled logging in Go. (4 months ago)
 
