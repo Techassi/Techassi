@@ -7,7 +7,7 @@ Pixelflut ingress server (which maybe will be on GitHub at some point).
 #### 🔥 Check out what I'm working on
 
 
-- [hfu-graph-ml/interface](https://github.com/hfu-graph-ml/interface) - Projection and tracker based graph manipulation interface (1 day ago)
+- [hfu-graph-ml/interface](https://github.com/hfu-graph-ml/interface) - Projection and tracker based graph manipulation interface (today)
 - [TheVigil/CardGame](https://github.com/TheVigil/CardGame) - HFU Game (4 days ago)
 - [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) - Image processing and computer graphics SOSE 22 (1 week ago)
 - [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (2 months ago)
