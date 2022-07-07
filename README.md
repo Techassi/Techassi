@@ -7,9 +7,9 @@ Pixelflut ingress server (which maybe will be on GitHub at some point).
 #### 🔥 Check out what I'm working on
 
 
+- [TheVigil/CardGame](https://github.com/TheVigil/CardGame) - HFU Game (today)
 - [Techassi/rudo](https://github.com/Techassi/rudo) - A simple Markdown based note taking app for the CLI written in Rust. (1 day ago)
 - [hfu-graph-ml/interface](https://github.com/hfu-graph-ml/interface) - Projection and tracker based graph manipulation interface (1 week ago)
-- [TheVigil/CardGame](https://github.com/TheVigil/CardGame) - HFU Game (2 weeks ago)
 - [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) - Image processing and computer graphics SOSE 22 (2 weeks ago)
 - [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (2 months ago)
 
