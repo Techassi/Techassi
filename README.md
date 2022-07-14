@@ -7,11 +7,11 @@ Pixelflut ingress server (which maybe will be on GitHub at some point).
 #### 🔥 Check out what I'm working on
 
 
-- [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (today)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (today)
-- [TheVigil/CardGame](https://github.com/TheVigil/CardGame) - HFU Game (6 days ago)
+- [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (1 day ago)
+- [TheVigil/CardGame](https://github.com/TheVigil/CardGame) - HFU Game (1 week ago)
 - [Techassi/rudo](https://github.com/Techassi/rudo) - A simple Markdown based note taking app for the CLI written in Rust. (1 week ago)
-- [hfu-graph-ml/interface](https://github.com/hfu-graph-ml/interface) - Projection and tracker based graph manipulation interface (1 week ago)
+- [hfu-graph-ml/interface](https://github.com/hfu-graph-ml/interface) - Projection and tracker based graph manipulation interface (2 weeks ago)
 
 #### 🧪 Latest PRs
 
@@ -25,8 +25,8 @@ Pixelflut ingress server (which maybe will be on GitHub at some point).
 #### 📦 Latest releases I've contributed to
 
 
-- [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.6) ([v0.5.6](https://github.com/antfu/case-police/releases/tag/v0.5.6)) - 🚨 Make the case correct, PLEASE! (5 days ago)
-- [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.5.6) ([v3.5.6](https://github.com/windicss/windicss/releases/tag/v3.5.6)) - Next generation utility-first CSS framework. (1 week ago)
+- [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.6) ([v0.5.6](https://github.com/antfu/case-police/releases/tag/v0.5.6)) - 🚨 Make the case correct, PLEASE! (6 days ago)
+- [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.5.6) ([v3.5.6](https://github.com/windicss/windicss/releases/tag/v3.5.6)) - Next generation utility-first CSS framework. (2 weeks ago)
 - [uber-go/zap](https://github.com/uber-go/zap/releases/tag/v1.21.0) ([v1.21.0](https://github.com/uber-go/zap/releases/tag/v1.21.0)) - Blazing fast, structured, leveled logging in Go. (5 months ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
