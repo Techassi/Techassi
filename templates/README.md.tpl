@@ -2,7 +2,7 @@
 
 I'm a student, freelancer and tinkerer working on a few small projects and trying new things in Go,
 Vue and TypeScript. Currently in the process of learning Rust 🦀 and building a scalable high-performance
-Pixelflut ingress server (which maybe will be on GitHub at some point).
+Pixelflut ingress [server](https://github.com/pixelflut-rs/pfctl).
 
 #### 🔥 Check out what I'm working on
 
