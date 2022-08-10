@@ -25,7 +25,7 @@ Pixelflut ingress [server](https://github.com/pixelflut-rs/pfctl).
 #### 📦 Latest releases I've contributed to
 
 
-- [uber-go/zap](https://github.com/uber-go/zap/releases/tag/v1.22.0) ([v1.22.0](https://github.com/uber-go/zap/releases/tag/v1.22.0)) - Blazing fast, structured, leveled logging in Go. (1 day ago)
+- [uber-go/zap](https://github.com/uber-go/zap/releases/tag/v1.22.0) ([v1.22.0](https://github.com/uber-go/zap/releases/tag/v1.22.0)) - Blazing fast, structured, leveled logging in Go. (2 days ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v.0.0.1) ([v.0.0.1](https://github.com/vue-youtube/vue-youtube/releases/tag/v.0.0.1)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (3 weeks ago)
 - [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.6) ([v0.5.6](https://github.com/antfu/case-police/releases/tag/v0.5.6)) - 🚨 Make the case correct, PLEASE! (1 month ago)
 
