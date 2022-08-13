@@ -7,11 +7,11 @@ Pixelflut ingress [server](https://github.com/pixelflut-rs/pfctl).
 #### 🔥 Check out what I'm working on
 
 
+- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (today)
 - [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe) - Integrate the YouTube Iframe player into your Vue 3 app. (1 week ago)
 - [hfu-graph-ml/backend](https://github.com/hfu-graph-ml/backend) - Backend to manipulate graph data (3 weeks ago)
 - [hfu-graph-ml/interface](https://github.com/hfu-graph-ml/interface) - Projection and tracker based graph manipulation interface (3 weeks ago)
 - [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (1 month ago)
-- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (1 month ago)
 
 #### 🧪 Latest PRs
 
@@ -25,9 +25,9 @@ Pixelflut ingress [server](https://github.com/pixelflut-rs/pfctl).
 #### 📦 Latest releases I've contributed to
 
 
+- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.2) ([v0.0.2](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.2)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (today)
 - [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.7) ([v0.5.7](https://github.com/antfu/case-police/releases/tag/v0.5.7)) - 🚨 Make the case correct, PLEASE! (2 days ago)
 - [uber-go/zap](https://github.com/uber-go/zap/releases/tag/v1.22.0) ([v1.22.0](https://github.com/uber-go/zap/releases/tag/v1.22.0)) - Blazing fast, structured, leveled logging in Go. (5 days ago)
-- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v.0.0.1) ([v.0.0.1](https://github.com/vue-youtube/vue-youtube/releases/tag/v.0.0.1)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
