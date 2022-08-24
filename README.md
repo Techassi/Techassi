@@ -2,12 +2,12 @@
 
 I'm a student, freelancer and tinkerer working on a few small projects and trying new things in Go,
 Vue and TypeScript. Currently in the process of learning Rust 🦀 and building a scalable high-performance
-Pixelflut ingress [server](https://github.com/pixelflut-rs/pfctl).
+Pixelflut ingress [server](https://github.com/pixelflut-rs/pfctl) and a DNS [server](https://github.com/portal-rs/portal).
 
 #### 🔥 Check out what I'm working on
 
 
-- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a domain name server written in pure (today)
+- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust. Partial Go impl: portal-go (today)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (4 days ago)
 - [Techassi/eslint-config](https://github.com/Techassi/eslint-config) - Personal ESLint config (1 week ago)
 - [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe) - Integrate the YouTube Iframe player into your Vue 3 app. (3 weeks ago)
