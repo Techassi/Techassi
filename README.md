@@ -25,8 +25,8 @@ Pixelflut ingress [server](https://github.com/pixelflut-rs/pfctl) and a DNS [ser
 #### 📦 Latest releases I've contributed to
 
 
+- [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.10) ([v0.5.10](https://github.com/antfu/case-police/releases/tag/v0.5.10)) - 🚨 Make the case correct, PLEASE! (today)
 - [uber-go/zap](https://github.com/uber-go/zap/releases/tag/v1.23.0) ([v1.23.0](https://github.com/uber-go/zap/releases/tag/v1.23.0)) - Blazing fast, structured, leveled logging in Go. (1 week ago)
-- [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.9) ([v0.5.9](https://github.com/antfu/case-police/releases/tag/v0.5.9)) - 🚨 Make the case correct, PLEASE! (2 weeks ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.2) ([v0.0.2](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.2)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (3 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
