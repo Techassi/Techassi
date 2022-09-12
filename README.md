@@ -7,11 +7,11 @@ Pixelflut ingress [server](https://github.com/pixelflut-rs/pfctl) and a DNS [ser
 #### 🔥 Check out what I'm working on
 
 
-- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (4 days ago)
+- [Techassi/vinyld](https://github.com/Techassi/vinyld) - A vinyl database written in Rust. Includes a terminal and web app. (1 day ago)
+- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (5 days ago)
 - [Techassi/zusammenstromen-challenge](https://github.com/Techassi/zusammenstromen-challenge) -  (1 week ago)
 - [Techassi/macro-fest](https://github.com/Techassi/macro-fest) - Various TypeScript types implemented in Rust with macros. (2 weeks ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (3 weeks ago)
-- [Techassi/eslint-config](https://github.com/Techassi/eslint-config) - Personal ESLint config (4 weeks ago)
 
 #### 🧪 Latest PRs
 
@@ -27,7 +27,7 @@ Pixelflut ingress [server](https://github.com/pixelflut-rs/pfctl) and a DNS [ser
 
 - [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.10) ([v0.5.10](https://github.com/antfu/case-police/releases/tag/v0.5.10)) - 🚨 Make the case correct, PLEASE! (1 week ago)
 - [uber-go/zap](https://github.com/uber-go/zap/releases/tag/v1.23.0) ([v1.23.0](https://github.com/uber-go/zap/releases/tag/v1.23.0)) - Blazing fast, structured, leveled logging in Go. (2 weeks ago)
-- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.2) ([v0.0.2](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.2)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (4 weeks ago)
+- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.2) ([v0.0.2](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.2)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
