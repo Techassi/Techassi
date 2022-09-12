@@ -1,8 +1,11 @@
 ### Hey there 👋
 
 I'm a student, freelancer and tinkerer working on a few small projects and trying new things in Go,
-Vue and TypeScript. Currently in the process of learning Rust 🦀 and building a scalable high-performance
-Pixelflut ingress [server](https://github.com/pixelflut-rs/pfctl) and a DNS [server](https://github.com/portal-rs/portal).
+Vue and TypeScript. Currently building a scalable high-performance 
+[Pixelflut Server](https://github.com/pixelflut-rs/pfctl),
+a [DNS Server](https://github.com/portal-rs/portal) with DNS blocking features. Also I'm writing my
+master thesis about [vulcan-rs](https://github.com/vulcan-rs), a home router/firewall written in
+pure Rust 🦀.
 
 #### 🔥 Check out what I'm working on
 
