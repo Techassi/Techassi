@@ -10,8 +10,8 @@ pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (2 days ago)
-- [Techassi/vinyld](https://github.com/Techassi/vinyld) - A vinyl database written in Rust. Includes a terminal and web app. (3 days ago)
+- [Techassi/vinyld](https://github.com/Techassi/vinyld) - A vinyl database written in Rust. Includes a terminal and web app. (today)
+- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (3 days ago)
 - [Techassi/zusammenstromen-challenge](https://github.com/Techassi/zusammenstromen-challenge) -  (2 weeks ago)
 - [Techassi/macro-fest](https://github.com/Techassi/macro-fest) - Various TypeScript types implemented in Rust with macros. (2 weeks ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (3 weeks ago)
