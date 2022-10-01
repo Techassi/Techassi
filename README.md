@@ -10,7 +10,7 @@ pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/binum](https://github.com/Techassi/binum) - A small library to work with binary (network) data in Rust (2 days ago)
+- [Techassi/binum](https://github.com/Techassi/binum) - A small library to work with binary (network) data in Rust (3 days ago)
 - [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (1 week ago)
 - [Techassi/vinyld](https://github.com/Techassi/vinyld) - A vinyl database written in Rust. Includes a terminal and web app. (1 week ago)
 - [Techassi/macro-fest](https://github.com/Techassi/macro-fest) - Various TypeScript types implemented in Rust with macros. (1 month ago)
@@ -28,7 +28,7 @@ pure Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.10) ([v0.5.10](https://github.com/antfu/case-police/releases/tag/v0.5.10)) - 🚨 Make the case correct, PLEASE! (3 weeks ago)
+- [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.10) ([v0.5.10](https://github.com/antfu/case-police/releases/tag/v0.5.10)) - 🚨 Make the case correct, PLEASE! (4 weeks ago)
 - [uber-go/zap](https://github.com/uber-go/zap/releases/tag/v1.23.0) ([v1.23.0](https://github.com/uber-go/zap/releases/tag/v1.23.0)) - Blazing fast, structured, leveled logging in Go. (1 month ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.2) ([v0.0.2](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.2)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (1 month ago)
 
