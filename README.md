@@ -10,7 +10,7 @@ pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/binum](https://github.com/Techassi/binum) - A small library to work with binary (network) data in Rust (2 days ago)
+- [Techassi/binum](https://github.com/Techassi/binum) - A small library to work with binary (network) data in Rust (3 days ago)
 - [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (2 weeks ago)
 - [Techassi/vinyld](https://github.com/Techassi/vinyld) - A vinyl database written in Rust. Includes a terminal and web app. (2 weeks ago)
 - [Techassi/macro-fest](https://github.com/Techassi/macro-fest) - Various TypeScript types implemented in Rust with macros. (1 month ago)
