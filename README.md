@@ -11,9 +11,9 @@ pure Rust 🦀.
 
 
 - [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (today)
-- [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (3 days ago)
-- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (3 days ago)
-- [Techassi/binum](https://github.com/Techassi/binum) - A small library to work with binary (network) data in Rust (6 days ago)
+- [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (4 days ago)
+- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (4 days ago)
+- [Techassi/binum](https://github.com/Techassi/binum) - A small library to work with binary (network) data in Rust (1 week ago)
 - [Techassi/vinyld](https://github.com/Techassi/vinyld) - A vinyl database written in Rust. Includes a terminal and web app. (1 month ago)
 
 #### 🧪 Latest PRs
@@ -23,12 +23,12 @@ pure Rust 🦀.
 - [Change &#39;depth_diff_max&#39; to &#39;max_depth_diff&#39;](https://github.com/isl-org/Open3D/pull/5219) on [isl-org/Open3D](https://github.com/isl-org/Open3D) (4 months ago)
 - [Merge assign3 changes, duh](https://github.com/Techassi/hfu-imgcomp/pull/2) on [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) (5 months ago)
 - [Merge mug height calculation](https://github.com/Techassi/hfu-imgcomp/pull/1) on [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) (6 months ago)
-- [Restructure: Fixes #11](https://github.com/muesli/markscribe/pull/42) on [muesli/markscribe](https://github.com/muesli/markscribe) (6 months ago)
+- [Restructure: Fixes #11](https://github.com/muesli/markscribe/pull/42) on [muesli/markscribe](https://github.com/muesli/markscribe) (7 months ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.3) ([v0.0.3](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.3)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (4 days ago)
+- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.3) ([v0.0.3](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.3)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (5 days ago)
 - [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.10) ([v0.5.10](https://github.com/antfu/case-police/releases/tag/v0.5.10)) - 🚨 Make the case correct, PLEASE! (1 month ago)
 - [uber-go/zap](https://github.com/uber-go/zap/releases/tag/v1.23.0) ([v1.23.0](https://github.com/uber-go/zap/releases/tag/v1.23.0)) - Blazing fast, structured, leveled logging in Go. (2 months ago)
 
