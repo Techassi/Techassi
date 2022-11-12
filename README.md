@@ -10,7 +10,7 @@ pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (1 day ago)
+- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (today)
 - [portal-rs/void-go](https://github.com/portal-rs/void-go) - Void is a DNS level ad blocker written in Go (1 week ago)
 - [portal-rs/portal-go](https://github.com/portal-rs/portal-go) - Portal is a domain name server written in pure Go (1 week ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (2 weeks ago)
