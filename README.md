@@ -10,8 +10,8 @@ pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page and blog. (3 days ago)
-- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (4 days ago)
+- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page and blog. (4 days ago)
+- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (5 days ago)
 - [portal-rs/portal-go](https://github.com/portal-rs/portal-go) - Portal is a domain name server written in pure Go (1 week ago)
 - [portal-rs/void-go](https://github.com/portal-rs/void-go) - Void is a DNS level ad blocker written in Go (1 week ago)
 - [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (3 weeks ago)
@@ -35,7 +35,7 @@ pure Rust 🦀.
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
 
-- [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (7 months ago)
+- [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (8 months ago)
 
 #### 📫 How to reach me
 
