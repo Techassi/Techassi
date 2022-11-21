@@ -12,9 +12,9 @@ pure Rust 🦀.
 
 - [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page and blog. (1 week ago)
 - [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (1 week ago)
-- [portal-rs/portal-go](https://github.com/portal-rs/portal-go) - Portal is a domain name server written in pure Go (2 weeks ago)
 - [portal-rs/void-go](https://github.com/portal-rs/void-go) - Void is a DNS level ad blocker written in Go (2 weeks ago)
-- [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (3 weeks ago)
+- [portal-rs/portal-go](https://github.com/portal-rs/portal-go) - Portal is a domain name server written in pure Go (2 weeks ago)
+- [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (4 weeks ago)
 
 #### 🧪 Latest PRs
 
@@ -22,7 +22,7 @@ pure Rust 🦀.
 - [Add automatic docs generation via mkdocs](https://github.com/hfu-graph-ml/backend/pull/1) on [hfu-graph-ml/backend](https://github.com/hfu-graph-ml/backend) (4 months ago)
 - [Change &#39;depth_diff_max&#39; to &#39;max_depth_diff&#39;](https://github.com/isl-org/Open3D/pull/5219) on [isl-org/Open3D](https://github.com/isl-org/Open3D) (5 months ago)
 - [Merge assign3 changes, duh](https://github.com/Techassi/hfu-imgcomp/pull/2) on [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) (6 months ago)
-- [Merge mug height calculation](https://github.com/Techassi/hfu-imgcomp/pull/1) on [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) (6 months ago)
+- [Merge mug height calculation](https://github.com/Techassi/hfu-imgcomp/pull/1) on [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) (7 months ago)
 - [Restructure: Fixes #11](https://github.com/muesli/markscribe/pull/42) on [muesli/markscribe](https://github.com/muesli/markscribe) (7 months ago)
 
 #### 📦 Latest releases I've contributed to
