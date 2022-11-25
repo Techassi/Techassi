@@ -11,7 +11,7 @@ pure Rust 🦀.
 
 
 - [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (today)
-- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (1 day ago)
+- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (today)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (3 days ago)
 - [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page and blog. (1 week ago)
 - [HFU-DM-GDV/gdv-WiSe2022](https://github.com/HFU-DM-GDV/gdv-WiSe2022) - Grafische Datenverarbeitung winter term 2022/23 (2 weeks ago)
