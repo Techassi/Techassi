@@ -10,7 +10,7 @@ pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (2 days ago)
+- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (3 days ago)
 - [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (1 week ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (1 week ago)
 - [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page and blog. (2 weeks ago)
@@ -28,7 +28,7 @@ pure Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [uber-go/zap](https://github.com/uber-go/zap/releases/tag/v1.24.0) ([v1.24.0](https://github.com/uber-go/zap/releases/tag/v1.24.0)) - Blazing fast, structured, leveled logging in Go. (2 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap/releases/tag/v1.24.0) ([v1.24.0](https://github.com/uber-go/zap/releases/tag/v1.24.0)) - Blazing fast, structured, leveled logging in Go. (3 days ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.4) ([v0.0.4](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.4)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (1 week ago)
 - [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.10) ([v0.5.10](https://github.com/antfu/case-police/releases/tag/v0.5.10)) - 🚨 Make the case correct, PLEASE! (3 months ago)
 
