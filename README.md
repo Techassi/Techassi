@@ -39,5 +39,6 @@ pure Rust 🦀.
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/Techxassi
+- Mastodon: [https://chaos.social/@techassi](https://chaos.social/@techassi)
+- Twitter: [https://twitter.com/Techxassi](https://twitter.com/Techxassi)
 - E-Mail: git@techassi.dev
