@@ -10,10 +10,10 @@ pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/rupl](https://github.com/Techassi/rupl) - A highly customizable REPL framework for Rust (today)
+- [Techassi/rupl](https://github.com/Techassi/rupl) - A highly customizable REPL framework for Rust (1 day ago)
 - [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (1 week ago)
-- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (2 weeks ago)
-- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (3 weeks ago)
+- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (3 weeks ago)
+- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (4 weeks ago)
 - [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page and blog. (1 month ago)
 
 #### 🧪 Latest PRs
