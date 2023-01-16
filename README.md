@@ -10,8 +10,8 @@ pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (1 day ago)
-- [Techassi/rupl](https://github.com/Techassi/rupl) - A highly customizable REPL framework for Rust (6 days ago)
+- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (2 days ago)
+- [Techassi/rupl](https://github.com/Techassi/rupl) - A highly customizable REPL framework for Rust (1 week ago)
 - [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (2 weeks ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (1 month ago)
 - [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page and blog. (2 months ago)
@@ -35,7 +35,7 @@ pure Rust 🦀.
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
 
-- [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (9 months ago)
+- [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (10 months ago)
 
 #### 📫 How to reach me
 
