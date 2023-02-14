@@ -10,8 +10,8 @@ pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (today)
-- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (3 days ago)
+- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (1 day ago)
+- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (4 days ago)
 - [Techassi/rupl](https://github.com/Techassi/rupl) - A highly customizable REPL framework for Rust (1 month ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (2 months ago)
 - [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page and blog. (3 months ago)
@@ -20,7 +20,7 @@ pure Rust 🦀.
 
 
 - [Add automatic docs generation via mkdocs](https://github.com/hfu-graph-ml/backend/pull/1) on [hfu-graph-ml/backend](https://github.com/hfu-graph-ml/backend) (6 months ago)
-- [Change &#39;depth_diff_max&#39; to &#39;max_depth_diff&#39;](https://github.com/isl-org/Open3D/pull/5219) on [isl-org/Open3D](https://github.com/isl-org/Open3D) (7 months ago)
+- [Change &#39;depth_diff_max&#39; to &#39;max_depth_diff&#39;](https://github.com/isl-org/Open3D/pull/5219) on [isl-org/Open3D](https://github.com/isl-org/Open3D) (8 months ago)
 - [Merge assign3 changes, duh](https://github.com/Techassi/hfu-imgcomp/pull/2) on [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) (9 months ago)
 - [Merge mug height calculation](https://github.com/Techassi/hfu-imgcomp/pull/1) on [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) (9 months ago)
 - [Restructure: Fixes #11](https://github.com/muesli/markscribe/pull/42) on [muesli/markscribe](https://github.com/muesli/markscribe) (10 months ago)
@@ -28,7 +28,7 @@ pure Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.11) ([v0.5.11](https://github.com/antfu/case-police/releases/tag/v0.5.11)) - 🚨 Make the case correct, PLEASE! (5 days ago)
+- [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.11) ([v0.5.11](https://github.com/antfu/case-police/releases/tag/v0.5.11)) - 🚨 Make the case correct, PLEASE! (6 days ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.4) ([v0.0.4](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.4)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (2 months ago)
 - [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.5.6) ([v3.5.6](https://github.com/windicss/windicss/releases/tag/v3.5.6)) - Next generation utility-first CSS framework. (7 months ago)
 
