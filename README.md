@@ -11,9 +11,9 @@ pure Rust 🦀.
 
 
 - [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (1 day ago)
-- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (3 days ago)
-- [vulcan-rs/vulcan](https://github.com/vulcan-rs/vulcan) - A Rust based router / firewall (4 days ago)
-- [vulcan-rs/image](https://github.com/vulcan-rs/image) - A custom Linux image with Vulcan components included (6 days ago)
+- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (4 days ago)
+- [vulcan-rs/vulcan](https://github.com/vulcan-rs/vulcan) - A Rust based router / firewall (5 days ago)
+- [vulcan-rs/image](https://github.com/vulcan-rs/image) - A custom Linux image with Vulcan components included (1 week ago)
 - [Techassi/rupl](https://github.com/Techassi/rupl) - A highly customizable REPL framework for Rust (1 month ago)
 
 #### 🧪 Latest PRs
@@ -28,7 +28,7 @@ pure Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.11) ([v0.5.11](https://github.com/antfu/case-police/releases/tag/v0.5.11)) - 🚨 Make the case correct, PLEASE! (1 week ago)
+- [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.11) ([v0.5.11](https://github.com/antfu/case-police/releases/tag/v0.5.11)) - 🚨 Make the case correct, PLEASE! (2 weeks ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.4) ([v0.0.4](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.4)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (3 months ago)
 - [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.5.6) ([v3.5.6](https://github.com/windicss/windicss/releases/tag/v3.5.6)) - Next generation utility-first CSS framework. (7 months ago)
 
