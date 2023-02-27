@@ -10,9 +10,9 @@ pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/vue-lazy-image](https://github.com/Techassi/vue-lazy-image) - Lazy load images in Vue 3 backed by the IntersectionObserver API (4 days ago)
-- [vulcan-rs/vulcan](https://github.com/vulcan-rs/vulcan) - A Rust based router / firewall (4 days ago)
-- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (5 days ago)
+- [Techassi/vue-lazy-image](https://github.com/Techassi/vue-lazy-image) - Lazy load images in Vue 3 backed by the IntersectionObserver API (5 days ago)
+- [vulcan-rs/vulcan](https://github.com/vulcan-rs/vulcan) - A Rust based router / firewall (5 days ago)
+- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (6 days ago)
 - [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (1 week ago)
 - [vulcan-rs/image](https://github.com/vulcan-rs/image) - A custom Linux image with Vulcan components included (1 week ago)
 
@@ -21,7 +21,7 @@ pure Rust 🦀.
 
 - [Add automatic docs generation via mkdocs](https://github.com/hfu-graph-ml/backend/pull/1) on [hfu-graph-ml/backend](https://github.com/hfu-graph-ml/backend) (7 months ago)
 - [Change &#39;depth_diff_max&#39; to &#39;max_depth_diff&#39;](https://github.com/isl-org/Open3D/pull/5219) on [isl-org/Open3D](https://github.com/isl-org/Open3D) (8 months ago)
-- [Merge assign3 changes, duh](https://github.com/Techassi/hfu-imgcomp/pull/2) on [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) (9 months ago)
+- [Merge assign3 changes, duh](https://github.com/Techassi/hfu-imgcomp/pull/2) on [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) (10 months ago)
 - [Merge mug height calculation](https://github.com/Techassi/hfu-imgcomp/pull/1) on [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) (10 months ago)
 - [Restructure: Fixes #11](https://github.com/muesli/markscribe/pull/42) on [muesli/markscribe](https://github.com/muesli/markscribe) (11 months ago)
 
@@ -30,7 +30,7 @@ pure Rust 🦀.
 
 - [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.11) ([v0.5.11](https://github.com/antfu/case-police/releases/tag/v0.5.11)) - 🚨 Make the case correct, PLEASE! (2 weeks ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.4) ([v0.0.4](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.4)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (3 months ago)
-- [windicss/windicss](https://github.com/windicss/windicss/releases/tag/v3.5.6) ([v3.5.6](https://github.com/windicss/windicss/releases/tag/v3.5.6)) - Next generation utility-first CSS framework. (8 months ago)
+- [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe/releases/tag/v1.0.6) ([v1.0.6](https://github.com/Techassi/vue-youtube-iframe/releases/tag/v1.0.6)) - Integrate the YouTube Iframe player into your Vue 3 app. (2 years ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
