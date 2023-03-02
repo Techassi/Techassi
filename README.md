@@ -28,7 +28,7 @@ pure Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.13) ([v0.5.13](https://github.com/antfu/case-police/releases/tag/v0.5.13)) - 🚨 Make the case correct, PLEASE! (2 days ago)
+- [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.13) ([v0.5.13](https://github.com/antfu/case-police/releases/tag/v0.5.13)) - 🚨 Make the case correct, PLEASE! (3 days ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.4) ([v0.0.4](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.4)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (3 months ago)
 - [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe/releases/tag/v1.0.6) ([v1.0.6](https://github.com/Techassi/vue-youtube-iframe/releases/tag/v1.0.6)) - Integrate the YouTube Iframe player into your Vue 3 app. (2 years ago)
 
