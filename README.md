@@ -10,10 +10,10 @@ pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
+- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (1 day ago)
 - [vulcan-rs/vulcan](https://github.com/vulcan-rs/vulcan) - A Rust based router / firewall (1 day ago)
 - [Techassi/vue-lazy-image](https://github.com/Techassi/vue-lazy-image) - Lazy load images in Vue 3 backed by the IntersectionObserver API (1 week ago)
 - [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (1 week ago)
-- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (1 week ago)
 - [vulcan-rs/image](https://github.com/vulcan-rs/image) - A custom Linux image with Vulcan components included (2 weeks ago)
 
 #### 🧪 Latest PRs
@@ -28,7 +28,7 @@ pure Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.13) ([v0.5.13](https://github.com/antfu/case-police/releases/tag/v0.5.13)) - 🚨 Make the case correct, PLEASE! (4 days ago)
+- [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.13) ([v0.5.13](https://github.com/antfu/case-police/releases/tag/v0.5.13)) - 🚨 Make the case correct, PLEASE! (5 days ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.4) ([v0.0.4](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.4)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (3 months ago)
 - [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe/releases/tag/v1.0.6) ([v1.0.6](https://github.com/Techassi/vue-youtube-iframe/releases/tag/v1.0.6)) - Integrate the YouTube Iframe player into your Vue 3 app. (2 years ago)
 
