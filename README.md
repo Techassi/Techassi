@@ -10,10 +10,10 @@ pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (2 days ago)
-- [vulcan-rs/vulcan](https://github.com/vulcan-rs/vulcan) - A Rust based router / firewall (3 days ago)
+- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (today)
+- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (3 days ago)
+- [vulcan-rs/vulcan](https://github.com/vulcan-rs/vulcan) - A Rust based router / firewall (4 days ago)
 - [Techassi/vue-lazy-image](https://github.com/Techassi/vue-lazy-image) - Lazy load images in Vue 3 backed by the IntersectionObserver API (1 week ago)
-- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (1 week ago)
 - [vulcan-rs/image](https://github.com/vulcan-rs/image) - A custom Linux image with Vulcan components included (2 weeks ago)
 
 #### 🧪 Latest PRs
