@@ -10,9 +10,9 @@ pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (today)
-- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (1 day ago)
-- [Techassi/rupl](https://github.com/Techassi/rupl) - A highly customizable REPL framework for Rust (4 days ago)
+- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (1 day ago)
+- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (2 days ago)
+- [Techassi/rupl](https://github.com/Techassi/rupl) - A highly customizable REPL framework for Rust (5 days ago)
 - [vulcan-rs/image](https://github.com/vulcan-rs/image) - A custom Linux image with Vulcan components included (1 week ago)
 - [vulcan-rs/vulcan](https://github.com/vulcan-rs/vulcan) - A Rust based router / firewall (1 week ago)
 
@@ -35,7 +35,7 @@ pure Rust 🦀.
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
 
-- [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (11 months ago)
+- [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (1 year ago)
 
 #### 📫 How to reach me
 
