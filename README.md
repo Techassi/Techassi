@@ -10,7 +10,7 @@ pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (6 days ago)
+- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (1 week ago)
 - [vulcan-rs/image](https://github.com/vulcan-rs/image) - A custom Linux image with Vulcan components included (1 week ago)
 - [vulcan-rs/vulcan](https://github.com/vulcan-rs/vulcan) - A Rust based router / firewall (1 week ago)
 - [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (1 week ago)
@@ -23,7 +23,7 @@ pure Rust 🦀.
 - [Change &#39;depth_diff_max&#39; to &#39;max_depth_diff&#39;](https://github.com/isl-org/Open3D/pull/5219) on [isl-org/Open3D](https://github.com/isl-org/Open3D) (9 months ago)
 - [Merge assign3 changes, duh](https://github.com/Techassi/hfu-imgcomp/pull/2) on [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) (10 months ago)
 - [Merge mug height calculation](https://github.com/Techassi/hfu-imgcomp/pull/1) on [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) (11 months ago)
-- [Restructure: Fixes #11](https://github.com/muesli/markscribe/pull/42) on [muesli/markscribe](https://github.com/muesli/markscribe) (11 months ago)
+- [Restructure: Fixes #11](https://github.com/muesli/markscribe/pull/42) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 year ago)
 
 #### 📦 Latest releases I've contributed to
 
