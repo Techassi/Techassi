@@ -12,8 +12,8 @@ Rust 🦀.
 
 
 - [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (1 week ago)
-- [vulcan-rs/image](https://github.com/vulcan-rs/image) - A custom Linux image with Vulcan components included (1 week ago)
-- [vulcan-rs/vulcan](https://github.com/vulcan-rs/vulcan) - A Rust based router / firewall (1 week ago)
+- [vulcan-rs/image](https://github.com/vulcan-rs/image) - A custom Linux image with Vulcan components included (2 weeks ago)
+- [vulcan-rs/vulcan](https://github.com/vulcan-rs/vulcan) - A Rust based router / firewall (2 weeks ago)
 - [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (2 weeks ago)
 - [Techassi/rupl](https://github.com/Techassi/rupl) - A highly customizable REPL framework for Rust (2 weeks ago)
 
