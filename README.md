@@ -15,7 +15,7 @@ Rust 🦀.
 - [vulcan-rs/image](https://github.com/vulcan-rs/image) - A custom Linux image with Vulcan components included (2 weeks ago)
 - [vulcan-rs/vulcan](https://github.com/vulcan-rs/vulcan) - A Rust based router / firewall (2 weeks ago)
 - [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (2 weeks ago)
-- [Techassi/rupl](https://github.com/Techassi/rupl) - A highly customizable REPL framework for Rust (2 weeks ago)
+- [Techassi/rupl](https://github.com/Techassi/rupl) - A highly customizable REPL framework for Rust (3 weeks ago)
 
 #### 🧪 Latest PRs
 
@@ -29,7 +29,6 @@ Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [antfu/case-police](https://github.com/antfu/case-police/releases/tag/v0.5.14) ([v0.5.14](https://github.com/antfu/case-police/releases/tag/v0.5.14)) - 🚨 Make the case correct, PLEASE! (3 weeks ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.4) ([v0.0.4](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.4)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (4 months ago)
 - [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe/releases/tag/v1.0.6) ([v1.0.6](https://github.com/Techassi/vue-youtube-iframe/releases/tag/v1.0.6)) - Integrate the YouTube Iframe player into your Vue 3 app. (2 years ago)
 
