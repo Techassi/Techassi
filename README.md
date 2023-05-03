@@ -12,7 +12,7 @@ Rust 🦀.
 
 
 - [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (1 week ago)
-- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (1 week ago)
+- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (2 weeks ago)
 - [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (4 weeks ago)
 - [vulcan-rs/vulcan](https://github.com/vulcan-rs/vulcan) - A Rust based router / firewall (1 month ago)
 - [vulcan-rs/image](https://github.com/vulcan-rs/image) - A custom Linux image with Vulcan components included (1 month ago)
@@ -21,7 +21,7 @@ Rust 🦀.
 
 
 - [Add &#39;add_row_if&#39; and &#39;add_rows_if&#39; methods](https://github.com/Nukesor/comfy-table/pull/106) on [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table) (1 week ago)
-- [[Merged by Bors] - Add pause/stop feature to operator](https://github.com/stackabletech/superset-operator/pull/348) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (4 weeks ago)
+- [[Merged by Bors] - Add pause/stop feature to operator](https://github.com/stackabletech/superset-operator/pull/348) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (1 month ago)
 - [Add automatic docs generation via mkdocs](https://github.com/hfu-graph-ml/backend/pull/1) on [hfu-graph-ml/backend](https://github.com/hfu-graph-ml/backend) (9 months ago)
 - [Change &#39;depth_diff_max&#39; to &#39;max_depth_diff&#39;](https://github.com/isl-org/Open3D/pull/5219) on [isl-org/Open3D](https://github.com/isl-org/Open3D) (10 months ago)
 - [Merge assign3 changes, duh](https://github.com/Techassi/hfu-imgcomp/pull/2) on [Techassi/hfu-imgcomp](https://github.com/Techassi/hfu-imgcomp) (1 year ago)
