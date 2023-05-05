@@ -11,7 +11,7 @@ Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [dotm-rs/dotm](https://github.com/dotm-rs/dotm) - Manage your dotfiles via the shell with dotm. (1 day ago)
+- [dotm-rs/dotm](https://github.com/dotm-rs/dotm) - Manage your dotfiles via the shell with dotm. (2 days ago)
 - [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (1 week ago)
 - [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (2 weeks ago)
 - [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (1 month ago)
