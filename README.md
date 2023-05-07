@@ -11,7 +11,7 @@ Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [dotm-rs/dotm](https://github.com/dotm-rs/dotm) - Manage your dotfiles via the shell with dotm. (3 days ago)
+- [dotm-rs/dotm](https://github.com/dotm-rs/dotm) - Manage your dotfiles via the shell with dotm. (4 days ago)
 - [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (2 weeks ago)
 - [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (2 weeks ago)
 - [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (1 month ago)
@@ -20,7 +20,7 @@ Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [Add support for custom class name in compile class transformer](https://github.com/unocss/unocss/pull/2577) on [unocss/unocss](https://github.com/unocss/unocss) (1 day ago)
+- [Add support for custom class name in compile class transformer](https://github.com/unocss/unocss/pull/2577) on [unocss/unocss](https://github.com/unocss/unocss) (2 days ago)
 - [Add &#39;add_row_if&#39; and &#39;add_rows_if&#39; methods](https://github.com/Nukesor/comfy-table/pull/106) on [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table) (2 weeks ago)
 - [[Merged by Bors] - Add pause/stop feature to operator](https://github.com/stackabletech/superset-operator/pull/348) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (1 month ago)
 - [Add automatic docs generation via mkdocs](https://github.com/hfu-graph-ml/backend/pull/1) on [hfu-graph-ml/backend](https://github.com/hfu-graph-ml/backend) (9 months ago)
