@@ -11,7 +11,7 @@ Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/eslint-config](https://github.com/Techassi/eslint-config) - Personal ESLint config (4 days ago)
+- [Techassi/eslint-config](https://github.com/Techassi/eslint-config) - Personal ESLint config (5 days ago)
 - [dotm-rs/dotm](https://github.com/dotm-rs/dotm) - Manage your dotfiles via the shell with dotm. (1 week ago)
 - [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (3 weeks ago)
 - [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (3 weeks ago)
@@ -29,7 +29,7 @@ Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [Techassi/eslint-config](https://github.com/Techassi/eslint-config/releases/tag/v0.1.1) ([v0.1.1](https://github.com/Techassi/eslint-config/releases/tag/v0.1.1)) - Personal ESLint config (4 days ago)
+- [Techassi/eslint-config](https://github.com/Techassi/eslint-config/releases/tag/v0.1.1) ([v0.1.1](https://github.com/Techassi/eslint-config/releases/tag/v0.1.1)) - Personal ESLint config (5 days ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.4) ([v0.0.4](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.4)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (5 months ago)
 - [Techassi/vue-youtube-iframe](https://github.com/Techassi/vue-youtube-iframe/releases/tag/v1.0.6) ([v1.0.6](https://github.com/Techassi/vue-youtube-iframe/releases/tag/v1.0.6)) - Integrate the YouTube Iframe player into your Vue 3 app. (2 years ago)
 
