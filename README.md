@@ -1,10 +1,12 @@
 ### Hey there 👋
 
-I'm a backend software developer and tinkerer working on a few small projects and trying new things
-in Rust, Go, Vue and TypeScript. Currently building a scalable high-performance [DNS Server][portal]
-with DNS blocking features and a home router OS, called [vulcan-rs][vulcan], both written in pure
-Rust 🦀.
+I'm a backend software developer and tinkerer working at [Stackable][stackable]. I currently work on
+stackable-lib, stackablectl, and stackabled (see [here][stackable-work]). In my spare time I work on
+a scalable high-performance [DNS Server][portal] with DNS blocking features and a home router OS,
+called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
+[stackable-work]: https://github.com/stackabletech/stackable
+[stackable]: https://github.com/stackabletech
 [portal]: https://github.com/portal-rs/portal
 [vulcan]: https://github.com/vulcan-rs
 
@@ -20,11 +22,11 @@ Rust 🦀.
 #### 🧪 Latest PRs
 
 
+- [Add stack commands](https://github.com/stackabletech/stackable/pull/27) on [stackabletech/stackable](https://github.com/stackabletech/stackable) (today)
+- [Add pre-commit fixes](https://github.com/stackabletech/stackable/pull/26) on [stackabletech/stackable](https://github.com/stackabletech/stackable) (today)
 - [Add release commands](https://github.com/stackabletech/stackable/pull/22) on [stackabletech/stackable](https://github.com/stackabletech/stackable) (2 days ago)
 - [Add operator commands](https://github.com/stackabletech/stackable/pull/11) on [stackabletech/stackable](https://github.com/stackabletech/stackable) (1 week ago)
 - [feat(transformer-compile-class): support for custom class names](https://github.com/unocss/unocss/pull/2577) on [unocss/unocss](https://github.com/unocss/unocss) (2 weeks ago)
-- [Add &#39;add_row_if&#39; and &#39;add_rows_if&#39; methods](https://github.com/Nukesor/comfy-table/pull/106) on [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table) (4 weeks ago)
-- [[Merged by Bors] - Add pause/stop feature to operator](https://github.com/stackabletech/superset-operator/pull/348) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (1 month ago)
 
 #### 📦 Latest releases I've contributed to
 
