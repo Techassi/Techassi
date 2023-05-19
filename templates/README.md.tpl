@@ -1,10 +1,12 @@
 ### Hey there 👋
 
-I'm a backend software developer and tinkerer working on a few small projects and trying new things
-in Rust, Go, Vue and TypeScript. Currently building a scalable high-performance [DNS Server][portal]
-with DNS blocking features and a home router OS, called [vulcan-rs][vulcan], both written in pure
-Rust 🦀.
+I'm a backend software developer and tinkerer working at [Stackable][stackable]. I currently work on
+stackable-lib, stackablectl, and stackabled (see [here][stackable-work]). In my spare time I work on
+a scalable high-performance [DNS Server][portal] with DNS blocking features and a home router OS,
+called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
+[stackable-work]: https://github.com/stackabletech/stackable
+[stackable]: https://github.com/stackabletech
 [portal]: https://github.com/portal-rs/portal
 [vulcan]: https://github.com/vulcan-rs
 
