@@ -13,18 +13,18 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/stackable](https://github.com/stackabletech/stackable) - Home of stackable-lib, stackablectl and stackabled. (4 days ago)
-- [pixelflut-rs/pfparse](https://github.com/pixelflut-rs/pfparse) - Pixelflut command parsing library written in Rust (5 days ago)
+- [dotm-rs/dotm](https://github.com/dotm-rs/dotm) - Manage your dotfiles via the shell with dotm. (1 day ago)
+- [stackabletech/stackable](https://github.com/stackabletech/stackable) - Home of stackable-lib, stackablectl and stackabled. (5 days ago)
+- [pixelflut-rs/pfparse](https://github.com/pixelflut-rs/pfparse) - Pixelflut command parsing library written in Rust (6 days ago)
 - [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping (1 week ago)
 - [Techassi/eslint-config](https://github.com/Techassi/eslint-config) - Personal ESLint config (1 week ago)
-- [dotm-rs/dotm](https://github.com/dotm-rs/dotm) - Manage your dotfiles via the shell with dotm. (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [Add stack commands](https://github.com/stackabletech/stackable/pull/27) on [stackabletech/stackable](https://github.com/stackabletech/stackable) (2 days ago)
-- [Add pre-commit fixes](https://github.com/stackabletech/stackable/pull/26) on [stackabletech/stackable](https://github.com/stackabletech/stackable) (2 days ago)
-- [Add release commands](https://github.com/stackabletech/stackable/pull/22) on [stackabletech/stackable](https://github.com/stackabletech/stackable) (4 days ago)
+- [Add stack commands](https://github.com/stackabletech/stackable/pull/27) on [stackabletech/stackable](https://github.com/stackabletech/stackable) (3 days ago)
+- [Add pre-commit fixes](https://github.com/stackabletech/stackable/pull/26) on [stackabletech/stackable](https://github.com/stackabletech/stackable) (3 days ago)
+- [Add release commands](https://github.com/stackabletech/stackable/pull/22) on [stackabletech/stackable](https://github.com/stackabletech/stackable) (5 days ago)
 - [Add operator commands](https://github.com/stackabletech/stackable/pull/11) on [stackabletech/stackable](https://github.com/stackabletech/stackable) (1 week ago)
 - [feat(transformer-compile-class): support for custom class names](https://github.com/unocss/unocss/pull/2577) on [unocss/unocss](https://github.com/unocss/unocss) (2 weeks ago)
 
