@@ -13,27 +13,27 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page and blog. (1 day ago)
-- [stackabletech/stackable](https://github.com/stackabletech/stackable) - Home of stackable-lib, stackablectl and stackabled. (1 day ago)
-- [dotm-rs/dotm](https://github.com/dotm-rs/dotm) - Manage your dotfiles via the shell with dotm. (2 days ago)
+- [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine. (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-lib, stackablectl and stackabled. (2 days ago)
+- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page and blog. (2 days ago)
+- [dotm-rs/dotm](https://github.com/dotm-rs/dotm) - Manage your dotfiles via the shell with dotm. (3 days ago)
 - [pixelflut-rs/pfparse](https://github.com/pixelflut-rs/pfparse) - Pixelflut command parsing library written in Rust (1 week ago)
-- [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [Add service commands](https://github.com/stackabletech/stackable/pull/28) on [stackabletech/stackable](https://github.com/stackabletech/stackable) (1 day ago)
-- [Add stack commands](https://github.com/stackabletech/stackable/pull/27) on [stackabletech/stackable](https://github.com/stackabletech/stackable) (4 days ago)
-- [[Merged by Bors] - Add pre-commit fixes](https://github.com/stackabletech/stackable/pull/26) on [stackabletech/stackable](https://github.com/stackabletech/stackable) (4 days ago)
-- [Add release commands](https://github.com/stackabletech/stackable/pull/22) on [stackabletech/stackable](https://github.com/stackabletech/stackable) (6 days ago)
-- [Add operator commands](https://github.com/stackabletech/stackable/pull/11) on [stackabletech/stackable](https://github.com/stackabletech/stackable) (1 week ago)
+- [Add service commands](https://github.com/stackabletech/stackable-cockpit/pull/28) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
+- [Add stack commands](https://github.com/stackabletech/stackable-cockpit/pull/27) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (5 days ago)
+- [[Merged by Bors] - Add pre-commit fixes](https://github.com/stackabletech/stackable-cockpit/pull/26) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (5 days ago)
+- [Add release commands](https://github.com/stackabletech/stackable-cockpit/pull/22) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
+- [Add operator commands](https://github.com/stackabletech/stackable-cockpit/pull/11) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
+- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.52.3) ([v0.52.3](https://github.com/unocss/unocss/releases/tag/v0.52.3)) - The instant on-demand atomic CSS engine. (1 day ago)
 - [Techassi/eslint-config](https://github.com/Techassi/eslint-config/releases/tag/v0.1.1) ([v0.1.1](https://github.com/Techassi/eslint-config/releases/tag/v0.1.1)) - Personal ESLint config (2 weeks ago)
 - [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table/releases/tag/v6.1.4) ([v6.1.4](https://github.com/Nukesor/comfy-table/releases/tag/v6.1.4)) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping (4 months ago)
-- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.4) ([v0.0.4](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.4)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (6 months ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
