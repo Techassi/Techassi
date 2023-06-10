@@ -13,7 +13,7 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-lib, stackablectl and stackabled. (2 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-lib, stackablectl and stackabled. (3 days ago)
 - [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (1 week ago)
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine. (2 weeks ago)
 - [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page and blog. (2 weeks ago)
@@ -31,8 +31,8 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.53.1) ([v0.53.1](https://github.com/unocss/unocss/releases/tag/v0.53.1)) - The instant on-demand atomic CSS engine. (3 days ago)
-- [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table/releases/tag/v7.0.0) ([v7.0.0](https://github.com/Nukesor/comfy-table/releases/tag/v7.0.0)) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping (3 days ago)
+- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.53.1) ([v0.53.1](https://github.com/unocss/unocss/releases/tag/v0.53.1)) - The instant on-demand atomic CSS engine. (4 days ago)
+- [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table/releases/tag/v7.0.0) ([v7.0.0](https://github.com/Nukesor/comfy-table/releases/tag/v7.0.0)) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping (4 days ago)
 - [Techassi/eslint-config](https://github.com/Techassi/eslint-config/releases/tag/v0.1.1) ([v0.1.1](https://github.com/Techassi/eslint-config/releases/tag/v0.1.1)) - Personal ESLint config (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
