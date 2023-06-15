@@ -22,11 +22,11 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
+- [feat: add support for basic auth per URI](https://github.com/lycheeverse/lychee/pull/1110) on [lycheeverse/lychee](https://github.com/lycheeverse/lychee) (1 day ago)
 - [Add support for container types](https://github.com/stackabletech/operator-rs/pull/600) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
-- [[Merged by Bors] - Update comfy-table](https://github.com/stackabletech/stackable-cockpit/pull/37) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
-- [Add resource requirements builder / validation](https://github.com/stackabletech/operator-rs/pull/598) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
+- [[Merged by Bors] - Update comfy-table](https://github.com/stackabletech/stackable-cockpit/pull/37) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 weeks ago)
+- [Add resource requirements builder / validation](https://github.com/stackabletech/operator-rs/pull/598) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 weeks ago)
 - [[Merged by Bors] - Update READMEs](https://github.com/stackabletech/stackable-cockpit/pull/36) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 weeks ago)
-- [Add minikube support](https://github.com/stackabletech/stackable-cockpit/pull/35) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
