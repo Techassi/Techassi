@@ -13,17 +13,17 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-lib, stackablectl and stackabled. (4 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (5 days ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-lib, stackablectl and stackabled. (5 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (6 days ago)
 - [idanarye/rust-typed-builder](https://github.com/idanarye/rust-typed-builder) - Compile-time type-checked builder derive (1 week ago)
-- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (3 weeks ago)
-- [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine. (1 month ago)
+- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS server written in pure Rust (4 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat!: add transfer and caching layer](https://github.com/stackabletech/stackable-cockpit/pull/47) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (4 days ago)
-- [[Merged by Bors] - fix: Display for ReconciliationPaused](https://github.com/stackabletech/operator-rs/pull/609) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
+- [feat!: add transfer and caching layer](https://github.com/stackabletech/stackable-cockpit/pull/47) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (5 days ago)
+- [[Merged by Bors] - fix: Display for ReconciliationPaused](https://github.com/stackabletech/operator-rs/pull/609) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
 - [feat: Add PostBuild trait](https://github.com/idanarye/rust-typed-builder/pull/95) on [idanarye/rust-typed-builder](https://github.com/idanarye/rust-typed-builder) (1 week ago)
 - [[Merged by Bors] - feat: add Display for ClusterCondition](https://github.com/stackabletech/operator-rs/pull/608) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [feat: add support for setter prefix and suffix](https://github.com/idanarye/rust-typed-builder/pull/94) on [idanarye/rust-typed-builder](https://github.com/idanarye/rust-typed-builder) (1 week ago)
@@ -31,9 +31,9 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.53.3) ([v0.53.3](https://github.com/unocss/unocss/releases/tag/v0.53.3)) - The instant on-demand atomic CSS engine. (4 days ago)
+- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.53.4) ([v0.53.4](https://github.com/unocss/unocss/releases/tag/v0.53.4)) - The instant on-demand atomic CSS engine. (1 day ago)
 - [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table/releases/tag/v7.0.1) ([v7.0.1](https://github.com/Nukesor/comfy-table/releases/tag/v7.0.1)) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping (1 week ago)
-- [Techassi/eslint-config](https://github.com/Techassi/eslint-config/releases/tag/v0.1.1) ([v0.1.1](https://github.com/Techassi/eslint-config/releases/tag/v0.1.1)) - Personal ESLint config (1 month ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/v0.13.0) ([v0.13.0](https://github.com/lycheeverse/lychee/releases/tag/v0.13.0)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
