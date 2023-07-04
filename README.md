@@ -13,20 +13,20 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS implementation written in pure Rust. It provides server, client and resolver crates. (1 day ago)
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (4 days ago)
-- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (4 days ago)
-- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (4 days ago)
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 week ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-lib, stackablectl and stackabled. (1 day ago)
+- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS implementation written in pure Rust. It provides server, client and resolver crates. (2 days ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (5 days ago)
+- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (5 days ago)
+- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (5 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat: Add col_count, row_count and is_empty methods](https://github.com/Nukesor/comfy-table/pull/119) on [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table) (3 days ago)
+- [feat!: Add label max length enforcements](https://github.com/stackabletech/operator-rs/pull/615) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [feat: Add col_count, row_count and is_empty methods](https://github.com/Nukesor/comfy-table/pull/119) on [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table) (4 days ago)
 - [feat!: add transfer and caching layer](https://github.com/stackabletech/stackable-cockpit/pull/47) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 - [[Merged by Bors] - fix: Display for ReconciliationPaused](https://github.com/stackabletech/operator-rs/pull/609) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [feat: Add PostBuild trait](https://github.com/idanarye/rust-typed-builder/pull/95) on [idanarye/rust-typed-builder](https://github.com/idanarye/rust-typed-builder) (2 weeks ago)
-- [[Merged by Bors] - feat: add Display for ClusterCondition](https://github.com/stackabletech/operator-rs/pull/608) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
