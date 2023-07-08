@@ -13,18 +13,18 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-lib, stackablectl and stackabled. (1 day ago)
-- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (2 days ago)
-- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (2 days ago)
-- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS implementation written in pure Rust. It provides server, client and resolver crates. (5 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-lib, stackablectl and stackabled. (2 days ago)
+- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (3 days ago)
+- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (3 days ago)
+- [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS implementation written in pure Rust. It provides server, client and resolver crates. (6 days ago)
 - [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [[Merged by Bors] - feat: Support podOverrides](https://github.com/stackabletech/kafka-operator/pull/602) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (2 days ago)
-- [[Merged by Bors] - feat: Support podOverrides](https://github.com/stackabletech/hive-operator/pull/352) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (3 days ago)
-- [feat!: Add label max length enforcements](https://github.com/stackabletech/operator-rs/pull/615) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
+- [[Merged by Bors] - feat: Support podOverrides](https://github.com/stackabletech/kafka-operator/pull/602) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (3 days ago)
+- [[Merged by Bors] - feat: Support podOverrides](https://github.com/stackabletech/hive-operator/pull/352) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (4 days ago)
+- [feat!: Add key/value pair validation](https://github.com/stackabletech/operator-rs/pull/615) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
 - [feat: Add col_count, row_count and is_empty methods](https://github.com/Nukesor/comfy-table/pull/119) on [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table) (1 week ago)
 - [feat!: add transfer and caching layer](https://github.com/stackabletech/stackable-cockpit/pull/47) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 weeks ago)
 
