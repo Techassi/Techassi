@@ -13,20 +13,20 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 days ago)
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) -  (6 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 days ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (3 days ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) -  (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-lib, stackablectl and stackabled. (1 week ago)
-- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (1 week ago)
+- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat: Add support for ranges in the `--accept` option / config field](https://github.com/lycheeverse/lychee/pull/1167) on [lycheeverse/lychee](https://github.com/lycheeverse/lychee) (1 day ago)
-- [feat: Add str::contains_all function](https://github.com/assert-rs/predicates-rs/pull/147) on [assert-rs/predicates-rs](https://github.com/assert-rs/predicates-rs) (2 days ago)
-- [feat: Add support for --dump-inputs](https://github.com/lycheeverse/lychee/pull/1159) on [lycheeverse/lychee](https://github.com/lycheeverse/lychee) (3 days ago)
-- [fix: Template default.nix file for secret-operator](https://github.com/stackabletech/operator-templating/pull/269) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (5 days ago)
-- [fix: Makefile indentation](https://github.com/stackabletech/operator-templating/pull/266) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (6 days ago)
+- [feat: Add support for ranges in the `--accept` option / config field](https://github.com/lycheeverse/lychee/pull/1167) on [lycheeverse/lychee](https://github.com/lycheeverse/lychee) (2 days ago)
+- [feat: Add str::contains_all function](https://github.com/assert-rs/predicates-rs/pull/147) on [assert-rs/predicates-rs](https://github.com/assert-rs/predicates-rs) (3 days ago)
+- [feat: Add support for --dump-inputs](https://github.com/lycheeverse/lychee/pull/1159) on [lycheeverse/lychee](https://github.com/lycheeverse/lychee) (4 days ago)
+- [fix: Template default.nix file for secret-operator](https://github.com/stackabletech/operator-templating/pull/269) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (6 days ago)
+- [fix: Makefile indentation](https://github.com/stackabletech/operator-templating/pull/266) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
