@@ -31,7 +31,7 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.53.6) ([v0.53.6](https://github.com/unocss/unocss/releases/tag/v0.53.6)) - The instant on-demand atomic CSS engine. (5 days ago)
+- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.53.6) ([v0.53.6](https://github.com/unocss/unocss/releases/tag/v0.53.6)) - The instant on-demand atomic CSS engine. (6 days ago)
 - [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table/releases/tag/v7.0.1) ([v7.0.1](https://github.com/Nukesor/comfy-table/releases/tag/v7.0.1)) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping (1 month ago)
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/v0.13.0) ([v0.13.0](https://github.com/lycheeverse/lychee/releases/tag/v0.13.0)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 months ago)
 
