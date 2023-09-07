@@ -22,7 +22,7 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [feat(ctl): Add support for `--show-credentials` in stacklets list command](https://github.com/stackabletech/stackable-cockpit/pull/108) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
+- [feat(ctl): Add support for `--show-credentials` in stacklets list command](https://github.com/stackabletech/stackable-cockpit/pull/108) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
 - [refactor: Improve usePlayer options](https://github.com/vue-youtube/vue-youtube/pull/12) on [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) (1 week ago)
 - [feat: Add option to defer loading required scripts](https://github.com/vue-youtube/vue-youtube/pull/11) on [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) (1 week ago)
 - [chore: Bump dependencies](https://github.com/vue-youtube/vue-youtube/pull/10) on [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) (1 week ago)
@@ -31,9 +31,9 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.55.7) ([v0.55.7](https://github.com/unocss/unocss/releases/tag/v0.55.7)) - The instant on-demand atomic CSS engine. (2 days ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 day ago)
+- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.55.7) ([v0.55.7](https://github.com/unocss/unocss/releases/tag/v0.55.7)) - The instant on-demand atomic CSS engine. (3 days ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.5) ([v0.0.5](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.5)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (1 week ago)
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 week ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
