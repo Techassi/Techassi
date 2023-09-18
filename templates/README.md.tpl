@@ -1,14 +1,19 @@
 ### Hey there 👋
 
 I'm a backend software developer and tinkerer working at [Stackable][stackable]. I currently work on
-stackable-lib, stackablectl, and stackabled (see [here][stackable-work]). In my spare time I work on
-a scalable high-performance [DNS Server][portal] with DNS blocking features and a home router OS,
+stackable-lib, stackablectl, and stackabled (see [here][stackable-work]). In my spare time, I work on
+a scalable high-performance [DNS Server][portal] with DNS blocking features and a home router OS
 called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
 [stackable-work]: https://github.com/stackabletech/stackable
 [stackable]: https://github.com/stackabletech
 [portal]: https://github.com/portal-rs/portal
 [vulcan]: https://github.com/vulcan-rs
+
+[![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust&logoColor=%23f97f39)](https://www.rust-lang.org/)
+[![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go&logoColor=%23f97f39)](https://go.dev/)
+[![Vue](https://img.shields.io/badge/-Vue-141414?style=flat&logo=vuedotjs&logoColor=%23f97f39)](https://vuejs.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript&logoColor=%23f97f39)](https://www.typescriptlang.org/)
 
 #### 🔥 Check out what I'm working on
 
