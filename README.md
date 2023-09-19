@@ -23,19 +23,19 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains stacks and demos used by stackable managment tools as well as the corresponding documentation (today)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (today)
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 day ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (4 days ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains stacks and demos used by stackable managment tools as well as the corresponding documentation (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (5 days ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (3 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [docs: Update references](https://github.com/stackabletech/airflow-operator/pull/327) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (today)
-- [fix: The `completions` subcommand now works without internet access](https://github.com/stackabletech/stackable-cockpit/pull/113) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (4 days ago)
-- [docs: Add management and demo docs](https://github.com/stackabletech/documentation/pull/449) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (6 days ago)
-- [refactor: Use CSS `grid` instead of `flex` for boxes wrapper](https://github.com/stackabletech/documentation-ui/pull/47) on [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) (6 days ago)
+- [docs: Update references](https://github.com/stackabletech/airflow-operator/pull/327) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (1 day ago)
+- [fix: The `completions` subcommand now works without internet access](https://github.com/stackabletech/stackable-cockpit/pull/113) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (5 days ago)
+- [docs: Add management and demo docs](https://github.com/stackabletech/documentation/pull/449) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
+- [refactor: Use CSS `grid` instead of `flex` for boxes wrapper](https://github.com/stackabletech/documentation-ui/pull/47) on [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) (1 week ago)
 - [ci: Update workflow files](https://github.com/stackabletech/stackable-cockpit/pull/111) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
