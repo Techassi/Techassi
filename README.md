@@ -23,26 +23,26 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (2 days ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains stacks and demos used by stackable managment tools as well as the corresponding documentation (3 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 days ago)
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (4 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
+- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (1 day ago)
+- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Apache Hadoop HDFS operator for Stackable (1 day ago)
+- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [docs: Update references](https://github.com/stackabletech/zookeeper-operator/pull/728) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (2 days ago)
-- [docs: Update references](https://github.com/stackabletech/trino-operator/pull/476) on [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) (2 days ago)
-- [docs: Update references](https://github.com/stackabletech/superset-operator/pull/406) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (2 days ago)
-- [docs: Update references](https://github.com/stackabletech/spark-k8s-operator/pull/285) on [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) (2 days ago)
-- [docs: Update references](https://github.com/stackabletech/opa-operator/pull/476) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (2 days ago)
+- [fix(docs): Update invalid references for 23.1](https://github.com/stackabletech/kafka-operator/pull/624) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (1 day ago)
+- [fix(docs): Update invalid references for 23.1](https://github.com/stackabletech/hive-operator/pull/375) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (1 day ago)
+- [fix(docs): Update invalid references in 23.4](https://github.com/stackabletech/hive-operator/pull/374) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (1 day ago)
+- [fix(docs): Update invalid references in 23.7](https://github.com/stackabletech/hive-operator/pull/373) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (1 day ago)
+- [fix(docs): Update invalid references in 23.1](https://github.com/stackabletech/hdfs-operator/pull/397) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.56.0) ([v0.56.0](https://github.com/unocss/unocss/releases/tag/v0.56.0)) - The instant on-demand atomic CSS engine. (2 days ago)
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 days ago)
+- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.56.1) ([v0.56.1](https://github.com/unocss/unocss/releases/tag/v0.56.1)) - The instant on-demand atomic CSS engine. (1 day ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (3 days ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.5) ([v0.0.5](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.5)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (3 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
