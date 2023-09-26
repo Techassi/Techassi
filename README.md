@@ -23,26 +23,26 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (3 days ago)
-- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) -  (4 days ago)
-- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Apache Hadoop HDFS operator for Stackable (4 days ago)
-- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (4 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (4 days ago)
+- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (5 days ago)
+- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (5 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix: Update branch in production playbook](https://github.com/stackabletech/documentation/pull/457) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (3 days ago)
-- [fix(docs): Update invalid xrefs in stackablectl docs](https://github.com/stackabletech/stackable-cockpit/pull/115) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 days ago)
-- [fix(docs): Update invalid xrefs for 23.1](https://github.com/stackabletech/documentation/pull/456) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (3 days ago)
-- [fix(docs): Update invalid references for 23.1](https://github.com/stackabletech/kafka-operator/pull/624) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (4 days ago)
-- [fix(docs): Update invalid references for 23.1](https://github.com/stackabletech/hive-operator/pull/375) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (4 days ago)
+- [chore: Fix various small issues](https://github.com/stackabletech/documentation/pull/459) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [fix: Update branch in production playbook](https://github.com/stackabletech/documentation/pull/457) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (4 days ago)
+- [fix(docs): Update invalid xrefs in stackablectl docs](https://github.com/stackabletech/stackable-cockpit/pull/115) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (4 days ago)
+- [fix(docs): Update invalid xrefs for 23.1](https://github.com/stackabletech/documentation/pull/456) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (4 days ago)
+- [fix(docs): Update invalid references for 23.1](https://github.com/stackabletech/kafka-operator/pull/624) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (5 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.56.1) ([v0.56.1](https://github.com/unocss/unocss/releases/tag/v0.56.1)) - The instant on-demand atomic CSS engine. (4 days ago)
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (6 days ago)
+- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.56.2) ([v0.56.2](https://github.com/unocss/unocss/releases/tag/v0.56.2)) - The instant on-demand atomic CSS engine. (1 day ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 week ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.5) ([v0.0.5](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.5)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
