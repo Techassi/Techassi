@@ -23,20 +23,20 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
+- [proxide-rs/proxide](https://github.com/proxide-rs/proxide) - GitHub Action to automatically update your profile README (1 day ago)
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 days ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 days ago)
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (5 days ago)
 - [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (1 week ago)
-- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (1 week ago)
 
 #### 🧪 Latest PRs
 
 
+- [ci: Add pull request workflow](https://github.com/proxide-rs/proxide/pull/1) on [proxide-rs/proxide](https://github.com/proxide-rs/proxide) (today)
 - [docs: Update management pages](https://github.com/stackabletech/stackable-cockpit/pull/118) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 days ago)
 - [chore: Release stackablectl-1.0.0-rc2](https://github.com/stackabletech/stackable-cockpit/pull/116) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 days ago)
 - [chore: Fix various small issues](https://github.com/stackabletech/documentation/pull/459) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (5 days ago)
 - [fix: Update branch in production playbook](https://github.com/stackabletech/documentation/pull/457) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
-- [fix(docs): Update invalid xrefs in stackablectl docs](https://github.com/stackabletech/stackable-cockpit/pull/115) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
