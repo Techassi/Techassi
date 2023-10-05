@@ -23,16 +23,16 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [proxide-rs/proxide](https://github.com/proxide-rs/proxide) - GitHub Action to automatically update your profile README (5 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (6 days ago)
+- [proxide-rs/proxide](https://github.com/proxide-rs/proxide) - GitHub Action to automatically update your profile README (6 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 week ago)
-- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (1 week ago)
+- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci: Add pull request workflow](https://github.com/proxide-rs/proxide/pull/1) on [proxide-rs/proxide](https://github.com/proxide-rs/proxide) (4 days ago)
+- [ci: Add pull request workflow](https://github.com/proxide-rs/proxide/pull/1) on [proxide-rs/proxide](https://github.com/proxide-rs/proxide) (5 days ago)
 - [docs: Update management pages](https://github.com/stackabletech/stackable-cockpit/pull/118) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 - [chore: Release stackablectl-1.0.0-rc2](https://github.com/stackabletech/stackable-cockpit/pull/116) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 - [chore: Fix various small issues](https://github.com/stackabletech/documentation/pull/459) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
@@ -41,8 +41,8 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 day ago)
-- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.56.5) ([v0.56.5](https://github.com/unocss/unocss/releases/tag/v0.56.5)) - The instant on-demand atomic CSS engine. (1 day ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 days ago)
+- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.56.5) ([v0.56.5](https://github.com/unocss/unocss/releases/tag/v0.56.5)) - The instant on-demand atomic CSS engine. (2 days ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.0.0-rc2) ([stackablectl-1.0.0-rc2](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.0.0-rc2)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
