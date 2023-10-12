@@ -23,25 +23,25 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 days ago)
-- [proxide-rs/proxide](https://github.com/proxide-rs/proxide) - GitHub Action to automatically update your profile README (3 days ago)
-- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (5 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (6 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (3 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 days ago)
+- [proxide-rs/proxide](https://github.com/proxide-rs/proxide) - GitHub Action to automatically update your profile README (4 days ago)
+- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (6 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat: Add duration doc page](https://github.com/stackabletech/documentation/pull/467) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
-- [ci: Add release workflows, adjust PR workflow](https://github.com/proxide-rs/proxide/pull/2) on [proxide-rs/proxide](https://github.com/proxide-rs/proxide) (3 days ago)
-- [chore: Bump reqwest version](https://github.com/stackabletech/stackable-cockpit/pull/124) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (5 days ago)
-- [fix: Update broken xrefs](https://github.com/stackabletech/documentation/pull/466) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (5 days ago)
-- [fix: Update UI submodule to latest](https://github.com/stackabletech/documentation/pull/465) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (5 days ago)
+- [refactor: Use operator-rs Duration](https://github.com/stackabletech/opa-operator/pull/483) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (1 day ago)
+- [refactor: Use operator-rs Duration](https://github.com/stackabletech/zookeeper-operator/pull/733) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (1 day ago)
+- [refactor: Use operator-rs Duration](https://github.com/stackabletech/superset-operator/pull/412) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (1 day ago)
+- [refactor: Use operator-rs Duration](https://github.com/stackabletech/spark-k8s-operator/pull/292) on [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) (1 day ago)
+- [refactor: Use operator-rs Duration](https://github.com/stackabletech/nifi-operator/pull/514) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (4 days ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (5 days ago)
 - [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.56.5) ([v0.56.5](https://github.com/unocss/unocss/releases/tag/v0.56.5)) - The instant on-demand atomic CSS engine. (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.0.0-rc2) ([stackablectl-1.0.0-rc2](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.0.0-rc2)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
 
