@@ -23,20 +23,20 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (5 days ago)
-- [proxide-rs/proxide](https://github.com/proxide-rs/proxide) - GitHub Action to automatically update your profile README (6 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (4 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (6 days ago)
+- [proxide-rs/proxide](https://github.com/proxide-rs/proxide) - GitHub Action to automatically update your profile README (1 week ago)
 - [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat: Mark various functions as const](https://github.com/stackabletech/operator-rs/pull/674) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
-- [feat!: Add op impls and UTC helper function](https://github.com/stackabletech/operator-rs/pull/671) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
-- [refactor: Use operator-rs Duration](https://github.com/stackabletech/opa-operator/pull/483) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (3 days ago)
-- [refactor: Use operator-rs Duration](https://github.com/stackabletech/zookeeper-operator/pull/733) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (3 days ago)
-- [refactor: Use operator-rs Duration](https://github.com/stackabletech/superset-operator/pull/412) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (3 days ago)
+- [feat: Mark various functions as const](https://github.com/stackabletech/operator-rs/pull/674) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
+- [feat!: Add op impls and UTC helper function](https://github.com/stackabletech/operator-rs/pull/671) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
+- [refactor: Use operator-rs Duration](https://github.com/stackabletech/opa-operator/pull/483) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (4 days ago)
+- [refactor: Use operator-rs Duration](https://github.com/stackabletech/zookeeper-operator/pull/733) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (4 days ago)
+- [refactor: Use operator-rs Duration](https://github.com/stackabletech/superset-operator/pull/412) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (4 days ago)
 
 #### 📦 Latest releases I've contributed to
 
