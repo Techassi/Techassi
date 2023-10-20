@@ -23,17 +23,17 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 days ago)
-- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Apache Hadoop HDFS operator for Stackable (3 days ago)
-- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (3 days ago)
-- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Operator for Apache Spark-on-Kubernetes for Stackable Data Platform (3 days ago)
-- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (3 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (4 days ago)
+- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Apache Hadoop HDFS operator for Stackable (4 days ago)
+- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (4 days ago)
+- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Operator for Apache Spark-on-Kubernetes for Stackable Data Platform (4 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [docs: Add screenshots to Cockpit documentation page](https://github.com/stackabletech/stackable-cockpit/pull/127) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
-- [chore: Release 0.55.0](https://github.com/stackabletech/operator-rs/pull/676) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
+- [docs: Add screenshots to Cockpit documentation page](https://github.com/stackabletech/stackable-cockpit/pull/127) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
+- [chore: Release 0.55.0](https://github.com/stackabletech/operator-rs/pull/676) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
 - [feat: Mark various functions as const](https://github.com/stackabletech/operator-rs/pull/674) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [feat!: Add op impls, UTC helper function and interop with time crate for Duration](https://github.com/stackabletech/operator-rs/pull/671) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [refactor: Use operator-rs Duration](https://github.com/stackabletech/opa-operator/pull/483) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (1 week ago)
