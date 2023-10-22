@@ -23,27 +23,27 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (1 day ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
-- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (5 days ago)
-- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (5 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 days ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (2 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 days ago)
+- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (6 days ago)
+- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (6 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci: Add docs workflow](https://github.com/stackabletech/stackable-cockpit/pull/130) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
-- [docs: Add screenshots to Cockpit documentation page](https://github.com/stackabletech/stackable-cockpit/pull/127) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 days ago)
-- [chore: Release 0.55.0](https://github.com/stackabletech/operator-rs/pull/676) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
+- [ci: Add docs workflow](https://github.com/stackabletech/stackable-cockpit/pull/130) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
+- [docs: Add screenshots to Cockpit documentation page](https://github.com/stackabletech/stackable-cockpit/pull/127) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (4 days ago)
+- [chore: Release 0.55.0](https://github.com/stackabletech/operator-rs/pull/676) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
 - [feat: Mark various functions as const](https://github.com/stackabletech/operator-rs/pull/674) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [feat!: Add op impls, UTC helper function and interop with time crate for Duration](https://github.com/stackabletech/operator-rs/pull/671) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
+- [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table/releases/tag/v7.1.0) ([v7.1.0](https://github.com/Nukesor/comfy-table/releases/tag/v7.1.0)) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping (1 day ago)
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 weeks ago)
 - [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.56.5) ([v0.56.5](https://github.com/unocss/unocss/releases/tag/v0.56.5)) - The instant on-demand atomic CSS engine. (2 weeks ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.0.0-rc2) ([stackablectl-1.0.0-rc2](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.0.0-rc2)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
