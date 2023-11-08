@@ -23,27 +23,27 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
+- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) -  (1 day ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
-- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (1 day ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
-- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (5 days ago)
-- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (5 days ago)
+- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (1 day ago)
+- [stackabletech/edc-operator](https://github.com/stackabletech/edc-operator) -  (1 day ago)
+- [stackabletech/hello-world-operator](https://github.com/stackabletech/hello-world-operator) -  (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci: Update workflow files](https://github.com/stackabletech/operator-templating/pull/288) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [ci: Update workflows and bump action versions](https://github.com/stackabletech/product-config/pull/98) on [stackabletech/product-config](https://github.com/stackabletech/product-config) (1 day ago)
-- [refactor: Use updated product-config](https://github.com/stackabletech/zookeeper-operator/pull/738) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (5 days ago)
-- [refactor: Use updated product-config](https://github.com/stackabletech/superset-operator/pull/418) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (5 days ago)
-- [refactor: Use updated product-config](https://github.com/stackabletech/opa-operator/pull/486) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (5 days ago)
+- [chore: Release stackablectl-1.0.0-rc3](https://github.com/stackabletech/stackable-cockpit/pull/138) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
+- [ci: Update workflow files](https://github.com/stackabletech/operator-templating/pull/288) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
+- [ci: Update workflows and bump action versions](https://github.com/stackabletech/product-config/pull/98) on [stackabletech/product-config](https://github.com/stackabletech/product-config) (2 days ago)
+- [refactor: Use updated product-config](https://github.com/stackabletech/zookeeper-operator/pull/738) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (6 days ago)
+- [refactor: Use updated product-config](https://github.com/stackabletech/superset-operator/pull/418) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (6 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.57.2) ([v0.57.2](https://github.com/unocss/unocss/releases/tag/v0.57.2)) - The instant on-demand atomic CSS engine. (4 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.0.0-rc3) ([stackablectl-1.0.0-rc3](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.0.0-rc3)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.57.2) ([v0.57.2](https://github.com/unocss/unocss/releases/tag/v0.57.2)) - The instant on-demand atomic CSS engine. (5 days ago)
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 week ago)
-- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.6) ([v0.0.6](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.6)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (1 week ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
