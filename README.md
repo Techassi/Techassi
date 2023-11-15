@@ -23,25 +23,25 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (1 day ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (5 days ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (6 days ago)
-- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (1 week ago)
-- [stackabletech/hello-world-operator](https://github.com/stackabletech/hello-world-operator) -  (1 week ago)
+- [stackabletech/product-config](https://github.com/stackabletech/product-config) - A library to validate product configuration properties with regard to version, data type, minimum and maximum bounds, dependencies and roles (1 day ago)
+- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (2 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (6 days ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 week ago)
+- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) -  (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [refactor: Update demo/stack remote URLs](https://github.com/stackabletech/stackable-cockpit/pull/140) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (5 days ago)
-- [chore: Remove demo and stack files](https://github.com/stackabletech/stackablectl/pull/291) on [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) (5 days ago)
-- [refactor: Use operator-rs Duration](https://github.com/stackabletech/listener-operator/pull/115) on [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) (6 days ago)
+- [refactor: Update demo/stack remote URLs](https://github.com/stackabletech/stackable-cockpit/pull/140) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (6 days ago)
+- [chore: Remove demo and stack files](https://github.com/stackabletech/stackablectl/pull/291) on [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) (6 days ago)
+- [refactor: Use operator-rs Duration](https://github.com/stackabletech/listener-operator/pull/115) on [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) (1 week ago)
 - [chore: Release stackablectl-1.0.0-rc3](https://github.com/stackabletech/stackable-cockpit/pull/138) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 - [ci: Update workflow files](https://github.com/stackabletech/operator-templating/pull/288) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.57.3) ([v0.57.3](https://github.com/unocss/unocss/releases/tag/v0.57.3)) - The instant on-demand atomic CSS engine. (5 days ago)
+- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.57.4) ([v0.57.4](https://github.com/unocss/unocss/releases/tag/v0.57.4)) - The instant on-demand atomic CSS engine. (1 day ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.0.0-rc3) ([stackablectl-1.0.0-rc3](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.0.0-rc3)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 weeks ago)
 
