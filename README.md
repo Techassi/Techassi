@@ -23,7 +23,7 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (today)
 - [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (1 week ago)
 - [stackabletech/product-config](https://github.com/stackabletech/product-config) - A library to validate product configuration properties with regard to version, data type, minimum and maximum bounds, dependencies and roles (2 weeks ago)
 - [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (2 weeks ago)
@@ -32,16 +32,16 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
+- [chore: Release stackablectl-23.11.0](https://github.com/stackabletech/stackable-cockpit/pull/152) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (today)
 - [chore: Bump Rust version](https://github.com/stackabletech/stackable-cockpit/pull/151) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
 - [chore: Release stackablectl-23.11.0-rc4](https://github.com/stackabletech/stackable-cockpit/pull/150) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
 - [refactor: Update demo/stack remote URLs](https://github.com/stackabletech/stackable-cockpit/pull/140) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 weeks ago)
 - [chore: Remove demo and stack files](https://github.com/stackabletech/stackablectl/pull/291) on [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) (3 weeks ago)
-- [refactor: Use operator-rs Duration](https://github.com/stackabletech/listener-operator/pull/115) on [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) (3 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.0-rc4) ([stackablectl-23.11.0-rc4](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.0-rc4)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.0) ([stackablectl-23.11.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (today)
 - [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.57.7) ([v0.57.7](https://github.com/unocss/unocss/releases/tag/v0.57.7)) - The instant on-demand atomic CSS engine. (1 week ago)
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 month ago)
 
