@@ -23,27 +23,27 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
-- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (3 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (3 days ago)
+- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (4 days ago)
 - [stackabletech/product-config](https://github.com/stackabletech/product-config) - A library to validate product configuration properties with regard to version, data type, minimum and maximum bounds, dependencies and roles (3 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix: Semver version `pre` field doesn&#39;t contain dash](https://github.com/stackabletech/stackable-cockpit/pull/156) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
-- [chore: Release stackablectl-23.11.0](https://github.com/stackabletech/stackable-cockpit/pull/152) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (6 days ago)
+- [chore: Release stackablectl-23.11.1](https://github.com/stackabletech/stackable-cockpit/pull/158) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
+- [feat: Add support for admission controllers](https://github.com/stackabletech/operator-rs/pull/695) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [fix: Semver version `pre` field doesn&#39;t contain dash](https://github.com/stackabletech/stackable-cockpit/pull/156) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 days ago)
+- [chore: Release stackablectl-23.11.0](https://github.com/stackabletech/stackable-cockpit/pull/152) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 - [chore: Bump Rust version](https://github.com/stackabletech/stackable-cockpit/pull/151) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
-- [chore: Release stackablectl-23.11.0-rc4](https://github.com/stackabletech/stackable-cockpit/pull/150) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
-- [refactor: Update demo/stack remote URLs](https://github.com/stackabletech/stackable-cockpit/pull/140) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 days ago)
-- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.58.0) ([v0.58.0](https://github.com/unocss/unocss/releases/tag/v0.58.0)) - The instant on-demand atomic CSS engine. (3 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.0) ([stackablectl-23.11.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (6 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.1) ([stackablectl-23.11.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (3 days ago)
+- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.58.0) ([v0.58.0](https://github.com/unocss/unocss/releases/tag/v0.58.0)) - The instant on-demand atomic CSS engine. (4 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
