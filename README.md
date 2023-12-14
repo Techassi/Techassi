@@ -23,20 +23,20 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (6 days ago)
-- [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) - Commandline tool to interact with a Stackable Data Platform (6 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (6 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (6 days ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 week ago)
+- [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) - Commandline tool to interact with a Stackable Data Platform (1 week ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Add README](https://github.com/stackabletech/demos/pull/7) on [stackabletech/demos](https://github.com/stackabletech/demos) (6 days ago)
-- [Update stackablectl license file link](https://github.com/stackabletech/documentation/pull/502) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (6 days ago)
-- [docs: Update demo link](https://github.com/stackabletech/demos/pull/6) on [stackabletech/demos](https://github.com/stackabletech/demos) (6 days ago)
-- [docs: Update customization links](https://github.com/stackabletech/stackable-cockpit/pull/160) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (6 days ago)
-- [docs: Update stackablectl release link](https://github.com/stackabletech/stackable-cockpit/pull/159) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (6 days ago)
+- [fix: Update latest release version on start page (23.11)](https://github.com/stackabletech/documentation/pull/506) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [chore: Add README](https://github.com/stackabletech/demos/pull/7) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 week ago)
+- [Update stackablectl license file link](https://github.com/stackabletech/documentation/pull/502) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
+- [docs: Update demo link](https://github.com/stackabletech/demos/pull/6) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 week ago)
+- [docs: Update customization links](https://github.com/stackabletech/stackable-cockpit/pull/160) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
