@@ -32,7 +32,7 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [fix: Update latest release version on start page (23.11)](https://github.com/stackabletech/documentation/pull/506) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [fix: Update latest release version on start page (23.11)](https://github.com/stackabletech/documentation/pull/506) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
 - [chore: Add README](https://github.com/stackabletech/demos/pull/7) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 week ago)
 - [Update stackablectl license file link](https://github.com/stackabletech/documentation/pull/502) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
 - [docs: Update demo link](https://github.com/stackabletech/demos/pull/6) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 week ago)
