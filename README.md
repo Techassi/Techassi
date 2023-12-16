@@ -23,20 +23,20 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 week ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
+- [Kobzol/rust-delegate](https://github.com/Kobzol/rust-delegate) - Rust method delegation with less boilerplate (1 day ago)
 - [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) - Commandline tool to interact with a Stackable Data Platform (1 week ago)
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix: Update latest release version on start page (23.11)](https://github.com/stackabletech/documentation/pull/506) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
+- [fix: Update shell completions for previous PR (#163)](https://github.com/stackabletech/stackable-cockpit/pull/164) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
+- [refactor: Add delegated function impls for `Labels` and `Annotations`](https://github.com/stackabletech/operator-rs/pull/701) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [feat: Add `newtype` parameter attribute modifier](https://github.com/Kobzol/rust-delegate/pull/64) on [Kobzol/rust-delegate](https://github.com/Kobzol/rust-delegate) (1 day ago)
+- [fix: Update latest release version on start page (23.11)](https://github.com/stackabletech/documentation/pull/506) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (3 days ago)
 - [chore: Add README](https://github.com/stackabletech/demos/pull/7) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 week ago)
-- [Update stackablectl license file link](https://github.com/stackabletech/documentation/pull/502) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
-- [docs: Update demo link](https://github.com/stackabletech/demos/pull/6) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 week ago)
-- [docs: Update customization links](https://github.com/stackabletech/stackable-cockpit/pull/160) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
