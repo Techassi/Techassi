@@ -23,27 +23,27 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (4 days ago)
-- [Kobzol/rust-delegate](https://github.com/Kobzol/rust-delegate) - Rust method delegation with less boilerplate (4 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (5 days ago)
+- [Kobzol/rust-delegate](https://github.com/Kobzol/rust-delegate) - Rust method delegation with less boilerplate (5 days ago)
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
 - [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat: Add labels to deployed resources](https://github.com/stackabletech/demos/pull/9) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
-- [fix: Update shell completions for previous PR (#163)](https://github.com/stackabletech/stackable-cockpit/pull/164) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (4 days ago)
-- [refactor: Add delegated function impls for `Labels` and `Annotations`](https://github.com/stackabletech/operator-rs/pull/701) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
-- [feat: Add `newtype` parameter attribute modifier](https://github.com/Kobzol/rust-delegate/pull/64) on [Kobzol/rust-delegate](https://github.com/Kobzol/rust-delegate) (4 days ago)
-- [fix: Update latest release version on start page (23.11)](https://github.com/stackabletech/documentation/pull/506) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (6 days ago)
+- [refactor: Add JS and CSS bundling ](https://github.com/stackabletech/crddocs/pull/16) on [stackabletech/crddocs](https://github.com/stackabletech/crddocs) (1 day ago)
+- [feat: Add labels to deployed resources](https://github.com/stackabletech/demos/pull/9) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
+- [fix: Update shell completions for previous PR (#163)](https://github.com/stackabletech/stackable-cockpit/pull/164) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (5 days ago)
+- [refactor: Add delegated function impls for `Labels` and `Annotations`](https://github.com/stackabletech/operator-rs/pull/701) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
+- [feat: Add `newtype` parameter attribute modifier](https://github.com/Kobzol/rust-delegate/pull/64) on [Kobzol/rust-delegate](https://github.com/Kobzol/rust-delegate) (5 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.1) ([stackablectl-23.11.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 weeks ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.1) ([stackablectl-23.11.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
 - [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.58.0) ([v0.58.0](https://github.com/unocss/unocss/releases/tag/v0.58.0)) - The instant on-demand atomic CSS engine. (2 weeks ago)
+- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.6) ([v0.0.6](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.6)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
