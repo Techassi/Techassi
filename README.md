@@ -23,26 +23,26 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/yaml-ast](https://github.com/Techassi/yaml-ast) - A pure Rust YAML 1.2.2 parser (3 days ago)
+- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [Techassi/yaml-ast](https://github.com/Techassi/yaml-ast) - A pure Rust YAML 1.2.2 parser (4 days ago)
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 week ago)
-- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (1 week ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
 - [Kobzol/rust-delegate](https://github.com/Kobzol/rust-delegate) - Rust method delegation with less boilerplate (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix: Add missing slash in JS source path](https://github.com/stackabletech/crddocs/pull/19) on [stackabletech/crddocs](https://github.com/stackabletech/crddocs) (1 week ago)
+- [chore: Release stackablectl-23.11.2](https://github.com/stackabletech/stackable-cockpit/pull/173) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
+- [chore: Bump Rust version to 1.75.0](https://github.com/stackabletech/stackable-cockpit/pull/172) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
+- [fix: Add missing slash in JS source path](https://github.com/stackabletech/crddocs/pull/19) on [stackabletech/crddocs](https://github.com/stackabletech/crddocs) (2 weeks ago)
 - [refactor: Add JS and CSS bundling ](https://github.com/stackabletech/crddocs/pull/16) on [stackabletech/crddocs](https://github.com/stackabletech/crddocs) (2 weeks ago)
 - [feat: Add labels to deployed resources](https://github.com/stackabletech/demos/pull/9) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 weeks ago)
-- [fix: Update shell completions for previous PR (#163)](https://github.com/stackabletech/stackable-cockpit/pull/164) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 weeks ago)
-- [refactor: Add delegated function impls for `Labels` and `Annotations`](https://github.com/stackabletech/operator-rs/pull/701) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.58.2) ([v0.58.2](https://github.com/unocss/unocss/releases/tag/v0.58.2)) - The instant on-demand atomic CSS engine. (5 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.1) ([stackablectl-23.11.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 weeks ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.2) ([stackablectl-23.11.2](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.2)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.58.3) ([v0.58.3](https://github.com/unocss/unocss/releases/tag/v0.58.3)) - The instant on-demand atomic CSS engine. (1 day ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.6) ([v0.0.6](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.6)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (2 months ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
