@@ -23,26 +23,26 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
-- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (2 days ago)
-- [Techassi/yaml-ast](https://github.com/Techassi/yaml-ast) - A pure Rust YAML 1.2.2 parser (5 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 week ago)
-- [Kobzol/rust-delegate](https://github.com/Kobzol/rust-delegate) - Rust method delegation with less boilerplate (2 weeks ago)
+- [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (1 day ago)
+- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
+- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (3 days ago)
+- [Techassi/yaml-ast](https://github.com/Techassi/yaml-ast) - A pure Rust YAML 1.2.2 parser (6 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Release stackablectl-23.11.3](https://github.com/stackabletech/stackable-cockpit/pull/176) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
-- [ci: Fix worflow syntax](https://github.com/stackabletech/stackable-cockpit/pull/175) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
-- [fix: Uninstall operators when removing release](https://github.com/stackabletech/stackable-cockpit/pull/174) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
-- [chore: Release stackablectl-23.11.2](https://github.com/stackabletech/stackable-cockpit/pull/173) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
-- [chore: Bump Rust version to 1.75.0](https://github.com/stackabletech/stackable-cockpit/pull/172) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
+- [ci: Adjust workflow trigger](https://github.com/vue-youtube/docs/pull/9) on [vue-youtube/docs](https://github.com/vue-youtube/docs) (1 day ago)
+- [docs: Add player parameter reference note](https://github.com/vue-youtube/docs/pull/8) on [vue-youtube/docs](https://github.com/vue-youtube/docs) (1 day ago)
+- [docs: Add code style guide](https://github.com/stackabletech/documentation/pull/518) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [chore: Release stackablectl-23.11.3](https://github.com/stackabletech/stackable-cockpit/pull/176) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
+- [ci: Fix worflow syntax](https://github.com/stackabletech/stackable-cockpit/pull/175) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.3) ([stackablectl-23.11.3](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.3)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
-- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.58.3) ([v0.58.3](https://github.com/unocss/unocss/releases/tag/v0.58.3)) - The instant on-demand atomic CSS engine. (2 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.3) ([stackablectl-23.11.3](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.3)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
+- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.58.3) ([v0.58.3](https://github.com/unocss/unocss/releases/tag/v0.58.3)) - The instant on-demand atomic CSS engine. (3 days ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.6) ([v0.0.6](https://github.com/vue-youtube/vue-youtube/releases/tag/v0.0.6)) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (2 months ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
