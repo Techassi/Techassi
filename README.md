@@ -23,20 +23,20 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (today)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (today)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (today)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (today)
 - [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) -  (1 day ago)
-- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (5 days ago)
-- [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (5 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (6 days ago)
-- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (1 week ago)
 
 #### 🧪 Latest PRs
 
 
+- [feat: Expand serde deserialize impl](https://github.com/lycheeverse/lychee/pull/1345) on [lycheeverse/lychee](https://github.com/lycheeverse/lychee) (today)
+- [chore: Remove typo for S3 bucket doc comment / description](https://github.com/stackabletech/operator-rs/pull/710) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (today)
+- [fix: Use the provided cluster name when creating a local cluster](https://github.com/stackabletech/stackable-cockpit/pull/181) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (today)
 - [fix: Add accept option to merged config](https://github.com/lycheeverse/lychee/pull/1344) on [lycheeverse/lychee](https://github.com/lycheeverse/lychee) (1 day ago)
 - [fix: Add admonition CSS file to site.css](https://github.com/stackabletech/documentation-ui/pull/54) on [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) (1 day ago)
-- [feat: Add adjusted admonition styles for code rules](https://github.com/stackabletech/documentation-ui/pull/52) on [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) (4 days ago)
-- [ci: Adjust workflow trigger](https://github.com/vue-youtube/docs/pull/9) on [vue-youtube/docs](https://github.com/vue-youtube/docs) (5 days ago)
-- [docs: Add player parameter reference note](https://github.com/vue-youtube/docs/pull/8) on [vue-youtube/docs](https://github.com/vue-youtube/docs) (5 days ago)
 
 #### 📦 Latest releases I've contributed to
 
