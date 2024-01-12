@@ -23,25 +23,25 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 day ago)
-- [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (1 day ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 days ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 days ago)
+- [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (2 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (3 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat: Expand serde deserialize impl](https://github.com/lycheeverse/lychee/pull/1345) on [lycheeverse/lychee](https://github.com/lycheeverse/lychee) (2 days ago)
-- [chore: Remove typo for S3 bucket doc comment / description](https://github.com/stackabletech/operator-rs/pull/710) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
-- [fix: Use the provided cluster name when creating a local cluster](https://github.com/stackabletech/stackable-cockpit/pull/181) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
-- [fix: Add accept option to merged config](https://github.com/lycheeverse/lychee/pull/1344) on [lycheeverse/lychee](https://github.com/lycheeverse/lychee) (3 days ago)
-- [fix: Add admonition CSS file to site.css](https://github.com/stackabletech/documentation-ui/pull/54) on [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) (3 days ago)
+- [feat: Add key/value pair QoL improvements](https://github.com/stackabletech/operator-rs/pull/711) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [feat: Expand serde deserialize impl](https://github.com/lycheeverse/lychee/pull/1345) on [lycheeverse/lychee](https://github.com/lycheeverse/lychee) (3 days ago)
+- [chore: Remove typo for S3 bucket doc comment / description](https://github.com/stackabletech/operator-rs/pull/710) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
+- [fix: Use the provided cluster name when creating a local cluster](https://github.com/stackabletech/stackable-cockpit/pull/181) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 days ago)
+- [fix: Add accept option to merged config](https://github.com/lycheeverse/lychee/pull/1344) on [lycheeverse/lychee](https://github.com/lycheeverse/lychee) (4 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/v0.14.1) ([v0.14.1](https://github.com/lycheeverse/lychee/releases/tag/v0.14.1)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 days ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/v0.14.1) ([v0.14.1](https://github.com/lycheeverse/lychee/releases/tag/v0.14.1)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (3 days ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.3) ([stackablectl-23.11.3](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.3)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 - [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.58.3) ([v0.58.3](https://github.com/unocss/unocss/releases/tag/v0.58.3)) - The instant on-demand atomic CSS engine. (1 week ago)
 
