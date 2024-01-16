@@ -23,27 +23,27 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 days ago)
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (5 days ago)
-- [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (5 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (6 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (6 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (6 days ago)
+- [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (6 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Bump operator-rs to `0.61.0`](https://github.com/stackabletech/operator-rs/pull/716) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
-- [feat: Add TryFromIterator trait and implement it for `Labels` and `Annotations`](https://github.com/stackabletech/operator-rs/pull/715) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
-- [feat: Add generic types for `TryFrom&lt;BTreeMap&lt;K, V&gt;&gt;` impl](https://github.com/stackabletech/operator-rs/pull/714) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
-- [feat: Add key/value pair QoL improvements](https://github.com/stackabletech/operator-rs/pull/711) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
-- [feat: Expand serde deserialize impl](https://github.com/lycheeverse/lychee/pull/1345) on [lycheeverse/lychee](https://github.com/lycheeverse/lychee) (6 days ago)
+- [chore: Release operator-rs `0.61.0`](https://github.com/stackabletech/operator-rs/pull/716) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
+- [feat: Add TryFromIterator trait and implement it for `Labels` and `Annotations`](https://github.com/stackabletech/operator-rs/pull/715) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
+- [feat: Add generic types for `TryFrom&lt;BTreeMap&lt;K, V&gt;&gt;` impl](https://github.com/stackabletech/operator-rs/pull/714) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
+- [feat: Add key/value pair QoL improvements](https://github.com/stackabletech/operator-rs/pull/711) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
+- [feat: Expand serde deserialize impl](https://github.com/lycheeverse/lychee/pull/1345) on [lycheeverse/lychee](https://github.com/lycheeverse/lychee) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/v0.14.1) ([v0.14.1](https://github.com/lycheeverse/lychee/releases/tag/v0.14.1)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (6 days ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/v0.14.1) ([v0.14.1](https://github.com/lycheeverse/lychee/releases/tag/v0.14.1)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.3) ([stackablectl-23.11.3](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.3)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
-- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.58.3) ([v0.58.3](https://github.com/unocss/unocss/releases/tag/v0.58.3)) - The instant on-demand atomic CSS engine. (1 week ago)
+- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.58.3) ([v0.58.3](https://github.com/unocss/unocss/releases/tag/v0.58.3)) - The instant on-demand atomic CSS engine. (2 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
