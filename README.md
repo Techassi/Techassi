@@ -23,20 +23,20 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 days ago)
 - [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (1 week ago)
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 week ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Release operator-rs `0.61.0`](https://github.com/stackabletech/operator-rs/pull/716) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
-- [feat: Add TryFromIterator trait and implement it for `Labels` and `Annotations`](https://github.com/stackabletech/operator-rs/pull/715) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
-- [feat: Add generic types for `TryFrom&lt;BTreeMap&lt;K, V&gt;&gt;` impl](https://github.com/stackabletech/operator-rs/pull/714) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
-- [feat: Add key/value pair QoL improvements](https://github.com/stackabletech/operator-rs/pull/711) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
-- [feat: Expand serde deserialize impl](https://github.com/lycheeverse/lychee/pull/1345) on [lycheeverse/lychee](https://github.com/lycheeverse/lychee) (1 week ago)
+- [Add error variant name rule](https://github.com/stackabletech/documentation/pull/529) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [chore: Release operator-rs `0.61.0`](https://github.com/stackabletech/operator-rs/pull/716) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
+- [feat: Add TryFromIterator trait and implement it for `Labels` and `Annotations`](https://github.com/stackabletech/operator-rs/pull/715) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
+- [feat: Add generic types for `TryFrom&lt;BTreeMap&lt;K, V&gt;&gt;` impl](https://github.com/stackabletech/operator-rs/pull/714) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
+- [feat: Add key/value pair QoL improvements](https://github.com/stackabletech/operator-rs/pull/711) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
