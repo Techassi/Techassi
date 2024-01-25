@@ -24,19 +24,19 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
 
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
-- [Techassi/dnuts](https://github.com/Techassi/dnuts) - Distributed NUT service (4 days ago)
+- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page and blog. (1 day ago)
+- [Techassi/dnuts](https://github.com/Techassi/dnuts) - Distributed NUT service (5 days ago)
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
-- [vue-youtube/docs](https://github.com/vue-youtube/docs) - Documentation for VueYoutube (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [refactor: Change Deref target of KeyPrefix and KeyName to str](https://github.com/stackabletech/operator-rs/pull/725) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [feat: Add Serde impl for CpuQuantity and MemoryQuantity](https://github.com/stackabletech/operator-rs/pull/724) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [feat: Add support for Helm Values file](https://github.com/stackabletech/operator-rs/pull/723) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [refactor: Add context to key/value pair error variants](https://github.com/stackabletech/operator-rs/pull/726) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [refactor: Change Deref target of KeyPrefix and KeyName to str](https://github.com/stackabletech/operator-rs/pull/725) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [feat: Add Serde impl for CpuQuantity and MemoryQuantity](https://github.com/stackabletech/operator-rs/pull/724) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [feat: Add support for Helm Values file](https://github.com/stackabletech/operator-rs/pull/723) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
 - [Add error variant name rule](https://github.com/stackabletech/documentation/pull/529) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
-- [chore: Release operator-rs `0.61.0`](https://github.com/stackabletech/operator-rs/pull/716) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
