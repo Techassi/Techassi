@@ -24,26 +24,26 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
 
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
-- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page and blog. (1 day ago)
-- [Techassi/dnuts](https://github.com/Techassi/dnuts) - Distributed NUT service (5 days ago)
+- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page and blog. (2 days ago)
+- [Techassi/dnuts](https://github.com/Techassi/dnuts) - Distributed NUT service (6 days ago)
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [refactor: Add context to key/value pair error variants](https://github.com/stackabletech/operator-rs/pull/726) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [refactor: Change Deref target of KeyPrefix and KeyName to str](https://github.com/stackabletech/operator-rs/pull/725) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
-- [feat: Add Serde impl for CpuQuantity and MemoryQuantity](https://github.com/stackabletech/operator-rs/pull/724) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
-- [feat: Add support for Helm Values file](https://github.com/stackabletech/operator-rs/pull/723) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
-- [Add error variant name rule](https://github.com/stackabletech/documentation/pull/529) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
+- [feat: Add support for labels in `values.yaml` file](https://github.com/stackabletech/zookeeper-operator/pull/763) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (1 day ago)
+- [refactor: Add context to key/value pair error variants](https://github.com/stackabletech/operator-rs/pull/726) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [refactor: Change Deref target of KeyPrefix and KeyName to str](https://github.com/stackabletech/operator-rs/pull/725) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
+- [feat: Add Serde impl for CpuQuantity and MemoryQuantity](https://github.com/stackabletech/operator-rs/pull/724) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
+- [feat: Add support for `DynamicValues` struct](https://github.com/stackabletech/operator-rs/pull/723) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
+- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.58.4) ([v0.58.4](https://github.com/unocss/unocss/releases/tag/v0.58.4)) - The instant on-demand atomic CSS engine. (1 day ago)
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/v0.14.1) ([v0.14.1](https://github.com/lycheeverse/lychee/releases/tag/v0.14.1)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 weeks ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.3) ([stackablectl-23.11.3](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.3)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 weeks ago)
-- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.58.3) ([v0.58.3](https://github.com/unocss/unocss/releases/tag/v0.58.3)) - The instant on-demand atomic CSS engine. (3 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
