@@ -23,26 +23,26 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/k8s-version](https://github.com/Techassi/k8s-version) - A small helper crate to validate Kubernetes resource versions (1 day ago)
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) -  (1 day ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
-- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (2 days ago)
-- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (2 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) -  (2 days ago)
+- [Techassi/k8s-version](https://github.com/Techassi/k8s-version) - A small helper crate to validate Kubernetes resource versions (2 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 days ago)
+- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (3 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat: Add labels to operator Helm values](https://github.com/stackabletech/stackable-cockpit/pull/186) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
-- [chore: Update ui submodule](https://github.com/stackabletech/documentation/pull/536) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
-- [feat: Add background color to rules, add TOML highlighting](https://github.com/stackabletech/documentation-ui/pull/55) on [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) (2 days ago)
-- [feat: Add support for webhook servers](https://github.com/stackabletech/operator-rs/pull/730) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
-- [chore: Release operator-rs 0.63.0](https://github.com/stackabletech/operator-rs/pull/729) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
+- [chore: Adjust DoD checklist in PR template](https://github.com/stackabletech/operator-templating/pull/315) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [feat: Add labels to operator Helm values](https://github.com/stackabletech/stackable-cockpit/pull/186) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
+- [chore: Update ui submodule](https://github.com/stackabletech/documentation/pull/536) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (3 days ago)
+- [feat: Add background color to rules, add TOML highlighting](https://github.com/stackabletech/documentation-ui/pull/55) on [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) (3 days ago)
+- [feat: Add support for webhook servers](https://github.com/stackabletech/operator-rs/pull/730) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/v0.14.2) ([v0.14.2](https://github.com/lycheeverse/lychee/releases/tag/v0.14.2)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (5 days ago)
-- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.58.4) ([v0.58.4](https://github.com/unocss/unocss/releases/tag/v0.58.4)) - The instant on-demand atomic CSS engine. (6 days ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/v0.14.2) ([v0.14.2](https://github.com/lycheeverse/lychee/releases/tag/v0.14.2)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (6 days ago)
+- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.58.4) ([v0.58.4](https://github.com/unocss/unocss/releases/tag/v0.58.4)) - The instant on-demand atomic CSS engine. (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.3) ([stackablectl-23.11.3](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.3)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (4 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
