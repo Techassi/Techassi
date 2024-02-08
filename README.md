@@ -23,20 +23,20 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/dummy-webhook](https://github.com/Techassi/dummy-webhook) - Blah (2 days ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (6 days ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) -  (today)
+- [NickLarsenNZ/crumpet](https://github.com/NickLarsenNZ/crumpet) - A repository templating engine for keeping similar repositories up-to-date. (today)
+- [Techassi/dummy-webhook](https://github.com/Techassi/dummy-webhook) - Dummy webhook demonstrating operator-rs functions and OpenShift support (2 days ago)
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (6 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 week ago)
-- [Techassi/k8s-version](https://github.com/Techassi/k8s-version) - A small helper crate to validate Kubernetes resource versions (1 week ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (6 days ago)
 
 #### 🧪 Latest PRs
 
 
+- [chore(docs): Remove explicit numbering from list](https://github.com/stackabletech/secret-operator/pull/370) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (today)
 - [chore: Adjust labels page](https://github.com/stackabletech/documentation/pull/542) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (6 days ago)
 - [refactor: Remove `resources` key from DynamicValues](https://github.com/stackabletech/operator-rs/pull/734) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [chore: Adjust DoD checklist in PR template](https://github.com/stackabletech/operator-templating/pull/315) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 week ago)
 - [feat: Add labels to operator Helm values](https://github.com/stackabletech/stackable-cockpit/pull/186) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
-- [chore: Update ui submodule](https://github.com/stackabletech/documentation/pull/536) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
