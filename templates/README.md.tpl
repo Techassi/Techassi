@@ -20,7 +20,7 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 [![Firefox](https://img.shields.io/badge/-Firefox-141414?style=flat&logo=firefox&logoColor=%23f97f39)](https://www.mozilla.org/en-US/firefox/new/)
 [![Thunderbird](https://img.shields.io/badge/-Thunderbird-141414?style=flat&logo=thunderbird&logoColor=%23f97f39)](https://www.thunderbird.net/en-US/)
 ![|](https://img.shields.io/badge/-%7C-141414?style=flat&logoColor=%23f97f39)
-[![Sponsor Techassi](https://img.shields.io/badge/-Sponsor-141414?style=flat&logo=github&logoColor=%23f97f39)](https://github.com/sponsors/Techass)
+[![Sponsor Techassi](https://img.shields.io/badge/-Sponsor-141414?style=flat&logo=github&logoColor=%23f97f39)](https://github.com/sponsors/Techassi)
 
 #### 🔥 Check out what I'm working on
 
