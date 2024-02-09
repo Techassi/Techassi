@@ -25,26 +25,26 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) -  (today)
-- [NickLarsenNZ/crumpet](https://github.com/NickLarsenNZ/crumpet) - A repository templating engine for keeping similar repositories up-to-date. (today)
-- [Techassi/dummy-webhook](https://github.com/Techassi/dummy-webhook) - Dummy webhook demonstrating operator-rs functions and OpenShift support (2 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (6 days ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (6 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) -  (1 day ago)
+- [NickLarsenNZ/crumpet](https://github.com/NickLarsenNZ/crumpet) - A repository templating engine for keeping similar repositories up-to-date. (1 day ago)
+- [Techassi/dummy-webhook](https://github.com/Techassi/dummy-webhook) - Dummy webhook demonstrating operator-rs functions and OpenShift support (3 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore(docs): Remove explicit numbering from list](https://github.com/stackabletech/secret-operator/pull/370) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (today)
-- [chore: Adjust labels page](https://github.com/stackabletech/documentation/pull/542) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (6 days ago)
+- [chore: Mark more files as generated](https://github.com/stackabletech/stackable-cockpit/pull/203) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
+- [chore(docs): Remove explicit numbering from list](https://github.com/stackabletech/secret-operator/pull/370) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 day ago)
+- [chore: Adjust labels page](https://github.com/stackabletech/documentation/pull/542) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
 - [refactor: Remove `resources` key from DynamicValues](https://github.com/stackabletech/operator-rs/pull/734) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [chore: Adjust DoD checklist in PR template](https://github.com/stackabletech/operator-templating/pull/315) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 week ago)
-- [feat: Add labels to operator Helm values](https://github.com/stackabletech/stackable-cockpit/pull/186) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 days ago)
-- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.58.5) ([v0.58.5](https://github.com/unocss/unocss/releases/tag/v0.58.5)) - The instant on-demand atomic CSS engine. (4 days ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (3 days ago)
+- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.58.5) ([v0.58.5](https://github.com/unocss/unocss/releases/tag/v0.58.5)) - The instant on-demand atomic CSS engine. (5 days ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.3) ([stackablectl-23.11.3](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.3)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
