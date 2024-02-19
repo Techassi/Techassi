@@ -25,18 +25,18 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (4 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (4 days ago)
-- [NickLarsenNZ/crumpet](https://github.com/NickLarsenNZ/crumpet) - A repository templating engine for keeping similar repositories up-to-date. (5 days ago)
-- [Techassi/finalizers](https://github.com/Techassi/finalizers) - Finalizer functions for Rust (6 days ago)
+- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (5 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (5 days ago)
+- [NickLarsenNZ/crumpet](https://github.com/NickLarsenNZ/crumpet) - A repository templating engine for keeping similar repositories up-to-date. (6 days ago)
+- [Techassi/finalizers](https://github.com/Techassi/finalizers) - Finalizer functions for Rust (1 week ago)
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Adjust changelog to include changes from #730](https://github.com/stackabletech/operator-rs/pull/739) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
-- [chore(docs): Update stackablectl commands in getting started guide](https://github.com/stackabletech/nifi-operator/pull/573) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (4 days ago)
-- [feat: Add TLS certificate util crate](https://github.com/stackabletech/operator-rs/pull/736) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
+- [chore: Adjust changelog to include changes from #730](https://github.com/stackabletech/operator-rs/pull/739) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
+- [chore(docs): Update stackablectl commands in getting started guide](https://github.com/stackabletech/nifi-operator/pull/573) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (5 days ago)
+- [feat: Add TLS certificate util crate](https://github.com/stackabletech/operator-rs/pull/736) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
 - [chore: Mark more files as generated](https://github.com/stackabletech/stackable-cockpit/pull/203) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 - [chore(docs): Remove explicit numbering from list](https://github.com/stackabletech/secret-operator/pull/370) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 week ago)
 
