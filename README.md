@@ -25,7 +25,7 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (3 days ago)
 - [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (1 week ago)
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 week ago)
 - [NickLarsenNZ/crumpet](https://github.com/NickLarsenNZ/crumpet) - A repository templating engine for keeping similar repositories up-to-date. (1 week ago)
@@ -37,8 +37,8 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 - [chore: Adjust changelog to include changes from #730](https://github.com/stackabletech/operator-rs/pull/739) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [chore(docs): Update stackablectl commands in getting started guide](https://github.com/stackabletech/nifi-operator/pull/573) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (1 week ago)
 - [feat: Add TLS certificate util crate](https://github.com/stackabletech/operator-rs/pull/736) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
-- [chore: Mark more files as generated](https://github.com/stackabletech/stackable-cockpit/pull/203) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
-- [chore(docs): Remove explicit numbering from list](https://github.com/stackabletech/secret-operator/pull/370) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 week ago)
+- [chore: Mark more files as generated](https://github.com/stackabletech/stackable-cockpit/pull/203) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 weeks ago)
+- [chore(docs): Remove explicit numbering from list](https://github.com/stackabletech/secret-operator/pull/370) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (2 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
