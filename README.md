@@ -37,8 +37,8 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 - [chore: Adjust changelog to include changes from #730](https://github.com/stackabletech/operator-rs/pull/739) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 weeks ago)
 - [chore(docs): Update stackablectl commands in getting started guide](https://github.com/stackabletech/nifi-operator/pull/573) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (2 weeks ago)
 - [feat: Add TLS certificate util crate](https://github.com/stackabletech/operator-rs/pull/736) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 weeks ago)
-- [chore: Mark more files as generated](https://github.com/stackabletech/stackable-cockpit/pull/203) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 weeks ago)
-- [chore(docs): Remove explicit numbering from list](https://github.com/stackabletech/secret-operator/pull/370) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (2 weeks ago)
+- [chore: Mark more files as generated](https://github.com/stackabletech/stackable-cockpit/pull/203) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 weeks ago)
+- [chore(docs): Remove explicit numbering from list](https://github.com/stackabletech/secret-operator/pull/370) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (3 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
