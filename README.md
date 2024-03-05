@@ -28,7 +28,7 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 weeks ago)
 - [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (2 weeks ago)
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 weeks ago)
-- [NickLarsenNZ/crumpet](https://github.com/NickLarsenNZ/crumpet) - A repository templating engine for keeping similar repositories up-to-date. (2 weeks ago)
+- [NickLarsenNZ/crumpet](https://github.com/NickLarsenNZ/crumpet) - A repository templating engine for keeping similar repositories up-to-date. (3 weeks ago)
 - [Techassi/finalizers](https://github.com/Techassi/finalizers) - Finalizer functions for Rust (3 weeks ago)
 
 #### 🧪 Latest PRs
@@ -36,7 +36,7 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
 - [chore: Adjust changelog to include changes from #730](https://github.com/stackabletech/operator-rs/pull/739) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 weeks ago)
 - [chore(docs): Update stackablectl commands in getting started guide](https://github.com/stackabletech/nifi-operator/pull/573) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (2 weeks ago)
-- [feat: Add TLS certificate util crate](https://github.com/stackabletech/operator-rs/pull/736) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 weeks ago)
+- [feat: Add TLS certificate util crate](https://github.com/stackabletech/operator-rs/pull/736) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 weeks ago)
 - [chore: Mark more files as generated](https://github.com/stackabletech/stackable-cockpit/pull/203) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 weeks ago)
 - [chore(docs): Remove explicit numbering from list](https://github.com/stackabletech/secret-operator/pull/370) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (3 weeks ago)
 
@@ -44,7 +44,7 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
 
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (3 weeks ago)
-- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.58.5) ([v0.58.5](https://github.com/unocss/unocss/releases/tag/v0.58.5)) - The instant on-demand atomic CSS engine. (4 weeks ago)
+- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.58.5) ([v0.58.5](https://github.com/unocss/unocss/releases/tag/v0.58.5)) - The instant on-demand atomic CSS engine. (1 month ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.3) ([stackablectl-23.11.3](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-23.11.3)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 months ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
