@@ -25,20 +25,20 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 weeks ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
 - [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (3 weeks ago)
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 weeks ago)
 - [NickLarsenNZ/crumpet](https://github.com/NickLarsenNZ/crumpet) - A repository templating engine for keeping similar repositories up-to-date. (3 weeks ago)
-- [Techassi/finalizers](https://github.com/Techassi/finalizers) - Finalizer functions for Rust (3 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat!: Make TLS filesystem functions async](https://github.com/stackabletech/operator-rs/pull/743) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [chore: Include README header](https://github.com/stackabletech/stackable-cockpit/pull/217) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
+- [feat!: Make TLS filesystem functions async](https://github.com/stackabletech/operator-rs/pull/743) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
 - [chore: Adjust changelog to include changes from #730](https://github.com/stackabletech/operator-rs/pull/739) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 weeks ago)
 - [chore(docs): Update stackablectl commands in getting started guide](https://github.com/stackabletech/nifi-operator/pull/573) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (3 weeks ago)
 - [feat: Add TLS certificate util crate](https://github.com/stackabletech/operator-rs/pull/736) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 weeks ago)
-- [chore: Mark more files as generated](https://github.com/stackabletech/stackable-cockpit/pull/203) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
