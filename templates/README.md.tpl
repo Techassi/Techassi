@@ -49,5 +49,4 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 📫 How to reach me
 
 - Mastodon: [https://chaos.social/@techassi](https://chaos.social/@techassi)
-- Twitter: [https://twitter.com/Techxassi](https://twitter.com/Techxassi)
 - E-Mail: git@techassi.dev
