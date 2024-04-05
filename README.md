@@ -25,27 +25,27 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 days ago)
+- [knx-rs/knx](https://github.com/knx-rs/knx) - EXPERIMENTAL: Pure Rust implementation of KNX and friends (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 days ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (1 week ago)
 - [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (1 week ago)
 - [portal-rs/portal](https://github.com/portal-rs/portal) - Portal is a DNS implementation written in pure Rust. It provides server, client and resolver crates. (1 week ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 
 #### 🧪 Latest PRs
 
 
+- [feat: Add basic ETS file parser](https://github.com/knx-rs/knx/pull/1) on [knx-rs/knx](https://github.com/knx-rs/knx) (1 day ago)
+- [feat: Add `stackable-versioned` crate for CRD versioning](https://github.com/stackabletech/operator-rs/pull/764) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [test: Improve `stackable-certs` test speeds](https://github.com/stackabletech/operator-rs/pull/763) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
 - [refactor: Move manager and ref code](https://github.com/vue-youtube/vue-youtube/pull/19) on [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) (1 week ago)
-- [feat: Add OpenTelemetry utility crate](https://github.com/stackabletech/operator-rs/pull/758) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
-- [chore: Release operator-rs 0.65.0](https://github.com/stackabletech/operator-rs/pull/755) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
-- [ci(deps): Bump action versions](https://github.com/stackabletech/operator-rs/pull/754) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
-- [chore(deps): Bump Rust dependencies](https://github.com/stackabletech/operator-rs/pull/753) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
+- [feat: Add `stackable-telemetry` utility crate](https://github.com/stackabletech/operator-rs/pull/758) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.59.0-beta.1) ([v0.59.0-beta.1](https://github.com/unocss/unocss/releases/tag/v0.59.0-beta.1)) - The instant on-demand atomic CSS engine. (3 days ago)
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 week ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.1) ([stackablectl-24.3.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
+- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.59.0-beta.1) ([v0.59.0-beta.1](https://github.com/unocss/unocss/releases/tag/v0.59.0-beta.1)) - The instant on-demand atomic CSS engine. (4 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.1) ([stackablectl-24.3.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/v0.14.3) ([v0.14.3](https://github.com/lycheeverse/lychee/releases/tag/v0.14.3)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 months ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
