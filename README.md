@@ -25,27 +25,27 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/k8s-version](https://github.com/Techassi/k8s-version) - A small helper crate to validate Kubernetes resource versions (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 week ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
+- [Techassi/k8s-version](https://github.com/Techassi/k8s-version) - A small helper crate to validate Kubernetes resource versions (2 days ago)
 - [knx-rs/knx](https://github.com/knx-rs/knx) - EXPERIMENTAL: Pure Rust implementation of KNX and friends (1 week ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (2 weeks ago)
-- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (2 weeks ago)
+- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (3 weeks ago)
 
 #### 🧪 Latest PRs
 
 
+- [fix: Remove duplicate authority key identifier extension](https://github.com/stackabletech/operator-rs/pull/766) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
 - [feat: Add basic ETS file parser](https://github.com/knx-rs/knx/pull/1) on [knx-rs/knx](https://github.com/knx-rs/knx) (1 week ago)
 - [feat: Add `stackable-versioned` crate for CRD versioning](https://github.com/stackabletech/operator-rs/pull/764) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [test: Improve `stackable-certs` test speeds](https://github.com/stackabletech/operator-rs/pull/763) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [refactor: Move manager and ref code](https://github.com/vue-youtube/vue-youtube/pull/19) on [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) (2 weeks ago)
-- [feat: Add `stackable-telemetry` utility crate](https://github.com/stackabletech/operator-rs/pull/758) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.59.2) ([v0.59.2](https://github.com/unocss/unocss/releases/tag/v0.59.2)) - The instant on-demand atomic CSS engine. (4 days ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 day ago)
+- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.59.3) ([v0.59.3](https://github.com/unocss/unocss/releases/tag/v0.59.3)) - The instant on-demand atomic CSS engine. (1 day ago)
 - [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table/releases/tag/v7.1.1) ([v7.1.1](https://github.com/Nukesor/comfy-table/releases/tag/v7.1.1)) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping (1 week ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.1) ([stackablectl-24.3.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
