@@ -25,8 +25,8 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 days ago)
-- [Techassi/dummy-webhook](https://github.com/Techassi/dummy-webhook) - Dummy webhook demonstrating operator-rs functions and OpenShift support (5 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 days ago)
+- [Techassi/dummy-webhook](https://github.com/Techassi/dummy-webhook) - Dummy webhook demonstrating operator-rs functions and OpenShift support (6 days ago)
 - [Techassi/k8s-version](https://github.com/Techassi/k8s-version) - A small helper crate to validate Kubernetes resource versions (1 week ago)
 - [knx-rs/knx](https://github.com/knx-rs/knx) - EXPERIMENTAL: Pure Rust implementation of KNX and friends (2 weeks ago)
 - [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (3 weeks ago)
@@ -34,8 +34,8 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [feat: Add `FromMeta` support for `BTreeMap`](https://github.com/TedDriggs/darling/pull/287) on [TedDriggs/darling](https://github.com/TedDriggs/darling) (4 days ago)
-- [fix: Remove duplicate authority key identifier extension](https://github.com/stackabletech/operator-rs/pull/766) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
+- [feat: Add `FromMeta` support for `BTreeMap`](https://github.com/TedDriggs/darling/pull/287) on [TedDriggs/darling](https://github.com/TedDriggs/darling) (5 days ago)
+- [fix: Remove duplicate authority key identifier extension](https://github.com/stackabletech/operator-rs/pull/766) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [feat: Add basic ETS file parser](https://github.com/knx-rs/knx/pull/1) on [knx-rs/knx](https://github.com/knx-rs/knx) (2 weeks ago)
 - [feat: Add `stackable-versioned` crate for CRD versioning](https://github.com/stackabletech/operator-rs/pull/764) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 weeks ago)
 - [test: Improve `stackable-certs` test speeds](https://github.com/stackabletech/operator-rs/pull/763) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 weeks ago)
@@ -43,7 +43,7 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.59.4) ([v0.59.4](https://github.com/unocss/unocss/releases/tag/v0.59.4)) - The instant on-demand atomic CSS engine. (4 days ago)
+- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.59.4) ([v0.59.4](https://github.com/unocss/unocss/releases/tag/v0.59.4)) - The instant on-demand atomic CSS engine. (5 days ago)
 - [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table/releases/tag/v7.1.1) ([v7.1.1](https://github.com/Nukesor/comfy-table/releases/tag/v7.1.1)) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping (2 weeks ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.1) ([stackablectl-24.3.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 month ago)
 
