@@ -25,26 +25,26 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (4 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (5 days ago)
 - [Techassi/dummy-webhook](https://github.com/Techassi/dummy-webhook) - Dummy webhook demonstrating operator-rs functions and OpenShift support (1 week ago)
 - [Techassi/k8s-version](https://github.com/Techassi/k8s-version) - A small helper crate to validate Kubernetes resource versions (1 week ago)
-- [knx-rs/knx](https://github.com/knx-rs/knx) - EXPERIMENTAL: Pure Rust implementation of KNX and friends (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat: Add `FromMeta` support for `BTreeMap`](https://github.com/TedDriggs/darling/pull/287) on [TedDriggs/darling](https://github.com/TedDriggs/darling) (6 days ago)
+- [chore: Bump Rust and Node deps](https://github.com/stackabletech/stackable-cockpit/pull/233) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
+- [feat: Add `FromMeta` support for `BTreeMap`](https://github.com/TedDriggs/darling/pull/287) on [TedDriggs/darling](https://github.com/TedDriggs/darling) (1 week ago)
 - [fix: Remove duplicate authority key identifier extension](https://github.com/stackabletech/operator-rs/pull/766) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
-- [feat: Add basic ETS file parser](https://github.com/knx-rs/knx/pull/1) on [knx-rs/knx](https://github.com/knx-rs/knx) (2 weeks ago)
-- [feat: Add `stackable-versioned` crate for CRD versioning](https://github.com/stackabletech/operator-rs/pull/764) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 weeks ago)
-- [test: Improve `stackable-certs` test speeds](https://github.com/stackabletech/operator-rs/pull/763) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 weeks ago)
+- [feat: Add basic ETS file parser](https://github.com/knx-rs/knx/pull/1) on [knx-rs/knx](https://github.com/knx-rs/knx) (3 weeks ago)
+- [feat: Add `stackable-versioned` crate for CRD versioning](https://github.com/stackabletech/operator-rs/pull/764) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 day ago)
-- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.59.4) ([v0.59.4](https://github.com/unocss/unocss/releases/tag/v0.59.4)) - The instant on-demand atomic CSS engine. (6 days ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 days ago)
+- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.59.4) ([v0.59.4](https://github.com/unocss/unocss/releases/tag/v0.59.4)) - The instant on-demand atomic CSS engine. (1 week ago)
 - [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table/releases/tag/v7.1.1) ([v7.1.1](https://github.com/Nukesor/comfy-table/releases/tag/v7.1.1)) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping (2 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
