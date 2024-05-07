@@ -25,16 +25,16 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (4 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 week ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (1 day ago)
+- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (5 days ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
-- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (1 week ago)
-- [Techassi/dummy-webhook](https://github.com/Techassi/dummy-webhook) - Dummy webhook demonstrating operator-rs functions and OpenShift support (2 weeks ago)
+- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [crypto/x509: include OID in duplicate extension error message](https://github.com/golang/go/pull/67157) on [golang/go](https://github.com/golang/go) (3 days ago)
+- [crypto/x509: include OID in duplicate extension error message](https://github.com/golang/go/pull/67157) on [golang/go](https://github.com/golang/go) (4 days ago)
 - [ci: Bump action versions](https://github.com/stackabletech/operator-rs/pull/772) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [chore: Release stackablectl-24.3.2](https://github.com/stackabletech/stackable-cockpit/pull/234) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 - [ci: Only run clippy annotation job when PR is not a draft](https://github.com/stackabletech/operator-rs/pull/771) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
