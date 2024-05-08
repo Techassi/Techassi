@@ -25,27 +25,27 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
-- [golang/go](https://github.com/golang/go) - The Go programming language (1 day ago)
-- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (5 days ago)
+- [stackabletech/tokio-zookeeper](https://github.com/stackabletech/tokio-zookeeper) -  (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 days ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (2 days ago)
+- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (6 days ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
-- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [crypto/x509: include OID in duplicate extension error message](https://github.com/golang/go/pull/67157) on [golang/go](https://github.com/golang/go) (4 days ago)
+- [feat: Build Zookeeper from source](https://github.com/stackabletech/docker-images/pull/638) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [crypto/x509: include OID in duplicate extension error message](https://github.com/golang/go/pull/67157) on [golang/go](https://github.com/golang/go) (5 days ago)
 - [ci: Bump action versions](https://github.com/stackabletech/operator-rs/pull/772) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [chore: Release stackablectl-24.3.2](https://github.com/stackabletech/stackable-cockpit/pull/234) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 - [ci: Only run clippy annotation job when PR is not a draft](https://github.com/stackabletech/operator-rs/pull/771) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
-- [chore: Bump Rust and Node deps](https://github.com/stackabletech/stackable-cockpit/pull/233) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
+- [stackabletech/tokio-zookeeper](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0) ([0.3.0](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0)) -  (1 day ago)
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.2) ([stackablectl-24.3.2](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.2)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
-- [unocss/unocss](https://github.com/unocss/unocss/releases/tag/v0.59.4) ([v0.59.4](https://github.com/unocss/unocss/releases/tag/v0.59.4)) - The instant on-demand atomic CSS engine. (2 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
