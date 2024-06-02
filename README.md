@@ -25,9 +25,9 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (5 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (6 days ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
-- [Techassi/thesis-template](https://github.com/Techassi/thesis-template) - This is my personal LaTeX template for writing theses (2 weeks ago)
+- [Techassi/thesis-template](https://github.com/Techassi/thesis-template) - This is my personal LaTeX template for writing theses (3 weeks ago)
 - [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (3 weeks ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (3 weeks ago)
 
@@ -43,7 +43,7 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.4) ([stackablectl-24.3.4](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.4)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (4 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.4) ([stackablectl-24.3.4](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.4)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (5 days ago)
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 week ago)
 - [stackabletech/tokio-zookeeper](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0) ([0.3.0](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0)) -  (3 weeks ago)
 
