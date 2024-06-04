@@ -25,7 +25,7 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 week ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
 - [Techassi/thesis-template](https://github.com/Techassi/thesis-template) - This is my personal LaTeX template for writing theses (3 weeks ago)
 - [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (3 weeks ago)
@@ -34,18 +34,18 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
+- [chore: Release stackable-operator 0.69.0](https://github.com/stackabletech/operator-rs/pull/800) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
 - [feat(stackable-versioned): Adjust generated module and container names](https://github.com/stackabletech/operator-rs/pull/797) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [feat(stackable-versioned): Use attribute instead of derive macro](https://github.com/stackabletech/operator-rs/pull/793) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
-- [feat(stackable-versioned): Generate From implementations for automatic conversion between versions](https://github.com/stackabletech/operator-rs/pull/790) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
+- [feat(stackable-versioned): Generate From implementations for automatic conversion between versions](https://github.com/stackabletech/operator-rs/pull/790) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 weeks ago)
 - [chore: Release stackablectl-24.3.3](https://github.com/stackabletech/stackable-cockpit/pull/239) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 weeks ago)
-- [chore: Bump Rust, Go and Node dependencies](https://github.com/stackabletech/stackable-cockpit/pull/238) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.4) ([stackablectl-24.3.4](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.4)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (6 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.4) ([stackablectl-24.3.4](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.4)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 weeks ago)
-- [stackabletech/tokio-zookeeper](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0) ([0.3.0](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0)) -  (3 weeks ago)
+- [stackabletech/tokio-zookeeper](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0) ([0.3.0](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0)) -  (4 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
