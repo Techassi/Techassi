@@ -25,7 +25,7 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 days ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 weeks ago)
 - [Techassi/thesis-template](https://github.com/Techassi/thesis-template) - This is my personal LaTeX template for writing theses (3 weeks ago)
 - [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (4 weeks ago)
@@ -34,17 +34,17 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [feat(stackable-versioned): Add collision check for renamed fields](https://github.com/stackabletech/operator-rs/pull/804) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [chore: Release stackable-operator 0.69.0](https://github.com/stackabletech/operator-rs/pull/800) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
+- [fix(stackable-telemetry/webhook): Correctly extract connect and host info in Axum trace layer](https://github.com/stackabletech/operator-rs/pull/806) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [feat(stackable-versioned): Add collision check for renamed fields](https://github.com/stackabletech/operator-rs/pull/804) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [chore: Release stackable-operator 0.69.0](https://github.com/stackabletech/operator-rs/pull/800) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
 - [feat(stackable-versioned): Adjust generated module and container names](https://github.com/stackabletech/operator-rs/pull/797) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 weeks ago)
 - [feat(stackable-versioned): Use attribute instead of derive macro](https://github.com/stackabletech/operator-rs/pull/793) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 weeks ago)
-- [feat(stackable-versioned): Generate From implementations for automatic versions upgrades](https://github.com/stackabletech/operator-rs/pull/790) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
 
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 day ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.4) ([stackablectl-24.3.4](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.4)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 weeks ago)
 - [stackabletech/tokio-zookeeper](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0) ([0.3.0](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0)) -  (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
