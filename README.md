@@ -25,17 +25,17 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (4 days ago)
-- [Techassi/otel-tui](https://github.com/Techassi/otel-tui) - A small TUI to inspect OpenTelemetry traces (6 days ago)
-- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (1 week ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (5 days ago)
+- [Techassi/otel-tui](https://github.com/Techassi/otel-tui) - A small TUI to inspect OpenTelemetry traces (1 week ago)
+- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (2 weeks ago)
 - [Techassi/thesis-template](https://github.com/Techassi/thesis-template) - This is my personal LaTeX template for writing theses (1 month ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Release stackablectl-24.3.6](https://github.com/stackabletech/stackable-cockpit/pull/304) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
-- [fix: Remove string cleaning in error report](https://github.com/stackabletech/stackable-cockpit/pull/303) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (6 days ago)
+- [chore: Release stackablectl-24.3.6](https://github.com/stackabletech/stackable-cockpit/pull/304) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 days ago)
+- [fix: Remove string cleaning in error report](https://github.com/stackabletech/stackable-cockpit/pull/303) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 - [chore: Release stackablectl-24.3.5](https://github.com/stackabletech/stackable-cockpit/pull/301) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 - [fix: Remove colons from error messages](https://github.com/stackabletech/stackable-cockpit/pull/300) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 - [feat(stackable-versioned): Add support for versioned enums](https://github.com/stackabletech/operator-rs/pull/813) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
@@ -43,8 +43,8 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.6) ([stackablectl-24.3.6](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.6)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 week ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.6) ([stackablectl-24.3.6](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.6)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 days ago)
 - [stackabletech/tokio-zookeeper](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0) ([0.3.0](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0)) -  (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
