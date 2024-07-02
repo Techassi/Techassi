@@ -25,7 +25,7 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (5 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (6 days ago)
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 week ago)
 - [Techassi/otel-tui](https://github.com/Techassi/otel-tui) - A small TUI to inspect OpenTelemetry traces (1 week ago)
 - [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (2 weeks ago)
@@ -34,7 +34,7 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [refactor(stackable-versioned): Remove duplicate code](https://github.com/stackabletech/operator-rs/pull/820) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
+- [refactor(stackable-versioned): Remove duplicate code](https://github.com/stackabletech/operator-rs/pull/820) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
 - [chore: Release stackablectl-24.3.6](https://github.com/stackabletech/stackable-cockpit/pull/304) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 - [fix: Remove string cleaning in error report](https://github.com/stackabletech/stackable-cockpit/pull/303) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 - [chore: Release stackablectl-24.3.5](https://github.com/stackabletech/stackable-cockpit/pull/301) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 weeks ago)
@@ -43,7 +43,7 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (5 days ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (6 days ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.6) ([stackablectl-24.3.6](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.6)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 - [stackabletech/tokio-zookeeper](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0) ([0.3.0](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0)) -  (1 month ago)
 
