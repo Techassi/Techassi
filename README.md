@@ -25,20 +25,20 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (4 days ago)
-- [stackabletech/dummy-docker-images](https://github.com/stackabletech/dummy-docker-images) - On-Site 07-2024 Experimental Docker Images repository (4 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (4 days ago)
+- [stackabletech/dummy-docker-images](https://github.com/stackabletech/dummy-docker-images) - On-Site 07-2024 Experimental Docker Images repository (5 days ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 - [Techassi/otel-tui](https://github.com/Techassi/otel-tui) - A small TUI to inspect OpenTelemetry traces (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat!: Split up CI workflow per product](https://github.com/stackabletech/docker-images/pull/733) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
+- [refactor: Move scripts into .scripts folder](https://github.com/stackabletech/docker-images/pull/764) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [fix(ci): Re-add free-disk-space action](https://github.com/stackabletech/docker-images/pull/763) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [feat!: Split up CI workflow per product](https://github.com/stackabletech/docker-images/pull/733) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
 - [refactor(stackable-versioned): Remove duplicate code](https://github.com/stackabletech/operator-rs/pull/820) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [chore: Release stackablectl-24.3.6](https://github.com/stackabletech/stackable-cockpit/pull/304) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 weeks ago)
-- [fix: Remove string cleaning in error report](https://github.com/stackabletech/stackable-cockpit/pull/303) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 weeks ago)
-- [chore: Release stackablectl-24.3.5](https://github.com/stackabletech/stackable-cockpit/pull/301) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
