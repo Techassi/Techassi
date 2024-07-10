@@ -25,25 +25,25 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
+- [stackabletech/product-config](https://github.com/stackabletech/product-config) - A library to validate product configuration properties with regard to version, data type, minimum and maximum bounds, dependencies and roles (1 day ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (4 days ago)
-- [stackabletech/dummy-docker-images](https://github.com/stackabletech/dummy-docker-images) - On-Site 07-2024 Experimental Docker Images repository (5 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
-- [Techassi/otel-tui](https://github.com/Techassi/otel-tui) - A small TUI to inspect OpenTelemetry traces (2 weeks ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (5 days ago)
+- [stackabletech/dummy-docker-images](https://github.com/stackabletech/dummy-docker-images) - On-Site 07-2024 Experimental Docker Images repository (6 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [refactor: Move scripts into .scripts folder](https://github.com/stackabletech/docker-images/pull/764) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [fix(ci): Re-add free-disk-space action](https://github.com/stackabletech/docker-images/pull/763) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [chore: Release product-config 0.7.0](https://github.com/stackabletech/product-config/pull/110) on [stackabletech/product-config](https://github.com/stackabletech/product-config) (1 day ago)
+- [refactor: Move scripts into .scripts folder](https://github.com/stackabletech/docker-images/pull/764) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [fix(ci): Re-add free-disk-space action](https://github.com/stackabletech/docker-images/pull/763) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
 - [feat!: Split up CI workflow per product](https://github.com/stackabletech/docker-images/pull/733) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
 - [refactor(stackable-versioned): Remove duplicate code](https://github.com/stackabletech/operator-rs/pull/820) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
-- [chore: Release stackablectl-24.3.6](https://github.com/stackabletech/stackable-cockpit/pull/304) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 week ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 weeks ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.6) ([stackablectl-24.3.6](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.6)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
 - [stackabletech/tokio-zookeeper](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0) ([0.3.0](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0)) -  (2 months ago)
 
