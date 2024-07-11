@@ -25,20 +25,20 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/product-config](https://github.com/stackabletech/product-config) - A library to validate product configuration properties with regard to version, data type, minimum and maximum bounds, dependencies and roles (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (5 days ago)
-- [stackabletech/dummy-docker-images](https://github.com/stackabletech/dummy-docker-images) - On-Site 07-2024 Experimental Docker Images repository (6 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
+- [Techassi/rcm](https://github.com/Techassi/rcm) - Remote repository clone manager (1 day ago)
+- [stackabletech/product-config](https://github.com/stackabletech/product-config) - A library to validate product configuration properties with regard to version, data type, minimum and maximum bounds, dependencies and roles (2 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (6 days ago)
+- [stackabletech/dummy-docker-images](https://github.com/stackabletech/dummy-docker-images) - On-Site 07-2024 Experimental Docker Images repository (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Release product-config 0.7.0](https://github.com/stackabletech/product-config/pull/110) on [stackabletech/product-config](https://github.com/stackabletech/product-config) (1 day ago)
-- [refactor: Move scripts into .scripts folder](https://github.com/stackabletech/docker-images/pull/764) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
-- [fix(ci): Re-add free-disk-space action](https://github.com/stackabletech/docker-images/pull/763) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
-- [feat!: Split up CI workflow per product](https://github.com/stackabletech/docker-images/pull/733) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
-- [refactor(stackable-versioned): Remove duplicate code](https://github.com/stackabletech/operator-rs/pull/820) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
+- [chore: Bump stackable-operator and product-config](https://github.com/stackabletech/kafka-operator/pull/725) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (1 day ago)
+- [chore: Bump stackable-operator and product-config](https://github.com/stackabletech/hive-operator/pull/480) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (1 day ago)
+- [chore: Bump stackable-operator and product-config](https://github.com/stackabletech/hdfs-operator/pull/546) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (1 day ago)
+- [chore: Bump stackable-operator and product-config](https://github.com/stackabletech/hbase-operator/pull/524) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (1 day ago)
+- [chore: Bump stackable-operator and product-config](https://github.com/stackabletech/druid-operator/pull/585) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
