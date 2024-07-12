@@ -26,19 +26,19 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
 
 - [Techassi/rcm](https://github.com/Techassi/rcm) - Remote repository clone manager (1 day ago)
-- [stackabletech/product-config](https://github.com/stackabletech/product-config) - A library to validate product configuration properties with regard to version, data type, minimum and maximum bounds, dependencies and roles (2 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (2 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (6 days ago)
-- [stackabletech/dummy-docker-images](https://github.com/stackabletech/dummy-docker-images) - On-Site 07-2024 Experimental Docker Images repository (1 week ago)
+- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (1 day ago)
+- [kore-rs/.github](https://github.com/kore-rs/.github) -  (1 day ago)
+- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (1 day ago)
+- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Apache Hadoop HDFS operator for Stackable (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Bump stackable-operator and product-config](https://github.com/stackabletech/kafka-operator/pull/725) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (1 day ago)
-- [chore: Bump stackable-operator and product-config](https://github.com/stackabletech/hive-operator/pull/480) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (1 day ago)
-- [chore: Bump stackable-operator and product-config](https://github.com/stackabletech/hdfs-operator/pull/546) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (1 day ago)
-- [chore: Bump stackable-operator and product-config](https://github.com/stackabletech/hbase-operator/pull/524) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (1 day ago)
-- [chore: Bump stackable-operator and product-config](https://github.com/stackabletech/druid-operator/pull/585) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (1 day ago)
+- [chore: Bump stackable-operator and product-config](https://github.com/stackabletech/nifi-operator/pull/641) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (1 day ago)
+- [fix(changelog): Update PR link](https://github.com/stackabletech/kafka-operator/pull/727) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (1 day ago)
+- [fix(changelog): Update PR link](https://github.com/stackabletech/hdfs-operator/pull/548) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (1 day ago)
+- [fix(changelog): Update PR link](https://github.com/stackabletech/hbase-operator/pull/526) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (1 day ago)
+- [chore: Bump stackable-operator and product-config](https://github.com/stackabletech/kafka-operator/pull/725) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
