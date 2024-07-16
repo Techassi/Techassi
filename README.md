@@ -25,20 +25,20 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 days ago)
-- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (3 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (3 days ago)
-- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (3 days ago)
-- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (3 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (4 days ago)
+- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (4 days ago)
+- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (4 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Add issue template file](https://github.com/stackabletech/operator-rs/pull/826) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
-- [chore: Bump stackable-operator and product-config](https://github.com/stackabletech/nifi-operator/pull/641) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (4 days ago)
-- [fix(changelog): Update PR link](https://github.com/stackabletech/kafka-operator/pull/727) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (4 days ago)
-- [fix(changelog): Update PR link](https://github.com/stackabletech/hdfs-operator/pull/548) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (4 days ago)
-- [fix(changelog): Update PR link](https://github.com/stackabletech/hbase-operator/pull/526) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (4 days ago)
+- [chore: Add operator Rust update issue template](https://github.com/stackabletech/issues/pull/605) on [stackabletech/issues](https://github.com/stackabletech/issues) (1 day ago)
+- [chore: Add pre-release issue and PR templates](https://github.com/stackabletech/operator-templating/pull/407) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [chore: Add issue template file](https://github.com/stackabletech/operator-rs/pull/826) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
+- [chore: Bump stackable-operator and product-config](https://github.com/stackabletech/nifi-operator/pull/641) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (5 days ago)
+- [fix(changelog): Update PR link](https://github.com/stackabletech/kafka-operator/pull/727) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (5 days ago)
 
 #### 📦 Latest releases I've contributed to
 
