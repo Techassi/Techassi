@@ -25,25 +25,25 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (1 day ago)
 - [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (4 days ago)
-- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (4 days ago)
-- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (4 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (5 days ago)
+- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (5 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Add operator Rust update issue template](https://github.com/stackabletech/issues/pull/605) on [stackabletech/issues](https://github.com/stackabletech/issues) (1 day ago)
-- [chore: Add pre-release issue and PR templates](https://github.com/stackabletech/operator-templating/pull/407) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [chore: Add issue template file](https://github.com/stackabletech/operator-rs/pull/826) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
-- [chore: Bump stackable-operator and product-config](https://github.com/stackabletech/nifi-operator/pull/641) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (5 days ago)
-- [fix(changelog): Update PR link](https://github.com/stackabletech/kafka-operator/pull/727) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (5 days ago)
+- [chore: Add getting-started scripts PR template](https://github.com/stackabletech/operator-templating/pull/408) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [chore: Add getting-started scripts issue template](https://github.com/stackabletech/issues/pull/606) on [stackabletech/issues](https://github.com/stackabletech/issues) (1 day ago)
+- [chore: Add operator Rust update issue template](https://github.com/stackabletech/issues/pull/605) on [stackabletech/issues](https://github.com/stackabletech/issues) (2 days ago)
+- [chore: Add pre-release issue and PR templates](https://github.com/stackabletech/operator-templating/pull/407) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
+- [chore: Add issue template file](https://github.com/stackabletech/operator-rs/pull/826) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 weeks ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (3 weeks ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.6) ([stackablectl-24.3.6](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.6)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 weeks ago)
 - [stackabletech/tokio-zookeeper](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0) ([0.3.0](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0)) -  (2 months ago)
 
