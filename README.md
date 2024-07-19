@@ -25,20 +25,20 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (1 day ago)
 - [NickLarsenNZ/crumpet](https://github.com/NickLarsenNZ/crumpet) - A repository templating engine for keeping similar repositories up-to-date. (1 day ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (6 days ago)
+- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (2 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (3 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (4 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Add getting-started scripts PR template](https://github.com/stackabletech/operator-templating/pull/408) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
-- [chore: Add getting-started scripts issue template](https://github.com/stackabletech/issues/pull/606) on [stackabletech/issues](https://github.com/stackabletech/issues) (2 days ago)
-- [chore: Add operator Rust update issue template](https://github.com/stackabletech/issues/pull/605) on [stackabletech/issues](https://github.com/stackabletech/issues) (3 days ago)
-- [chore: Add pre-release issue and PR templates](https://github.com/stackabletech/operator-templating/pull/407) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (3 days ago)
-- [chore: Add issue template file](https://github.com/stackabletech/operator-rs/pull/826) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
+- [chore: Add OpenShift integration tests issue template](https://github.com/stackabletech/issues/pull/610) on [stackabletech/issues](https://github.com/stackabletech/issues) (today)
+- [chore: Add pre-release nightly demo testing issue template](https://github.com/stackabletech/issues/pull/609) on [stackabletech/issues](https://github.com/stackabletech/issues) (today)
+- [chore: Add getting-started scripts PR template](https://github.com/stackabletech/operator-templating/pull/408) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (3 days ago)
+- [chore: Add getting-started scripts issue template](https://github.com/stackabletech/issues/pull/606) on [stackabletech/issues](https://github.com/stackabletech/issues) (3 days ago)
+- [chore: Add operator Rust update issue template](https://github.com/stackabletech/issues/pull/605) on [stackabletech/issues](https://github.com/stackabletech/issues) (4 days ago)
 
 #### 📦 Latest releases I've contributed to
 
