@@ -26,25 +26,25 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
 
 - [NickLarsenNZ/crumpet](https://github.com/NickLarsenNZ/crumpet) - A repository templating engine for keeping similar repositories up-to-date. (1 day ago)
-- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (4 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (5 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (6 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (1 week ago)
+- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (5 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (6 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Add OpenShift integration tests issue template](https://github.com/stackabletech/issues/pull/610) on [stackabletech/issues](https://github.com/stackabletech/issues) (2 days ago)
-- [chore: Add pre-release nightly demo testing issue template](https://github.com/stackabletech/issues/pull/609) on [stackabletech/issues](https://github.com/stackabletech/issues) (2 days ago)
-- [chore: Add getting-started scripts PR template](https://github.com/stackabletech/operator-templating/pull/408) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (5 days ago)
-- [chore: Add getting-started scripts issue template](https://github.com/stackabletech/issues/pull/606) on [stackabletech/issues](https://github.com/stackabletech/issues) (5 days ago)
-- [chore: Add operator Rust update issue template](https://github.com/stackabletech/issues/pull/605) on [stackabletech/issues](https://github.com/stackabletech/issues) (6 days ago)
+- [chore: Add OpenShift integration tests issue template](https://github.com/stackabletech/issues/pull/610) on [stackabletech/issues](https://github.com/stackabletech/issues) (3 days ago)
+- [chore: Add pre-release nightly demo testing issue template](https://github.com/stackabletech/issues/pull/609) on [stackabletech/issues](https://github.com/stackabletech/issues) (3 days ago)
+- [chore: Add getting-started scripts PR template](https://github.com/stackabletech/operator-templating/pull/408) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (6 days ago)
+- [chore: Add getting-started scripts issue template](https://github.com/stackabletech/issues/pull/606) on [stackabletech/issues](https://github.com/stackabletech/issues) (6 days ago)
+- [chore: Add operator Rust update issue template](https://github.com/stackabletech/issues/pull/605) on [stackabletech/issues](https://github.com/stackabletech/issues) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (3 weeks ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.6) ([stackablectl-24.3.6](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.6)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 weeks ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.6) ([stackablectl-24.3.6](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.3.6)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (4 weeks ago)
 - [stackabletech/tokio-zookeeper](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0) ([0.3.0](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0)) -  (2 months ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
