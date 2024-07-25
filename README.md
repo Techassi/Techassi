@@ -25,25 +25,25 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
-- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (1 day ago)
-- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (2 days ago)
-- [NickLarsenNZ/crumpet](https://github.com/NickLarsenNZ/crumpet) - A repository templating engine for keeping similar repositories up-to-date. (3 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 week ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 day ago)
+- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
+- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (2 days ago)
+- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (3 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Add pre-release PR template to run and update nightly demos](https://github.com/stackabletech/demos/pull/64) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
-- [chore: Release stackablectl-24.7.0](https://github.com/stackabletech/stackable-cockpit/pull/309) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
-- [Fix: Use correct compare URL format](https://github.com/stackabletech/issues/pull/612) on [stackabletech/issues](https://github.com/stackabletech/issues) (2 days ago)
-- [chore: Add OpenShift integration tests issue template](https://github.com/stackabletech/issues/pull/610) on [stackabletech/issues](https://github.com/stackabletech/issues) (5 days ago)
-- [chore: Add pre-release nightly demo testing issue template](https://github.com/stackabletech/issues/pull/609) on [stackabletech/issues](https://github.com/stackabletech/issues) (5 days ago)
+- [fix: Adjust getting-started script for release 24.7.0](https://github.com/stackabletech/hdfs-operator/pull/562) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (1 day ago)
+- [chore: Add release 24.7.0](https://github.com/stackabletech/crddocs/pull/38) on [stackabletech/crddocs](https://github.com/stackabletech/crddocs) (1 day ago)
+- [chore: Add pre-release PR template to run and update nightly demos](https://github.com/stackabletech/demos/pull/64) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
+- [chore: Release stackablectl-24.7.0](https://github.com/stackabletech/stackable-cockpit/pull/309) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
+- [Fix: Use correct compare URL format](https://github.com/stackabletech/issues/pull/612) on [stackabletech/issues](https://github.com/stackabletech/issues) (3 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.7.0) ([stackablectl-24.7.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.7.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.7.0) ([stackablectl-24.7.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.7.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (4 weeks ago)
 - [stackabletech/tokio-zookeeper](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0) ([0.3.0](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0)) -  (2 months ago)
 
