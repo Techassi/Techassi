@@ -25,25 +25,25 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/atmc](https://github.com/Techassi/atmc) - AsciiDoc to (Material for) MkDocs Converter (1 day ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (2 days ago)
-- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (2 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 days ago)
-- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (3 days ago)
+- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Apache Hadoop HDFS operator for Stackable (1 day ago)
+- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (1 day ago)
+- [Techassi/atmc](https://github.com/Techassi/atmc) - AsciiDoc to (Material for) MkDocs Converter (2 days ago)
+- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (3 days ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (3 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [refactor: Replace lazy_static with std::sync::LazyLock](https://github.com/stackabletech/operator-rs/pull/827) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [fix: Adjust getting-started script for release 24.7.0](https://github.com/stackabletech/kafka-operator/pull/738) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (1 day ago)
-- [fix: Adjust getting-started script for release 24.7.0](https://github.com/stackabletech/hdfs-operator/pull/562) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (2 days ago)
-- [chore: Add release 24.7.0](https://github.com/stackabletech/crddocs/pull/38) on [stackabletech/crddocs](https://github.com/stackabletech/crddocs) (2 days ago)
-- [chore: Add pre-release PR template to run and update nightly demos](https://github.com/stackabletech/demos/pull/64) on [stackabletech/demos](https://github.com/stackabletech/demos) (3 days ago)
+- [fix: Adjust getting-started script for release 24.7.](https://github.com/stackabletech/kafka-operator/pull/739) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (1 day ago)
+- [fix: Adjust getting-started script for release 24.7.0](https://github.com/stackabletech/hdfs-operator/pull/563) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (1 day ago)
+- [refactor: Replace lazy_static with std::sync::LazyLock](https://github.com/stackabletech/operator-rs/pull/827) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [fix: Adjust getting-started script for release 24.7.0](https://github.com/stackabletech/kafka-operator/pull/738) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (2 days ago)
+- [fix: Adjust getting-started script for release 24.7.0](https://github.com/stackabletech/hdfs-operator/pull/562) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (3 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.7.0) ([stackablectl-24.7.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.7.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.7.0) ([stackablectl-24.7.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.7.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (4 days ago)
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 month ago)
 - [stackabletech/tokio-zookeeper](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0) ([0.3.0](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0)) -  (2 months ago)
 
