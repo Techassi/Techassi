@@ -25,25 +25,25 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
-- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (3 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (4 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (4 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 days ago)
+- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (4 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (5 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (5 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore(deps): Bump Go dependencies](https://github.com/stackabletech/stackable-cockpit/pull/313) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
-- [chore: Bump Rust to 1.80.0 in ubi8/9-rust-builder](https://github.com/stackabletech/docker-images/pull/794) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (4 days ago)
-- [chore: Update Rust toolchain to 1.80.0](https://github.com/stackabletech/operator-templating/pull/416) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (5 days ago)
+- [chore(deps): Bump Go dependencies](https://github.com/stackabletech/stackable-cockpit/pull/313) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 days ago)
+- [chore: Bump Rust to 1.80.0 in ubi8/9-rust-builder](https://github.com/stackabletech/docker-images/pull/794) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (5 days ago)
+- [chore: Update Rust toolchain to 1.80.0](https://github.com/stackabletech/operator-templating/pull/416) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (6 days ago)
 - [fix: Adjust getting-started script for release 24.7.](https://github.com/stackabletech/kafka-operator/pull/739) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (1 week ago)
 - [fix: Adjust getting-started script for release 24.7.0](https://github.com/stackabletech/hdfs-operator/pull/563) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (4 days ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (5 days ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.7.0) ([stackablectl-24.7.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.7.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 - [stackabletech/tokio-zookeeper](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0) ([0.3.0](https://github.com/stackabletech/tokio-zookeeper/releases/tag/0.3.0)) -  (2 months ago)
 
