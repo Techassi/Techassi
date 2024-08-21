@@ -25,16 +25,16 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
-- [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser (4 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (5 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 days ago)
+- [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser (5 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (6 days ago)
 - [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (2 weeks ago)
-- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (2 weeks ago)
+- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (3 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Release stackblectl-24.7.1](https://github.com/stackabletech/stackable-cockpit/pull/317) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (5 days ago)
+- [chore: Release stackblectl-24.7.1](https://github.com/stackabletech/stackable-cockpit/pull/317) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (6 days ago)
 - [fix: Remove generic type from write_char_string method](https://github.com/Techassi/binbuf/pull/2) on [Techassi/binbuf](https://github.com/Techassi/binbuf) (2 weeks ago)
 - [chore(deps): Bump Go dependencies](https://github.com/stackabletech/stackable-cockpit/pull/313) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 weeks ago)
 - [chore: Bump Rust to 1.80.0 in ubi8/9-rust-builder](https://github.com/stackabletech/docker-images/pull/794) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 weeks ago)
@@ -43,7 +43,7 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.7.1) ([stackablectl-24.7.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.7.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (5 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.7.1) ([stackablectl-24.7.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.7.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (6 days ago)
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 week ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.20.10) ([v0.20.10](https://github.com/TedDriggs/darling/releases/tag/v0.20.10)) - A Rust proc-macro attribute parser (1 month ago)
 
