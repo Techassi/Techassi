@@ -25,8 +25,8 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
-- [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser (6 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (today)
+- [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 - [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (2 weeks ago)
 - [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (3 weeks ago)
@@ -34,11 +34,11 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [feat(stackable-versioned): Add support for type changes of fields](https://github.com/stackabletech/operator-rs/pull/844) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [fix(stackable-versioned): Validation error reporting](https://github.com/stackabletech/operator-rs/pull/842) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [refactor(stackable-versioned): Adjust variant rename validation error span](https://github.com/stackabletech/operator-rs/pull/848) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [feat(stackable-versioned): Add support for type changes of fields](https://github.com/stackabletech/operator-rs/pull/844) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [fix(stackable-versioned): Validation error reporting](https://github.com/stackabletech/operator-rs/pull/842) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
 - [chore: Release stackblectl-24.7.1](https://github.com/stackabletech/stackable-cockpit/pull/317) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 - [fix: Remove generic type from write_char_string method](https://github.com/Techassi/binbuf/pull/2) on [Techassi/binbuf](https://github.com/Techassi/binbuf) (2 weeks ago)
-- [chore(deps): Bump Go dependencies](https://github.com/stackabletech/stackable-cockpit/pull/313) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
