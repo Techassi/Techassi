@@ -25,7 +25,7 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (today)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 - [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (2 weeks ago)
@@ -34,17 +34,17 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [refactor(stackable-versioned): Adjust variant rename validation error span](https://github.com/stackabletech/operator-rs/pull/848) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [feat(stackable-versioned): Add support for type changes of fields](https://github.com/stackabletech/operator-rs/pull/844) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
-- [fix(stackable-versioned): Validation error reporting](https://github.com/stackabletech/operator-rs/pull/842) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [feat(stackable-versioned): Forward container visibility](https://github.com/stackabletech/operator-rs/pull/850) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [refactor(stackable-versioned): Adjust variant rename validation error span](https://github.com/stackabletech/operator-rs/pull/848) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [feat(stackable-versioned): Add support for type changes of fields](https://github.com/stackabletech/operator-rs/pull/844) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
+- [fix(stackable-versioned): Validation error reporting](https://github.com/stackabletech/operator-rs/pull/842) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
 - [chore: Release stackblectl-24.7.1](https://github.com/stackabletech/stackable-cockpit/pull/317) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
-- [fix: Remove generic type from write_char_string method](https://github.com/Techassi/binbuf/pull/2) on [Techassi/binbuf](https://github.com/Techassi/binbuf) (2 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
 
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.7.1) ([stackablectl-24.7.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.7.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 week ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 weeks ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.20.10) ([v0.20.10](https://github.com/TedDriggs/darling/releases/tag/v0.20.10)) - A Rust proc-macro attribute parser (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
