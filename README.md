@@ -25,7 +25,7 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (4 days ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 - [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (3 weeks ago)
@@ -34,10 +34,10 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [feat(stackable-versioned): Forward container visibility](https://github.com/stackabletech/operator-rs/pull/850) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
-- [refactor(stackable-versioned): Adjust variant rename validation error span](https://github.com/stackabletech/operator-rs/pull/848) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
-- [feat(stackable-versioned): Add support for type changes of fields](https://github.com/stackabletech/operator-rs/pull/844) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
-- [fix(stackable-versioned): Validation error reporting](https://github.com/stackabletech/operator-rs/pull/842) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
+- [feat(stackable-versioned): Forward container visibility](https://github.com/stackabletech/operator-rs/pull/850) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
+- [refactor(stackable-versioned): Adjust variant rename validation error span](https://github.com/stackabletech/operator-rs/pull/848) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
+- [feat(stackable-versioned): Add support for type changes of fields](https://github.com/stackabletech/operator-rs/pull/844) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
+- [fix(stackable-versioned): Validation error reporting](https://github.com/stackabletech/operator-rs/pull/842) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
 - [chore: Release stackblectl-24.7.1](https://github.com/stackabletech/stackable-cockpit/pull/317) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
