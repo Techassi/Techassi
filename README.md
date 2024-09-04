@@ -25,8 +25,8 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
 - [stackabletech/dummy-docker-images](https://github.com/stackabletech/dummy-docker-images) - Experimental Docker Images repository (1 week ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 week ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser (2 weeks ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
 - [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (1 month ago)
@@ -34,11 +34,11 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [ci: Adjust actions and refactor mirror workflow](https://github.com/stackabletech/docker-images/pull/819) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
+- [chore: Bump Rust dependencies](https://github.com/stackabletech/stackable-cockpit/pull/318) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
+- [ci: Adjust actions and refactor mirror workflow](https://github.com/stackabletech/docker-images/pull/819) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
 - [ci: Rebuild actions/workflows for mirroring](https://github.com/stackabletech/dummy-docker-images/pull/1) on [stackabletech/dummy-docker-images](https://github.com/stackabletech/dummy-docker-images) (1 week ago)
 - [feat(stackable-versioned): Forward container visibility](https://github.com/stackabletech/operator-rs/pull/850) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [refactor(stackable-versioned): Adjust variant rename validation error span](https://github.com/stackabletech/operator-rs/pull/848) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
-- [feat(stackable-versioned): Add support for type changes of fields](https://github.com/stackabletech/operator-rs/pull/844) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
