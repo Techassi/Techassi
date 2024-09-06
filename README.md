@@ -27,25 +27,25 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
 - [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
-- [stackabletech/dummy-docker-images](https://github.com/stackabletech/dummy-docker-images) - Experimental Docker Images repository (1 week ago)
+- [stackabletech/beku.py](https://github.com/stackabletech/beku.py) - Test suite expander for Stackable Kuttl tests. (1 day ago)
+- [stackabletech/image-tools](https://github.com/stackabletech/image-tools) - Tools to manipulate container images of the Stackable Data Platform (1 day ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci: Replace reviewdog with pre-commit](https://github.com/stackabletech/operator-templating/pull/422) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [ci: Replace reviewdog with pre-commit](https://github.com/stackabletech/docker-images/pull/823) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [ci: Replace reviewdog with pre-commit](https://github.com/stackabletech/stackable-cockpit/pull/319) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
-- [ci: Replace reviewdog with pre-commit](https://github.com/stackabletech/operator-rs/pull/854) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [chore: Bump Rust dependencies](https://github.com/stackabletech/stackable-cockpit/pull/318) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
+- [feat(stackable-versioned): Add K8s specific features](https://github.com/stackabletech/operator-rs/pull/857) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [ci: Add pre-commit workflow](https://github.com/stackabletech/beku.py/pull/28) on [stackabletech/beku.py](https://github.com/stackabletech/beku.py) (1 day ago)
+- [ci: Add pre-commit workflow](https://github.com/stackabletech/documentation/pull/657) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [ci: Add pre-commit workflow](https://github.com/stackabletech/trino-lb/pull/49) on [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb) (1 day ago)
+- [ci: Add pre-commit workflow](https://github.com/stackabletech/image-tools/pull/42) on [stackabletech/image-tools](https://github.com/stackabletech/image-tools) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
 
+- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.3.2) ([v0.3.2](https://github.com/stackabletech/trino-lb/releases/tag/v0.3.2)) - Trino load balancer with support for routing, queueing and auto-scaling (2 weeks ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.7.1) ([stackablectl-24.7.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.7.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 weeks ago)
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (3 weeks ago)
-- [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.20.10) ([v0.20.10](https://github.com/TedDriggs/darling/releases/tag/v0.20.10)) - A Rust proc-macro attribute parser (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
