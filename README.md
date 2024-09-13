@@ -26,17 +26,17 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
 
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
-- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (5 days ago)
+- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (2 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (6 days ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 - [stackabletech/beku.py](https://github.com/stackabletech/beku.py) - Test suite expander for Stackable Kuttl tests. (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [docs(stackable-versioned): Update usage guide](https://github.com/stackabletech/operator-rs/pull/864) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [fix(stackable-versioned): Emit right type for unchanged fields](https://github.com/stackabletech/operator-rs/pull/860) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
-- [feat(stackable-versioned): Add &#39;use super::*&#39; to generated version module](https://github.com/stackabletech/operator-rs/pull/859) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
+- [docs(stackable-versioned): Update usage guide](https://github.com/stackabletech/operator-rs/pull/864) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [fix(stackable-versioned): Emit right type for unchanged fields](https://github.com/stackabletech/operator-rs/pull/860) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
+- [feat(stackable-versioned): Add &#39;use super::*&#39; to generated version module](https://github.com/stackabletech/operator-rs/pull/859) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [feat(stackable-versioned): Add K8s specific features](https://github.com/stackabletech/operator-rs/pull/857) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [ci: Add pre-commit workflow](https://github.com/stackabletech/beku.py/pull/28) on [stackabletech/beku.py](https://github.com/stackabletech/beku.py) (1 week ago)
 
