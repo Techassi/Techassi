@@ -25,17 +25,17 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 days ago)
-- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (3 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 days ago)
+- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (4 days ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (1 week ago)
 - [stackabletech/image-tools](https://github.com/stackabletech/image-tools) - Tools to manipulate container images of the Stackable Data Platform (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Add pre-commit instructions to issue template](https://github.com/stackabletech/operator-templating/pull/435) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [docs(stackable-versioned): Update usage guide](https://github.com/stackabletech/operator-rs/pull/864) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
+- [chore: Add pre-commit instructions to issue template](https://github.com/stackabletech/operator-templating/pull/435) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
+- [docs(stackable-versioned): Update usage guide](https://github.com/stackabletech/operator-rs/pull/864) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
 - [fix(stackable-versioned): Emit right type for unchanged fields](https://github.com/stackabletech/operator-rs/pull/860) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [feat(stackable-versioned): Add &#39;use super::*&#39; to generated version module](https://github.com/stackabletech/operator-rs/pull/859) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [feat(stackable-versioned): Add K8s specific features](https://github.com/stackabletech/operator-rs/pull/857) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
@@ -43,7 +43,7 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/image-tools](https://github.com/stackabletech/image-tools/releases/tag/0.0.13) ([0.0.13](https://github.com/stackabletech/image-tools/releases/tag/0.0.13)) - Tools to manipulate container images of the Stackable Data Platform (1 day ago)
+- [stackabletech/image-tools](https://github.com/stackabletech/image-tools/releases/tag/0.0.13) ([0.0.13](https://github.com/stackabletech/image-tools/releases/tag/0.0.13)) - Tools to manipulate container images of the Stackable Data Platform (2 days ago)
 - [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.3.2) ([v0.3.2](https://github.com/stackabletech/trino-lb/releases/tag/v0.3.2)) - Trino load balancer with support for routing, queueing and auto-scaling (3 weeks ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.7.1) ([stackablectl-24.7.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.7.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 month ago)
 
