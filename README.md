@@ -25,8 +25,8 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (6 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
 - [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 week ago)
 - [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (2 weeks ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (2 weeks ago)
@@ -34,11 +34,11 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [refactor(stackable-versioned): Rework version enum for merged_crd](https://github.com/stackabletech/operator-rs/pull/875) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [feat(stackable-versioned): Forward selected kube args](https://github.com/stackabletech/operator-rs/pull/873) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
-- [ci: Add pre-commit workflow](https://github.com/Techassi/binbuf/pull/6) on [Techassi/binbuf](https://github.com/Techassi/binbuf) (3 days ago)
-- [feat(stackable-versioned): Use enum for merged_crd instead of str](https://github.com/stackabletech/operator-rs/pull/872) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
-- [chore: Rename unit test functions](https://github.com/stackabletech/operator-rs/pull/870) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
+- [feat(stackable-versioned): Add conditional allow attr generation](https://github.com/stackabletech/operator-rs/pull/876) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [refactor(stackable-versioned): Rework version enum for merged_crd](https://github.com/stackabletech/operator-rs/pull/875) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [feat(stackable-versioned): Forward selected kube args](https://github.com/stackabletech/operator-rs/pull/873) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
+- [ci: Add pre-commit workflow](https://github.com/Techassi/binbuf/pull/6) on [Techassi/binbuf](https://github.com/Techassi/binbuf) (4 days ago)
+- [feat(stackable-versioned): Use enum for merged_crd instead of str](https://github.com/stackabletech/operator-rs/pull/872) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
 
 #### 📦 Latest releases I've contributed to
 
