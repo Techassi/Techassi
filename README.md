@@ -25,25 +25,25 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
+- [Techassi/binbuf](https://github.com/Techassi/binbuf) - A small library to work with binary (network) data in Rust (1 day ago)
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 week ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 weeks ago)
 - [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (2 weeks ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(stackable-versioned): Add conditional allow attr generation](https://github.com/stackabletech/operator-rs/pull/876) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [refactor(stackable-versioned): Rework version enum for merged_crd](https://github.com/stackabletech/operator-rs/pull/875) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
-- [feat(stackable-versioned): Forward selected kube args](https://github.com/stackabletech/operator-rs/pull/873) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
-- [ci: Add pre-commit workflow](https://github.com/Techassi/binbuf/pull/6) on [Techassi/binbuf](https://github.com/Techassi/binbuf) (4 days ago)
-- [feat(stackable-versioned): Use enum for merged_crd instead of str](https://github.com/stackabletech/operator-rs/pull/872) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
+- [docs(code-style-guide): Add comment rules](https://github.com/stackabletech/documentation/pull/668) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [chore: Release stackable-versioned 0.3.0](https://github.com/stackabletech/operator-rs/pull/877) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [feat(stackable-versioned): Add conditional allow attr generation](https://github.com/stackabletech/operator-rs/pull/876) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [refactor(stackable-versioned): Rework version enum for merged_crd](https://github.com/stackabletech/operator-rs/pull/875) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
+- [feat(stackable-versioned): Forward selected kube args](https://github.com/stackabletech/operator-rs/pull/873) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/image-tools](https://github.com/stackabletech/image-tools/releases/tag/0.0.13) ([0.0.13](https://github.com/stackabletech/image-tools/releases/tag/0.0.13)) - Tools to manipulate container images of the Stackable Data Platform (1 week ago)
+- [stackabletech/image-tools](https://github.com/stackabletech/image-tools/releases/tag/0.0.13) ([0.0.13](https://github.com/stackabletech/image-tools/releases/tag/0.0.13)) - Tools to manipulate container images of the Stackable Data Platform (2 weeks ago)
 - [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.3.2) ([v0.3.2](https://github.com/stackabletech/trino-lb/releases/tag/v0.3.2)) - Trino load balancer with support for routing, queueing and auto-scaling (1 month ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.7.1) ([stackablectl-24.7.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.7.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 month ago)
 
