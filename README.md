@@ -25,25 +25,25 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (2 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) -  (2 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (3 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (3 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) -  (3 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (4 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci: Use stackabletech/actions repo](https://github.com/stackabletech/operator-templating/pull/442) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
-- [ci: Use stackabletech/actions repo](https://github.com/stackabletech/docker-images/pull/885) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
-- [ci: Add pre-commit action](https://github.com/stackabletech/actions/pull/1) on [stackabletech/actions](https://github.com/stackabletech/actions) (3 days ago)
+- [ci: Use stackabletech/actions repo](https://github.com/stackabletech/operator-templating/pull/442) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (3 days ago)
+- [ci: Use stackabletech/actions repo](https://github.com/stackabletech/docker-images/pull/885) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
+- [ci: Add pre-commit action](https://github.com/stackabletech/actions/pull/1) on [stackabletech/actions](https://github.com/stackabletech/actions) (4 days ago)
 - [test(stackable-versioned): Add snapshot testing](https://github.com/stackabletech/operator-rs/pull/881) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [docs(code-style-guide): Add comment rules](https://github.com/stackabletech/documentation/pull/668) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/0.0.2) ([0.0.2](https://github.com/stackabletech/actions/releases/tag/0.0.2)) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.0.2) ([v0.0.2](https://github.com/stackabletech/actions/releases/tag/v0.0.2)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
 - [stackabletech/image-tools](https://github.com/stackabletech/image-tools/releases/tag/0.0.13) ([0.0.13](https://github.com/stackabletech/image-tools/releases/tag/0.0.13)) - Tools to manipulate container images of the Stackable Data Platform (3 weeks ago)
 - [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.3.2) ([v0.3.2](https://github.com/stackabletech/trino-lb/releases/tag/v0.3.2)) - Trino load balancer with support for routing, queueing and auto-scaling (1 month ago)
 
