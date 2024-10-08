@@ -1,11 +1,12 @@
 ### Hey there 👋
 
-I'm a backend software developer and tinkerer working at [Stackable][stackable]. I currently work on
-stackable-lib, stackablectl, and stackabled (see [here][stackable-work]). In my spare time, I work on
-a scalable high-performance [DNS Server][portal] with DNS blocking features and a home router OS
-called [vulcan-rs][vulcan], both written in pure Rust 🦀.
+I'm a backend software developer and tinkerer working at [Stackable][stackable] developing
+[operator-rs][op-rs] and friends as well as [stackablectl][sctl]. In my spare time, I work
+on a scalable high-performance [DNS Server][portal] with DNS blocking features and a home
+router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
-[stackable-work]: https://github.com/stackabletech/stackable
+[sctl]: https://github.com/stackabletech/stackable-cockpit
+[op-rs]: https://github.com/stackabletech/operator-rs
 [stackable]: https://github.com/stackabletech
 [portal]: https://github.com/portal-rs/portal
 [vulcan]: https://github.com/vulcan-rs
