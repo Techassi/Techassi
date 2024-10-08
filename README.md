@@ -25,26 +25,26 @@ called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (5 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (5 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (5 days ago)
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) -  (5 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (6 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (6 days ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) -  (6 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (6 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (6 days ago)
+- [stackabletech/dummy-docker-images](https://github.com/stackabletech/dummy-docker-images) - Experimental Docker Images repository (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci: Use stackabletech/actions repo](https://github.com/stackabletech/operator-templating/pull/442) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (5 days ago)
-- [ci: Use stackabletech/actions repo](https://github.com/stackabletech/docker-images/pull/885) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (5 days ago)
-- [ci: Add pre-commit action](https://github.com/stackabletech/actions/pull/1) on [stackabletech/actions](https://github.com/stackabletech/actions) (6 days ago)
+- [feat!: Add stackable-shared crate](https://github.com/stackabletech/operator-rs/pull/883) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [ci: Use stackabletech/actions repo](https://github.com/stackabletech/operator-templating/pull/442) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (6 days ago)
+- [ci: Use stackabletech/actions repo](https://github.com/stackabletech/docker-images/pull/885) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
+- [ci: Add pre-commit action](https://github.com/stackabletech/actions/pull/1) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 week ago)
 - [test(stackable-versioned): Add snapshot testing](https://github.com/stackabletech/operator-rs/pull/881) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
-- [docs(code-style-guide): Add comment rules](https://github.com/stackabletech/documentation/pull/668) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/lychee-v0.16.1) ([lychee-v0.16.1](https://github.com/lycheeverse/lychee/releases/tag/lychee-v0.16.1)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 day ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.0.2) ([v0.0.2](https://github.com/stackabletech/actions/releases/tag/v0.0.2)) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/lychee-v0.16.1) ([lychee-v0.16.1](https://github.com/lycheeverse/lychee/releases/tag/lychee-v0.16.1)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.0.2) ([v0.0.2](https://github.com/stackabletech/actions/releases/tag/v0.0.2)) - A collection of GitHub Actions used across Stackable repositories (4 days ago)
 - [stackabletech/image-tools](https://github.com/stackabletech/image-tools/releases/tag/0.0.13) ([0.0.13](https://github.com/stackabletech/image-tools/releases/tag/0.0.13)) - Tools to manipulate container images of the Stackable Data Platform (3 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
