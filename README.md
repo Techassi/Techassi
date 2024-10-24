@@ -26,26 +26,26 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (2 days ago)
-- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (3 days ago)
-- [stackabletech/image-tools](https://github.com/stackabletech/image-tools) - Tools to manipulate container images of the Stackable Data Platform (5 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (6 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
+- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (4 days ago)
+- [stackabletech/image-tools](https://github.com/stackabletech/image-tools) - Tools to manipulate container images of the Stackable Data Platform (6 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci: Bump stackabletech/actions to 0.0.6](https://github.com/stackabletech/docker-images/pull/901) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [docs: Add documentation for onVideoIdChange option](https://github.com/vue-youtube/vue-youtube/pull/27) on [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) (3 days ago)
-- [fix: Expose missing helper functions in component](https://github.com/vue-youtube/vue-youtube/pull/26) on [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) (3 days ago)
-- [ci: Adjust workflow commands](https://github.com/vue-youtube/vue-youtube/pull/25) on [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) (3 days ago)
-- [feat(stackable-versioned): Add support for modules](https://github.com/stackabletech/operator-rs/pull/891) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
+- [chore: Bump Rust toolchain to 1.81.0](https://github.com/stackabletech/operator-templating/pull/452) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [chore: Update pre-commit workflow](https://github.com/stackabletech/operator-templating/pull/451) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [ci: Bump stackabletech/actions to 0.0.7](https://github.com/stackabletech/docker-images/pull/903) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [chore: Release workspace members](https://github.com/stackabletech/operator-rs/pull/900) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [ci: Bump stackabletech/actions to 0.0.6](https://github.com/stackabletech/docker-images/pull/901) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 day ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.0.6) ([v0.0.6](https://github.com/stackabletech/actions/releases/tag/v0.0.6)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.0.7) ([v0.0.7](https://github.com/stackabletech/actions/releases/tag/v0.0.7)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 days ago)
 - [stackabletech/image-tools](https://github.com/stackabletech/image-tools/releases/tag/0.0.13) ([0.0.13](https://github.com/stackabletech/image-tools/releases/tag/0.0.13)) - Tools to manipulate container images of the Stackable Data Platform (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
