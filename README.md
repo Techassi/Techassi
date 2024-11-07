@@ -35,7 +35,7 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [feat: Add integration test and Slack notification actions](https://github.com/stackabletech/actions/pull/16) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [feat: Add integration test and Slack notification actions](https://github.com/stackabletech/actions/pull/16) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
 - [fix: Skip the build/publish manifest list job on forks](https://github.com/stackabletech/operator-templating/pull/453) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 week ago)
 - [chore: Bump Rust toolchain to 1.81.0](https://github.com/stackabletech/operator-templating/pull/452) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 weeks ago)
 - [chore: Update pre-commit workflow](https://github.com/stackabletech/operator-templating/pull/451) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 weeks ago)
@@ -44,8 +44,8 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.2.0) ([v0.2.0](https://github.com/stackabletech/actions/releases/tag/v0.2.0)) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 week ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/lychee-v0.17.0) ([lychee-v0.17.0](https://github.com/lycheeverse/lychee/releases/tag/lychee-v0.17.0)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.2.0) ([v0.2.0](https://github.com/stackabletech/actions/releases/tag/v0.2.0)) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
 - [stackabletech/image-tools](https://github.com/stackabletech/image-tools/releases/tag/0.0.13) ([0.0.13](https://github.com/stackabletech/image-tools/releases/tag/0.0.13)) - Tools to manipulate container images of the Stackable Data Platform (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
