@@ -26,26 +26,26 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 week ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (2 weeks ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 weeks ago)
-- [vue-youtube/vue-youtube](https://github.com/vue-youtube/vue-youtube) - Integrate the YouTube Iframe Player into your Vue 2/3 app.  (2 weeks ago)
-- [stackabletech/image-tools](https://github.com/stackabletech/image-tools) - Tools to manipulate container images of the Stackable Data Platform (2 weeks ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat: Add integration test and Slack notification actions](https://github.com/stackabletech/actions/pull/16) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
+- [feat: Support nodes, disk and TTL values in integration test config](https://github.com/stackabletech/actions/pull/17) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [ci: Add operator integration test workflow](https://github.com/stackabletech/operator-templating/pull/459) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [feat: Add integration test action](https://github.com/stackabletech/actions/pull/16) on [stackabletech/actions](https://github.com/stackabletech/actions) (3 days ago)
 - [fix: Skip the build/publish manifest list job on forks](https://github.com/stackabletech/operator-templating/pull/453) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 week ago)
 - [chore: Bump Rust toolchain to 1.81.0](https://github.com/stackabletech/operator-templating/pull/452) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 weeks ago)
-- [chore: Update pre-commit workflow](https://github.com/stackabletech/operator-templating/pull/451) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 weeks ago)
-- [ci: Bump stackabletech/actions to 0.0.7](https://github.com/stackabletech/docker-images/pull/903) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/lychee-v0.17.0) ([lychee-v0.17.0](https://github.com/lycheeverse/lychee/releases/tag/lychee-v0.17.0)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 day ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.2.0) ([v0.2.0](https://github.com/stackabletech/actions/releases/tag/v0.2.0)) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.3.0) ([v0.3.0](https://github.com/stackabletech/actions/releases/tag/v0.3.0)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 day ago)
 - [stackabletech/image-tools](https://github.com/stackabletech/image-tools/releases/tag/0.0.13) ([0.0.13](https://github.com/stackabletech/image-tools/releases/tag/0.0.13)) - Tools to manipulate container images of the Stackable Data Platform (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
