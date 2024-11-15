@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (3 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 day ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (1 week ago)
 - [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 week ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Move demo upgrade issue template](https://github.com/stackabletech/issues/pull/665) on [stackabletech/issues](https://github.com/stackabletech/issues) (3 days ago)
-- [chore: Add demo upgrade issue template](https://github.com/stackabletech/demos/pull/120) on [stackabletech/demos](https://github.com/stackabletech/demos) (3 days ago)
-- [chore: Bump Helm charts](https://github.com/stackabletech/demos/pull/119) on [stackabletech/demos](https://github.com/stackabletech/demos) (3 days ago)
-- [ci: Tweak the integration test configuration](https://github.com/stackabletech/airflow-operator/pull/534) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (6 days ago)
-- [feat: Support nodes, disk and TTL values in integration test config](https://github.com/stackabletech/actions/pull/17) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 week ago)
+- [fix: Remove redirect_facility to fix broken redirects](https://github.com/stackabletech/documentation/pull/678) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [chore: Move demo upgrade issue template](https://github.com/stackabletech/issues/pull/665) on [stackabletech/issues](https://github.com/stackabletech/issues) (4 days ago)
+- [chore: Add demo upgrade issue template](https://github.com/stackabletech/demos/pull/120) on [stackabletech/demos](https://github.com/stackabletech/demos) (4 days ago)
+- [chore: Bump Helm charts](https://github.com/stackabletech/demos/pull/119) on [stackabletech/demos](https://github.com/stackabletech/demos) (4 days ago)
+- [ci: Tweak the integration test configuration](https://github.com/stackabletech/airflow-operator/pull/534) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 day ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 days ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.3.0) ([v0.3.0](https://github.com/stackabletech/actions/releases/tag/v0.3.0)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [stackabletech/image-tools](https://github.com/stackabletech/image-tools/releases/tag/0.0.13) ([0.0.13](https://github.com/stackabletech/image-tools/releases/tag/0.0.13)) - Tools to manipulate container images of the Stackable Data Platform (2 months ago)
 
