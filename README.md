@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
+- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (1 day ago)
 - [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 day ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 days ago)
 - [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (1 week ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 week ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix: Remove redirect_facility to fix broken redirects](https://github.com/stackabletech/documentation/pull/678) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
-- [chore: Move demo upgrade issue template](https://github.com/stackabletech/issues/pull/665) on [stackabletech/issues](https://github.com/stackabletech/issues) (4 days ago)
-- [chore: Add demo upgrade issue template](https://github.com/stackabletech/demos/pull/120) on [stackabletech/demos](https://github.com/stackabletech/demos) (4 days ago)
-- [chore: Bump Helm charts](https://github.com/stackabletech/demos/pull/119) on [stackabletech/demos](https://github.com/stackabletech/demos) (4 days ago)
-- [ci: Tweak the integration test configuration](https://github.com/stackabletech/airflow-operator/pull/534) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (1 week ago)
+- [chore: Release stackablectl-24.11.0](https://github.com/stackabletech/stackable-cockpit/pull/334) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
+- [chore: Add release 24.11.0](https://github.com/stackabletech/crddocs/pull/45) on [stackabletech/crddocs](https://github.com/stackabletech/crddocs) (1 day ago)
+- [fix: Remove redirect_facility to fix broken redirects](https://github.com/stackabletech/documentation/pull/678) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
+- [chore: Move demo upgrade issue template](https://github.com/stackabletech/issues/pull/665) on [stackabletech/issues](https://github.com/stackabletech/issues) (5 days ago)
+- [chore: Add demo upgrade issue template](https://github.com/stackabletech/demos/pull/120) on [stackabletech/demos](https://github.com/stackabletech/demos) (5 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 days ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (3 days ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.3.0) ([v0.3.0](https://github.com/stackabletech/actions/releases/tag/v0.3.0)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [stackabletech/image-tools](https://github.com/stackabletech/image-tools/releases/tag/0.0.13) ([0.0.13](https://github.com/stackabletech/image-tools/releases/tag/0.0.13)) - Tools to manipulate container images of the Stackable Data Platform (2 months ago)
 
