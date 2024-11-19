@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (3 days ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (3 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (4 days ago)
-- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (1 week ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
+- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [stackabletech/hello-world-operator](https://github.com/stackabletech/hello-world-operator) -  (1 day ago)
+- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (1 day ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Release stackablectl-24.11.0](https://github.com/stackabletech/stackable-cockpit/pull/334) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 days ago)
-- [chore: Add release 24.11.0](https://github.com/stackabletech/crddocs/pull/45) on [stackabletech/crddocs](https://github.com/stackabletech/crddocs) (3 days ago)
-- [fix: Remove redirect_facility to fix broken redirects](https://github.com/stackabletech/documentation/pull/678) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (4 days ago)
-- [chore: Move demo upgrade issue template](https://github.com/stackabletech/issues/pull/665) on [stackabletech/issues](https://github.com/stackabletech/issues) (1 week ago)
-- [chore: Add demo upgrade issue template](https://github.com/stackabletech/demos/pull/120) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 week ago)
+- [fix: Adjust Go version in go.mod file](https://github.com/stackabletech/crddocs-generator/pull/25) on [stackabletech/crddocs-generator](https://github.com/stackabletech/crddocs-generator) (1 day ago)
+- [Update CHANGELOG.md from release 24.11.0](https://github.com/stackabletech/zookeeper-operator/pull/886) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (1 day ago)
+- [Update CHANGELOG.md from release 24.11.0](https://github.com/stackabletech/trino-operator/pull/669) on [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) (1 day ago)
+- [Update CHANGELOG.md from release 24.11.0](https://github.com/stackabletech/superset-operator/pull/564) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (1 day ago)
+- [Update CHANGELOG.md from release 24.11.0](https://github.com/stackabletech/spark-k8s-operator/pull/494) on [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (5 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.0) ([stackablectl-24.11.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (6 days ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.3.0) ([v0.3.0](https://github.com/stackabletech/actions/releases/tag/v0.3.0)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
-- [stackabletech/image-tools](https://github.com/stackabletech/image-tools/releases/tag/0.0.13) ([0.0.13](https://github.com/stackabletech/image-tools/releases/tag/0.0.13)) - Tools to manipulate container images of the Stackable Data Platform (2 months ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
