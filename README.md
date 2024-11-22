@@ -26,26 +26,26 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
-- [stackabletech/release](https://github.com/stackabletech/release) - This repository contains the details about how releases of the Stackable platform are put together from individual components. (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) -  (2 days ago)
-- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (3 days ago)
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (3 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
+- [stackabletech/release](https://github.com/stackabletech/release) - This repository contains the details about how releases of the Stackable platform are put together from individual components. (2 days ago)
+- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (4 days ago)
+- [stackabletech/crddocs-generator](https://github.com/stackabletech/crddocs-generator) - A fork of https://doc.crds.dev/ to generate docs locally and for static hosting (4 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Release stackablectl-24.11.1](https://github.com/stackabletech/stackable-cockpit/pull/338) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
-- [chore: Add 24.11 release to README](https://github.com/stackabletech/release/pull/34) on [stackabletech/release](https://github.com/stackabletech/release) (1 day ago)
-- [chore: Add 24.11 release](https://github.com/stackabletech/release/pull/33) on [stackabletech/release](https://github.com/stackabletech/release) (2 days ago)
-- [ci: Use correct version image index manifest tag](https://github.com/stackabletech/docker-images/pull/938) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
-- [fix: Adjust Go version in go.mod file](https://github.com/stackabletech/crddocs-generator/pull/25) on [stackabletech/crddocs-generator](https://github.com/stackabletech/crddocs-generator) (3 days ago)
+- [feat: Add storage and served argument to derive macro](https://github.com/kube-rs/kube/pull/1644) on [kube-rs/kube](https://github.com/kube-rs/kube) (1 day ago)
+- [chore: Release stackablectl-24.11.1](https://github.com/stackabletech/stackable-cockpit/pull/338) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
+- [chore: Add 24.11 release to README](https://github.com/stackabletech/release/pull/34) on [stackabletech/release](https://github.com/stackabletech/release) (2 days ago)
+- [chore: Add 24.11 release](https://github.com/stackabletech/release/pull/33) on [stackabletech/release](https://github.com/stackabletech/release) (3 days ago)
+- [ci: Use correct version image index manifest tag](https://github.com/stackabletech/docker-images/pull/938) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.1) ([stackablectl-24.11.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.1) ([stackablectl-24.11.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (3 days ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.3.0) ([v0.3.0](https://github.com/stackabletech/actions/releases/tag/v0.3.0)) - A collection of GitHub Actions used across Stackable repositories (2 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
