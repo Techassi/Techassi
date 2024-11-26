@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (3 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (4 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (5 days ago)
-- [stackabletech/release](https://github.com/stackabletech/release) - This repository contains the details about how releases of the Stackable platform are put together from individual components. (5 days ago)
+- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (1 day ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (4 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (4 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (5 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (6 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat: Add storage and served argument to derive macro](https://github.com/kube-rs/kube/pull/1644) on [kube-rs/kube](https://github.com/kube-rs/kube) (4 days ago)
-- [chore: Release stackablectl-24.11.1](https://github.com/stackabletech/stackable-cockpit/pull/338) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (5 days ago)
-- [chore: Add 24.11 release to README](https://github.com/stackabletech/release/pull/34) on [stackabletech/release](https://github.com/stackabletech/release) (5 days ago)
-- [chore: Add 24.11 release](https://github.com/stackabletech/release/pull/33) on [stackabletech/release](https://github.com/stackabletech/release) (6 days ago)
-- [ci: Use correct version image index manifest tag](https://github.com/stackabletech/docker-images/pull/938) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
+- [fix(stackable-versioned): Emit Kubernetes code in modules](https://github.com/stackabletech/operator-rs/pull/912) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [feat: Add storage and served argument to derive macro](https://github.com/kube-rs/kube/pull/1644) on [kube-rs/kube](https://github.com/kube-rs/kube) (5 days ago)
+- [chore: Release stackablectl-24.11.1](https://github.com/stackabletech/stackable-cockpit/pull/338) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (6 days ago)
+- [chore: Add 24.11 release to README](https://github.com/stackabletech/release/pull/34) on [stackabletech/release](https://github.com/stackabletech/release) (6 days ago)
+- [chore: Add 24.11 release](https://github.com/stackabletech/release/pull/33) on [stackabletech/release](https://github.com/stackabletech/release) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.1) ([stackablectl-24.11.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (5 days ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/0.97.0) ([0.97.0](https://github.com/kube-rs/kube/releases/tag/0.97.0)) - Rust Kubernetes client and controller runtime (5 days ago)
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (6 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.1) ([stackablectl-24.11.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (6 days ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/0.97.0) ([0.97.0](https://github.com/kube-rs/kube/releases/tag/0.97.0)) - Rust Kubernetes client and controller runtime (6 days ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 week ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
