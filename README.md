@@ -27,19 +27,19 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
 
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (today)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
-- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (3 days ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (6 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 days ago)
+- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (4 days ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (1 week ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix(stackable-versioned): Generate Kubernetes code independent of container order](https://github.com/stackabletech/operator-rs/pull/913) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [chore(docs): Remove superfluous page-aliases](https://github.com/stackabletech/demos/pull/135) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
-- [chore: Change docs version from nightly to 24.11](https://github.com/stackabletech/demos/pull/134) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
-- [fix(stackable-versioned): Emit Kubernetes code in modules](https://github.com/stackabletech/operator-rs/pull/912) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
-- [feat: Add storage and served argument to derive macro](https://github.com/kube-rs/kube/pull/1644) on [kube-rs/kube](https://github.com/kube-rs/kube) (1 week ago)
+- [fix(stackable-versioned): Emit correct enum based on kube kind argument](https://github.com/stackabletech/operator-rs/pull/920) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [refactor(stackable-versioned): Simplify crate overrides](https://github.com/stackabletech/operator-rs/pull/919) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [fix(stackable-versioned): Generate Kubernetes code independent of container order](https://github.com/stackabletech/operator-rs/pull/913) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [chore(docs): Remove superfluous page-aliases](https://github.com/stackabletech/demos/pull/135) on [stackabletech/demos](https://github.com/stackabletech/demos) (3 days ago)
+- [chore: Change docs version from nightly to 24.11](https://github.com/stackabletech/demos/pull/134) on [stackabletech/demos](https://github.com/stackabletech/demos) (3 days ago)
 
 #### 📦 Latest releases I've contributed to
 
