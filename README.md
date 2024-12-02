@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (4 days ago)
-- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (6 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (5 days ago)
+- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (1 week ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (1 week ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore(stackable-versioned): Remove {write,print}_merged_crd function](https://github.com/stackabletech/operator-rs/pull/924) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
-- [feat(stackable-versioned): Support visibility for CRD enum](https://github.com/stackabletech/operator-rs/pull/923) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
-- [fix(stackable-versioned): Emit correct enum based on kube kind argument](https://github.com/stackabletech/operator-rs/pull/920) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
-- [refactor(stackable-versioned): Simplify crate overrides](https://github.com/stackabletech/operator-rs/pull/919) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
-- [fix(stackable-versioned): Generate Kubernetes code independent of container order](https://github.com/stackabletech/operator-rs/pull/913) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
+- [chore(stackable-versioned): Remove {write,print}_merged_crd function](https://github.com/stackabletech/operator-rs/pull/924) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
+- [feat(stackable-versioned): Support visibility for CRD enum](https://github.com/stackabletech/operator-rs/pull/923) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
+- [fix(stackable-versioned): Emit correct enum based on kube kind argument](https://github.com/stackabletech/operator-rs/pull/920) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
+- [refactor(stackable-versioned): Simplify crate overrides](https://github.com/stackabletech/operator-rs/pull/919) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
+- [fix(stackable-versioned): Generate Kubernetes code independent of container order](https://github.com/stackabletech/operator-rs/pull/913) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (3 days ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (4 days ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.1) ([stackablectl-24.11.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/0.97.0) ([0.97.0](https://github.com/kube-rs/kube/releases/tag/0.97.0)) - Rust Kubernetes client and controller runtime (1 week ago)
 
