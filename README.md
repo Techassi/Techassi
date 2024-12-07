@@ -26,26 +26,26 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/beku.py](https://github.com/stackabletech/beku.py) - Test suite expander for Stackable Kuttl tests. (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (3 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [stackabletech/beku.py](https://github.com/stackabletech/beku.py) - Test suite expander for Stackable Kuttl tests. (2 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (4 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (4 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (4 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Release stackable-operator-0.83.0](https://github.com/stackabletech/operator-rs/pull/929) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
-- [chore(ubi-rust-builder): Bump Rust toolchain to 1.82.0](https://github.com/stackabletech/docker-images/pull/944) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
-- [chore: Bump Rust toolchain to 1.82.0](https://github.com/stackabletech/operator-templating/pull/469) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (3 days ago)
-- [ci: Update run-pre-commit action](https://github.com/stackabletech/stackable-cockpit/pull/339) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 days ago)
-- [feat: Add typed scale argument to derive macro](https://github.com/kube-rs/kube/pull/1656) on [kube-rs/kube](https://github.com/kube-rs/kube) (4 days ago)
+- [feat(build-product-image): Add extra-tag-data input](https://github.com/stackabletech/actions/pull/23) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [fix(run-integration-test): Correctly parse config options using yq](https://github.com/stackabletech/actions/pull/22) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [chore: Release stackable-operator-0.83.0](https://github.com/stackabletech/operator-rs/pull/929) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
+- [chore(ubi-rust-builder): Bump Rust toolchain to 1.82.0](https://github.com/stackabletech/docker-images/pull/944) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (4 days ago)
+- [chore: Bump Rust toolchain to 1.82.0](https://github.com/stackabletech/operator-templating/pull/469) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (4 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.4.0) ([v0.4.0](https://github.com/stackabletech/actions/releases/tag/v0.4.0)) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 week ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.5.0) ([v0.5.0](https://github.com/stackabletech/actions/releases/tag/v0.5.0)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 day ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.1) ([stackablectl-24.11.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
