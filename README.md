@@ -26,26 +26,26 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (6 days ago)
-- [stackabletech/beku.py](https://github.com/stackabletech/beku.py) - Test suite expander for Stackable Kuttl tests. (1 week ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 week ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 day ago)
+- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (1 day ago)
+- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (1 day ago)
+- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (1 day ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(build-product-image): Add extra-tag-data input](https://github.com/stackabletech/actions/pull/23) on [stackabletech/actions](https://github.com/stackabletech/actions) (6 days ago)
-- [fix(run-integration-test): Correctly parse config options using yq](https://github.com/stackabletech/actions/pull/22) on [stackabletech/actions](https://github.com/stackabletech/actions) (6 days ago)
+- [ci: Fix static analysis errors](https://github.com/stackabletech/docker-images/pull/955) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [feat(build-product-image): Add extra-tag-data input](https://github.com/stackabletech/actions/pull/23) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 week ago)
+- [fix(run-integration-test): Correctly parse config options using yq](https://github.com/stackabletech/actions/pull/22) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 week ago)
 - [chore: Release stackable-operator-0.83.0](https://github.com/stackabletech/operator-rs/pull/929) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [chore(ubi-rust-builder): Bump Rust toolchain to 1.82.0](https://github.com/stackabletech/docker-images/pull/944) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
-- [chore: Bump Rust toolchain to 1.82.0](https://github.com/stackabletech/operator-templating/pull/469) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.5.0) ([v0.5.0](https://github.com/stackabletech/actions/releases/tag/v0.5.0)) - A collection of GitHub Actions used across Stackable repositories (6 days ago)
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (6 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.5.0) ([v0.5.0](https://github.com/stackabletech/actions/releases/tag/v0.5.0)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.1) ([stackablectl-24.11.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
