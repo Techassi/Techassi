@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 day ago)
-- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (1 day ago)
-- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (1 day ago)
-- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (1 day ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 days ago)
+- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (1 day ago)
+- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Apache Hadoop HDFS operator for Stackable (1 day ago)
+- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci: Fix static analysis errors](https://github.com/stackabletech/docker-images/pull/955) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [ci: Fix static analysis errors](https://github.com/stackabletech/actions/pull/25) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [ci: Fix static analysis errors](https://github.com/stackabletech/docker-images/pull/955) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
 - [feat(build-product-image): Add extra-tag-data input](https://github.com/stackabletech/actions/pull/23) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 week ago)
 - [fix(run-integration-test): Correctly parse config options using yq](https://github.com/stackabletech/actions/pull/22) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 week ago)
 - [chore: Release stackable-operator-0.83.0](https://github.com/stackabletech/operator-rs/pull/929) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
-- [chore(ubi-rust-builder): Bump Rust toolchain to 1.82.0](https://github.com/stackabletech/docker-images/pull/944) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
