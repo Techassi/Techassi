@@ -38,14 +38,14 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 - [refactor(stackable-telemetry)!: Rename Tracing to Telemetry](https://github.com/stackabletech/operator-rs/pull/932) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [feat(run-integration-test): Add interu tool](https://github.com/stackabletech/actions/pull/26) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 week ago)
 - [ci: Fix static analysis errors](https://github.com/stackabletech/actions/pull/25) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 week ago)
-- [ci: Fix static analysis errors](https://github.com/stackabletech/docker-images/pull/955) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
+- [ci: Fix static analysis errors](https://github.com/stackabletech/docker-images/pull/955) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 weeks ago)
 - [feat(build-product-image): Add extra-tag-data input](https://github.com/stackabletech/actions/pull/23) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 day ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/0.98.0) ([0.98.0](https://github.com/kube-rs/kube/releases/tag/0.98.0)) - Rust Kubernetes client and controller runtime (2 days ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 days ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/0.98.0) ([0.98.0](https://github.com/kube-rs/kube/releases/tag/0.98.0)) - Rust Kubernetes client and controller runtime (3 days ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.5.0) ([v0.5.0](https://github.com/stackabletech/actions/releases/tag/v0.5.0)) - A collection of GitHub Actions used across Stackable repositories (2 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
