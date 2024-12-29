@@ -44,8 +44,8 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (4 days ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/0.98.0) ([0.98.0](https://github.com/kube-rs/kube/releases/tag/0.98.0)) - Rust Kubernetes client and controller runtime (5 days ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee/releases/tag/nightly) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly)) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (5 days ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/0.98.0) ([0.98.0](https://github.com/kube-rs/kube/releases/tag/0.98.0)) - Rust Kubernetes client and controller runtime (6 days ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.5.0) ([v0.5.0](https://github.com/stackabletech/actions/releases/tag/v0.5.0)) - A collection of GitHub Actions used across Stackable repositories (3 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
