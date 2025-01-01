@@ -26,7 +26,7 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
 - [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (2 weeks ago)
 - [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (2 weeks ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (2 weeks ago)
@@ -35,7 +35,7 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [refactor(stackable-telemetry)!: Rename Tracing to Telemetry](https://github.com/stackabletech/operator-rs/pull/932) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
+- [refactor(stackable-telemetry)!: Rename Tracing to Telemetry](https://github.com/stackabletech/operator-rs/pull/932) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 weeks ago)
 - [feat(run-integration-test): Add interu tool](https://github.com/stackabletech/actions/pull/26) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 weeks ago)
 - [ci: Fix static analysis errors](https://github.com/stackabletech/actions/pull/25) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 weeks ago)
 - [ci: Fix static analysis errors](https://github.com/stackabletech/docker-images/pull/955) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 weeks ago)
