@@ -26,26 +26,26 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (4 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (4 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (5 days ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 weeks ago)
-- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (1 month ago)
-- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (1 month ago)
+- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Apache Hadoop HDFS operator for Stackable (1 month ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 month ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(run-integration-test): Integrate interu tool into action](https://github.com/stackabletech/actions/pull/29) on [stackabletech/actions](https://github.com/stackabletech/actions) (3 days ago)
+- [docs: Add new completions, simplify install instructions](https://github.com/stackabletech/stackable-cockpit/pull/345) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
+- [feat(interu): Add --check-test-options flag](https://github.com/stackabletech/actions/pull/30) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [feat(run-integration-test): Integrate interu tool into action](https://github.com/stackabletech/actions/pull/29) on [stackabletech/actions](https://github.com/stackabletech/actions) (4 days ago)
 - [refactor!(stackable-operator): Fix and improve quantity parsing](https://github.com/stackabletech/operator-rs/pull/936) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [refactor(stackable-telemetry)!: Rename Tracing to Telemetry](https://github.com/stackabletech/operator-rs/pull/932) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 weeks ago)
-- [feat(run-integration-test): Add interu tool](https://github.com/stackabletech/actions/pull/26) on [stackabletech/actions](https://github.com/stackabletech/actions) (3 weeks ago)
-- [ci: Fix static analysis errors](https://github.com/stackabletech/actions/pull/25) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 month ago)
 
 #### 📦 Latest releases I've contributed to
 
 
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.6.0) ([v0.6.0](https://github.com/stackabletech/actions/releases/tag/v0.6.0)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/0.98.0) ([0.98.0](https://github.com/kube-rs/kube/releases/tag/0.98.0)) - Rust Kubernetes client and controller runtime (3 weeks ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.5.0) ([v0.5.0](https://github.com/stackabletech/actions/releases/tag/v0.5.0)) - A collection of GitHub Actions used across Stackable repositories (1 month ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.1) ([stackablectl-24.11.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
