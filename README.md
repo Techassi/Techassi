@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (6 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (4 weeks ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [stackabletech/release](https://github.com/stackabletech/release) - This repository contains the details about how releases of the Stackable platform are put together from individual components. (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 week ago)
 - [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (1 month ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 month ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(stackable-telemetry): Add tuple to settings conversions](https://github.com/stackabletech/operator-rs/pull/940) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [ci: Bump broken action](https://github.com/stackabletech/actions/pull/33) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [ci: Adjust release artifact path](https://github.com/stackabletech/actions/pull/32) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [ci: Add missing needs key](https://github.com/stackabletech/actions/pull/31) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [docs: Add new completions, simplify install instructions](https://github.com/stackabletech/stackable-cockpit/pull/345) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
+- [chore: Release stackablectl-24.11.2](https://github.com/stackabletech/stackable-cockpit/pull/346) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
+- [chore: Update 24.11 release to use 24.11.1 images](https://github.com/stackabletech/release/pull/35) on [stackabletech/release](https://github.com/stackabletech/release) (1 day ago)
+- [feat(stackable-telemetry): Add tuple to settings conversions](https://github.com/stackabletech/operator-rs/pull/940) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [ci: Bump broken action](https://github.com/stackabletech/actions/pull/33) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
+- [ci: Adjust release artifact path](https://github.com/stackabletech/actions/pull/32) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/interu-0.1.0) ([interu-0.1.0](https://github.com/stackabletech/actions/releases/tag/interu-0.1.0)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.2) ([stackablectl-24.11.2](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.2)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/interu-0.1.0) ([interu-0.1.0](https://github.com/stackabletech/actions/releases/tag/interu-0.1.0)) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/0.98.0) ([0.98.0](https://github.com/kube-rs/kube/releases/tag/0.98.0)) - Rust Kubernetes client and controller runtime (3 weeks ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.1) ([stackablectl-24.11.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
