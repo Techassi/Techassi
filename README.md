@@ -26,16 +26,16 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/stackable-utils](https://github.com/stackabletech/stackable-utils) -  (3 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (4 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (6 days ago)
+- [stackabletech/stackable-utils](https://github.com/stackabletech/stackable-utils) -  (4 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (5 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 - [stackabletech/release](https://github.com/stackabletech/release) - This repository contains the details about how releases of the Stackable platform are put together from individual components. (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(run-integration-test): Ship OTLP logs to Loki](https://github.com/stackabletech/actions/pull/35) on [stackabletech/actions](https://github.com/stackabletech/actions) (3 days ago)
+- [feat(run-integration-test): Ship OTLP logs to Loki](https://github.com/stackabletech/actions/pull/35) on [stackabletech/actions](https://github.com/stackabletech/actions) (4 days ago)
 - [docs(stackable-telemetry): Add #![warn(missing_docs)]](https://github.com/stackabletech/operator-rs/pull/944) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [chore: Release stackablectl-24.11.2](https://github.com/stackabletech/stackable-cockpit/pull/346) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
 - [chore: Update 24.11 release to use 24.11.1 images](https://github.com/stackabletech/release/pull/35) on [stackabletech/release](https://github.com/stackabletech/release) (1 week ago)
