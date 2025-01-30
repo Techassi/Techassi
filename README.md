@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
-- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (2 days ago)
-- [stackabletech/stackable-utils](https://github.com/stackabletech/stackable-utils) -  (6 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 week ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 days ago)
+- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (3 days ago)
+- [stackabletech/stackable-utils](https://github.com/stackabletech/stackable-utils) -  (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [cherry-pick: Add 24.11.1 release notes](https://github.com/stackabletech/documentation/pull/705) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
-- [refactor(stackable-telemetry): Support Option&lt;T&gt; in subscriber methods](https://github.com/stackabletech/operator-rs/pull/951) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [chore: Release stackablectl-24.11.3](https://github.com/stackabletech/stackable-cockpit/pull/349) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
-- [docs: Fix unterminated table](https://github.com/stackabletech/commons-operator/pull/323) on [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) (2 days ago)
-- [refactor: Restructure docs into partials and handle patch releases](https://github.com/stackabletech/documentation/pull/703) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
+- [ci: Publish crate docs on Github Pages](https://github.com/stackabletech/operator-rs/pull/953) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [cherry-pick: Add 24.11.1 release notes to 24.11 branch](https://github.com/stackabletech/documentation/pull/705) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
+- [refactor(stackable-telemetry): Support Option&lt;T&gt; in subscriber methods](https://github.com/stackabletech/operator-rs/pull/951) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [chore: Release stackablectl-24.11.3](https://github.com/stackabletech/stackable-cockpit/pull/349) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 days ago)
+- [docs: Fix unterminated table](https://github.com/stackabletech/commons-operator/pull/323) on [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) (3 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.3) ([stackablectl-24.11.3](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.3)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.3) ([stackablectl-24.11.3](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.3)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 days ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/interu-0.1.0) ([interu-0.1.0](https://github.com/stackabletech/actions/releases/tag/interu-0.1.0)) - A collection of GitHub Actions used across Stackable repositories (2 weeks ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/0.98.0) ([0.98.0](https://github.com/kube-rs/kube/releases/tag/0.98.0)) - Rust Kubernetes client and controller runtime (1 month ago)
 
