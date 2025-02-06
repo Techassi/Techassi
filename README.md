@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (1 day ago)
-- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (1 day ago)
-- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (1 day ago)
 - [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (1 day ago)
-- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (1 day ago)
+- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (2 days ago)
+- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (2 days ago)
+- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (2 days ago)
+- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (2 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Version CRD and HbaseClusterConfig](https://github.com/stackabletech/hbase-operator/pull/624) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (1 day ago)
-- [fix(template/ci): Use local rustfmt hook](https://github.com/stackabletech/operator-templating/pull/483) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [chore: Add rustfmt config](https://github.com/stackabletech/operator-rs/pull/956) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
-- [chore: Bump actions](https://github.com/stackabletech/actions/pull/36) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
-- [chore: Version CRD and DruidClusterConfig](https://github.com/stackabletech/druid-operator/pull/687) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (5 days ago)
+- [chore: Version CRD](https://github.com/stackabletech/hive-operator/pull/571) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (1 day ago)
+- [chore: Version CRD and HdfsClusterConfig](https://github.com/stackabletech/hdfs-operator/pull/651) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (1 day ago)
+- [chore: Version CRD and HbaseClusterConfig](https://github.com/stackabletech/hbase-operator/pull/624) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (2 days ago)
+- [fix(template/ci): Use local rustfmt hook](https://github.com/stackabletech/operator-templating/pull/483) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
+- [chore: Add rustfmt config](https://github.com/stackabletech/operator-rs/pull/956) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/image-tools](https://github.com/stackabletech/image-tools/releases/tag/0.0.14) ([0.0.14](https://github.com/stackabletech/image-tools/releases/tag/0.0.14)) - Tools to manipulate container images of the Stackable Data Platform (1 day ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.7.0) ([v0.7.0](https://github.com/stackabletech/actions/releases/tag/v0.7.0)) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.4-native-certs) ([stackablectl-24.11.4-native-certs](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.4-native-certs)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (5 days ago)
+- [stackabletech/image-tools](https://github.com/stackabletech/image-tools/releases/tag/0.0.14) ([0.0.14](https://github.com/stackabletech/image-tools/releases/tag/0.0.14)) - Tools to manipulate container images of the Stackable Data Platform (2 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.7.0) ([v0.7.0](https://github.com/stackabletech/actions/releases/tag/v0.7.0)) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.4-native-certs) ([stackablectl-24.11.4-native-certs](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.4-native-certs)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (6 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
