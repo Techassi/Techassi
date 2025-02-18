@@ -26,11 +26,11 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (5 days ago)
-- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (5 days ago)
-- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Operator for Apache Spark-on-Kubernetes for Stackable Data Platform (5 days ago)
-- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (5 days ago)
-- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (5 days ago)
+- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (1 day ago)
+- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Operator for Apache Spark-on-Kubernetes for Stackable Data Platform (6 days ago)
+- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (6 days ago)
+- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (6 days ago)
+- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (6 days ago)
 
 #### 🧪 Latest PRs
 
@@ -44,7 +44,7 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/image-tools](https://github.com/stackabletech/image-tools/releases/tag/0.0.14) ([0.0.14](https://github.com/stackabletech/image-tools/releases/tag/0.0.14)) - Tools to manipulate container images of the Stackable Data Platform (1 week ago)
+- [stackabletech/image-tools](https://github.com/stackabletech/image-tools/releases/tag/0.0.14) ([0.0.14](https://github.com/stackabletech/image-tools/releases/tag/0.0.14)) - Tools to manipulate container images of the Stackable Data Platform (2 weeks ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.7.0) ([v0.7.0](https://github.com/stackabletech/actions/releases/tag/v0.7.0)) - A collection of GitHub Actions used across Stackable repositories (2 weeks ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.4-native-certs) ([stackablectl-24.11.4-native-certs](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.4-native-certs)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
 
