@@ -27,19 +27,19 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
 
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (6 days ago)
+- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (1 day ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (1 week ago)
 - [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (1 week ago)
-- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (1 week ago)
-- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Operator for Apache Spark-on-Kubernetes for Stackable Data Platform (1 week ago)
+- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(stackable-versioned): Add convert_with arg in changed action](https://github.com/stackabletech/operator-rs/pull/967) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [docs(stackable-versioned): Improve various sections of docs](https://github.com/stackabletech/operator-rs/pull/966) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [refactor(stackable-versioned): Move preserve_module into options()](https://github.com/stackabletech/operator-rs/pull/961) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
-- [feat: Add deprecated argument to derive macro](https://github.com/kube-rs/kube/pull/1697) on [kube-rs/kube](https://github.com/kube-rs/kube) (6 days ago)
-- [chore: Version CRDs and SparkHistoryServerClusterConfig](https://github.com/stackabletech/spark-k8s-operator/pull/525) on [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) (2 weeks ago)
+- [feat(run-pre-commit): Add option to install Rust-based tools](https://github.com/stackabletech/actions/pull/38) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [docs: Add CRD versioning ADR](https://github.com/stackabletech/documentation/pull/712) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [feat(stackable-versioned): Add convert_with arg in changed action](https://github.com/stackabletech/operator-rs/pull/967) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [docs(stackable-versioned): Improve various sections of docs](https://github.com/stackabletech/operator-rs/pull/966) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [refactor(stackable-versioned): Move preserve_module into options()](https://github.com/stackabletech/operator-rs/pull/961) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
 
 #### 📦 Latest releases I've contributed to
 
