@@ -27,26 +27,26 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
 
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
-- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (3 days ago)
+- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb) - Trino load balancer with support for routing, queueing and auto-scaling (1 day ago)
+- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (4 days ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (1 week ago)
 - [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (1 week ago)
-- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(stackable-versioned): Re-emit and merge modules in versioned modules](https://github.com/stackabletech/operator-rs/pull/971) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [feat(stackable-versioned): Add support for generics](https://github.com/stackabletech/operator-rs/pull/969) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
-- [chore(stackable-operator): Version common CRD structs](https://github.com/stackabletech/operator-rs/pull/968) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
-- [feat(run-pre-commit): Add option to install Rust-based tools](https://github.com/stackabletech/actions/pull/38) on [stackabletech/actions](https://github.com/stackabletech/actions) (3 days ago)
-- [docs: Add CRD versioning ADR](https://github.com/stackabletech/documentation/pull/712) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (3 days ago)
+- [chore: Release stackable-operator-0.87.0 and stackable-versioned-0.6.0](https://github.com/stackabletech/operator-rs/pull/974) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [chore: Bump Rust version and workflow actions](https://github.com/stackabletech/operator-rs/pull/973) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [feat(stackable-versioned): Re-emit and merge modules in versioned modules](https://github.com/stackabletech/operator-rs/pull/971) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [feat(stackable-versioned): Add support for generics](https://github.com/stackabletech/operator-rs/pull/969) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
+- [chore(stackable-operator): Version common CRD structs](https://github.com/stackabletech/operator-rs/pull/968) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
+- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.4.0) ([v0.4.0](https://github.com/stackabletech/trino-lb/releases/tag/v0.4.0)) - Trino load balancer with support for routing, queueing and auto-scaling (1 day ago)
 - [stackabletech/image-tools](https://github.com/stackabletech/image-tools/releases/tag/0.0.14) ([0.0.14](https://github.com/stackabletech/image-tools/releases/tag/0.0.14)) - Tools to manipulate container images of the Stackable Data Platform (3 weeks ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.7.0) ([v0.7.0](https://github.com/stackabletech/actions/releases/tag/v0.7.0)) - A collection of GitHub Actions used across Stackable repositories (3 weeks ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.4-native-certs) ([stackablectl-24.11.4-native-certs](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-24.11.4-native-certs)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (4 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
