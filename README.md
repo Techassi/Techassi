@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb) - Trino load balancer with support for routing, queueing and auto-scaling (4 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (4 days ago)
-- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (1 week ago)
+- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (1 day ago)
+- [stackabletech/hello-world-operator](https://github.com/stackabletech/hello-world-operator) -  (1 day ago)
+- [stackabletech/edc-operator](https://github.com/stackabletech/edc-operator) -  (1 day ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (1 day ago)
+- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix: Install correct Rust toolchains for sub projects](https://github.com/stackabletech/docker-images/pull/1013) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [chore: Bump Rust toolchain to 1.84.1](https://github.com/stackabletech/docker-images/pull/1012) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [chore: Pre-release updates for Stackable Release 25.3.0](https://github.com/stackabletech/operator-templating/pull/485) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [chore: Release stackable-operator-0.87.0 and stackable-versioned-0.6.0](https://github.com/stackabletech/operator-rs/pull/974) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
-- [chore: Bump Rust version and workflow actions](https://github.com/stackabletech/operator-rs/pull/973) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
+- [chore: Bump Rust dependencies pre-25.3.0](https://github.com/stackabletech/druid-operator/pull/695) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (1 day ago)
+- [chore: Bump Rust dependencies pre-25.3.0](https://github.com/stackabletech/commons-operator/pull/334) on [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) (1 day ago)
+- [chore: Bump Rust dependencies pre-25.3.0](https://github.com/stackabletech/airflow-operator/pull/591) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (1 day ago)
+- [template(ci): Bump cargo-deny-action to 2.0.7](https://github.com/stackabletech/operator-templating/pull/486) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [fix: Install correct Rust toolchains for sub projects](https://github.com/stackabletech/docker-images/pull/1013) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.4.1) ([v0.4.1](https://github.com/stackabletech/trino-lb/releases/tag/v0.4.1)) - Trino load balancer with support for routing, queueing and auto-scaling (1 day ago)
+- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.4.1) ([v0.4.1](https://github.com/stackabletech/trino-lb/releases/tag/v0.4.1)) - Trino load balancer with support for routing, queueing and auto-scaling (2 days ago)
 - [stackabletech/image-tools](https://github.com/stackabletech/image-tools/releases/tag/0.0.14) ([0.0.14](https://github.com/stackabletech/image-tools/releases/tag/0.0.14)) - Tools to manipulate container images of the Stackable Data Platform (4 weeks ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.7.0) ([v0.7.0](https://github.com/stackabletech/actions/releases/tag/v0.7.0)) - A collection of GitHub Actions used across Stackable repositories (4 weeks ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.7.0) ([v0.7.0](https://github.com/stackabletech/actions/releases/tag/v0.7.0)) - A collection of GitHub Actions used across Stackable repositories (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
