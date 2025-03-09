@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (3 days ago)
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (3 days ago)
-- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (3 days ago)
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (3 days ago)
-- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (3 days ago)
+- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (4 days ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (4 days ago)
+- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (4 days ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (4 days ago)
+- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (4 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore(stackable-telemetry): Bump OpenTelemetry related dependencies](https://github.com/stackabletech/operator-rs/pull/977) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [refactor: Adjust S3 region field structure](https://github.com/stackabletech/operator-rs/pull/976) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
-- [chore: Bump Rust dependencies pre-25.3.0](https://github.com/stackabletech/edc-operator/pull/156) on [stackabletech/edc-operator](https://github.com/stackabletech/edc-operator) (3 days ago)
-- [ci: Bump broken cargo-deny action](https://github.com/stackabletech/operator-rs/pull/975) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
-- [chore: Update Rust dependencies PR template](https://github.com/stackabletech/operator-templating/pull/487) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (3 days ago)
+- [chore(stackable-telemetry): Bump OpenTelemetry related dependencies](https://github.com/stackabletech/operator-rs/pull/977) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [refactor: Adjust S3 region field structure](https://github.com/stackabletech/operator-rs/pull/976) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
+- [chore: Bump Rust dependencies pre-25.3.0](https://github.com/stackabletech/edc-operator/pull/156) on [stackabletech/edc-operator](https://github.com/stackabletech/edc-operator) (4 days ago)
+- [ci: Bump broken cargo-deny action](https://github.com/stackabletech/operator-rs/pull/975) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
+- [chore: Update Rust dependencies PR template](https://github.com/stackabletech/operator-templating/pull/487) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (4 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.4.1) ([v0.4.1](https://github.com/stackabletech/trino-lb/releases/tag/v0.4.1)) - Trino load balancer with support for routing, queueing and auto-scaling (5 days ago)
+- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.4.1) ([v0.4.1](https://github.com/stackabletech/trino-lb/releases/tag/v0.4.1)) - Trino load balancer with support for routing, queueing and auto-scaling (6 days ago)
 - [stackabletech/image-tools](https://github.com/stackabletech/image-tools/releases/tag/0.0.14) ([0.0.14](https://github.com/stackabletech/image-tools/releases/tag/0.0.14)) - Tools to manipulate container images of the Stackable Data Platform (1 month ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.7.0) ([v0.7.0](https://github.com/stackabletech/actions/releases/tag/v0.7.0)) - A collection of GitHub Actions used across Stackable repositories (1 month ago)
 
