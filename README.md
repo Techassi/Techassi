@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (5 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (5 days ago)
-- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (5 days ago)
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (5 days ago)
-- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (5 days ago)
+- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (1 day ago)
+- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
+- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Operator for Apache Spark-on-Kubernetes for Stackable Data Platform (1 day ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (6 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore(stackable-telemetry): Bump OpenTelemetry related dependencies](https://github.com/stackabletech/operator-rs/pull/977) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
-- [refactor: Adjust S3 region field structure](https://github.com/stackabletech/operator-rs/pull/976) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
-- [chore: Bump Rust dependencies pre-25.3.0](https://github.com/stackabletech/edc-operator/pull/156) on [stackabletech/edc-operator](https://github.com/stackabletech/edc-operator) (5 days ago)
-- [ci: Bump broken cargo-deny action](https://github.com/stackabletech/operator-rs/pull/975) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
-- [chore: Update Rust dependencies PR template](https://github.com/stackabletech/operator-templating/pull/487) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (5 days ago)
+- [chore: Bump Rust dependencies pre-25.3.0](https://github.com/stackabletech/zookeeper-operator/pull/921) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (1 day ago)
+- [chore: Bump Rust dependencies pre-25.3.0](https://github.com/stackabletech/spark-k8s-operator/pull/533) on [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) (1 day ago)
+- [chore: Bump Rust dependencies pre-25.3.0](https://github.com/stackabletech/hive-operator/pull/577) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (1 day ago)
+- [chore(stackable-operator): Release 0.87.2](https://github.com/stackabletech/operator-rs/pull/981) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [chore(stackable-operator): Make region.name public](https://github.com/stackabletech/operator-rs/pull/980) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
