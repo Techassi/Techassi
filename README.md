@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (1 day ago)
-- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (1 day ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
-- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (1 day ago)
+- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (1 day ago)
+- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (1 day ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 day ago)
 - [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (1 day ago)
+- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (2 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore(docs): Update getting-started script pre-25.3.0](https://github.com/stackabletech/druid-operator/pull/699) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (1 day ago)
-- [chore(docs): Update getting-started script pre-25.3.0](https://github.com/stackabletech/airflow-operator/pull/595) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (1 day ago)
-- [fix: Install correct operator version when using OCI registry ](https://github.com/stackabletech/stackable-cockpit/pull/360) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
-- [chore: Update ZooKeeper to 3.9.3 pre-25.3.0](https://github.com/stackabletech/trino-operator/pull/718) on [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) (2 days ago)
-- [chore: Update ZooKeeper to 3.9.3 pre-25.3.0](https://github.com/stackabletech/kafka-operator/pull/836) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (2 days ago)
+- [chore: Bump Helm charts for 25.3.0](https://github.com/stackabletech/demos/pull/169) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
+- [chore: Bump Rust dependencies pre-25.3.0](https://github.com/stackabletech/trino-operator/pull/722) on [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) (1 day ago)
+- [chore(docs): Update getting-started script pre-25.3.0](https://github.com/stackabletech/druid-operator/pull/699) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (2 days ago)
+- [chore(docs): Update getting-started script pre-25.3.0](https://github.com/stackabletech/airflow-operator/pull/595) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (2 days ago)
+- [fix: Install correct operator version when using OCI registry ](https://github.com/stackabletech/stackable-cockpit/pull/360) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/0.99.0) ([0.99.0](https://github.com/kube-rs/kube/releases/tag/0.99.0)) - Rust Kubernetes client and controller runtime (2 days ago)
-- [stackabletech/beku.py](https://github.com/stackabletech/beku.py/releases/tag/0.0.10) ([0.0.10](https://github.com/stackabletech/beku.py/releases/tag/0.0.10)) - Test suite expander for Stackable Kuttl tests. (2 days ago)
-- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.4.1) ([v0.4.1](https://github.com/stackabletech/trino-lb/releases/tag/v0.4.1)) - Trino load balancer with support for routing, queueing and auto-scaling (1 week ago)
+- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0) ([v0.5.0](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0)) - Trino load balancer with support for routing, queueing and auto-scaling (1 day ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/0.99.0) ([0.99.0](https://github.com/kube-rs/kube/releases/tag/0.99.0)) - Rust Kubernetes client and controller runtime (3 days ago)
+- [stackabletech/beku.py](https://github.com/stackabletech/beku.py/releases/tag/0.0.10) ([0.0.10](https://github.com/stackabletech/beku.py/releases/tag/0.0.10)) - Test suite expander for Stackable Kuttl tests. (3 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
