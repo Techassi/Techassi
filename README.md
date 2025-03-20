@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 days ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (5 days ago)
-- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (5 days ago)
-- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (5 days ago)
-- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (5 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (1 day ago)
+- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (6 days ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (6 days ago)
+- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (6 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat: Add format-specific annotations to override secret file names](https://github.com/stackabletech/secret-operator/pull/572) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 day ago)
-- [chore: Bump Helm charts for 25.3.0](https://github.com/stackabletech/demos/pull/169) on [stackabletech/demos](https://github.com/stackabletech/demos) (5 days ago)
-- [chore: Bump Rust dependencies pre-25.3.0](https://github.com/stackabletech/trino-operator/pull/722) on [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) (5 days ago)
-- [chore(docs): Update getting-started script pre-25.3.0](https://github.com/stackabletech/druid-operator/pull/699) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (6 days ago)
-- [chore(docs): Update getting-started script pre-25.3.0](https://github.com/stackabletech/airflow-operator/pull/595) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (6 days ago)
+- [chore(stackable-operator): Release 0.87.5](https://github.com/stackabletech/operator-rs/pull/990) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [chore(stackable-operator): Re-introduce #950](https://github.com/stackabletech/operator-rs/pull/989) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [revert: Temporarily revert #950](https://github.com/stackabletech/operator-rs/pull/987) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [feat: Add format-specific annotations to override secret file names](https://github.com/stackabletech/secret-operator/pull/572) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (2 days ago)
+- [chore: Bump Helm charts for 25.3.0](https://github.com/stackabletech/demos/pull/169) on [stackabletech/demos](https://github.com/stackabletech/demos) (6 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0) ([v0.5.0](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0)) - Trino load balancer with support for routing, queueing and auto-scaling (5 days ago)
+- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0) ([v0.5.0](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0)) - Trino load balancer with support for routing, queueing and auto-scaling (6 days ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/0.99.0) ([0.99.0](https://github.com/kube-rs/kube/releases/tag/0.99.0)) - Rust Kubernetes client and controller runtime (1 week ago)
 - [stackabletech/beku.py](https://github.com/stackabletech/beku.py/releases/tag/0.0.10) ([0.0.10](https://github.com/stackabletech/beku.py/releases/tag/0.0.10)) - Test suite expander for Stackable Kuttl tests. (1 week ago)
 
