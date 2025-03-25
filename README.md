@@ -26,8 +26,8 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (5 days ago)
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (5 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (6 days ago)
 - [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (1 week ago)
 - [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 week ago)
 - [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (1 week ago)
@@ -35,11 +35,11 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [fix(stackable-versioned): Emit type parameter defaults](https://github.com/stackabletech/operator-rs/pull/991) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
-- [chore(stackable-operator): Release 0.87.5](https://github.com/stackabletech/operator-rs/pull/990) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
-- [chore(stackable-operator): Re-introduce #950](https://github.com/stackabletech/operator-rs/pull/989) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
-- [revert: Temporarily revert #950](https://github.com/stackabletech/operator-rs/pull/987) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
-- [feat: Add format-specific annotations to override secret file names](https://github.com/stackabletech/secret-operator/pull/572) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (6 days ago)
+- [chore: Add 25.3.0 release](https://github.com/stackabletech/crddocs/pull/50) on [stackabletech/crddocs](https://github.com/stackabletech/crddocs) (1 day ago)
+- [fix(stackable-versioned): Emit type parameter defaults](https://github.com/stackabletech/operator-rs/pull/991) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
+- [chore(stackable-operator): Release 0.87.5](https://github.com/stackabletech/operator-rs/pull/990) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
+- [chore(stackable-operator): Re-introduce #950](https://github.com/stackabletech/operator-rs/pull/989) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
+- [revert: Temporarily revert #950](https://github.com/stackabletech/operator-rs/pull/987) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
 
 #### 📦 Latest releases I've contributed to
 
