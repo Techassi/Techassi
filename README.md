@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (6 days ago)
-- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (1 week ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 week ago)
+- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 days ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (1 week ago)
 - [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (1 week ago)
+- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Add 25.3.0 release](https://github.com/stackabletech/crddocs/pull/50) on [stackabletech/crddocs](https://github.com/stackabletech/crddocs) (1 day ago)
-- [fix(stackable-versioned): Emit type parameter defaults](https://github.com/stackabletech/operator-rs/pull/991) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
-- [chore(stackable-operator): Release 0.87.5](https://github.com/stackabletech/operator-rs/pull/990) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
-- [chore(stackable-operator): Re-introduce #950](https://github.com/stackabletech/operator-rs/pull/989) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
-- [revert: Temporarily revert #950](https://github.com/stackabletech/operator-rs/pull/987) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
+- [chore: Add 25.3.0 release](https://github.com/stackabletech/crddocs/pull/50) on [stackabletech/crddocs](https://github.com/stackabletech/crddocs) (2 days ago)
+- [fix(stackable-versioned): Emit type parameter defaults](https://github.com/stackabletech/operator-rs/pull/991) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
+- [chore(stackable-operator): Release 0.87.5](https://github.com/stackabletech/operator-rs/pull/990) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
+- [chore(stackable-operator): Re-introduce #950](https://github.com/stackabletech/operator-rs/pull/989) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
+- [revert: Temporarily revert #950](https://github.com/stackabletech/operator-rs/pull/987) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
 - [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0) ([v0.5.0](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0)) - Trino load balancer with support for routing, queueing and auto-scaling (1 week ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/0.99.0) ([0.99.0](https://github.com/kube-rs/kube/releases/tag/0.99.0)) - Rust Kubernetes client and controller runtime (1 week ago)
-- [stackabletech/beku.py](https://github.com/stackabletech/beku.py/releases/tag/0.0.10) ([0.0.10](https://github.com/stackabletech/beku.py/releases/tag/0.0.10)) - Test suite expander for Stackable Kuttl tests. (1 week ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/0.99.0) ([0.99.0](https://github.com/kube-rs/kube/releases/tag/0.99.0)) - Rust Kubernetes client and controller runtime (2 weeks ago)
+- [stackabletech/beku.py](https://github.com/stackabletech/beku.py/releases/tag/0.0.10) ([0.0.10](https://github.com/stackabletech/beku.py/releases/tag/0.0.10)) - Test suite expander for Stackable Kuttl tests. (2 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
