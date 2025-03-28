@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb) - Trino load balancer with support for routing, queueing and auto-scaling (1 day ago)
-- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (2 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 days ago)
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (1 week ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 week ago)
+- [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) -  (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
+- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb) - Trino load balancer with support for routing, queueing and auto-scaling (2 days ago)
+- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (3 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Add 25.3.0 release](https://github.com/stackabletech/crddocs/pull/50) on [stackabletech/crddocs](https://github.com/stackabletech/crddocs) (3 days ago)
-- [fix(stackable-versioned): Emit type parameter defaults](https://github.com/stackabletech/operator-rs/pull/991) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
-- [chore(stackable-operator): Release 0.87.5](https://github.com/stackabletech/operator-rs/pull/990) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
-- [chore(stackable-operator): Re-introduce #950](https://github.com/stackabletech/operator-rs/pull/989) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
-- [revert: Temporarily revert #950](https://github.com/stackabletech/operator-rs/pull/987) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
+- [chore: Release stackablectl 25.3.0](https://github.com/stackabletech/stackable-cockpit/pull/367) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
+- [fix(docs): Adjust version from  nightly to 25.3 in antora.yaml](https://github.com/stackabletech/demos/pull/200) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
+- [fix: Adjust branch names in Antora playbooks](https://github.com/stackabletech/documentation/pull/725) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [chore: Add release branches to the playbooks for release 25.3](https://github.com/stackabletech/documentation/pull/724) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [chore: Set max-width to 1480px](https://github.com/stackabletech/documentation-ui/pull/132) on [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0) ([v0.5.0](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0)) - Trino load balancer with support for routing, queueing and auto-scaling (1 week ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-25.3.0) ([stackablectl-25.3.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-25.3.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0) ([v0.5.0](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0)) - Trino load balancer with support for routing, queueing and auto-scaling (2 weeks ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/0.99.0) ([0.99.0](https://github.com/kube-rs/kube/releases/tag/0.99.0)) - Rust Kubernetes client and controller runtime (2 weeks ago)
-- [stackabletech/beku.py](https://github.com/stackabletech/beku.py/releases/tag/0.0.10) ([0.0.10](https://github.com/stackabletech/beku.py/releases/tag/0.0.10)) - Test suite expander for Stackable Kuttl tests. (2 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
