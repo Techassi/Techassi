@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) -  (1 day ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
-- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb) - Trino load balancer with support for routing, queueing and auto-scaling (2 days ago)
-- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (3 days ago)
+- [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) -  (2 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 days ago)
+- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb) - Trino load balancer with support for routing, queueing and auto-scaling (3 days ago)
+- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (4 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Release stackablectl 25.3.0](https://github.com/stackabletech/stackable-cockpit/pull/367) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
-- [fix(docs): Adjust version from  nightly to 25.3 in antora.yaml](https://github.com/stackabletech/demos/pull/200) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
-- [fix: Adjust branch names in Antora playbooks](https://github.com/stackabletech/documentation/pull/725) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
-- [chore: Add release branches to the playbooks for release 25.3](https://github.com/stackabletech/documentation/pull/724) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
-- [chore: Set max-width to 1480px](https://github.com/stackabletech/documentation-ui/pull/132) on [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) (1 day ago)
+- [chore: Release stackablectl 25.3.0](https://github.com/stackabletech/stackable-cockpit/pull/367) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
+- [fix(docs): Adjust version from  nightly to 25.3 in antora.yaml](https://github.com/stackabletech/demos/pull/200) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
+- [fix: Adjust branch names in Antora playbooks](https://github.com/stackabletech/documentation/pull/725) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
+- [chore: Add release branches to the playbooks for release 25.3](https://github.com/stackabletech/documentation/pull/724) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
+- [chore: Set max-width to 1480px](https://github.com/stackabletech/documentation-ui/pull/132) on [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-25.3.0) ([stackablectl-25.3.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-25.3.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.20.11) ([v0.20.11](https://github.com/TedDriggs/darling/releases/tag/v0.20.11)) - A Rust proc-macro attribute parser (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-25.3.0) ([stackablectl-25.3.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-25.3.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
 - [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0) ([v0.5.0](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0)) - Trino load balancer with support for routing, queueing and auto-scaling (2 weeks ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/0.99.0) ([0.99.0](https://github.com/kube-rs/kube/releases/tag/0.99.0)) - Rust Kubernetes client and controller runtime (2 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
