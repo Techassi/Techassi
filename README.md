@@ -26,26 +26,26 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (3 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (5 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (5 days ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 days ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (4 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (6 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (6 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [docs: Adjust #[kube(scale(...)] doc example](https://github.com/kube-rs/kube/pull/1733) on [kube-rs/kube](https://github.com/kube-rs/kube) (3 days ago)
-- [chore: Release stackablectl 25.3.0](https://github.com/stackabletech/stackable-cockpit/pull/367) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (5 days ago)
-- [fix(docs): Adjust version from  nightly to 25.3 in antora.yaml](https://github.com/stackabletech/demos/pull/200) on [stackabletech/demos](https://github.com/stackabletech/demos) (5 days ago)
-- [fix: Adjust branch names in Antora playbooks](https://github.com/stackabletech/documentation/pull/725) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (5 days ago)
-- [chore: Add release branches to the playbooks for release 25.3](https://github.com/stackabletech/documentation/pull/724) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (5 days ago)
+- [chore: Release stackable-operator 0.88.0, stackable-versioned 0.7.1](https://github.com/stackabletech/operator-rs/pull/996) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [chore: Use Rust 2024 edition](https://github.com/stackabletech/operator-rs/pull/994) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [docs: Adjust #[kube(scale(...)] doc example](https://github.com/kube-rs/kube/pull/1733) on [kube-rs/kube](https://github.com/kube-rs/kube) (4 days ago)
+- [chore: Release stackablectl 25.3.0](https://github.com/stackabletech/stackable-cockpit/pull/367) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (6 days ago)
+- [fix(docs): Adjust version from  nightly to 25.3 in antora.yaml](https://github.com/stackabletech/demos/pull/200) on [stackabletech/demos](https://github.com/stackabletech/demos) (6 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.20.11) ([v0.20.11](https://github.com/TedDriggs/darling/releases/tag/v0.20.11)) - A Rust proc-macro attribute parser (4 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-25.3.0) ([stackablectl-25.3.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-25.3.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (5 days ago)
+- [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.20.11) ([v0.20.11](https://github.com/TedDriggs/darling/releases/tag/v0.20.11)) - A Rust proc-macro attribute parser (5 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-25.3.0) ([stackablectl-25.3.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-25.3.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (6 days ago)
 - [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0) ([v0.5.0](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0)) - Trino load balancer with support for routing, queueing and auto-scaling (2 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
