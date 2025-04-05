@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 days ago)
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (4 days ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (6 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (3 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (3 days ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (5 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore(ubi8/9): Prepare images for Rust 2024 edition](https://github.com/stackabletech/docker-images/pull/1050) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [chore(template): Template Rust edition in rustfmt config](https://github.com/stackabletech/operator-templating/pull/498) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [ci(template): Use nightly toolchain for rustfmt job](https://github.com/stackabletech/operator-templating/pull/496) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
-- [chore: Release stackable-operator 0.89.1](https://github.com/stackabletech/operator-rs/pull/999) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
-- [chore: Make TelemetryArguments fields pub](https://github.com/stackabletech/operator-rs/pull/998) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [feat(stackable-telemetry): Add method for pre-configured Tracing instance](https://github.com/stackabletech/operator-rs/pull/1001) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [chore(ubi8/9): Prepare images for Rust 2024 edition](https://github.com/stackabletech/docker-images/pull/1050) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [chore(template): Template Rust edition in rustfmt config](https://github.com/stackabletech/operator-templating/pull/498) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
+- [ci(template): Use nightly toolchain for rustfmt job](https://github.com/stackabletech/operator-templating/pull/496) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (3 days ago)
+- [chore: Release stackable-operator 0.89.1](https://github.com/stackabletech/operator-rs/pull/999) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
 
 #### 📦 Latest releases I've contributed to
 
