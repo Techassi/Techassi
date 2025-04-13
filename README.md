@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
-- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (2 days ago)
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (2 days ago)
-- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (2 days ago)
-- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 days ago)
+- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (3 days ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (3 days ago)
+- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (3 days ago)
+- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (3 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Update RotationPeriod variant casing to snake_case](https://github.com/stackabletech/operator-rs/pull/1011) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [refactor!: Update telemetry related env vars and CLI args](https://github.com/stackabletech/operator-rs/pull/1009) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [chore(template): Add Helm helper for telemetry env vars](https://github.com/stackabletech/operator-templating/pull/501) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
-- [chore: Bump kube, k8s_openapi and stackable-operator](https://github.com/stackabletech/stackable-cockpit/pull/369) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
-- [chore(stackable-operator): Release 0.91.1](https://github.com/stackabletech/operator-rs/pull/1008) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
+- [chore: Update RotationPeriod variant casing to snake_case](https://github.com/stackabletech/operator-rs/pull/1011) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [refactor!: Update telemetry related env vars and CLI args](https://github.com/stackabletech/operator-rs/pull/1009) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [chore(template): Add Helm helper for telemetry env vars](https://github.com/stackabletech/operator-templating/pull/501) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (3 days ago)
+- [chore: Bump kube, k8s_openapi and stackable-operator](https://github.com/stackabletech/stackable-cockpit/pull/369) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 days ago)
+- [chore(stackable-operator): Release 0.91.1](https://github.com/stackabletech/operator-rs/pull/1008) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
 - [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.20.11) ([v0.20.11](https://github.com/TedDriggs/darling/releases/tag/v0.20.11)) - A Rust proc-macro attribute parser (2 weeks ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-25.3.0) ([stackablectl-25.3.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-25.3.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
-- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0) ([v0.5.0](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0)) - Trino load balancer with support for routing, queueing and auto-scaling (4 weeks ago)
+- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0) ([v0.5.0](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0)) - Trino load balancer with support for routing, queueing and auto-scaling (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
