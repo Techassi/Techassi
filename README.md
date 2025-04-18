@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (1 day ago)
-- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (1 day ago)
-- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (2 days ago)
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (2 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 days ago)
+- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (2 days ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (2 days ago)
+- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (3 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Bump stackable-operator to 0.92.0](https://github.com/stackabletech/opa-operator/pull/715) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (1 day ago)
-- [ci(generate_prs): Set fail-fast input default value to false](https://github.com/stackabletech/operator-templating/pull/508) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [ci(generate_prs): Add option to disable strategy.fail-fast](https://github.com/stackabletech/operator-templating/pull/507) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [fix(template): Quote fileLog.maxFiles env var in Helm helper](https://github.com/stackabletech/operator-templating/pull/506) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [chore(template): Only emit env vars if telemetry signals are enabled](https://github.com/stackabletech/operator-templating/pull/505) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
+- [ci(test): Test pre-commit caching run-time improvements](https://github.com/stackabletech/operator-rs/pull/1014) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [feat(run-pre-commit): Enable caching, support pre-commit pinning](https://github.com/stackabletech/actions/pull/39) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [docs: Add telemetry documentation page](https://github.com/stackabletech/documentation/pull/731) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [chore: Bump stackable-operator to 0.92.0](https://github.com/stackabletech/opa-operator/pull/715) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (2 days ago)
+- [ci(generate_prs): Set fail-fast input default value to false](https://github.com/stackabletech/operator-templating/pull/508) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.20.11) ([v0.20.11](https://github.com/TedDriggs/darling/releases/tag/v0.20.11)) - A Rust proc-macro attribute parser (2 weeks ago)
+- [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.20.11) ([v0.20.11](https://github.com/TedDriggs/darling/releases/tag/v0.20.11)) - A Rust proc-macro attribute parser (3 weeks ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-25.3.0) ([stackablectl-25.3.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-25.3.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 weeks ago)
 - [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0) ([v0.5.0](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0)) - Trino load balancer with support for routing, queueing and auto-scaling (1 month ago)
 
