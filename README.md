@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (1 day ago)
-- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (1 day ago)
-- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (1 day ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
-- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (2 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Bump various actions to latest version](https://github.com/stackabletech/actions/pull/41) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [chore: Update issue template link](https://github.com/stackabletech/issues/pull/718) on [stackabletech/issues](https://github.com/stackabletech/issues) (1 day ago)
-- [chore: Rework and split pre-release issue templates](https://github.com/stackabletech/demos/pull/207) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
-- [chore!: Bump stackable-operator to 0.92.0](https://github.com/stackabletech/hive-operator/pull/596) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (1 day ago)
-- [chore!: Bump stackable-operator to 0.92.0](https://github.com/stackabletech/hdfs-operator/pull/672) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (2 days ago)
+- [ci: Bump various actions to latest version](https://github.com/stackabletech/operator-rs/pull/1017) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [chore: Bump various actions to latest versions](https://github.com/stackabletech/operator-templating/pull/510) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [chore: Bump various actions to latest version](https://github.com/stackabletech/actions/pull/41) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
+- [chore: Update issue template link](https://github.com/stackabletech/issues/pull/718) on [stackabletech/issues](https://github.com/stackabletech/issues) (2 days ago)
+- [chore: Rework and split pre-release issue templates](https://github.com/stackabletech/demos/pull/207) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.20.11) ([v0.20.11](https://github.com/TedDriggs/darling/releases/tag/v0.20.11)) - A Rust proc-macro attribute parser (3 weeks ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.8.0) ([v0.8.0](https://github.com/stackabletech/actions/releases/tag/v0.8.0)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.20.11) ([v0.20.11](https://github.com/TedDriggs/darling/releases/tag/v0.20.11)) - A Rust proc-macro attribute parser (4 weeks ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-25.3.0) ([stackablectl-25.3.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-25.3.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (4 weeks ago)
-- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0) ([v0.5.0](https://github.com/stackabletech/trino-lb/releases/tag/v0.5.0)) - Trino load balancer with support for routing, queueing and auto-scaling (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
