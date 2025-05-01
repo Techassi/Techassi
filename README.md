@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (5 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (6 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (6 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (6 days ago)
-- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (1 week ago)
+- [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) -  (1 day ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (6 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci: Bump various actions to latest version](https://github.com/stackabletech/operator-rs/pull/1017) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
-- [chore: Bump various actions to latest versions](https://github.com/stackabletech/operator-templating/pull/510) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (6 days ago)
+- [chore: Update UI submodule](https://github.com/stackabletech/documentation/pull/738) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [ci: Bump various actions to latest version](https://github.com/stackabletech/operator-rs/pull/1017) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
+- [chore: Bump various actions to latest versions](https://github.com/stackabletech/operator-templating/pull/510) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 week ago)
 - [chore: Bump various actions to latest version](https://github.com/stackabletech/actions/pull/41) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 week ago)
 - [chore: Update issue template link](https://github.com/stackabletech/issues/pull/718) on [stackabletech/issues](https://github.com/stackabletech/issues) (1 week ago)
-- [chore: Rework and split pre-release issue templates](https://github.com/stackabletech/demos/pull/207) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.8.0) ([v0.8.0](https://github.com/stackabletech/actions/releases/tag/v0.8.0)) - A collection of GitHub Actions used across Stackable repositories (6 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.8.0) ([v0.8.0](https://github.com/stackabletech/actions/releases/tag/v0.8.0)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.20.11) ([v0.20.11](https://github.com/TedDriggs/darling/releases/tag/v0.20.11)) - A Rust proc-macro attribute parser (1 month ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-25.3.0) ([stackablectl-25.3.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-25.3.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 month ago)
 
