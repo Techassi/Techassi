@@ -26,16 +26,16 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) -  (1 day ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (6 days ago)
+- [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) -  (2 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (2 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Update UI submodule](https://github.com/stackabletech/documentation/pull/738) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [chore: Update UI submodule](https://github.com/stackabletech/documentation/pull/738) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
 - [ci: Bump various actions to latest version](https://github.com/stackabletech/operator-rs/pull/1017) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [chore: Bump various actions to latest versions](https://github.com/stackabletech/operator-templating/pull/510) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 week ago)
 - [chore: Bump various actions to latest version](https://github.com/stackabletech/actions/pull/41) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 week ago)
