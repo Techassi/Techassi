@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (6 days ago)
-- [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) -  (6 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (6 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (2 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (2 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
+- [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) -  (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore(template/release): Move Rust items to pre-release](https://github.com/stackabletech/issues/pull/729) on [stackabletech/issues](https://github.com/stackabletech/issues) (1 day ago)
-- [ci(mirror): Include image name and version in run-name](https://github.com/stackabletech/docker-images/pull/1089) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [chore: Update UI submodule](https://github.com/stackabletech/documentation/pull/738) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (6 days ago)
+- [chore: Add cargo-cyclonedx and cargo-auditable to issue template](https://github.com/stackabletech/operator-templating/pull/515) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [chore(template/release): Move Rust items to pre-release](https://github.com/stackabletech/issues/pull/729) on [stackabletech/issues](https://github.com/stackabletech/issues) (2 days ago)
+- [ci(mirror): Include image name and version in run-name](https://github.com/stackabletech/docker-images/pull/1089) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [chore: Update UI submodule](https://github.com/stackabletech/documentation/pull/738) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
 - [ci: Bump various actions to latest version](https://github.com/stackabletech/operator-rs/pull/1017) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
-- [chore: Bump various actions to latest versions](https://github.com/stackabletech/operator-templating/pull/510) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
