@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
-- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (3 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (3 days ago)
-- [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) -  (1 week ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (4 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix(stackable-operator): Re-export versioned error types](https://github.com/stackabletech/operator-rs/pull/1025) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [ci: Fix demo image build workflows](https://github.com/stackabletech/demos/pull/212) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
-- [ci(template): Install Nix in pre-commit workflow](https://github.com/stackabletech/operator-templating/pull/516) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [chore: Add cargo-cyclonedx and cargo-auditable to issue template](https://github.com/stackabletech/operator-templating/pull/515) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
-- [chore(template/release): Move Rust items to pre-release](https://github.com/stackabletech/issues/pull/729) on [stackabletech/issues](https://github.com/stackabletech/issues) (3 days ago)
+- [feat(send-slack-notification): Send failure and success message](https://github.com/stackabletech/actions/pull/43) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [feat: Add send-slack-notification action](https://github.com/stackabletech/actions/pull/42) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [ci: Add failure notification job](https://github.com/stackabletech/demos/pull/214) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
+- [fix(stackable-operator): Re-export versioned error types](https://github.com/stackabletech/operator-rs/pull/1025) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [ci: Fix demo image build workflows](https://github.com/stackabletech/demos/pull/212) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
