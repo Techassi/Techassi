@@ -27,25 +27,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
 
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (2 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (6 days ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (6 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (3 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 week ago)
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(stackable-versioned): Generate downgrade From impls](https://github.com/stackabletech/operator-rs/pull/1033) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [fix(stackable-versioned): Handle fields added in later versions](https://github.com/stackabletech/operator-rs/pull/1031) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
-- [fix(airflow/superset): Pin Cython version](https://github.com/stackabletech/docker-images/pull/1116) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
-- [chore: Use versioned CRDs](https://github.com/stackabletech/listener-operator/pull/307) on [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) (6 days ago)
-- [chore: Use versioned CRDs](https://github.com/stackabletech/commons-operator/pull/353) on [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) (6 days ago)
+- [feat(k8s-version): Add serde support](https://github.com/stackabletech/operator-rs/pull/1034) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [feat: Add optional serde support for IdentString](https://github.com/TedDriggs/darling/pull/341) on [TedDriggs/darling](https://github.com/TedDriggs/darling) (1 day ago)
+- [feat(stackable-versioned): Generate downgrade From impls](https://github.com/stackabletech/operator-rs/pull/1033) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [fix(stackable-versioned): Handle fields added in later versions](https://github.com/stackabletech/operator-rs/pull/1031) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
+- [fix(airflow/superset): Pin Cython version](https://github.com/stackabletech/docker-images/pull/1116) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (4 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/1.0.0) ([1.0.0](https://github.com/kube-rs/kube/releases/tag/1.0.0)) - Rust Kubernetes client and controller runtime (2 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.8.1) ([v0.8.1](https://github.com/stackabletech/actions/releases/tag/v0.8.1)) - A collection of GitHub Actions used across Stackable repositories (6 days ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/1.0.0) ([1.0.0](https://github.com/kube-rs/kube/releases/tag/1.0.0)) - Rust Kubernetes client and controller runtime (3 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.8.1) ([v0.8.1](https://github.com/stackabletech/actions/releases/tag/v0.8.1)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.20.11) ([v0.20.11](https://github.com/TedDriggs/darling/releases/tag/v0.20.11)) - A Rust proc-macro attribute parser (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
