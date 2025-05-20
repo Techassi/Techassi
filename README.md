@@ -26,8 +26,8 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (4 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (6 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 week ago)
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
@@ -35,17 +35,17 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [feat(k8s-version): Add serde support](https://github.com/stackabletech/operator-rs/pull/1034) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
-- [feat: Add optional serde support for IdentString](https://github.com/TedDriggs/darling/pull/341) on [TedDriggs/darling](https://github.com/TedDriggs/darling) (4 days ago)
-- [feat(stackable-versioned): Generate downgrade From impls](https://github.com/stackabletech/operator-rs/pull/1033) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
-- [fix(stackable-versioned): Handle fields added in later versions](https://github.com/stackabletech/operator-rs/pull/1031) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
-- [fix(airflow/superset): Pin Cython version](https://github.com/stackabletech/docker-images/pull/1116) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
+- [ci(template): Use pinned rustup version](https://github.com/stackabletech/operator-templating/pull/523) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [chore: Release k8s-version 0.1.3 and stackable-operator 0.93.0](https://github.com/stackabletech/operator-rs/pull/1039) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [feat(stackable-versioned): Add kube_client to crate overrides](https://github.com/stackabletech/operator-rs/pull/1038) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [fix(ubi9-rust-builder): Pin rustup version](https://github.com/stackabletech/docker-images/pull/1121) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [Support pinning the rustup version](https://github.com/dtolnay/rust-toolchain/pull/154) on [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/1.0.0) ([1.0.0](https://github.com/kube-rs/kube/releases/tag/1.0.0)) - Rust Kubernetes client and controller runtime (6 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.8.1) ([v0.8.1](https://github.com/stackabletech/actions/releases/tag/v0.8.1)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.8.2) ([v0.8.2](https://github.com/stackabletech/actions/releases/tag/v0.8.2)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/1.0.0) ([1.0.0](https://github.com/kube-rs/kube/releases/tag/1.0.0)) - Rust Kubernetes client and controller runtime (1 week ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.20.11) ([v0.20.11](https://github.com/TedDriggs/darling/releases/tag/v0.20.11)) - A Rust proc-macro attribute parser (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
