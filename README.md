@@ -35,16 +35,16 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [ci(template): Use pinned rustup version](https://github.com/stackabletech/operator-templating/pull/523) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [chore: Release k8s-version 0.1.3 and stackable-operator 0.93.0](https://github.com/stackabletech/operator-rs/pull/1039) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [feat(stackable-versioned): Add kube_client to crate overrides](https://github.com/stackabletech/operator-rs/pull/1038) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [fix(ubi9-rust-builder): Pin rustup version](https://github.com/stackabletech/docker-images/pull/1121) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [Support pinning the rustup version](https://github.com/dtolnay/rust-toolchain/pull/154) on [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) (1 day ago)
+- [chore: Release stackable-operator 0.93.1](https://github.com/stackabletech/operator-rs/pull/1042) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [test(stackable-versioned): Combine snapshot and compile tests](https://github.com/stackabletech/operator-rs/pull/1041) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [ci(template): Use pinned rustup version](https://github.com/stackabletech/operator-templating/pull/523) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
+- [chore: Release k8s-version 0.1.3 and stackable-operator 0.93.0](https://github.com/stackabletech/operator-rs/pull/1039) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [feat(stackable-versioned): Add kube_client to crate overrides](https://github.com/stackabletech/operator-rs/pull/1038) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.8.2) ([v0.8.2](https://github.com/stackabletech/actions/releases/tag/v0.8.2)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.8.2) ([v0.8.2](https://github.com/stackabletech/actions/releases/tag/v0.8.2)) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/1.0.0) ([1.0.0](https://github.com/kube-rs/kube/releases/tag/1.0.0)) - Rust Kubernetes client and controller runtime (1 week ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.20.11) ([v0.20.11](https://github.com/TedDriggs/darling/releases/tag/v0.20.11)) - A Rust proc-macro attribute parser (1 month ago)
 
