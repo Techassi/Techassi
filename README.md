@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (1 day ago)
+- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (1 day ago)
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (2 days ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 week ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Release stackable-operator 0.93.1](https://github.com/stackabletech/operator-rs/pull/1042) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [test(stackable-versioned): Combine snapshot and compile tests](https://github.com/stackabletech/operator-rs/pull/1041) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [ci(template): Use pinned rustup version](https://github.com/stackabletech/operator-templating/pull/523) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
-- [chore: Release k8s-version 0.1.3 and stackable-operator 0.93.0](https://github.com/stackabletech/operator-rs/pull/1039) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
-- [feat(stackable-versioned): Add kube_client to crate overrides](https://github.com/stackabletech/operator-rs/pull/1038) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [docs(code-style-guide): Add section about unwraps](https://github.com/stackabletech/documentation/pull/741) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [chore: Release stackable-operator 0.93.1](https://github.com/stackabletech/operator-rs/pull/1042) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [test(stackable-versioned): Combine snapshot and compile tests](https://github.com/stackabletech/operator-rs/pull/1041) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [ci(template): Use pinned rustup version](https://github.com/stackabletech/operator-templating/pull/523) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (3 days ago)
+- [chore: Release k8s-version 0.1.3 and stackable-operator 0.93.0](https://github.com/stackabletech/operator-rs/pull/1039) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.8.2) ([v0.8.2](https://github.com/stackabletech/actions/releases/tag/v0.8.2)) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.8.2) ([v0.8.2](https://github.com/stackabletech/actions/releases/tag/v0.8.2)) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/1.0.0) ([1.0.0](https://github.com/kube-rs/kube/releases/tag/1.0.0)) - Rust Kubernetes client and controller runtime (1 week ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.20.11) ([v0.20.11](https://github.com/TedDriggs/darling/releases/tag/v0.20.11)) - A Rust proc-macro attribute parser (1 month ago)
 
