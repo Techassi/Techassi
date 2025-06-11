@@ -30,7 +30,7 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (2 weeks ago)
-- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (2 weeks ago)
+- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (3 weeks ago)
 
 #### 🧪 Latest PRs
 
