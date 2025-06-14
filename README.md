@@ -26,7 +26,7 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 week ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (2 weeks ago)
@@ -35,11 +35,11 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
+- [feat(stackable-versioned): Add conversion tracking](https://github.com/stackabletech/operator-rs/pull/1056) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [refactor(stackable-telemetry): Use semantic convention constants](https://github.com/stackabletech/operator-rs/pull/1055) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
 - [refactor(stackable-versioned): Simplify attribute handling](https://github.com/stackabletech/operator-rs/pull/1053) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [chore: Use the default profile for the stable Rust toolchain](https://github.com/stackabletech/operator-rs/pull/1052) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [ci: Bump Ubuntu runners](https://github.com/stackabletech/stackable-cockpit/pull/383) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
-- [chore: Release stackablectl 1.0.0](https://github.com/stackabletech/stackable-cockpit/pull/382) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
-- [chore(stackable-operator): Release 0.93.2](https://github.com/stackabletech/operator-rs/pull/1047) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
