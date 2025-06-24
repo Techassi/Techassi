@@ -37,7 +37,7 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
 - [feat(stackable-versioned): Add conversion tracking](https://github.com/stackabletech/operator-rs/pull/1056) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [refactor(stackable-telemetry): Use semantic convention constants](https://github.com/stackabletech/operator-rs/pull/1055) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
-- [refactor(stackable-versioned): Simplify attribute handling](https://github.com/stackabletech/operator-rs/pull/1053) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 weeks ago)
+- [refactor(stackable-versioned): Simplify attribute handling](https://github.com/stackabletech/operator-rs/pull/1053) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 weeks ago)
 - [chore: Use the default profile for the stable Rust toolchain](https://github.com/stackabletech/operator-rs/pull/1052) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 weeks ago)
 - [ci: Bump Ubuntu runners](https://github.com/stackabletech/stackable-cockpit/pull/383) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 weeks ago)
 
