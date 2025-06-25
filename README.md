@@ -29,7 +29,7 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 weeks ago)
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (3 weeks ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (4 weeks ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (1 month ago)
 - [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (1 month ago)
 
 #### 🧪 Latest PRs
@@ -45,7 +45,7 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
 
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.0.0) ([stackablectl-1.0.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.0.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 weeks ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/1.1.0) ([1.1.0](https://github.com/kube-rs/kube/releases/tag/1.1.0)) - Rust Kubernetes client and controller runtime (4 weeks ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/1.1.0) ([1.1.0](https://github.com/kube-rs/kube/releases/tag/1.1.0)) - Rust Kubernetes client and controller runtime (1 month ago)
 - [stackabletech/image-tools](https://github.com/stackabletech/image-tools/releases/tag/0.0.16) ([0.0.16](https://github.com/stackabletech/image-tools/releases/tag/0.0.16)) - Tools to manipulate container images of the Stackable Data Platform (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
