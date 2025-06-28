@@ -26,8 +26,8 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A simple wrapper/framework around kube-rs to make implementing Operators/Controllers easier (1 day ago)
-- [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
+- [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser (3 days ago)
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (3 weeks ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 weeks ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (1 month ago)
@@ -35,16 +35,16 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [fix(stackable-versioned): Emit correct match arms for version enum](https://github.com/stackabletech/operator-rs/pull/1065) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [chore: Add pre-commit hook to update links in README](https://github.com/stackabletech/actions/pull/51) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [chore: Bump actions to latest versions](https://github.com/stackabletech/actions/pull/50) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [feat(run-pre-commit): Use verbose pre-commit output](https://github.com/stackabletech/actions/pull/49) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [fix(stackable-versioned): Emit correct match arms for version enum](https://github.com/stackabletech/operator-rs/pull/1065) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
 - [feat(stackable-versioned): Add conversion tracking](https://github.com/stackabletech/operator-rs/pull/1056) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 weeks ago)
-- [refactor(stackable-telemetry): Use semantic convention constants](https://github.com/stackabletech/operator-rs/pull/1055) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 weeks ago)
-- [refactor(stackable-versioned): Simplify attribute handling](https://github.com/stackabletech/operator-rs/pull/1053) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 weeks ago)
-- [chore: Use the default profile for the stable Rust toolchain](https://github.com/stackabletech/operator-rs/pull/1052) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.8.3) ([v0.8.3](https://github.com/stackabletech/actions/releases/tag/v0.8.3)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.8.3) ([v0.8.3](https://github.com/stackabletech/actions/releases/tag/v0.8.3)) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.0.0) ([stackablectl-1.0.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.0.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 weeks ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/1.1.0) ([1.1.0](https://github.com/kube-rs/kube/releases/tag/1.1.0)) - Rust Kubernetes client and controller runtime (1 month ago)
 
