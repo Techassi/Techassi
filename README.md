@@ -27,7 +27,7 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
 
 - [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 week ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 weeks ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser (2 weeks ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 month ago)
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 month ago)
@@ -38,7 +38,7 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 - [chore: Add pre-commit hook to update links in README](https://github.com/stackabletech/actions/pull/51) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 week ago)
 - [chore: Bump actions to latest versions](https://github.com/stackabletech/actions/pull/50) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 week ago)
 - [feat(run-pre-commit): Use verbose pre-commit output](https://github.com/stackabletech/actions/pull/49) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 week ago)
-- [fix(stackable-versioned): Emit correct match arms for version enum](https://github.com/stackabletech/operator-rs/pull/1065) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
+- [fix(stackable-versioned): Emit correct match arms for version enum](https://github.com/stackabletech/operator-rs/pull/1065) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 weeks ago)
 - [feat(stackable-versioned): Add conversion tracking](https://github.com/stackabletech/operator-rs/pull/1056) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 weeks ago)
 
 #### 📦 Latest releases I've contributed to
