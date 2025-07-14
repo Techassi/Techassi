@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
-- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (2 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (2 days ago)
-- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (3 days ago)
-- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (3 days ago)
+- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (3 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (3 days ago)
+- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (4 days ago)
+- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (4 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix: Change GID to 1000](https://github.com/stackabletech/docker-images/pull/1202) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
-- [feat(run-pre-commit): Use Rust cache (if Rust is installed)](https://github.com/stackabletech/actions/pull/52) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
-- [chore: Bump Rust dependencies pre-25.7.0](https://github.com/stackabletech/kafka-operator/pull/878) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (3 days ago)
-- [chore: Bump Rust dependencies pre-25.7.0](https://github.com/stackabletech/hive-operator/pull/615) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (3 days ago)
-- [chore: Bump Rust dependencies pre-25.7.0](https://github.com/stackabletech/hdfs-operator/pull/699) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (3 days ago)
+- [fix: Change GID to 1000](https://github.com/stackabletech/docker-images/pull/1202) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
+- [feat(run-pre-commit): Use Rust cache (if Rust is installed)](https://github.com/stackabletech/actions/pull/52) on [stackabletech/actions](https://github.com/stackabletech/actions) (3 days ago)
+- [chore: Bump Rust dependencies pre-25.7.0](https://github.com/stackabletech/kafka-operator/pull/878) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (4 days ago)
+- [chore: Bump Rust dependencies pre-25.7.0](https://github.com/stackabletech/hive-operator/pull/615) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (4 days ago)
+- [chore: Bump Rust dependencies pre-25.7.0](https://github.com/stackabletech/hdfs-operator/pull/699) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (4 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.21.0) ([v0.21.0](https://github.com/TedDriggs/darling/releases/tag/v0.21.0)) - A Rust proc-macro attribute parser (3 days ago)
+- [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.21.0) ([v0.21.0](https://github.com/TedDriggs/darling/releases/tag/v0.21.0)) - A Rust proc-macro attribute parser (4 days ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.8.4) ([v0.8.4](https://github.com/stackabletech/actions/releases/tag/v0.8.4)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.0.0) ([stackablectl-1.0.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.0.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 month ago)
 
