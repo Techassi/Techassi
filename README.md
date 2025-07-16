@@ -26,26 +26,26 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (1 day ago)
-- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (4 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (4 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (4 days ago)
-- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (5 days ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 day ago)
+- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (2 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (5 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (5 days ago)
+- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (5 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix(docs): Update getting-started script pre-25.7.0](https://github.com/stackabletech/airflow-operator/pull/658) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (1 day ago)
-- [fix: Change GID to 1000](https://github.com/stackabletech/docker-images/pull/1202) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (4 days ago)
-- [feat(run-pre-commit): Use Rust cache (if Rust is installed)](https://github.com/stackabletech/actions/pull/52) on [stackabletech/actions](https://github.com/stackabletech/actions) (4 days ago)
-- [chore: Bump Rust dependencies pre-25.7.0](https://github.com/stackabletech/kafka-operator/pull/878) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (5 days ago)
-- [chore: Bump Rust dependencies pre-25.7.0](https://github.com/stackabletech/hive-operator/pull/615) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (5 days ago)
+- [fix(signal-processing): Apply listener changes](https://github.com/stackabletech/demos/pull/243) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
+- [chore: Update testing issue templates to include 25.7.0 improvements](https://github.com/stackabletech/demos/pull/241) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
+- [chore: Bump Helm charts](https://github.com/stackabletech/demos/pull/238) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
+- [fix(docs): Update getting-started script pre-25.7.0](https://github.com/stackabletech/airflow-operator/pull/658) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (2 days ago)
+- [fix: Change GID to 1000](https://github.com/stackabletech/docker-images/pull/1202) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (5 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.21.0) ([v0.21.0](https://github.com/TedDriggs/darling/releases/tag/v0.21.0)) - A Rust proc-macro attribute parser (5 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.8.4) ([v0.8.4](https://github.com/stackabletech/actions/releases/tag/v0.8.4)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
+- [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.21.0) ([v0.21.0](https://github.com/TedDriggs/darling/releases/tag/v0.21.0)) - A Rust proc-macro attribute parser (6 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.8.4) ([v0.8.4](https://github.com/stackabletech/actions/releases/tag/v0.8.4)) - A collection of GitHub Actions used across Stackable repositories (2 weeks ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.0.0) ([stackablectl-1.0.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.0.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
