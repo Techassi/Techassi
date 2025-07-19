@@ -26,8 +26,8 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (2 days ago)
-- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (4 days ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (3 days ago)
+- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (5 days ago)
 - [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (1 week ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 week ago)
@@ -35,16 +35,16 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [chore(tracking): Release Notes for SDP 25.7.0](https://github.com/stackabletech/documentation/pull/757) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
-- [docs(juypterhub-keycloak: Improve section about web interface access](https://github.com/stackabletech/demos/pull/249) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
-- [fix(signal-processing): Apply listener changes](https://github.com/stackabletech/demos/pull/243) on [stackabletech/demos](https://github.com/stackabletech/demos) (3 days ago)
-- [chore: Update testing issue templates to include 25.7.0 improvements](https://github.com/stackabletech/demos/pull/241) on [stackabletech/demos](https://github.com/stackabletech/demos) (3 days ago)
-- [chore: Bump Helm charts](https://github.com/stackabletech/demos/pull/238) on [stackabletech/demos](https://github.com/stackabletech/demos) (3 days ago)
+- [chore(tracking): Release Notes for SDP 25.7.0](https://github.com/stackabletech/documentation/pull/757) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
+- [docs(juypterhub-keycloak: Improve section about web interface access](https://github.com/stackabletech/demos/pull/249) on [stackabletech/demos](https://github.com/stackabletech/demos) (3 days ago)
+- [fix(signal-processing): Apply listener changes](https://github.com/stackabletech/demos/pull/243) on [stackabletech/demos](https://github.com/stackabletech/demos) (4 days ago)
+- [chore: Update testing issue templates to include 25.7.0 improvements](https://github.com/stackabletech/demos/pull/241) on [stackabletech/demos](https://github.com/stackabletech/demos) (4 days ago)
+- [chore: Bump Helm charts](https://github.com/stackabletech/demos/pull/238) on [stackabletech/demos](https://github.com/stackabletech/demos) (4 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.1.0) ([stackablectl-1.1.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.1.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.1.0) ([stackablectl-1.1.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.1.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 days ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.21.0) ([v0.21.0](https://github.com/TedDriggs/darling/releases/tag/v0.21.0)) - A Rust proc-macro attribute parser (1 week ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.8.4) ([v0.8.4](https://github.com/stackabletech/actions/releases/tag/v0.8.4)) - A collection of GitHub Actions used across Stackable repositories (2 weeks ago)
 
