@@ -26,7 +26,7 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 day ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (2 days ago)
 - [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (1 week ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 week ago)
@@ -35,17 +35,17 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [chore(signal-processing): Remove ZooKeeper operator from stack](https://github.com/stackabletech/demos/pull/282) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
-- [chore(signal-processing): Remove ZooKeeper operator from stack](https://github.com/stackabletech/demos/pull/281) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
-- [chore(release): Update stackableRelease to 25.7](https://github.com/stackabletech/demos/pull/278) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
-- [docs(logging): Update stacklet list output](https://github.com/stackabletech/demos/pull/275) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
-- [chore(tracking): Release Notes for SDP 25.7.0](https://github.com/stackabletech/documentation/pull/757) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (6 days ago)
+- [chore(signal-processing): Remove ZooKeeper operator from stack](https://github.com/stackabletech/demos/pull/282) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
+- [chore(signal-processing): Remove ZooKeeper operator from stack](https://github.com/stackabletech/demos/pull/281) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
+- [chore(release): Update stackableRelease to 25.7](https://github.com/stackabletech/demos/pull/278) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
+- [docs(logging): Update stacklet list output](https://github.com/stackabletech/demos/pull/275) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
+- [chore(tracking): Release Notes for SDP 25.7.0](https://github.com/stackabletech/documentation/pull/757) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.1.0) ([stackablectl-1.1.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.1.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
-- [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.21.0) ([v0.21.0](https://github.com/TedDriggs/darling/releases/tag/v0.21.0)) - A Rust proc-macro attribute parser (1 week ago)
+- [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.21.0) ([v0.21.0](https://github.com/TedDriggs/darling/releases/tag/v0.21.0)) - A Rust proc-macro attribute parser (2 weeks ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.8.4) ([v0.8.4](https://github.com/stackabletech/actions/releases/tag/v0.8.4)) - A collection of GitHub Actions used across Stackable repositories (3 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
