@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (2 days ago)
-- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (1 week ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 week ago)
-- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (1 week ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
+- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (1 day ago)
+- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (3 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore(signal-processing): Remove ZooKeeper operator from stack](https://github.com/stackabletech/demos/pull/282) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
-- [chore(signal-processing): Remove ZooKeeper operator from stack](https://github.com/stackabletech/demos/pull/281) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
-- [chore(release): Update stackableRelease to 25.7](https://github.com/stackabletech/demos/pull/278) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
-- [docs(logging): Update stacklet list output](https://github.com/stackabletech/demos/pull/275) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
-- [chore(tracking): Release Notes for SDP 25.7.0](https://github.com/stackabletech/documentation/pull/757) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
+- [fix(docs): Adjust version from nightly to 25.7 in antora.yaml](https://github.com/stackabletech/demos/pull/286) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
+- [refactor: Improve branch/release scripts](https://github.com/stackabletech/documentation/pull/762) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [docs: Fix supported versions (cherry-pick)](https://github.com/stackabletech/hbase-operator/pull/685) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (1 day ago)
+- [docs: Fix supported versions](https://github.com/stackabletech/hbase-operator/pull/684) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (1 day ago)
+- [docs: Add release notes for stackablectl](https://github.com/stackabletech/stackable-cockpit/pull/402) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
