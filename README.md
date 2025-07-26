@@ -27,19 +27,19 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
 
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
-- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (1 day ago)
-- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (1 day ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (3 days ago)
+- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (2 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
+- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (2 days ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (4 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix(docs): Adjust version from nightly to 25.7 in antora.yaml](https://github.com/stackabletech/demos/pull/286) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
-- [refactor: Improve branch/release scripts](https://github.com/stackabletech/documentation/pull/762) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
-- [docs: Fix supported versions (cherry-pick)](https://github.com/stackabletech/hbase-operator/pull/685) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (1 day ago)
-- [docs: Fix supported versions](https://github.com/stackabletech/hbase-operator/pull/684) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (1 day ago)
-- [docs: Add release notes for stackablectl](https://github.com/stackabletech/stackable-cockpit/pull/402) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
+- [chore: Set 24.3 to end of life](https://github.com/stackabletech/documentation/pull/766) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [chore: Add release branches to the playbooks for release 25.7](https://github.com/stackabletech/documentation/pull/765) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [chore: Remove OpenSearch from 25.7](https://github.com/stackabletech/documentation/pull/764) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [chore: Adjust branch names for 25.7](https://github.com/stackabletech/documentation/pull/763) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [fix(docs): Adjust version from nightly to 25.7 in antora.yaml](https://github.com/stackabletech/demos/pull/286) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
