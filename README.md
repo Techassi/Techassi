@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 days ago)
-- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (3 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 days ago)
-- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (3 days ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (5 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (3 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (4 days ago)
+- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (4 days ago)
+- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (4 days ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (6 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Set 24.3 to end of life](https://github.com/stackabletech/documentation/pull/766) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
-- [chore: Add release branches to the playbooks for release 25.7](https://github.com/stackabletech/documentation/pull/765) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
-- [chore: Remove OpenSearch from 25.7](https://github.com/stackabletech/documentation/pull/764) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
-- [chore: Adjust branch names for 25.7](https://github.com/stackabletech/documentation/pull/763) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
-- [fix(docs): Adjust version from nightly to 25.7 in antora.yaml](https://github.com/stackabletech/demos/pull/286) on [stackabletech/demos](https://github.com/stackabletech/demos) (3 days ago)
+- [chore: Set 24.3 to end of life](https://github.com/stackabletech/documentation/pull/766) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (3 days ago)
+- [chore: Add release branches to the playbooks for release 25.7](https://github.com/stackabletech/documentation/pull/765) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (3 days ago)
+- [chore: Remove OpenSearch from 25.7](https://github.com/stackabletech/documentation/pull/764) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (3 days ago)
+- [chore: Adjust branch names for 25.7](https://github.com/stackabletech/documentation/pull/763) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (3 days ago)
+- [fix(docs): Adjust version from nightly to 25.7 in antora.yaml](https://github.com/stackabletech/demos/pull/286) on [stackabletech/demos](https://github.com/stackabletech/demos) (4 days ago)
 
 #### 📦 Latest releases I've contributed to
 
