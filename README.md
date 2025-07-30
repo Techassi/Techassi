@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (4 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (5 days ago)
-- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (5 days ago)
-- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (5 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (5 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (6 days ago)
+- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (6 days ago)
+- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (6 days ago)
 - [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Set 24.3 to end of life](https://github.com/stackabletech/documentation/pull/766) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (4 days ago)
-- [chore: Add release branches to the playbooks for release 25.7](https://github.com/stackabletech/documentation/pull/765) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (4 days ago)
-- [chore: Remove OpenSearch from 25.7](https://github.com/stackabletech/documentation/pull/764) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (4 days ago)
-- [chore: Adjust branch names for 25.7](https://github.com/stackabletech/documentation/pull/763) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (4 days ago)
-- [fix(docs): Adjust version from nightly to 25.7 in antora.yaml](https://github.com/stackabletech/demos/pull/286) on [stackabletech/demos](https://github.com/stackabletech/demos) (5 days ago)
+- [chore: Set 24.3 to end of life](https://github.com/stackabletech/documentation/pull/766) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (5 days ago)
+- [chore: Add release branches to the playbooks for release 25.7](https://github.com/stackabletech/documentation/pull/765) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (5 days ago)
+- [chore: Remove OpenSearch from 25.7](https://github.com/stackabletech/documentation/pull/764) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (5 days ago)
+- [chore: Adjust branch names for 25.7](https://github.com/stackabletech/documentation/pull/763) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (5 days ago)
+- [fix(docs): Adjust version from nightly to 25.7 in antora.yaml](https://github.com/stackabletech/demos/pull/286) on [stackabletech/demos](https://github.com/stackabletech/demos) (6 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.1.0) ([stackablectl-1.1.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.1.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.1.0) ([stackablectl-1.1.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.1.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.21.0) ([v0.21.0](https://github.com/TedDriggs/darling/releases/tag/v0.21.0)) - A Rust proc-macro attribute parser (2 weeks ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.8.4) ([v0.8.4](https://github.com/stackabletech/actions/releases/tag/v0.8.4)) - A collection of GitHub Actions used across Stackable repositories (3 weeks ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.8.4) ([v0.8.4](https://github.com/stackabletech/actions/releases/tag/v0.8.4)) - A collection of GitHub Actions used across Stackable repositories (4 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
