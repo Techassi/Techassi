@@ -26,26 +26,26 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 - [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (1 week ago)
 - [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (1 week ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci(run-integration-test): Remove superfluous conditionals](https://github.com/stackabletech/actions/pull/53) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [chore(issue_templates): Add labels task to early pre-release list](https://github.com/stackabletech/issues/pull/755) on [stackabletech/issues](https://github.com/stackabletech/issues) (1 day ago)
+- [feat!(run-integration-test): Support custom test arguments](https://github.com/stackabletech/actions/pull/54) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [ci(run-integration-test): Remove superfluous conditionals](https://github.com/stackabletech/actions/pull/53) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
+- [chore(issue_templates): Add labels task to early pre-release list](https://github.com/stackabletech/issues/pull/755) on [stackabletech/issues](https://github.com/stackabletech/issues) (2 days ago)
 - [chore: Set 24.3 to end of life](https://github.com/stackabletech/documentation/pull/766) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
 - [chore: Add release branches to the playbooks for release 25.7](https://github.com/stackabletech/documentation/pull/765) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
-- [chore: Remove OpenSearch from 25.7](https://github.com/stackabletech/documentation/pull/764) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.21.1) ([v0.21.1](https://github.com/TedDriggs/darling/releases/tag/v0.21.1)) - A Rust proc-macro attribute parser (1 day ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.1.0) ([stackablectl-1.1.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.1.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
+- [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.21.1) ([v0.21.1](https://github.com/TedDriggs/darling/releases/tag/v0.21.1)) - A Rust proc-macro attribute parser (2 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.1.0) ([stackablectl-1.1.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.1.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 weeks ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.8.4) ([v0.8.4](https://github.com/stackabletech/actions/releases/tag/v0.8.4)) - A collection of GitHub Actions used across Stackable repositories (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
