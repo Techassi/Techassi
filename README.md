@@ -26,17 +26,17 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (6 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
 - [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (1 week ago)
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 weeks ago)
-- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (2 weeks ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat: Add boil tool](https://github.com/stackabletech/docker-images/pull/1224) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [feat: Improve the Slack notification action](https://github.com/stackabletech/actions/pull/57) on [stackabletech/actions](https://github.com/stackabletech/actions) (6 days ago)
+- [feat: Add boil tool](https://github.com/stackabletech/docker-images/pull/1224) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [feat: Improve the Slack notification action](https://github.com/stackabletech/actions/pull/57) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 week ago)
 - [fix(run-integration-test): Adjust action scripts](https://github.com/stackabletech/actions/pull/55) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 week ago)
 - [feat!(run-integration-test): Support custom test arguments](https://github.com/stackabletech/actions/pull/54) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 week ago)
 - [ci(run-integration-test): Remove superfluous conditionals](https://github.com/stackabletech/actions/pull/53) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 week ago)
