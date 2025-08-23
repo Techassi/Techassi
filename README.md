@@ -26,26 +26,26 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (today)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (2 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 days ago)
-- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (2 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
+- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (3 days ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (3 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix(run-integration-test): Use correct conditional](https://github.com/stackabletech/actions/pull/66) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [feat(run-integration-test): Support pinned kubectl and helm versions](https://github.com/stackabletech/actions/pull/65) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [docs(run-integration-test): Improve README](https://github.com/stackabletech/actions/pull/63) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
-- [chore: Enable strict mode for yamllint](https://github.com/stackabletech/operator-templating/pull/547) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (3 days ago)
-- [fix(template): Fix whitespace in bug report issue template](https://github.com/stackabletech/operator-templating/pull/546) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (3 days ago)
+- [fix(send-slack-notification): Include operator name in message](https://github.com/stackabletech/actions/pull/68) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [docs(cherry-pick): Mention missed Trino PVC removal/fix in 25.7.0 release notes](https://github.com/stackabletech/documentation/pull/777) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [fix(run-integration-test): Only print kubectl&#39;s client version](https://github.com/stackabletech/actions/pull/67) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [docs: Mention missed Trino PVC removal/fix in 25.7.0 release notes](https://github.com/stackabletech/documentation/pull/776) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [fix(run-integration-test): Use correct conditional](https://github.com/stackabletech/actions/pull/66) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.9.1) ([v0.9.1](https://github.com/stackabletech/actions/releases/tag/v0.9.1)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
-- [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.21.2) ([v0.21.2](https://github.com/TedDriggs/darling/releases/tag/v0.21.2)) - A Rust proc-macro attribute parser (1 week ago)
+- [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.21.3) ([v0.21.3](https://github.com/TedDriggs/darling/releases/tag/v0.21.3)) - A Rust proc-macro attribute parser (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.9.3) ([v0.9.3](https://github.com/stackabletech/actions/releases/tag/v0.9.3)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.1.0) ([stackablectl-1.1.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.1.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
