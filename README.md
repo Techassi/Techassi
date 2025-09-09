@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (5 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (1 week ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (2 weeks ago)
 - [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 weeks ago)
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(stackable-versioned): Add argument to hint for wrapped types](https://github.com/stackabletech/operator-rs/pull/1089) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
-- [refactor(stackable-versioned): Introduce idents for fields/variants](https://github.com/stackabletech/operator-rs/pull/1088) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
-- [fix(stackable-versioned): Correctly emit enum fields in From impls](https://github.com/stackabletech/operator-rs/pull/1086) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
+- [chore: Update issue templates pre 25.11.0](https://github.com/stackabletech/docker-images/pull/1244) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [feat(stackable-versioned): Add argument to hint for wrapped types](https://github.com/stackabletech/operator-rs/pull/1089) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
+- [refactor(stackable-versioned): Introduce idents for fields/variants](https://github.com/stackabletech/operator-rs/pull/1088) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
+- [fix(stackable-versioned): Correctly emit enum fields in From impls](https://github.com/stackabletech/operator-rs/pull/1086) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [feat(run-integration-test): Add arm64 instances to kind, k3s, rke2](https://github.com/stackabletech/actions/pull/74) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 week ago)
-- [feat: Add publish-helm-chart action](https://github.com/stackabletech/actions/pull/73) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
+- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/2.0.0) ([2.0.0](https://github.com/kube-rs/kube/releases/tag/2.0.0)) - Rust Kubernetes client and controller runtime (1 day ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.21.3) ([v0.21.3](https://github.com/TedDriggs/darling/releases/tag/v0.21.3)) - A Rust proc-macro attribute parser (2 weeks ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.9.3) ([v0.9.3](https://github.com/stackabletech/actions/releases/tag/v0.9.3)) - A collection of GitHub Actions used across Stackable repositories (2 weeks ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.1.0) ([stackablectl-1.1.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.1.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
