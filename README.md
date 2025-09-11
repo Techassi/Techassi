@@ -27,24 +27,24 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
 
 - [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (3 days ago)
 - [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (2 weeks ago)
 - [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(run-openshift-preflight): Print preflight log](https://github.com/stackabletech/actions/pull/77) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [fix(run-integration-test): Pin setup-tools action](https://github.com/stackabletech/actions/pull/76) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [fix(run-preflight-check): Don&#39;t prefix platform with &#39;linux/&#39;](https://github.com/stackabletech/actions/pull/75) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [chore: Update issue templates pre 25.11.0](https://github.com/stackabletech/docker-images/pull/1244) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
-- [feat(stackable-versioned): Add argument to hint for wrapped types](https://github.com/stackabletech/operator-rs/pull/1089) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
+- [fix(build-container-image): Don&#39;t quote build args](https://github.com/stackabletech/actions/pull/78) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [feat(run-openshift-preflight): Print preflight log](https://github.com/stackabletech/actions/pull/77) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
+- [fix(run-integration-test): Pin setup-tools action](https://github.com/stackabletech/actions/pull/76) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
+- [fix(run-preflight-check): Don&#39;t prefix platform with &#39;linux/&#39;](https://github.com/stackabletech/actions/pull/75) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
+- [chore: Update issue templates pre 25.11.0](https://github.com/stackabletech/docker-images/pull/1244) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/2.0.0) ([2.0.0](https://github.com/kube-rs/kube/releases/tag/2.0.0)) - Rust Kubernetes client and controller runtime (2 days ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/2.0.0) ([2.0.0](https://github.com/kube-rs/kube/releases/tag/2.0.0)) - Rust Kubernetes client and controller runtime (3 days ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.21.3) ([v0.21.3](https://github.com/TedDriggs/darling/releases/tag/v0.21.3)) - A Rust proc-macro attribute parser (2 weeks ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.9.3) ([v0.9.3](https://github.com/stackabletech/actions/releases/tag/v0.9.3)) - A collection of GitHub Actions used across Stackable repositories (2 weeks ago)
 
