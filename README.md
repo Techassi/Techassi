@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (5 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (5 days ago)
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (3 weeks ago)
+- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (6 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (6 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci: Adjust send-slack-notification action inputs](https://github.com/stackabletech/docker-images/pull/1257) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [fix(spark-k8s): Use correct release and Python ARGs](https://github.com/stackabletech/docker-images/pull/1256) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [fix(spark-k8s): Use correct ARG name](https://github.com/stackabletech/docker-images/pull/1254) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [fix(boil): Return error if docker child process fails](https://github.com/stackabletech/docker-images/pull/1252) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [ci: Fix image builds for products with dashes in their name](https://github.com/stackabletech/docker-images/pull/1251) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [chore: Remove mentions of bake-related terms](https://github.com/stackabletech/docker-images/pull/1260) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [feat(boil): Add support for Nushell completions](https://github.com/stackabletech/docker-images/pull/1259) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [ci: Adjust send-slack-notification action inputs](https://github.com/stackabletech/docker-images/pull/1257) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [fix(spark-k8s): Use correct release and Python ARGs](https://github.com/stackabletech/docker-images/pull/1256) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [fix(spark-k8s): Use correct ARG name](https://github.com/stackabletech/docker-images/pull/1254) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.10.1) ([v0.10.1](https://github.com/stackabletech/actions/releases/tag/v0.10.1)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/2.0.1) ([2.0.1](https://github.com/kube-rs/kube/releases/tag/2.0.1)) - Rust Kubernetes client and controller runtime (4 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.0) ([boil-0.1.0](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.0)) - Product images for the Stackable Data Platform (4 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.1) ([boil-0.1.1](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.1)) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.10.1) ([v0.10.1](https://github.com/stackabletech/actions/releases/tag/v0.10.1)) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/2.0.1) ([2.0.1](https://github.com/kube-rs/kube/releases/tag/2.0.1)) - Rust Kubernetes client and controller runtime (5 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
