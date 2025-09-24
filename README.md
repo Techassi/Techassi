@@ -26,8 +26,8 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (5 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (6 days ago)
 - [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (1 week ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 week ago)
@@ -35,16 +35,16 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [feat!(stackable-operator): Add EoS checker](https://github.com/stackabletech/operator-rs/pull/1096) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
+- [feat!: Add CRD maintainer](https://github.com/stackabletech/operator-rs/pull/1099) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [feat!(stackable-operator): Add EoS checker](https://github.com/stackabletech/operator-rs/pull/1096) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
 - [chore: Remove mentions of bake-related terms](https://github.com/stackabletech/docker-images/pull/1260) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
 - [feat(boil): Add support for Nushell completions](https://github.com/stackabletech/docker-images/pull/1259) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
 - [ci: Adjust send-slack-notification action inputs](https://github.com/stackabletech/docker-images/pull/1257) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
-- [fix(spark-k8s): Use correct release and Python ARGs](https://github.com/stackabletech/docker-images/pull/1256) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.2) ([boil-0.1.2](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.2)) - Product images for the Stackable Data Platform (5 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.2) ([boil-0.1.2](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.2)) - Product images for the Stackable Data Platform (6 days ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.10.1) ([v0.10.1](https://github.com/stackabletech/actions/releases/tag/v0.10.1)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/2.0.1) ([2.0.1](https://github.com/kube-rs/kube/releases/tag/2.0.1)) - Rust Kubernetes client and controller runtime (1 week ago)
 
