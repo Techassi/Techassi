@@ -26,8 +26,8 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (2 days ago)
 - [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (1 week ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 weeks ago)
@@ -35,11 +35,11 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [feat(operator/eos): Use &#39;now&#39; as built time if debug build](https://github.com/stackabletech/operator-rs/pull/1100) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [chore(issue_templates): Improve issue templates](https://github.com/stackabletech/docker-images/pull/1276) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [feat!: Add CRD maintainer](https://github.com/stackabletech/operator-rs/pull/1099) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
-- [feat!(stackable-operator): Add EoS checker](https://github.com/stackabletech/operator-rs/pull/1096) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
-- [chore: Remove mentions of bake-related terms](https://github.com/stackabletech/docker-images/pull/1260) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
+- [feat(boil): Add support for port in registry host](https://github.com/stackabletech/docker-images/pull/1281) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [feat(operator/eos): Add disable flag](https://github.com/stackabletech/operator-rs/pull/1101) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [feat(operator/eos): Use &#39;now&#39; as built time if debug build](https://github.com/stackabletech/operator-rs/pull/1100) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [chore(issue_templates): Improve issue templates](https://github.com/stackabletech/docker-images/pull/1276) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [feat!: Add CRD maintainer](https://github.com/stackabletech/operator-rs/pull/1099) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
 
 #### 📦 Latest releases I've contributed to
 
