@@ -26,26 +26,26 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 day ago)
-- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (2 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (2 days ago)
+- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (2 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix(boil): Revert accidental default registry change from #1281](https://github.com/stackabletech/docker-images/pull/1288) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
-- [chore: Bump Trino to 477 for 25.11.0](https://github.com/stackabletech/demos/pull/307) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
-- [chore: Bump Trino to 477 in test definition](https://github.com/stackabletech/nifi-operator/pull/848) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (2 days ago)
-- [chore: Bump Trino version for 25.11.0](https://github.com/stackabletech/trino-operator/pull/801) on [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) (2 days ago)
-- [chore(trino): Update images for 25.11.0](https://github.com/stackabletech/docker-images/pull/1285) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [fix(send-slack-notification): Handle multiline failed tests](https://github.com/stackabletech/actions/pull/82) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [fix(boil): Revert accidental default registry change from #1281](https://github.com/stackabletech/docker-images/pull/1288) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
+- [chore: Bump Trino to 477 for 25.11.0](https://github.com/stackabletech/demos/pull/307) on [stackabletech/demos](https://github.com/stackabletech/demos) (3 days ago)
+- [chore: Bump Trino to 477 in test definition](https://github.com/stackabletech/nifi-operator/pull/848) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (3 days ago)
+- [chore: Bump Trino version for 25.11.0](https://github.com/stackabletech/trino-operator/pull/801) on [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) (3 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.4) ([boil-0.1.4](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.4)) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.10.1) ([v0.10.1](https://github.com/stackabletech/actions/releases/tag/v0.10.1)) - A collection of GitHub Actions used across Stackable repositories (2 weeks ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.10.2) ([v0.10.2](https://github.com/stackabletech/actions/releases/tag/v0.10.2)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.4) ([boil-0.1.4](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.4)) - Product images for the Stackable Data Platform (2 days ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/2.0.1) ([2.0.1](https://github.com/kube-rs/kube/releases/tag/2.0.1)) - Rust Kubernetes client and controller runtime (2 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
