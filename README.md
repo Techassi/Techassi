@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (3 days ago)
-- [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) - Stackable Operator for OpenSearch (5 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (5 days ago)
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (5 days ago)
-- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (1 week ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/nifi-migrate](https://github.com/stackabletech/nifi-migrate) - CLI tool to help with Apache NiFi migrations (1 day ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (4 days ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (6 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(boil): Support Containerfiles per version](https://github.com/stackabletech/docker-images/pull/1302) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
-- [feat(operator): Add LabelExt trait](https://github.com/stackabletech/operator-rs/pull/1106) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
-- [ci(build): Add runners selection](https://github.com/stackabletech/docker-images/pull/1299) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (5 days ago)
+- [chore(boil): Add release script and changelog](https://github.com/stackabletech/docker-images/pull/1303) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [feat(boil): Support Containerfiles per version](https://github.com/stackabletech/docker-images/pull/1302) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (4 days ago)
+- [feat(operator): Add LabelExt trait](https://github.com/stackabletech/operator-rs/pull/1106) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
+- [ci(build): Add runners selection](https://github.com/stackabletech/docker-images/pull/1299) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
 - [feat: Add EoS checker](https://github.com/stackabletech/opensearch-operator/pull/38) on [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) (1 week ago)
-- [feat: Add EoS checker](https://github.com/stackabletech/secret-operator/pull/644) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
+- [stackabletech/nifi-migrate](https://github.com/stackabletech/nifi-migrate/releases/tag/rel/nifi-migrate-0.1.1) ([rel/nifi-migrate-0.1.1](https://github.com/stackabletech/nifi-migrate/releases/tag/rel/nifi-migrate-0.1.1)) - CLI tool to help with Apache NiFi migrations (1 day ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.10.2) ([v0.10.2](https://github.com/stackabletech/actions/releases/tag/v0.10.2)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.4) ([boil-0.1.4](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.4)) - Product images for the Stackable Data Platform (1 week ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/2.0.1) ([2.0.1](https://github.com/kube-rs/kube/releases/tag/2.0.1)) - Rust Kubernetes client and controller runtime (1 month ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.4) ([boil-0.1.4](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.4)) - Product images for the Stackable Data Platform (2 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
