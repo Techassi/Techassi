@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (3 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (6 days ago)
-- [stackabletech/nifi-migrate](https://github.com/stackabletech/nifi-migrate) - CLI tool to help with Apache NiFi migrations (1 week ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (4 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (4 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(publish-image*): Add cosign retries](https://github.com/stackabletech/actions/pull/83) on [stackabletech/actions](https://github.com/stackabletech/actions) (3 days ago)
-- [chore: Release stackable-operator 0.100.0, stackable-webhook 0.7.0](https://github.com/stackabletech/operator-rs/pull/1108) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
-- [feat(template): Add maintenance Helm values helper](https://github.com/stackabletech/operator-templating/pull/553) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (5 days ago)
-- [ci(boil): Add relevant changes as release body](https://github.com/stackabletech/docker-images/pull/1307) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
-- [chore(boil): Release 0.1.5](https://github.com/stackabletech/docker-images/pull/1306) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
+- [refactor: Split into Deployment and DaemonSet](https://github.com/stackabletech/secret-operator/pull/645) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 day ago)
+- [feat(publish-image*): Add cosign retries](https://github.com/stackabletech/actions/pull/83) on [stackabletech/actions](https://github.com/stackabletech/actions) (4 days ago)
+- [chore: Release stackable-operator 0.100.0, stackable-webhook 0.7.0](https://github.com/stackabletech/operator-rs/pull/1108) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
+- [feat(template/helm): Add maintenance helper](https://github.com/stackabletech/operator-templating/pull/553) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (6 days ago)
+- [ci(boil): Add relevant changes as release body](https://github.com/stackabletech/docker-images/pull/1307) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.5) ([boil-0.1.5](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.5)) - Product images for the Stackable Data Platform (6 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.5) ([boil-0.1.5](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.5)) - Product images for the Stackable Data Platform (1 week ago)
 - [stackabletech/nifi-migrate](https://github.com/stackabletech/nifi-migrate/releases/tag/rel/nifi-migrate-0.1.1) ([rel/nifi-migrate-0.1.1](https://github.com/stackabletech/nifi-migrate/releases/tag/rel/nifi-migrate-0.1.1)) - CLI tool to help with Apache NiFi migrations (1 week ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.10.2) ([v0.10.2](https://github.com/stackabletech/actions/releases/tag/v0.10.2)) - A collection of GitHub Actions used across Stackable repositories (2 weeks ago)
 
