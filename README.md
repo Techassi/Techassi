@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
 - [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (2 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (5 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (5 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (3 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (6 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix: Use correct image in Helm values.yaml](https://github.com/stackabletech/secret-operator/pull/646) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 day ago)
-- [refactor!: Split into Deployment and DaemonSet](https://github.com/stackabletech/secret-operator/pull/645) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (2 days ago)
-- [feat(publish-image*): Add cosign retries](https://github.com/stackabletech/actions/pull/83) on [stackabletech/actions](https://github.com/stackabletech/actions) (5 days ago)
-- [chore: Release stackable-operator 0.100.0, stackable-webhook 0.7.0](https://github.com/stackabletech/operator-rs/pull/1108) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
-- [feat(template/helm): Add maintenance helper](https://github.com/stackabletech/operator-templating/pull/553) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 week ago)
+- [feat(crd): Mark certManager as non-experimental](https://github.com/stackabletech/secret-operator/pull/649) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 day ago)
+- [fix(versioned): Consistently use .into() in enum variant From impls](https://github.com/stackabletech/operator-rs/pull/1109) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [fix: Use correct image in Helm values.yaml](https://github.com/stackabletech/secret-operator/pull/646) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (2 days ago)
+- [refactor!: Split into Deployment and DaemonSet](https://github.com/stackabletech/secret-operator/pull/645) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (3 days ago)
+- [feat(publish-image*): Add cosign retries](https://github.com/stackabletech/actions/pull/83) on [stackabletech/actions](https://github.com/stackabletech/actions) (6 days ago)
 
 #### 📦 Latest releases I've contributed to
 
