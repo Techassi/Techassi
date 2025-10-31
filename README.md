@@ -26,26 +26,26 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (1 day ago)
-- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
-- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (1 day ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
+- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (2 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Bump Helm charts pre-25.11.0](https://github.com/stackabletech/demos/pull/325) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
-- [ci: Run pre-commit on merge-queue](https://github.com/stackabletech/stackable-cockpit/pull/416) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
-- [feat: Re-add EoS checker](https://github.com/stackabletech/nifi-operator/pull/860) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (1 day ago)
-- [feat: Re-add EoS checker](https://github.com/stackabletech/hive-operator/pull/647) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (1 day ago)
-- [feat: Re-add EoS checker](https://github.com/stackabletech/druid-operator/pull/765) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (1 day ago)
+- [chore: Bump Helm charts pre-25.11.0](https://github.com/stackabletech/demos/pull/325) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
+- [ci: Run pre-commit on merge-queue](https://github.com/stackabletech/stackable-cockpit/pull/416) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
+- [feat: Re-add EoS checker](https://github.com/stackabletech/nifi-operator/pull/860) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (2 days ago)
+- [feat: Re-add EoS checker](https://github.com/stackabletech/hive-operator/pull/647) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (2 days ago)
+- [feat: Re-add EoS checker](https://github.com/stackabletech/druid-operator/pull/765) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.0) ([stackablectl-1.2.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.10.3) ([v0.10.3](https://github.com/stackabletech/actions/releases/tag/v0.10.3)) - A collection of GitHub Actions used across Stackable repositories (6 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.0) ([stackablectl-1.2.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.10.3) ([v0.10.3](https://github.com/stackabletech/actions/releases/tag/v0.10.3)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.5) ([boil-0.1.5](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.5)) - Product images for the Stackable Data Platform (2 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
