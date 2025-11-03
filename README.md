@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 days ago)
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (2 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (3 days ago)
-- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (3 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (3 days ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (3 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (3 days ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (4 days ago)
+- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (4 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix: Force apply CRDs](https://github.com/stackabletech/secret-operator/pull/653) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (2 days ago)
-- [chore: Release stackable-operator 0.100.3, stackable-webhook 0.7.1](https://github.com/stackabletech/operator-rs/pull/1117) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
-- [fix(template/nix): Update default.nix field names](https://github.com/stackabletech/operator-templating/pull/557) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
-- [fix(webhook): Force apply the CRD in the CRD maintainer](https://github.com/stackabletech/operator-rs/pull/1116) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
-- [chore: Bump Helm charts pre-25.11.0](https://github.com/stackabletech/demos/pull/325) on [stackabletech/demos](https://github.com/stackabletech/demos) (4 days ago)
+- [fix: Force apply CRDs](https://github.com/stackabletech/secret-operator/pull/653) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (3 days ago)
+- [chore: Release stackable-operator 0.100.3, stackable-webhook 0.7.1](https://github.com/stackabletech/operator-rs/pull/1117) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
+- [fix(template/nix): Update default.nix field names](https://github.com/stackabletech/operator-templating/pull/557) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (3 days ago)
+- [fix(webhook): Force apply the CRD in the CRD maintainer](https://github.com/stackabletech/operator-rs/pull/1116) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
+- [chore: Bump Helm charts pre-25.11.0](https://github.com/stackabletech/demos/pull/325) on [stackabletech/demos](https://github.com/stackabletech/demos) (5 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.0) ([stackablectl-1.2.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (4 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.0) ([stackablectl-1.2.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (5 days ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.10.3) ([v0.10.3](https://github.com/stackabletech/actions/releases/tag/v0.10.3)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.5) ([boil-0.1.5](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.5)) - Product images for the Stackable Data Platform (2 weeks ago)
 
