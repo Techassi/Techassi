@@ -26,26 +26,26 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (5 days ago)
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (5 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (5 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (6 days ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (6 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix(send-slack-notification): Use envsubst for templating](https://github.com/stackabletech/actions/pull/86) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [fix(send-slack-notification): Use envsubst for templating](https://github.com/stackabletech/actions/pull/85) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [fix: Force apply CRDs](https://github.com/stackabletech/secret-operator/pull/653) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (5 days ago)
-- [chore: Release stackable-operator 0.100.3, stackable-webhook 0.7.1](https://github.com/stackabletech/operator-rs/pull/1117) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
-- [fix(template/nix): Update default.nix field names](https://github.com/stackabletech/operator-templating/pull/557) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (5 days ago)
+- [ci(spark-connect-client): Use Ubicloud runners only](https://github.com/stackabletech/docker-images/pull/1333) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [ci(nifi): Use Ubicloud runners only](https://github.com/stackabletech/docker-images/pull/1332) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [ci(trino): Use Ubicloud runners only](https://github.com/stackabletech/docker-images/pull/1331) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [ci: Fix Slack notifications](https://github.com/stackabletech/docker-images/pull/1328) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [fix(send-slack-notification): Use envsubst for templating](https://github.com/stackabletech/actions/pull/86) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.10.4) ([v0.10.4](https://github.com/stackabletech/actions/releases/tag/v0.10.4)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.0) ([stackablectl-1.2.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.10.3) ([v0.10.3](https://github.com/stackabletech/actions/releases/tag/v0.10.3)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.5) ([boil-0.1.5](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.5)) - Product images for the Stackable Data Platform (3 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
