@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (1 day ago)
+- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (1 day ago)
+- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (1 day ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 week ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (1 day ago)
+- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix: Partially revert changes from #654](https://github.com/stackabletech/secret-operator/pull/656) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 day ago)
-- [chore: Release 25.11.0-rc1](https://github.com/stackabletech/zookeeper-operator/pull/984) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (1 day ago)
-- [chore: Release 25.11.0-rc1](https://github.com/stackabletech/trino-operator/pull/816) on [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) (1 day ago)
-- [chore: Release 25.11.0-rc1](https://github.com/stackabletech/superset-operator/pull/677) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (1 day ago)
-- [chore: Release 25.11.0-rc1](https://github.com/stackabletech/spark-k8s-operator/pull/626) on [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) (1 day ago)
+- [chore(boil): Release 0.1.6](https://github.com/stackabletech/docker-images/pull/1342) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [fix(boil): Set correct release version in container image metadata](https://github.com/stackabletech/docker-images/pull/1341) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [chore(tracking): Release Notes for SDP 25.11.0](https://github.com/stackabletech/documentation/pull/797) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [chore: Add 25.11.0 release](https://github.com/stackabletech/release/pull/39) on [stackabletech/release](https://github.com/stackabletech/release) (1 day ago)
+- [chore: Update changelog from release 25.11.0](https://github.com/stackabletech/zookeeper-operator/pull/986) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.10.4) ([v0.10.4](https://github.com/stackabletech/actions/releases/tag/v0.10.4)) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.6) ([boil-0.1.6](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.6)) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.10.4) ([v0.10.4](https://github.com/stackabletech/actions/releases/tag/v0.10.4)) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.0) ([stackablectl-1.2.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.5) ([boil-0.1.5](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.5)) - Product images for the Stackable Data Platform (3 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
