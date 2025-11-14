@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (6 days ago)
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (6 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (6 days ago)
-- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (6 days ago)
-- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (6 days ago)
+- [stackabletech/crddocs-generator](https://github.com/stackabletech/crddocs-generator) - A fork of https://doc.crds.dev/ to generate docs locally and for static hosting (1 day ago)
+- [stackabletech/release](https://github.com/stackabletech/release) - This repository contains the details about how releases of the Stackable platform are put together from individual components. (1 week ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 week ago)
+- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (1 week ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix(docs): Update getting-started script 25.11.0](https://github.com/stackabletech/hbase-operator/pull/712) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (3 days ago)
-- [chore(boil): Release 0.1.6](https://github.com/stackabletech/docker-images/pull/1342) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
-- [fix(boil): Set correct release version in container image metadata](https://github.com/stackabletech/docker-images/pull/1341) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
-- [chore(tracking): Release Notes for SDP 25.11.0](https://github.com/stackabletech/documentation/pull/797) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (6 days ago)
-- [chore: Add 25.11.0 release](https://github.com/stackabletech/release/pull/39) on [stackabletech/release](https://github.com/stackabletech/release) (6 days ago)
+- [chore: Add 25.11.0 release](https://github.com/stackabletech/crddocs/pull/54) on [stackabletech/crddocs](https://github.com/stackabletech/crddocs) (1 day ago)
+- [feat: Look at extra path to find CRDs](https://github.com/stackabletech/crddocs-generator/pull/28) on [stackabletech/crddocs-generator](https://github.com/stackabletech/crddocs-generator) (1 day ago)
+- [fix(docs): Update getting-started script 25.11.0](https://github.com/stackabletech/hbase-operator/pull/712) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (4 days ago)
+- [chore(boil): Release 0.1.6](https://github.com/stackabletech/docker-images/pull/1342) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
+- [fix(boil): Set correct release version in container image metadata](https://github.com/stackabletech/docker-images/pull/1341) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.6) ([boil-0.1.6](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.6)) - Product images for the Stackable Data Platform (6 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.6) ([boil-0.1.6](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.6)) - Product images for the Stackable Data Platform (1 week ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.10.4) ([v0.10.4](https://github.com/stackabletech/actions/releases/tag/v0.10.4)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.0) ([stackablectl-1.2.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
 
