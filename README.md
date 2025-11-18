@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (3 days ago)
-- [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) - Stackable Operator for OpenSearch (3 days ago)
-- [stackabletech/crddocs-generator](https://github.com/stackabletech/crddocs-generator) - A fork of https://doc.crds.dev/ to generate docs locally and for static hosting (4 days ago)
-- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (1 week ago)
-- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (1 week ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
+- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (1 day ago)
+- [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) - Stackable Operator for OpenSearch (4 days ago)
+- [stackabletech/crddocs-generator](https://github.com/stackabletech/crddocs-generator) - A fork of https://doc.crds.dev/ to generate docs locally and for static hosting (5 days ago)
+- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [ docs: Add experimental warning](https://github.com/stackabletech/opensearch-operator/pull/74) on [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) (3 days ago)
-- [docs: Add experimental warning](https://github.com/stackabletech/opensearch-operator/pull/73) on [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) (3 days ago)
-- [chore: Add 25.11.0 release](https://github.com/stackabletech/crddocs/pull/54) on [stackabletech/crddocs](https://github.com/stackabletech/crddocs) (4 days ago)
-- [feat: Look at extra path to find CRDs](https://github.com/stackabletech/crddocs-generator/pull/28) on [stackabletech/crddocs-generator](https://github.com/stackabletech/crddocs-generator) (4 days ago)
-- [fix(docs): Update getting-started script 25.11.0](https://github.com/stackabletech/hbase-operator/pull/712) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (1 week ago)
+- [chore: Add release branches to the playbooks for release 25.11](https://github.com/stackabletech/documentation/pull/805) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [fix: Use correct branch instead of hard-coded one in release script](https://github.com/stackabletech/documentation/pull/804) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [chore: Update UI](https://github.com/stackabletech/documentation/pull/803) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [ docs: Add experimental warning](https://github.com/stackabletech/opensearch-operator/pull/74) on [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) (4 days ago)
+- [docs: Add experimental warning](https://github.com/stackabletech/opensearch-operator/pull/73) on [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) (4 days ago)
 
 #### 📦 Latest releases I've contributed to
 
