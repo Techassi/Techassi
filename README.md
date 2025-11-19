@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
-- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (1 day ago)
-- [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) - Stackable Operator for OpenSearch (4 days ago)
-- [stackabletech/crddocs-generator](https://github.com/stackabletech/crddocs-generator) - A fork of https://doc.crds.dev/ to generate docs locally and for static hosting (5 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 days ago)
+- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (2 days ago)
+- [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) - Stackable Operator for OpenSearch (5 days ago)
+- [stackabletech/crddocs-generator](https://github.com/stackabletech/crddocs-generator) - A fork of https://doc.crds.dev/ to generate docs locally and for static hosting (6 days ago)
 - [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Add release branches to the playbooks for release 25.11](https://github.com/stackabletech/documentation/pull/805) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
-- [fix: Use correct branch instead of hard-coded one in release script](https://github.com/stackabletech/documentation/pull/804) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
-- [chore: Update UI](https://github.com/stackabletech/documentation/pull/803) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
-- [ docs: Add experimental warning](https://github.com/stackabletech/opensearch-operator/pull/74) on [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) (4 days ago)
-- [docs: Add experimental warning](https://github.com/stackabletech/opensearch-operator/pull/73) on [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) (4 days ago)
+- [chore: Add release branches to the playbooks for release 25.11](https://github.com/stackabletech/documentation/pull/805) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
+- [fix: Use correct branch instead of hard-coded one in release script](https://github.com/stackabletech/documentation/pull/804) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
+- [chore: Update UI](https://github.com/stackabletech/documentation/pull/803) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
+- [ docs: Add experimental warning](https://github.com/stackabletech/opensearch-operator/pull/74) on [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) (5 days ago)
+- [docs: Add experimental warning](https://github.com/stackabletech/opensearch-operator/pull/73) on [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) (5 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.1) ([stackablectl-1.2.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.6) ([boil-0.1.6](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.6)) - Product images for the Stackable Data Platform (1 week ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.10.4) ([v0.10.4](https://github.com/stackabletech/actions/releases/tag/v0.10.4)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.0) ([stackablectl-1.2.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.10.4) ([v0.10.4](https://github.com/stackabletech/actions/releases/tag/v0.10.4)) - A collection of GitHub Actions used across Stackable repositories (2 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
