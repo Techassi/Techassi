@@ -26,26 +26,26 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (3 days ago)
-- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (3 days ago)
-- [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) - Stackable Operator for OpenSearch (6 days ago)
-- [stackabletech/crddocs-generator](https://github.com/stackabletech/crddocs-generator) - A fork of https://doc.crds.dev/ to generate docs locally and for static hosting (1 week ago)
-- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (1 week ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (4 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (4 days ago)
+- [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) - Stackable Operator for OpenSearch (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Deny unwraps and panics in Rust code](https://github.com/stackabletech/docker-images/pull/1350) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [feat: Add user config support](https://github.com/stackabletech/stackable-cockpit/pull/422) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
-- [feat: Add release check (command)](https://github.com/stackabletech/stackable-cockpit/pull/421) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
-- [chore: Add release branches to the playbooks for release 25.11](https://github.com/stackabletech/documentation/pull/805) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (3 days ago)
-- [fix: Use correct branch instead of hard-coded one in release script](https://github.com/stackabletech/documentation/pull/804) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (3 days ago)
+- [chore: Fix README badge sorting](https://github.com/stackabletech/docker-images/pull/1352) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [fix(stackable-base): Update expected ca-certificates package name](https://github.com/stackabletech/docker-images/pull/1351) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [chore: Deny unwraps and panics in Rust code](https://github.com/stackabletech/docker-images/pull/1350) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [feat: Add user config support](https://github.com/stackabletech/stackable-cockpit/pull/422) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
+- [feat: Add version check (command)](https://github.com/stackabletech/stackable-cockpit/pull/421) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.1) ([stackablectl-1.2.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.6) ([boil-0.1.6](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.6)) - Product images for the Stackable Data Platform (1 week ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.1) ([stackablectl-1.2.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.6) ([boil-0.1.6](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.6)) - Product images for the Stackable Data Platform (2 weeks ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.10.4) ([v0.10.4](https://github.com/stackabletech/actions/releases/tag/v0.10.4)) - A collection of GitHub Actions used across Stackable repositories (2 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
