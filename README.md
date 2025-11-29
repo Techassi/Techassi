@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (2 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
-- [stackabletech/crddocs](https://github.com/stackabletech/crddocs) -  (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci(template): Fix operator version extraction](https://github.com/stackabletech/operator-templating/pull/565) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [test(smoke): Add Helm chart workflow test](https://github.com/stackabletech/actions/pull/89) on [stackabletech/actions](https://github.com/stackabletech/actions) (3 days ago)
-- [feat(setup-k8s-tools): Add Helm signature verification toggle](https://github.com/stackabletech/actions/pull/87) on [stackabletech/actions](https://github.com/stackabletech/actions) (3 days ago)
-- [ci: Improve build workflow](https://github.com/stackabletech/airflow-operator/pull/713) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (4 days ago)
-- [feat: Forward args to docker command](https://github.com/stackabletech/docker-images/pull/1355) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (5 days ago)
+- [ci(template): Fix operator version extraction](https://github.com/stackabletech/operator-templating/pull/565) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
+- [test(smoke): Add Helm chart workflow test](https://github.com/stackabletech/actions/pull/89) on [stackabletech/actions](https://github.com/stackabletech/actions) (4 days ago)
+- [feat(setup-k8s-tools): Add Helm signature verification toggle](https://github.com/stackabletech/actions/pull/87) on [stackabletech/actions](https://github.com/stackabletech/actions) (4 days ago)
+- [ci: Improve build workflow](https://github.com/stackabletech/airflow-operator/pull/713) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (5 days ago)
+- [feat: Forward args to docker command](https://github.com/stackabletech/docker-images/pull/1355) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.11.0) ([v0.11.0](https://github.com/stackabletech/actions/releases/tag/v0.11.0)) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.11.0) ([v0.11.0](https://github.com/stackabletech/actions/releases/tag/v0.11.0)) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.1) ([stackablectl-1.2.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.6) ([boil-0.1.6](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.6)) - Product images for the Stackable Data Platform (3 weeks ago)
 
