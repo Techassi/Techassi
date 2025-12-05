@@ -26,26 +26,26 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (3 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (6 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (4 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (4 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 week ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 week ago)
 - [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Release stackablectl 1.2.2](https://github.com/stackabletech/stackable-cockpit/pull/423) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
-- [chore: Update version in antora.yml to 25.11.0](https://github.com/stackabletech/documentation/pull/813) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (3 days ago)
-- [docs: Add signature verification note to release notes](https://github.com/stackabletech/documentation/pull/812) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (3 days ago)
-- [feat: Add detect-changes action](https://github.com/stackabletech/actions/pull/91) on [stackabletech/actions](https://github.com/stackabletech/actions) (3 days ago)
-- [ci(template): Fix operator version extraction](https://github.com/stackabletech/operator-templating/pull/565) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 week ago)
+- [chore(stackable-telemetry): Restructure semconv imports](https://github.com/stackabletech/operator-rs/pull/1123) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [chore: Add unwrap and panic lints](https://github.com/stackabletech/operator-rs/pull/1122) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [chore: Release stackablectl 1.2.2](https://github.com/stackabletech/stackable-cockpit/pull/423) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
+- [chore: Update version in antora.yml to 25.11.0](https://github.com/stackabletech/documentation/pull/813) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (4 days ago)
+- [docs: Add signature verification note to release notes](https://github.com/stackabletech/documentation/pull/812) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (4 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.23.0) ([v0.23.0](https://github.com/TedDriggs/darling/releases/tag/v0.23.0)) - A Rust proc-macro attribute parser (1 day ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.12.0) ([v0.12.0](https://github.com/stackabletech/actions/releases/tag/v0.12.0)) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
+- [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.23.0) ([v0.23.0](https://github.com/TedDriggs/darling/releases/tag/v0.23.0)) - A Rust proc-macro attribute parser (2 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.12.0) ([v0.12.0](https://github.com/stackabletech/actions/releases/tag/v0.12.0)) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.1) ([stackablectl-1.2.1](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.1)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
