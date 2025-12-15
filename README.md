@@ -27,8 +27,8 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
 
 - [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb) - Trino load balancer with support for routing, queueing and auto-scaling (1 week ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (2 weeks ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 weeks ago)
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 weeks ago)
 - [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 weeks ago)
 
@@ -38,8 +38,8 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 - [chore(stackable-telemetry): Restructure semconv imports](https://github.com/stackabletech/operator-rs/pull/1123) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [chore: Add unwrap and panic lints](https://github.com/stackabletech/operator-rs/pull/1122) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [chore: Release stackablectl 1.2.2](https://github.com/stackabletech/stackable-cockpit/pull/423) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
-- [chore: Update version in antora.yml to 25.11.0](https://github.com/stackabletech/documentation/pull/813) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
-- [docs: Add signature verification note to release notes](https://github.com/stackabletech/documentation/pull/812) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
+- [chore: Update version in antora.yml to 25.11.0](https://github.com/stackabletech/documentation/pull/813) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 weeks ago)
+- [docs: Add signature verification note to release notes](https://github.com/stackabletech/documentation/pull/812) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
