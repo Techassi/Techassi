@@ -26,7 +26,7 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (3 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (4 days ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 - [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb) - Trino load balancer with support for routing, queueing and auto-scaling (3 weeks ago)
@@ -35,9 +35,9 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [docs(stackable-versioned): Add section about hint(...)](https://github.com/stackabletech/operator-rs/pull/1128) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
-- [ci: Deduplicate checks and tests](https://github.com/stackabletech/operator-rs/pull/1127) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
-- [ci: Bump cargo-deny action to 2.0.14](https://github.com/stackabletech/operator-rs/pull/1126) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
+- [docs(stackable-versioned): Add section about hint(...)](https://github.com/stackabletech/operator-rs/pull/1128) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
+- [ci: Deduplicate checks and tests](https://github.com/stackabletech/operator-rs/pull/1127) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
+- [ci: Bump cargo-deny action to 2.0.14](https://github.com/stackabletech/operator-rs/pull/1126) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
 - [feat(boil): Provide more build args](https://github.com/stackabletech/docker-images/pull/1365) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
 - [fix(superset): Add patch to pin the sax package to 1.2.4](https://github.com/stackabletech/docker-images/pull/1363) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
 
