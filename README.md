@@ -30,7 +30,7 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
 - [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb) - Trino load balancer with support for routing, queueing and auto-scaling (3 weeks ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (4 weeks ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 month ago)
 
 #### 🧪 Latest PRs
 
@@ -45,7 +45,7 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
 
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.2) ([stackablectl-1.2.2](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.2)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
-- [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.23.0) ([v0.23.0](https://github.com/TedDriggs/darling/releases/tag/v0.23.0)) - A Rust proc-macro attribute parser (3 weeks ago)
+- [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.23.0) ([v0.23.0](https://github.com/TedDriggs/darling/releases/tag/v0.23.0)) - A Rust proc-macro attribute parser (4 weeks ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.12.0) ([v0.12.0](https://github.com/stackabletech/actions/releases/tag/v0.12.0)) - A collection of GitHub Actions used across Stackable repositories (4 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
