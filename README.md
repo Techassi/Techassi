@@ -26,8 +26,8 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (5 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (6 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (3 weeks ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (4 weeks ago)
 - [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb) - Trino load balancer with support for routing, queueing and auto-scaling (1 month ago)
@@ -35,18 +35,18 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
+- [feat: Partially add Kubernetes list library](https://github.com/cel-rust/cel-rust/pull/253) on [cel-rust/cel-rust](https://github.com/cel-rust/cel-rust) (1 day ago)
+- [feat: Add rustfmt options and rust-toolchain.toml](https://github.com/cel-rust/cel-rust/pull/252) on [cel-rust/cel-rust](https://github.com/cel-rust/cel-rust) (1 day ago)
+- [chore(webhook): Hide ByteString in instrumentation](https://github.com/stackabletech/operator-rs/pull/1137) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
 - [docs(stackable-versioned): Add section about hint(...)](https://github.com/stackabletech/operator-rs/pull/1128) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 weeks ago)
 - [ci: Deduplicate checks and tests](https://github.com/stackabletech/operator-rs/pull/1127) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 weeks ago)
-- [ci: Bump cargo-deny action to 2.0.14](https://github.com/stackabletech/operator-rs/pull/1126) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 weeks ago)
-- [feat(boil): Provide more build args](https://github.com/stackabletech/docker-images/pull/1365) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 weeks ago)
-- [fix(superset): Add patch to pin the sax package to 1.2.4](https://github.com/stackabletech/docker-images/pull/1363) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
 
+- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/3.0.0) ([3.0.0](https://github.com/kube-rs/kube/releases/tag/3.0.0)) - Rust Kubernetes client and controller runtime (1 day ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.2) ([stackablectl-1.2.2](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.2)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (4 weeks ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.23.0) ([v0.23.0](https://github.com/TedDriggs/darling/releases/tag/v0.23.0)) - A Rust proc-macro attribute parser (1 month ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.12.0) ([v0.12.0](https://github.com/stackabletech/actions/releases/tag/v0.12.0)) - A collection of GitHub Actions used across Stackable repositories (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
