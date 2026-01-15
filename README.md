@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (3 days ago)
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (3 weeks ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (4 weeks ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 month ago)
 - [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb) - Trino load balancer with support for routing, queueing and auto-scaling (1 month ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat: Partially add Kubernetes list library](https://github.com/cel-rust/cel-rust/pull/253) on [cel-rust/cel-rust](https://github.com/cel-rust/cel-rust) (2 days ago)
-- [feat: Add rustfmt options and rust-toolchain.toml](https://github.com/cel-rust/cel-rust/pull/252) on [cel-rust/cel-rust](https://github.com/cel-rust/cel-rust) (2 days ago)
-- [chore(webhook): Hide ByteString in instrumentation](https://github.com/stackabletech/operator-rs/pull/1137) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [feat: Partially add Kubernetes list library](https://github.com/cel-rust/cel-rust/pull/253) on [cel-rust/cel-rust](https://github.com/cel-rust/cel-rust) (3 days ago)
+- [feat: Add rustfmt options and rust-toolchain.toml](https://github.com/cel-rust/cel-rust/pull/252) on [cel-rust/cel-rust](https://github.com/cel-rust/cel-rust) (3 days ago)
+- [chore(webhook): Hide ByteString in instrumentation](https://github.com/stackabletech/operator-rs/pull/1137) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
 - [docs(stackable-versioned): Add section about hint(...)](https://github.com/stackabletech/operator-rs/pull/1128) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 weeks ago)
 - [ci: Deduplicate checks and tests](https://github.com/stackabletech/operator-rs/pull/1127) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/3.0.0) ([3.0.0](https://github.com/kube-rs/kube/releases/tag/3.0.0)) - Rust Kubernetes client and controller runtime (2 days ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/3.0.0) ([3.0.0](https://github.com/kube-rs/kube/releases/tag/3.0.0)) - Rust Kubernetes client and controller runtime (3 days ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.2) ([stackablectl-1.2.2](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.2)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 month ago)
 - [TedDriggs/darling](https://github.com/TedDriggs/darling/releases/tag/v0.23.0) ([v0.23.0](https://github.com/TedDriggs/darling/releases/tag/v0.23.0)) - A Rust proc-macro attribute parser (1 month ago)
 
