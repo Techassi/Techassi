@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (2 days ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (3 days ago)
-- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (3 days ago)
-- [stackabletech/druid-opa-authorizer](https://github.com/stackabletech/druid-opa-authorizer) - Apache Druid Authorizer for OpenPolicyAgent (4 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
+- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (1 day ago)
+- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (3 days ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (4 days ago)
+- [stackabletech/druid-opa-authorizer](https://github.com/stackabletech/druid-opa-authorizer) - Apache Druid Authorizer for OpenPolicyAgent (5 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore(druid): Bump HDFS to 3.4.2 for Druid 34.0.0](https://github.com/stackabletech/docker-images/pull/1409) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
-- [chore: Bump Druid to 35.0.1](https://github.com/stackabletech/demos/pull/358) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
-- [chore: Add 35.0.1, remove 33.0.0](https://github.com/stackabletech/druid-operator/pull/786) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (2 days ago)
-- [chore(airflow): Update changelog for 26.3](https://github.com/stackabletech/docker-images/pull/1407) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
-- [chore(druid): Add 35.0.1, remove 33.0.0](https://github.com/stackabletech/docker-images/pull/1406) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
+- [feat(crd): Stabilise Entra backend](https://github.com/stackabletech/opa-operator/pull/801) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (1 day ago)
+- [chore(druid): Bump HDFS to 3.4.2 for Druid 34.0.0](https://github.com/stackabletech/docker-images/pull/1409) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
+- [chore: Bump Druid to 35.0.1](https://github.com/stackabletech/demos/pull/358) on [stackabletech/demos](https://github.com/stackabletech/demos) (3 days ago)
+- [chore: Add 35.0.1, remove 33.0.0](https://github.com/stackabletech/druid-operator/pull/786) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (3 days ago)
+- [chore(airflow): Update changelog for 26.3](https://github.com/stackabletech/docker-images/pull/1407) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (4 days ago)
 
 #### 📦 Latest releases I've contributed to
 
