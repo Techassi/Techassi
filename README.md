@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (3 days ago)
-- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (3 days ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (3 days ago)
-- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (6 days ago)
-- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (6 days ago)
+- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (1 day ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (4 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (4 days ago)
+- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (4 days ago)
+- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [docs: Remove 3.4.1 from supported versions](https://github.com/stackabletech/hdfs-operator/pull/745) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (3 days ago)
-- [feat(crd): Stabilise Entra backend](https://github.com/stackabletech/opa-operator/pull/801) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (6 days ago)
+- [feat(webhook): Add graceful shutdown](https://github.com/stackabletech/operator-rs/pull/1144) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [docs: Remove 3.4.1 from supported versions](https://github.com/stackabletech/hdfs-operator/pull/745) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (4 days ago)
+- [feat(crd): Stabilise Entra backend](https://github.com/stackabletech/opa-operator/pull/801) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (1 week ago)
 - [chore(druid): Bump HDFS to 3.4.2 for Druid 34.0.0](https://github.com/stackabletech/docker-images/pull/1409) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
 - [chore: Bump Druid to 35.0.1](https://github.com/stackabletech/demos/pull/358) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 week ago)
-- [chore: Add 35.0.1, remove 33.0.0](https://github.com/stackabletech/druid-operator/pull/786) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.12.2) ([v0.12.2](https://github.com/stackabletech/actions/releases/tag/v0.12.2)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.12.2) ([v0.12.2](https://github.com/stackabletech/actions/releases/tag/v0.12.2)) - A collection of GitHub Actions used across Stackable repositories (2 weeks ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/3.0.0) ([3.0.0](https://github.com/kube-rs/kube/releases/tag/3.0.0)) - Rust Kubernetes client and controller runtime (2 weeks ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.2) ([stackablectl-1.2.2](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.2)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 month ago)
 
