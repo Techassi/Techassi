@@ -26,26 +26,26 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
+- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (1 day ago)
 - [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Operator for Apache Spark-on-Kubernetes for Stackable Data Platform (1 day ago)
-- [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) - Stackable Operator for OpenSearch (1 day ago)
-- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (1 day ago)
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (1 day ago)
-- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (1 day ago)
+- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat: Add graceful shutdown](https://github.com/stackabletech/zookeeper-operator/pull/1004) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (1 day ago)
-- [feat: Add graceful shutdown](https://github.com/stackabletech/trino-operator/pull/843) on [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) (1 day ago)
-- [feat: Add graceful shutdown](https://github.com/stackabletech/superset-operator/pull/699) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (1 day ago)
-- [feat: Add graceful shutdown](https://github.com/stackabletech/spark-k8s-operator/pull/651) on [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) (1 day ago)
-- [feat: Add graceful shutdown](https://github.com/stackabletech/opensearch-operator/pull/110) on [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) (1 day ago)
+- [chore: Add .gitignore entry for local Helm values file](https://github.com/stackabletech/operator-templating/pull/571) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [docs: Add maintenance pages](https://github.com/stackabletech/documentation/pull/824) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [chore: Remove local-only values.yaml file](https://github.com/stackabletech/secret-operator/pull/675) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 day ago)
+- [feat: Add graceful shutdown](https://github.com/stackabletech/opa-operator/pull/804) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (1 day ago)
+- [feat: Add graceful shutdown](https://github.com/stackabletech/listener-operator/pull/366) on [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/3.0.1) ([3.0.1](https://github.com/kube-rs/kube/releases/tag/3.0.1)) - Rust Kubernetes client and controller runtime (6 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.12.2) ([v0.12.2](https://github.com/stackabletech/actions/releases/tag/v0.12.2)) - A collection of GitHub Actions used across Stackable repositories (2 weeks ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/3.0.1) ([3.0.1](https://github.com/kube-rs/kube/releases/tag/3.0.1)) - Rust Kubernetes client and controller runtime (1 week ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.12.2) ([v0.12.2](https://github.com/stackabletech/actions/releases/tag/v0.12.2)) - A collection of GitHub Actions used across Stackable repositories (3 weeks ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.2) ([stackablectl-1.2.2](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.2)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
