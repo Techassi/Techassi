@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (6 days ago)
-- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Operator for Apache Spark-on-Kubernetes for Stackable Data Platform (6 days ago)
-- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (6 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (6 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (6 days ago)
+- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (1 week ago)
+- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Operator for Apache Spark-on-Kubernetes for Stackable Data Platform (1 week ago)
+- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (1 week ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 week ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat: Add annotation to provision public secret data only](https://github.com/stackabletech/secret-operator/pull/676) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (5 days ago)
-- [chore: Add .gitignore entry for local Helm values file](https://github.com/stackabletech/operator-templating/pull/571) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (6 days ago)
-- [docs: Add maintenance pages](https://github.com/stackabletech/documentation/pull/824) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (6 days ago)
-- [chore: Remove local-only values.yaml file](https://github.com/stackabletech/secret-operator/pull/675) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (6 days ago)
-- [feat: Add graceful shutdown](https://github.com/stackabletech/opa-operator/pull/804) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (6 days ago)
+- [feat: Add annotation to provision public secret data only](https://github.com/stackabletech/secret-operator/pull/676) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (6 days ago)
+- [chore: Add .gitignore entry for local Helm values file](https://github.com/stackabletech/operator-templating/pull/571) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 week ago)
+- [docs: Add maintenance pages](https://github.com/stackabletech/documentation/pull/824) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
+- [chore: Remove local-only values.yaml file](https://github.com/stackabletech/secret-operator/pull/675) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 week ago)
+- [feat: Add graceful shutdown](https://github.com/stackabletech/opa-operator/pull/804) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
