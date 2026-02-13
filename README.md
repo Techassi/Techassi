@@ -35,7 +35,7 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [feat: Add annotation to provision public secret data only](https://github.com/stackabletech/secret-operator/pull/676) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (6 days ago)
+- [feat: Add annotation to provision public secret data only](https://github.com/stackabletech/secret-operator/pull/676) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 week ago)
 - [chore: Add .gitignore entry for local Helm values file](https://github.com/stackabletech/operator-templating/pull/571) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 week ago)
 - [docs: Add maintenance pages](https://github.com/stackabletech/documentation/pull/824) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
 - [chore: Remove local-only values.yaml file](https://github.com/stackabletech/secret-operator/pull/675) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 week ago)
@@ -44,9 +44,9 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 📦 Latest releases I've contributed to
 
 
-- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/3.0.1) ([3.0.1](https://github.com/kube-rs/kube/releases/tag/3.0.1)) - Rust Kubernetes client and controller runtime (1 week ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.12.2) ([v0.12.2](https://github.com/stackabletech/actions/releases/tag/v0.12.2)) - A collection of GitHub Actions used across Stackable repositories (3 weeks ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.2) ([stackablectl-1.2.2](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.2)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 month ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/3.0.1) ([3.0.1](https://github.com/kube-rs/kube/releases/tag/3.0.1)) - Rust Kubernetes client and controller runtime (2 weeks ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.12.2) ([v0.12.2](https://github.com/stackabletech/actions/releases/tag/v0.12.2)) - A collection of GitHub Actions used across Stackable repositories (4 weeks ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.2) ([stackablectl-1.2.2](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.2)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 months ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
