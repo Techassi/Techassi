@@ -35,11 +35,11 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [feat: Add annotation to provision public secret data only](https://github.com/stackabletech/secret-operator/pull/676) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 week ago)
-- [chore: Add .gitignore entry for local Helm values file](https://github.com/stackabletech/operator-templating/pull/571) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 week ago)
-- [docs: Add maintenance pages](https://github.com/stackabletech/documentation/pull/824) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
-- [chore: Remove local-only values.yaml file](https://github.com/stackabletech/secret-operator/pull/675) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 week ago)
-- [feat: Add graceful shutdown](https://github.com/stackabletech/opa-operator/pull/804) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (1 week ago)
+- [feat(cert-tools): Add typed errors and restructure code](https://github.com/stackabletech/secret-operator/pull/678) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 day ago)
+- [chore: Prepare CRD versioning](https://github.com/stackabletech/kafka-operator/pull/937) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (1 day ago)
+- [chore: Prepare CRD versioning](https://github.com/stackabletech/hdfs-operator/pull/753) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (1 day ago)
+- [chore: Prepare CRD versioning](https://github.com/stackabletech/hbase-operator/pull/733) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (1 day ago)
+- [chore: Prepare CRD versioning](https://github.com/stackabletech/hive-operator/pull/676) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
