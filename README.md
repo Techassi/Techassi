@@ -35,17 +35,17 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [feat(cert-tools): Add typed errors and restructure code](https://github.com/stackabletech/secret-operator/pull/678) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 day ago)
-- [chore: Prepare CRD versioning](https://github.com/stackabletech/kafka-operator/pull/937) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (1 day ago)
-- [chore: Prepare CRD versioning](https://github.com/stackabletech/hdfs-operator/pull/753) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (1 day ago)
-- [chore: Prepare CRD versioning](https://github.com/stackabletech/hbase-operator/pull/733) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (1 day ago)
-- [chore: Prepare CRD versioning](https://github.com/stackabletech/hive-operator/pull/676) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (1 day ago)
+- [feat(cert-tools): Add typed errors and restructure code](https://github.com/stackabletech/secret-operator/pull/678) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (2 days ago)
+- [chore: Prepare CRD versioning](https://github.com/stackabletech/kafka-operator/pull/937) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (2 days ago)
+- [chore: Prepare CRD versioning](https://github.com/stackabletech/hdfs-operator/pull/753) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (2 days ago)
+- [chore: Prepare CRD versioning](https://github.com/stackabletech/hbase-operator/pull/733) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (2 days ago)
+- [chore: Prepare CRD versioning](https://github.com/stackabletech/hive-operator/pull/676) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
 - [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/3.0.1) ([3.0.1](https://github.com/kube-rs/kube/releases/tag/3.0.1)) - Rust Kubernetes client and controller runtime (2 weeks ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.12.2) ([v0.12.2](https://github.com/stackabletech/actions/releases/tag/v0.12.2)) - A collection of GitHub Actions used across Stackable repositories (4 weeks ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.12.2) ([v0.12.2](https://github.com/stackabletech/actions/releases/tag/v0.12.2)) - A collection of GitHub Actions used across Stackable repositories (1 month ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.2) ([stackablectl-1.2.2](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.2)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 months ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
