@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (1 week ago)
-- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Operator for Apache Spark-on-Kubernetes for Stackable Data Platform (1 week ago)
-- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (1 week ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 week ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
+- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (1 day ago)
+- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (1 day ago)
+- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(cert-tools): Add typed errors and restructure code](https://github.com/stackabletech/secret-operator/pull/678) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (3 days ago)
-- [chore: Prepare CRD versioning](https://github.com/stackabletech/kafka-operator/pull/937) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (3 days ago)
-- [chore: Prepare CRD versioning](https://github.com/stackabletech/hdfs-operator/pull/753) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (3 days ago)
-- [chore: Prepare CRD versioning](https://github.com/stackabletech/hbase-operator/pull/733) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (3 days ago)
-- [chore: Prepare CRD versioning](https://github.com/stackabletech/hive-operator/pull/676) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (3 days ago)
+- [fix: Let operator deploy listener class presets](https://github.com/stackabletech/listener-operator/pull/369) on [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) (1 day ago)
+- [chore: Prepare CRD versioning](https://github.com/stackabletech/opensearch-operator/pull/114) on [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) (1 day ago)
+- [chore: Prepare CRD versioning](https://github.com/stackabletech/nifi-operator/pull/898) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (1 day ago)
+- [chore: Prepare CRD versioning](https://github.com/stackabletech/listener-operator/pull/368) on [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) (1 day ago)
+- [ci(ubi-rust-builder): Disable provenance generation](https://github.com/stackabletech/docker-images/pull/1427) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
