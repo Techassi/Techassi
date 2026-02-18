@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (1 day ago)
+- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (1 day ago)
+- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb) - Trino load balancer with support for routing, queueing and auto-scaling (1 day ago)
+- [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) - Stackable Operator for OpenSearch (1 day ago)
 - [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (1 day ago)
-- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (1 day ago)
+- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Operator for Apache Spark-on-Kubernetes for Stackable Data Platform (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix: Let operator deploy listener class presets](https://github.com/stackabletech/listener-operator/pull/369) on [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) (1 day ago)
-- [chore: Prepare CRD versioning](https://github.com/stackabletech/opensearch-operator/pull/114) on [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) (1 day ago)
-- [chore: Prepare CRD versioning](https://github.com/stackabletech/nifi-operator/pull/898) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (1 day ago)
-- [chore: Prepare CRD versioning](https://github.com/stackabletech/listener-operator/pull/368) on [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) (1 day ago)
-- [ci(ubi-rust-builder): Disable provenance generation](https://github.com/stackabletech/docker-images/pull/1427) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [chore: Prepare CRD versioning](https://github.com/stackabletech/superset-operator/pull/702) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (1 day ago)
+- [chore: Prepare CRD versioning](https://github.com/stackabletech/spark-k8s-operator/pull/656) on [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) (1 day ago)
+- [chore(operator): Release 0.106.1](https://github.com/stackabletech/operator-rs/pull/1153) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [fix(operator/crd): Skip serializing traffic policy field if None](https://github.com/stackabletech/operator-rs/pull/1152) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [fix: Let operator deploy listener class presets](https://github.com/stackabletech/listener-operator/pull/369) on [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
+- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.6.0) ([v0.6.0](https://github.com/stackabletech/trino-lb/releases/tag/v0.6.0)) - Trino load balancer with support for routing, queueing and auto-scaling (1 day ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/3.0.1) ([3.0.1](https://github.com/kube-rs/kube/releases/tag/3.0.1)) - Rust Kubernetes client and controller runtime (2 weeks ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.12.2) ([v0.12.2](https://github.com/stackabletech/actions/releases/tag/v0.12.2)) - A collection of GitHub Actions used across Stackable repositories (1 month ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.2) ([stackablectl-1.2.2](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.2.2)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 months ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
