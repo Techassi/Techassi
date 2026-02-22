@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (1 day ago)
-- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (1 day ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 days ago)
-- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (3 days ago)
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (3 days ago)
+- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (2 days ago)
+- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (2 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (3 days ago)
+- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (4 days ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (4 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Prepare CRD versioning](https://github.com/stackabletech/commons-operator/pull/400) on [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) (1 day ago)
-- [chore: Update templated files for conversion webhook](https://github.com/stackabletech/operator-templating/pull/574) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (3 days ago)
-- [chore: Prepare CRD versioning](https://github.com/stackabletech/zookeeper-operator/pull/1007) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (3 days ago)
-- [chore: Prepare CRD versioning](https://github.com/stackabletech/trino-operator/pull/848) on [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) (3 days ago)
-- [chore: Prepare CRD versioning](https://github.com/stackabletech/superset-operator/pull/702) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (4 days ago)
+- [chore: Prepare CRD versioning](https://github.com/stackabletech/commons-operator/pull/400) on [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) (2 days ago)
+- [chore: Update templated files for conversion webhook](https://github.com/stackabletech/operator-templating/pull/574) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (4 days ago)
+- [chore: Prepare CRD versioning](https://github.com/stackabletech/zookeeper-operator/pull/1007) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (4 days ago)
+- [chore: Prepare CRD versioning](https://github.com/stackabletech/trino-operator/pull/848) on [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) (4 days ago)
+- [chore: Prepare CRD versioning](https://github.com/stackabletech/superset-operator/pull/702) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (5 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.6.0) ([v0.6.0](https://github.com/stackabletech/trino-lb/releases/tag/v0.6.0)) - Trino load balancer with support for routing, queueing and auto-scaling (4 days ago)
+- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.6.0) ([v0.6.0](https://github.com/stackabletech/trino-lb/releases/tag/v0.6.0)) - Trino load balancer with support for routing, queueing and auto-scaling (5 days ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/3.0.1) ([3.0.1](https://github.com/kube-rs/kube/releases/tag/3.0.1)) - Rust Kubernetes client and controller runtime (3 weeks ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.12.2) ([v0.12.2](https://github.com/stackabletech/actions/releases/tag/v0.12.2)) - A collection of GitHub Actions used across Stackable repositories (1 month ago)
 
