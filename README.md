@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (1 day ago)
-- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (4 days ago)
-- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (4 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (5 days ago)
-- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (6 days ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (2 days ago)
+- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (5 days ago)
+- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (5 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (6 days ago)
+- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci(cert-tools): Add conventional PR title workflow](https://github.com/stackabletech/secret-operator/pull/683) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 day ago)
-- [feat: Add run-prek action](https://github.com/stackabletech/actions/pull/96) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [chore(cert-tools): Release 0.1.1](https://github.com/stackabletech/secret-operator/pull/682) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 day ago)
-- [chore: Prepare CRD versioning](https://github.com/stackabletech/commons-operator/pull/400) on [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) (4 days ago)
-- [chore: Update templated files for conversion webhook](https://github.com/stackabletech/operator-templating/pull/574) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (6 days ago)
+- [chore: Bump Rust version and workflow actions for 26.3.0](https://github.com/stackabletech/operator-rs/pull/1156) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [template(ci): Fix operator version extraction](https://github.com/stackabletech/operator-templating/pull/577) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [ci(cert-tools): Add conventional PR title workflow](https://github.com/stackabletech/secret-operator/pull/683) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (2 days ago)
+- [feat: Add run-prek action](https://github.com/stackabletech/actions/pull/96) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
+- [chore(cert-tools): Release 0.1.1](https://github.com/stackabletech/secret-operator/pull/682) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
