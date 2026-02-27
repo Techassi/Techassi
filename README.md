@@ -26,26 +26,26 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (3 days ago)
-- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (6 days ago)
-- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (6 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 week ago)
-- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (1 week ago)
+- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (4 days ago)
+- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Bump Rust version and workflow actions for 26.3.0](https://github.com/stackabletech/operator-rs/pull/1156) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
-- [template(ci): Fix operator version extraction](https://github.com/stackabletech/operator-templating/pull/577) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
-- [ci(cert-tools): Add conventional PR title workflow](https://github.com/stackabletech/secret-operator/pull/683) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (3 days ago)
-- [feat: Add run-prek action](https://github.com/stackabletech/actions/pull/96) on [stackabletech/actions](https://github.com/stackabletech/actions) (3 days ago)
-- [chore(cert-tools): Release 0.1.1](https://github.com/stackabletech/secret-operator/pull/682) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (3 days ago)
+- [chore: Bump Rust dependencies pre-26.3.0](https://github.com/stackabletech/druid-operator/pull/794) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (1 day ago)
+- [chore: Bump Rust dependencies pre-26.3.0](https://github.com/stackabletech/commons-operator/pull/401) on [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) (1 day ago)
+- [chore: Bump Rust dependencies pre-26.3](https://github.com/stackabletech/airflow-operator/pull/752) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (1 day ago)
+- [chore(operator): Release 0.106.2](https://github.com/stackabletech/operator-rs/pull/1161) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [chore: Bump Rust dependencies for 26.3.0](https://github.com/stackabletech/operator-rs/pull/1160) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
 
 - [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.6.0) ([v0.6.0](https://github.com/stackabletech/trino-lb/releases/tag/v0.6.0)) - Trino load balancer with support for routing, queueing and auto-scaling (1 week ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/3.0.1) ([3.0.1](https://github.com/kube-rs/kube/releases/tag/3.0.1)) - Rust Kubernetes client and controller runtime (3 weeks ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/3.0.1) ([3.0.1](https://github.com/kube-rs/kube/releases/tag/3.0.1)) - Rust Kubernetes client and controller runtime (4 weeks ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.12.2) ([v0.12.2](https://github.com/stackabletech/actions/releases/tag/v0.12.2)) - A collection of GitHub Actions used across Stackable repositories (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
