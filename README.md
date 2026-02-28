@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (1 day ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (4 days ago)
-- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (1 week ago)
+- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (1 day ago)
+- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (2 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (5 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Bump Rust dependencies pre-26.3.0](https://github.com/stackabletech/druid-operator/pull/794) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (1 day ago)
-- [chore: Bump Rust dependencies pre-26.3.0](https://github.com/stackabletech/commons-operator/pull/401) on [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) (1 day ago)
-- [chore: Bump Rust dependencies pre-26.3](https://github.com/stackabletech/airflow-operator/pull/752) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (1 day ago)
-- [chore(operator): Release 0.106.2](https://github.com/stackabletech/operator-rs/pull/1161) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [chore: Bump Rust dependencies for 26.3.0](https://github.com/stackabletech/operator-rs/pull/1160) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [chore: Bump Rust dependencies pre-26.3.0](https://github.com/stackabletech/druid-operator/pull/794) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (2 days ago)
+- [chore: Bump Rust dependencies pre-26.3.0](https://github.com/stackabletech/commons-operator/pull/401) on [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) (2 days ago)
+- [chore: Bump Rust dependencies pre-26.3](https://github.com/stackabletech/airflow-operator/pull/752) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (2 days ago)
+- [chore(operator): Release 0.106.2](https://github.com/stackabletech/operator-rs/pull/1161) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [chore: Bump Rust dependencies for 26.3.0](https://github.com/stackabletech/operator-rs/pull/1160) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
