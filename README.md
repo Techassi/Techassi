@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (1 day ago)
-- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (4 days ago)
-- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (5 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (5 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (5 days ago)
+- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Bump Rust dependencies pre-26.3.0](https://github.com/stackabletech/opa-operator/pull/810) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (1 day ago)
-- [chore: Bump Rust dependencies pre-26.3.0](https://github.com/stackabletech/nifi-operator/pull/906) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (1 day ago)
-- [chore: Bump Rust dependencies pre-26.3.0](https://github.com/stackabletech/listener-operator/pull/373) on [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) (1 day ago)
-- [chore: Bump Rust dependencies pre-26.3.0](https://github.com/stackabletech/kafka-operator/pull/943) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (1 day ago)
-- [chore: Bump Rust dependencies pre-26.3.0](https://github.com/stackabletech/druid-operator/pull/794) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (5 days ago)
+- [chore(boil): Adjust git-cliff config](https://github.com/stackabletech/docker-images/pull/1441) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [chore(boil): Release 0.1.7](https://github.com/stackabletech/docker-images/pull/1440) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [ci: Bump stackabletech/actions to v0.13.0](https://github.com/stackabletech/docker-images/pull/1439) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [chore: Bump Rust dependencies pre-26.3.0](https://github.com/stackabletech/secret-operator/pull/685) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 day ago)
+- [chore: Bump Rust dependencies pre-26.3.0](https://github.com/stackabletech/opensearch-operator/pull/120) on [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
 
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.13.0) ([v0.13.0](https://github.com/stackabletech/actions/releases/tag/v0.13.0)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
 - [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.6.0) ([v0.6.0](https://github.com/stackabletech/trino-lb/releases/tag/v0.6.0)) - Trino load balancer with support for routing, queueing and auto-scaling (2 weeks ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/3.0.1) ([3.0.1](https://github.com/kube-rs/kube/releases/tag/3.0.1)) - Rust Kubernetes client and controller runtime (1 month ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.12.2) ([v0.12.2](https://github.com/stackabletech/actions/releases/tag/v0.12.2)) - A collection of GitHub Actions used across Stackable repositories (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
