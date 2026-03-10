@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (3 days ago)
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (3 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (3 days ago)
-- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (6 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (6 days ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (1 day ago)
+- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (4 days ago)
+- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore(boil): Adjust git-cliff config](https://github.com/stackabletech/docker-images/pull/1441) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
-- [chore(boil): Release 0.1.7](https://github.com/stackabletech/docker-images/pull/1440) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
-- [ci: Bump stackabletech/actions to v0.13.0](https://github.com/stackabletech/docker-images/pull/1439) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
-- [chore: Bump Rust dependencies pre-26.3.0](https://github.com/stackabletech/secret-operator/pull/685) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (6 days ago)
-- [chore: Bump Rust dependencies pre-26.3.0](https://github.com/stackabletech/opensearch-operator/pull/120) on [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) (6 days ago)
+- [fix: Delay controller startup to avoid 404 in initial list](https://github.com/stackabletech/commons-operator/pull/404) on [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) (1 day ago)
+- [fix: Delay controller startup to avoid 404 in initial list](https://github.com/stackabletech/airflow-operator/pull/756) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (1 day ago)
+- [fix: Delay controller startup to avoid 404 in initial list](https://github.com/stackabletech/secret-operator/pull/687) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 day ago)
+- [chore(boil): Adjust git-cliff config](https://github.com/stackabletech/docker-images/pull/1441) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
+- [chore(boil): Release 0.1.7](https://github.com/stackabletech/docker-images/pull/1440) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.7) ([boil-0.1.7](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.7)) - Product images for the Stackable Data Platform (5 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.13.0) ([v0.13.0](https://github.com/stackabletech/actions/releases/tag/v0.13.0)) - A collection of GitHub Actions used across Stackable repositories (6 days ago)
-- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.6.0) ([v0.6.0](https://github.com/stackabletech/trino-lb/releases/tag/v0.6.0)) - Trino load balancer with support for routing, queueing and auto-scaling (2 weeks ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.7) ([boil-0.1.7](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.7)) - Product images for the Stackable Data Platform (6 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.13.0) ([v0.13.0](https://github.com/stackabletech/actions/releases/tag/v0.13.0)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
+- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.6.0) ([v0.6.0](https://github.com/stackabletech/trino-lb/releases/tag/v0.6.0)) - Trino load balancer with support for routing, queueing and auto-scaling (3 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
