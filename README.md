@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (1 day ago)
-- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (1 day ago)
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (4 days ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (2 days ago)
+- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (2 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (5 days ago)
 - [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix: Delay controller startup to avoid 404 in initial list](https://github.com/stackabletech/commons-operator/pull/404) on [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) (1 day ago)
-- [fix: Delay controller startup to avoid 404 in initial list](https://github.com/stackabletech/airflow-operator/pull/756) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (1 day ago)
-- [fix: Delay controller startup to avoid 404 in initial list](https://github.com/stackabletech/secret-operator/pull/687) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 day ago)
-- [chore(boil): Adjust git-cliff config](https://github.com/stackabletech/docker-images/pull/1441) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
-- [chore(boil): Release 0.1.7](https://github.com/stackabletech/docker-images/pull/1440) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
+- [fix: Bump stackable-operator for delayed controller functionality](https://github.com/stackabletech/airflow-operator/pull/759) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (1 day ago)
+- [fix: Bump stackable-operator for delayed controller functionality](https://github.com/stackabletech/kafka-operator/pull/945) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (1 day ago)
+- [fix: Bump stackable-operator for delayed controller functionality](https://github.com/stackabletech/hive-operator/pull/685) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (1 day ago)
+- [fix: Bump stackable-operator for delayed controller functionality](https://github.com/stackabletech/hdfs-operator/pull/764) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (1 day ago)
+- [fix: Bump stackable-operator for delayed controller functionality](https://github.com/stackabletech/hbase-operator/pull/740) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.7) ([boil-0.1.7](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.7)) - Product images for the Stackable Data Platform (6 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.7) ([boil-0.1.7](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.7)) - Product images for the Stackable Data Platform (1 week ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.13.0) ([v0.13.0](https://github.com/stackabletech/actions/releases/tag/v0.13.0)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.6.0) ([v0.6.0](https://github.com/stackabletech/trino-lb/releases/tag/v0.6.0)) - Trino load balancer with support for routing, queueing and auto-scaling (3 weeks ago)
 
