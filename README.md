@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (2 days ago)
-- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (2 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (5 days ago)
-- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (1 week ago)
+- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (1 day ago)
+- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (1 day ago)
+- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (1 day ago)
+- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (1 day ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix: Bump stackable-operator for delayed controller functionality](https://github.com/stackabletech/airflow-operator/pull/759) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (1 day ago)
-- [fix: Bump stackable-operator for delayed controller functionality](https://github.com/stackabletech/kafka-operator/pull/945) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (1 day ago)
-- [fix: Bump stackable-operator for delayed controller functionality](https://github.com/stackabletech/hive-operator/pull/685) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (1 day ago)
-- [fix: Bump stackable-operator for delayed controller functionality](https://github.com/stackabletech/hdfs-operator/pull/764) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (1 day ago)
-- [fix: Bump stackable-operator for delayed controller functionality](https://github.com/stackabletech/hbase-operator/pull/740) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (1 day ago)
+- [feat(versioned): Add support to override kube crate](https://github.com/stackabletech/operator-rs/pull/1173) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [fix(docs): Update getting-started script pre-26.3.0](https://github.com/stackabletech/opensearch-operator/pull/123) on [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) (1 day ago)
+- [fix(docs): Update getting-started script pre-26.3.0](https://github.com/stackabletech/opa-operator/pull/813) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (1 day ago)
+- [fix(docs): Update getting-started script pre-26.3.0](https://github.com/stackabletech/nifi-operator/pull/910) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (1 day ago)
+- [fix: Bump stackable-operator for delayed controller functionality](https://github.com/stackabletech/secret-operator/pull/688) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
