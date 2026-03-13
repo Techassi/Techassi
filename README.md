@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (1 day ago)
-- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (1 day ago)
-- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (1 day ago)
-- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (1 day ago)
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (1 day ago)
+- [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) - Stackable Operator for OpenSearch (1 day ago)
+- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (2 days ago)
+- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (2 days ago)
+- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (2 days ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (2 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(versioned): Add support to override kube crate](https://github.com/stackabletech/operator-rs/pull/1173) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [fix(docs): Update getting-started script pre-26.3.0](https://github.com/stackabletech/opensearch-operator/pull/123) on [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) (1 day ago)
-- [fix(docs): Update getting-started script pre-26.3.0](https://github.com/stackabletech/opa-operator/pull/813) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (1 day ago)
-- [fix(docs): Update getting-started script pre-26.3.0](https://github.com/stackabletech/nifi-operator/pull/910) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (1 day ago)
-- [fix: Bump stackable-operator for delayed controller functionality](https://github.com/stackabletech/secret-operator/pull/688) on [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) (1 day ago)
+- [docs(demos/logging): Adjust OpenSearch dashboard image](https://github.com/stackabletech/demos/pull/379) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
+- [feat(versioned): Add support to override kube crate](https://github.com/stackabletech/operator-rs/pull/1173) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [fix(docs): Update getting-started script pre-26.3.0](https://github.com/stackabletech/opensearch-operator/pull/123) on [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) (2 days ago)
+- [fix(docs): Update getting-started script pre-26.3.0](https://github.com/stackabletech/opa-operator/pull/813) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (2 days ago)
+- [fix(docs): Update getting-started script pre-26.3.0](https://github.com/stackabletech/nifi-operator/pull/910) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
