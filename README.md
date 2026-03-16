@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (2 days ago)
-- [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) - Stackable Operator for OpenSearch (3 days ago)
-- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (4 days ago)
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (4 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (3 days ago)
+- [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) - Stackable Operator for OpenSearch (4 days ago)
+- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (5 days ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (5 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore(stackablectl): Release 1.3.0](https://github.com/stackabletech/stackable-cockpit/pull/431) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
-- [fix(demos/argo-cd-git-ops): Increase git-sync memory](https://github.com/stackabletech/demos/pull/386) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
-- [docs(demos/end-to-end-security): Add adjustments for 26.3.0](https://github.com/stackabletech/demos/pull/384) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
-- [docs(demos/logging): Adjust OpenSearch dashboard image](https://github.com/stackabletech/demos/pull/379) on [stackabletech/demos](https://github.com/stackabletech/demos) (3 days ago)
-- [feat(versioned): Add support to override kube crate](https://github.com/stackabletech/operator-rs/pull/1173) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
+- [chore(stackablectl): Release 1.3.0](https://github.com/stackabletech/stackable-cockpit/pull/431) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (3 days ago)
+- [fix(demos/argo-cd-git-ops): Increase git-sync memory](https://github.com/stackabletech/demos/pull/386) on [stackabletech/demos](https://github.com/stackabletech/demos) (3 days ago)
+- [docs(demos/end-to-end-security): Add adjustments for 26.3.0](https://github.com/stackabletech/demos/pull/384) on [stackabletech/demos](https://github.com/stackabletech/demos) (3 days ago)
+- [docs(demos/logging): Adjust OpenSearch dashboard image](https://github.com/stackabletech/demos/pull/379) on [stackabletech/demos](https://github.com/stackabletech/demos) (4 days ago)
+- [feat(versioned): Add support to override kube crate](https://github.com/stackabletech/operator-rs/pull/1173) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
 
 #### 📦 Latest releases I've contributed to
 
