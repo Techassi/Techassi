@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (4 days ago)
-- [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) - Stackable Operator for OpenSearch (5 days ago)
-- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (6 days ago)
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (6 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (5 days ago)
+- [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) - Stackable Operator for OpenSearch (6 days ago)
+- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [tracking: Release Notes for SDP 26.3.0](https://github.com/stackabletech/documentation/pull/828) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
-- [fix: Use fully-qualified core import](https://github.com/la10736/rstest/pull/336) on [la10736/rstest](https://github.com/la10736/rstest) (1 day ago)
-- [chore(stackablectl): Release 1.3.0](https://github.com/stackabletech/stackable-cockpit/pull/431) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (4 days ago)
-- [fix(demos/argo-cd-git-ops): Increase git-sync memory](https://github.com/stackabletech/demos/pull/386) on [stackabletech/demos](https://github.com/stackabletech/demos) (4 days ago)
-- [docs(demos/end-to-end-security): Add adjustments for 26.3.0](https://github.com/stackabletech/demos/pull/384) on [stackabletech/demos](https://github.com/stackabletech/demos) (4 days ago)
+- [refactor(boil)!: Refactor internal code structure](https://github.com/stackabletech/docker-images/pull/1451) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [fix(demos/argo-cd-git-ops): Use 26.3.0 release for operators](https://github.com/stackabletech/demos/pull/393) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
+- [tracking: Release Notes for SDP 26.3.0](https://github.com/stackabletech/documentation/pull/828) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
+- [fix: Use fully-qualified core import](https://github.com/la10736/rstest/pull/336) on [la10736/rstest](https://github.com/la10736/rstest) (2 days ago)
+- [chore(stackablectl): Release 1.3.0](https://github.com/stackabletech/stackable-cockpit/pull/431) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (5 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.3.0) ([stackablectl-1.3.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.3.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.7) ([boil-0.1.7](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.7)) - Product images for the Stackable Data Platform (1 week ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.13.0) ([v0.13.0](https://github.com/stackabletech/actions/releases/tag/v0.13.0)) - A collection of GitHub Actions used across Stackable repositories (2 weeks ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/3.1.0) ([3.1.0](https://github.com/kube-rs/kube/releases/tag/3.1.0)) - Rust Kubernetes client and controller runtime (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.3.0) ([stackablectl-1.3.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.3.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.7) ([boil-0.1.7](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.7)) - Product images for the Stackable Data Platform (2 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
