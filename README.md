@@ -26,17 +26,17 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 days ago)
+- [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust (3 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (3 days ago)
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 week ago)
-- [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) - Stackable Operator for OpenSearch (2 weeks ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Add release branches to the playbooks for release 26.3](https://github.com/stackabletech/documentation/pull/831) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
-- [chore: Update getting-started release version to 26.3.0](https://github.com/stackabletech/documentation/pull/830) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
+- [chore: Add release branches to the playbooks for release 26.3](https://github.com/stackabletech/documentation/pull/831) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (3 days ago)
+- [chore: Update getting-started release version to 26.3.0](https://github.com/stackabletech/documentation/pull/830) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (3 days ago)
 - [refactor(boil)!: Refactor internal code structure](https://github.com/stackabletech/docker-images/pull/1451) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
 - [fix(demos/argo-cd-git-ops): Use 26.3.0 release for operators](https://github.com/stackabletech/demos/pull/393) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 week ago)
 - [tracking: Release Notes for SDP 26.3.0](https://github.com/stackabletech/documentation/pull/828) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
