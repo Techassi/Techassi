@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (3 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (3 days ago)
-- [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust (6 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (6 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug) -  (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(operator)!: Implement Deref for kvp::Key](https://github.com/stackabletech/operator-rs/pull/1182) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
-- [chore: Add release branches to the playbooks for release 26.3](https://github.com/stackabletech/documentation/pull/831) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (6 days ago)
-- [chore: Update getting-started release version to 26.3.0](https://github.com/stackabletech/documentation/pull/830) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (6 days ago)
-- [refactor(boil)!: Refactor internal code structure](https://github.com/stackabletech/docker-images/pull/1451) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
-- [fix(demos/argo-cd-git-ops): Use 26.3.0 release for operators](https://github.com/stackabletech/demos/pull/393) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 week ago)
+- [fix: Don&#39;t log ANSI escape sequences if stdout is a file](https://github.com/stackabletech/containerdebug/pull/59) on [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug) (1 day ago)
+- [chore: Release stackable-telemetry 0.6.3](https://github.com/stackabletech/operator-rs/pull/1184) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [ci(template): Skip various jobs/steps if coming from a fork](https://github.com/stackabletech/operator-templating/pull/582) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [feat(publish-helm-chart): Add publish and sign toggle](https://github.com/stackabletech/actions/pull/99) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [feat(send-slack-notification): Support customizing message subject](https://github.com/stackabletech/actions/pull/98) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
 
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.13.1) ([v0.13.1](https://github.com/stackabletech/actions/releases/tag/v0.13.1)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0) ([stackablectl-1.4.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/3.1.0) ([3.1.0](https://github.com/kube-rs/kube/releases/tag/3.1.0)) - Rust Kubernetes client and controller runtime (1 week ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.7) ([boil-0.1.7](https://github.com/stackabletech/docker-images/releases/tag/boil-0.1.7)) - Product images for the Stackable Data Platform (3 weeks ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/3.1.0) ([3.1.0](https://github.com/kube-rs/kube/releases/tag/3.1.0)) - Rust Kubernetes client and controller runtime (2 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
