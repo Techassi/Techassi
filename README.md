@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
-- [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug) -  (1 day ago)
-- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (1 day ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 days ago)
+- [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug) -  (2 days ago)
+- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (2 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(versioned): Add support to pass the scale argument](https://github.com/stackabletech/operator-rs/pull/1185) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [chore: Add script to verify release notes](https://github.com/stackabletech/stackable-cockpit/pull/437) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
-- [fix: Bump aws-lc-rs/sys and rustls-webpki to negate 3 advisories](https://github.com/stackabletech/stackable-cockpit/pull/436) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
-- [docs: Add missing release notes for stackablectl](https://github.com/stackabletech/stackable-cockpit/pull/435) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 day ago)
-- [fix: Don&#39;t log ANSI escape sequences if stdout is a file](https://github.com/stackabletech/containerdebug/pull/59) on [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug) (2 days ago)
+- [feat(versioned): Add support to pass the scale argument](https://github.com/stackabletech/operator-rs/pull/1185) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [chore: Add script to verify release notes](https://github.com/stackabletech/stackable-cockpit/pull/437) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
+- [fix: Bump aws-lc-rs/sys and rustls-webpki to negate 3 advisories](https://github.com/stackabletech/stackable-cockpit/pull/436) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
+- [docs: Add missing release notes for stackablectl](https://github.com/stackabletech/stackable-cockpit/pull/435) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (2 days ago)
+- [fix: Don&#39;t log ANSI escape sequences if stdout is a file](https://github.com/stackabletech/containerdebug/pull/59) on [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug) (3 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.13.1) ([v0.13.1](https://github.com/stackabletech/actions/releases/tag/v0.13.1)) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.13.1) ([v0.13.1](https://github.com/stackabletech/actions/releases/tag/v0.13.1)) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0) ([stackablectl-1.4.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/3.1.0) ([3.1.0](https://github.com/kube-rs/kube/releases/tag/3.1.0)) - Rust Kubernetes client and controller runtime (2 weeks ago)
 
