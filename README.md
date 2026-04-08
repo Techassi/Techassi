@@ -26,32 +26,32 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page and blog. (4 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (5 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
-- [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug) -  (1 week ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page and blog. (5 days ago)
 - [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (1 week ago)
+- [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug) -  (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(versioned): Add support to pass the scale argument](https://github.com/stackabletech/operator-rs/pull/1185) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
-- [chore: Add script to verify release notes](https://github.com/stackabletech/stackable-cockpit/pull/437) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
-- [fix: Bump aws-lc-rs/sys and rustls-webpki to negate 3 advisories](https://github.com/stackabletech/stackable-cockpit/pull/436) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
-- [docs: Add missing release notes for stackablectl](https://github.com/stackabletech/stackable-cockpit/pull/435) on [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) (1 week ago)
-- [fix: Don&#39;t log ANSI escape sequences if stdout is a file](https://github.com/stackabletech/containerdebug/pull/59) on [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug) (1 week ago)
+- [feat(publish-helm-chart): Add merge-registry-values toggle](https://github.com/stackabletech/actions/pull/100) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [feat(scaling): Add Scaler CRD](https://github.com/stackabletech/operator-rs/pull/1190) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [fix(patchable): Only print ANSI if stdout is terminal](https://github.com/stackabletech/docker-images/pull/1458) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [ci: Add zizmor to pre-commit and fix findings](https://github.com/stackabletech/docker-images/pull/1457) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [fix(superset): Add patch to pin @types/offscreencanvas to 2019.7.0](https://github.com/stackabletech/docker-images/pull/1456) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
 
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.13.1) ([v0.13.1](https://github.com/stackabletech/actions/releases/tag/v0.13.1)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0) ([stackablectl-1.4.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 weeks ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0) ([stackablectl-1.4.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 weeks ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/3.1.0) ([3.1.0](https://github.com/kube-rs/kube/releases/tag/3.1.0)) - Rust Kubernetes client and controller runtime (3 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
 
-- [Low screen resolution after reboot](https://techassi.dev/posts/low-screen-resolution-after-reboot/) (4 days ago)
+- [Low screen resolution after reboot](https://techassi.dev/posts/low-screen-resolution-after-reboot/) (5 days ago)
 - [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (4 years ago)
 
 #### 📫 How to reach me
