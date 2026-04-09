@@ -27,19 +27,19 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
 
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
-- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page and blog. (5 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
+- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page and blog. (6 days ago)
 - [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (1 week ago)
 - [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug) -  (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(publish-helm-chart): Add merge-registry-values toggle](https://github.com/stackabletech/actions/pull/100) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [feat(scaling): Add Scaler CRD](https://github.com/stackabletech/operator-rs/pull/1190) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [fix(patchable): Only print ANSI if stdout is terminal](https://github.com/stackabletech/docker-images/pull/1458) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [ci: Add zizmor to pre-commit and fix findings](https://github.com/stackabletech/docker-images/pull/1457) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [fix(superset): Add patch to pin @types/offscreencanvas to 2019.7.0](https://github.com/stackabletech/docker-images/pull/1456) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [feat(publish-helm-chart): Add merge-registry-values toggle](https://github.com/stackabletech/actions/pull/100) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
+- [feat(scaling): Add Scaler CRD](https://github.com/stackabletech/operator-rs/pull/1190) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [fix(patchable): Only print ANSI if stdout is terminal](https://github.com/stackabletech/docker-images/pull/1458) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [ci: Add zizmor to pre-commit and fix findings](https://github.com/stackabletech/docker-images/pull/1457) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [fix(superset): Patch pinned packages and re-generate lock file](https://github.com/stackabletech/docker-images/pull/1456) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
@@ -51,7 +51,7 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
 
-- [Low screen resolution after reboot](https://techassi.dev/posts/low-screen-resolution-after-reboot/) (5 days ago)
+- [Low screen resolution after reboot](https://techassi.dev/posts/low-screen-resolution-after-reboot/) (6 days ago)
 - [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (4 years ago)
 
 #### 📫 How to reach me
