@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
-- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page and blog. (6 days ago)
-- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (1 week ago)
-- [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug) -  (1 week ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (2 days ago)
+- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page and blog. (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(publish-helm-chart): Add merge-registry-values toggle](https://github.com/stackabletech/actions/pull/100) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
-- [feat(scaling): Add Scaler CRD](https://github.com/stackabletech/operator-rs/pull/1190) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
-- [fix(patchable): Only print ANSI if stdout is terminal](https://github.com/stackabletech/docker-images/pull/1458) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
-- [ci: Add zizmor to pre-commit and fix findings](https://github.com/stackabletech/docker-images/pull/1457) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
-- [fix(superset): Patch pinned packages and re-generate lock file](https://github.com/stackabletech/docker-images/pull/1456) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [chore: Remove GITHUB_ENV usages](https://github.com/stackabletech/actions/pull/101) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [feat(publish-helm-chart): Add merge-registry-values toggle](https://github.com/stackabletech/actions/pull/100) on [stackabletech/actions](https://github.com/stackabletech/actions) (3 days ago)
+- [feat(scaling): Add Scaler CRD](https://github.com/stackabletech/operator-rs/pull/1190) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
+- [fix(patchable): Only print ANSI if stdout is terminal](https://github.com/stackabletech/docker-images/pull/1458) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
+- [ci: Add zizmor to pre-commit and fix findings](https://github.com/stackabletech/docker-images/pull/1457) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
 
 #### 📦 Latest releases I've contributed to
 
@@ -51,7 +51,7 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
 
-- [Low screen resolution after reboot](https://techassi.dev/posts/low-screen-resolution-after-reboot/) (6 days ago)
+- [Low screen resolution after reboot](https://techassi.dev/posts/low-screen-resolution-after-reboot/) (1 week ago)
 - [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (4 years ago)
 
 #### 📫 How to reach me
