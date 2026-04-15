@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (4 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (4 days ago)
-- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (5 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (6 days ago)
-- [Techassi/page](https://github.com/Techassi/page) - Source code of my personal page and blog. (1 week ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (5 days ago)
+- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (6 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci(template): Publish to quay.io](https://github.com/stackabletech/operator-templating/pull/584) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (4 days ago)
-- [feat(template): Support registry-specific Helm values](https://github.com/stackabletech/operator-templating/pull/583) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (4 days ago)
-- [feat: Make install scripts idempotent](https://github.com/stackabletech/actions/pull/102) on [stackabletech/actions](https://github.com/stackabletech/actions) (4 days ago)
-- [ci: Merge registry specific Helm values](https://github.com/stackabletech/airflow-operator/pull/773) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (4 days ago)
-- [chore: Remove GITHUB_ENV usages](https://github.com/stackabletech/actions/pull/101) on [stackabletech/actions](https://github.com/stackabletech/actions) (5 days ago)
+- [ci: Bump stackabletech/actions to v0.14.1](https://github.com/stackabletech/docker-images/pull/1461) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [chore(shard): Adjust boil command](https://github.com/stackabletech/actions/pull/103) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [chore(boil): Release 0.2.0](https://github.com/stackabletech/docker-images/pull/1460) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [ci(template): Publish to quay.io](https://github.com/stackabletech/operator-templating/pull/584) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (5 days ago)
+- [feat(template): Support registry-specific Helm values](https://github.com/stackabletech/operator-templating/pull/583) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (5 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.14.0) ([v0.14.0](https://github.com/stackabletech/actions/releases/tag/v0.14.0)) - A collection of GitHub Actions used across Stackable repositories (4 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0) ([stackablectl-1.4.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (3 weeks ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/3.1.0) ([3.1.0](https://github.com/kube-rs/kube/releases/tag/3.1.0)) - Rust Kubernetes client and controller runtime (4 weeks ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.14.1) ([v0.14.1](https://github.com/stackabletech/actions/releases/tag/v0.14.1)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.0) ([boil-0.2.0](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.0)) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0) ([stackablectl-1.4.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (4 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
