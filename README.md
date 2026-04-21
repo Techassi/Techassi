@@ -26,26 +26,26 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (3 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (6 days ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (6 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 week ago)
-- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (1 week ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
+- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (4 days ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci(patchable): Build on PR](https://github.com/stackabletech/docker-images/pull/1468) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (4 days ago)
-- [feat(boil): Add new image check command](https://github.com/stackabletech/docker-images/pull/1464) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (4 days ago)
-- [ci: Bump stackabletech/actions to v0.14.1](https://github.com/stackabletech/docker-images/pull/1461) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
-- [chore(shard): Adjust boil command](https://github.com/stackabletech/actions/pull/103) on [stackabletech/actions](https://github.com/stackabletech/actions) (6 days ago)
-- [chore(boil): Release 0.2.0](https://github.com/stackabletech/docker-images/pull/1460) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
+- [docs: Add missing callouts](https://github.com/stackabletech/hive-operator/pull/698) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (1 day ago)
+- [docs: Add artifact registries page](https://github.com/stackabletech/documentation/pull/837) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [ci(patchable): Build on PR](https://github.com/stackabletech/docker-images/pull/1468) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (5 days ago)
+- [feat(boil): Add new image check command](https://github.com/stackabletech/docker-images/pull/1464) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (5 days ago)
+- [ci: Bump stackabletech/actions to v0.14.1](https://github.com/stackabletech/docker-images/pull/1461) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.1) ([boil-0.2.1](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.1)) - Product images for the Stackable Data Platform (3 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.14.1) ([v0.14.1](https://github.com/stackabletech/actions/releases/tag/v0.14.1)) - A collection of GitHub Actions used across Stackable repositories (6 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.1) ([boil-0.2.1](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.1)) - Product images for the Stackable Data Platform (4 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.14.1) ([v0.14.1](https://github.com/stackabletech/actions/releases/tag/v0.14.1)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0) ([stackablectl-1.4.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
