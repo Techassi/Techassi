@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 days ago)
-- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (2 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (5 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (3 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (3 days ago)
+- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (3 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (6 days ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(operator)!: Support dynamic product image selection](https://github.com/stackabletech/operator-rs/pull/1199) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [docs: Add missing callouts](https://github.com/stackabletech/hive-operator/pull/698) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (2 days ago)
-- [docs: Add artifact registries page](https://github.com/stackabletech/documentation/pull/837) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
-- [ci(patchable): Build on PR](https://github.com/stackabletech/docker-images/pull/1468) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
-- [feat(boil): Add new image check command](https://github.com/stackabletech/docker-images/pull/1464) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
+- [chore(template): Combine keys in registry-specific values file](https://github.com/stackabletech/operator-templating/pull/587) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [feat(operator)!: Support dynamic product image selection](https://github.com/stackabletech/operator-rs/pull/1199) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [docs: Add missing callouts](https://github.com/stackabletech/hive-operator/pull/698) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (3 days ago)
+- [docs: Add artifact registries page](https://github.com/stackabletech/documentation/pull/837) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (3 days ago)
+- [ci(patchable): Build on PR](https://github.com/stackabletech/docker-images/pull/1468) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.1) ([boil-0.2.1](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.1)) - Product images for the Stackable Data Platform (5 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.1) ([boil-0.2.1](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.1)) - Product images for the Stackable Data Platform (6 days ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.14.1) ([v0.14.1](https://github.com/stackabletech/actions/releases/tag/v0.14.1)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0) ([stackablectl-1.4.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 month ago)
 
