@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (1 day ago)
-- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (1 day ago)
-- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (1 day ago)
-- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (1 day ago)
+- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (1 day ago)
+- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (1 day ago)
+- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat: Support dynamic image repositories](https://github.com/stackabletech/superset-operator/pull/726) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (1 day ago)
-- [chore(operator): Release 0.111.1](https://github.com/stackabletech/operator-rs/pull/1204) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [feat: Support dynamic image repositories](https://github.com/stackabletech/trino-operator/pull/884) on [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) (1 day ago)
-- [feat(operator): Derive Clone for OperatorEnvironmentOptions](https://github.com/stackabletech/operator-rs/pull/1203) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [feat: Support dynamic image repositories](https://github.com/stackabletech/opa-operator/pull/830) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (1 day ago)
+- [feat: Support dynamic image repositories](https://github.com/stackabletech/zookeeper-operator/pull/1028) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (1 day ago)
+- [feat: Support dynamic image repositories](https://github.com/stackabletech/kafka-operator/pull/961) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (1 day ago)
+- [feat: Support dynamic image repositories](https://github.com/stackabletech/hdfs-operator/pull/778) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (1 day ago)
+- [feat: Support dynamic image repositories](https://github.com/stackabletech/hbase-operator/pull/752) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (1 day ago)
+- [feat: Support dynamic image repositories](https://github.com/stackabletech/superset-operator/pull/726) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.14.2) ([v0.14.2](https://github.com/stackabletech/actions/releases/tag/v0.14.2)) - A collection of GitHub Actions used across Stackable repositories (5 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.14.2) ([v0.14.2](https://github.com/stackabletech/actions/releases/tag/v0.14.2)) - A collection of GitHub Actions used across Stackable repositories (6 days ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.1) ([boil-0.2.1](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.1)) - Product images for the Stackable Data Platform (1 week ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0) ([stackablectl-1.4.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 month ago)
 
