@@ -26,32 +26,32 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (1 day ago)
-- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (1 day ago)
-- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (1 day ago)
-- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
+- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (1 day ago)
+- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (1 day ago)
+- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (1 day ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (2 days ago)
+- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (2 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat: Support dynamic image repositories](https://github.com/stackabletech/zookeeper-operator/pull/1028) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (1 day ago)
-- [feat: Support dynamic image repositories](https://github.com/stackabletech/kafka-operator/pull/961) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (1 day ago)
-- [feat: Support dynamic image repositories](https://github.com/stackabletech/hdfs-operator/pull/778) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (1 day ago)
-- [feat: Support dynamic image repositories](https://github.com/stackabletech/hbase-operator/pull/752) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (1 day ago)
-- [feat: Support dynamic image repositories](https://github.com/stackabletech/superset-operator/pull/726) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (2 days ago)
+- [feat: Support dynamic image repositories](https://github.com/stackabletech/zookeeper-operator/pull/1028) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (2 days ago)
+- [feat: Support dynamic image repositories](https://github.com/stackabletech/kafka-operator/pull/961) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (2 days ago)
+- [feat: Support dynamic image repositories](https://github.com/stackabletech/hdfs-operator/pull/778) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (2 days ago)
+- [feat: Support dynamic image repositories](https://github.com/stackabletech/hbase-operator/pull/752) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (2 days ago)
+- [feat: Support dynamic image repositories](https://github.com/stackabletech/superset-operator/pull/726) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (3 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.14.2) ([v0.14.2](https://github.com/stackabletech/actions/releases/tag/v0.14.2)) - A collection of GitHub Actions used across Stackable repositories (6 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.1) ([boil-0.2.1](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.1)) - Product images for the Stackable Data Platform (1 week ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.14.2) ([v0.14.2](https://github.com/stackabletech/actions/releases/tag/v0.14.2)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.1) ([boil-0.2.1](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.1)) - Product images for the Stackable Data Platform (2 weeks ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0) ([stackablectl-1.4.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 month ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
 
-- [Low screen resolution after reboot](https://techassi.dev/posts/low-screen-resolution-after-reboot/) (3 weeks ago)
+- [Low screen resolution after reboot](https://techassi.dev/posts/low-screen-resolution-after-reboot/) (4 weeks ago)
 - [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (4 years ago)
 
 #### 📫 How to reach me
