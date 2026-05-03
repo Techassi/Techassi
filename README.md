@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (2 days ago)
-- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (2 days ago)
-- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (2 days ago)
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (3 days ago)
-- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (3 days ago)
+- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (3 days ago)
+- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (3 days ago)
+- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (3 days ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (4 days ago)
+- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (4 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat: Support dynamic image repositories](https://github.com/stackabletech/zookeeper-operator/pull/1028) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (3 days ago)
-- [feat: Support dynamic image repositories](https://github.com/stackabletech/kafka-operator/pull/961) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (3 days ago)
-- [feat: Support dynamic image repositories](https://github.com/stackabletech/hdfs-operator/pull/778) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (3 days ago)
-- [feat: Support dynamic image repositories](https://github.com/stackabletech/hbase-operator/pull/752) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (3 days ago)
-- [feat: Support dynamic image repositories](https://github.com/stackabletech/superset-operator/pull/726) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (4 days ago)
+- [feat: Support dynamic image repositories](https://github.com/stackabletech/zookeeper-operator/pull/1028) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (4 days ago)
+- [feat: Support dynamic image repositories](https://github.com/stackabletech/kafka-operator/pull/961) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (4 days ago)
+- [feat: Support dynamic image repositories](https://github.com/stackabletech/hdfs-operator/pull/778) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (4 days ago)
+- [feat: Support dynamic image repositories](https://github.com/stackabletech/hbase-operator/pull/752) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (4 days ago)
+- [feat: Support dynamic image repositories](https://github.com/stackabletech/superset-operator/pull/726) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (5 days ago)
 
 #### 📦 Latest releases I've contributed to
 
@@ -51,7 +51,7 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
 
-- [Low screen resolution after reboot](https://techassi.dev/posts/low-screen-resolution-after-reboot/) (4 weeks ago)
+- [Low screen resolution after reboot](https://techassi.dev/posts/low-screen-resolution-after-reboot/) (1 month ago)
 - [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (4 years ago)
 
 #### 📫 How to reach me
