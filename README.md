@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (4 days ago)
-- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (4 days ago)
-- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (4 days ago)
-- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (5 days ago)
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (5 days ago)
+- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (5 days ago)
+- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (5 days ago)
+- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (5 days ago)
+- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (6 days ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (6 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat: Support dynamic image repositories](https://github.com/stackabletech/zookeeper-operator/pull/1028) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (5 days ago)
-- [feat: Support dynamic image repositories](https://github.com/stackabletech/kafka-operator/pull/961) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (5 days ago)
-- [feat: Support dynamic image repositories](https://github.com/stackabletech/hdfs-operator/pull/778) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (5 days ago)
-- [feat: Support dynamic image repositories](https://github.com/stackabletech/hbase-operator/pull/752) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (5 days ago)
-- [feat: Support dynamic image repositories](https://github.com/stackabletech/superset-operator/pull/726) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (6 days ago)
+- [feat: Support dynamic image repositories](https://github.com/stackabletech/zookeeper-operator/pull/1028) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (6 days ago)
+- [feat: Support dynamic image repositories](https://github.com/stackabletech/kafka-operator/pull/961) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (6 days ago)
+- [feat: Support dynamic image repositories](https://github.com/stackabletech/hdfs-operator/pull/778) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (6 days ago)
+- [feat: Support dynamic image repositories](https://github.com/stackabletech/hbase-operator/pull/752) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (6 days ago)
+- [feat: Support dynamic image repositories](https://github.com/stackabletech/superset-operator/pull/726) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
