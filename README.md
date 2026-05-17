@@ -26,8 +26,8 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Operator for Apache Spark-on-Kubernetes for Stackable Data Platform (3 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (3 days ago)
+- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Operator for Apache Spark-on-Kubernetes for Stackable Data Platform (4 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (4 days ago)
 - [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (2 weeks ago)
 - [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (2 weeks ago)
 - [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (2 weeks ago)
@@ -35,18 +35,18 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [feat: Support dynamic image repositories](https://github.com/stackabletech/opensearch-operator/pull/141) on [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) (4 days ago)
-- [feat: Support dynamic image repositories](https://github.com/stackabletech/spark-k8s-operator/pull/684) on [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) (4 days ago)
-- [feat(template/helm): Don&#39;t include product repo in core operators](https://github.com/stackabletech/operator-templating/pull/591) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (5 days ago)
-- [feat(template/helm): Split operator&#43;product image repos](https://github.com/stackabletech/operator-templating/pull/590) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (5 days ago)
+- [feat: Support dynamic image repositories](https://github.com/stackabletech/opensearch-operator/pull/141) on [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) (5 days ago)
+- [feat: Support dynamic image repositories](https://github.com/stackabletech/spark-k8s-operator/pull/684) on [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) (5 days ago)
+- [feat(template/helm): Don&#39;t include product repo in core operators](https://github.com/stackabletech/operator-templating/pull/591) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (6 days ago)
+- [feat(template/helm): Split operator&#43;product image repos](https://github.com/stackabletech/operator-templating/pull/590) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (6 days ago)
 - [feat: Support dynamic image repositories](https://github.com/stackabletech/zookeeper-operator/pull/1028) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (2 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
 
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.14.2) ([v0.14.2](https://github.com/stackabletech/actions/releases/tag/v0.14.2)) - A collection of GitHub Actions used across Stackable repositories (3 weeks ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.1) ([boil-0.2.1](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.1)) - Product images for the Stackable Data Platform (4 weeks ago)
-- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0) ([stackablectl-1.4.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (1 month ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.1) ([boil-0.2.1](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.1)) - Product images for the Stackable Data Platform (1 month ago)
+- [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0) ([stackablectl-1.4.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 months ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
