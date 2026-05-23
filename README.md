@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 days ago)
-- [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) - Stackable Operator for OpenSearch (3 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (2 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (3 days ago)
+- [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) - Stackable Operator for OpenSearch (4 days ago)
 - [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Operator for Apache Spark-on-Kubernetes for Stackable Data Platform (1 week ago)
 - [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (3 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(boil): Add support for remote layer caching](https://github.com/stackabletech/docker-images/pull/1503) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [ci: Add publish-to-quay toggle](https://github.com/stackabletech/docker-images/pull/1496) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [ci: Publish to quay.io](https://github.com/stackabletech/docker-images/pull/1492) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [feat(publish-helm-chart): Split helm stdout/stderr](https://github.com/stackabletech/actions/pull/106) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [feat(boil): Add support for remote layer caching](https://github.com/stackabletech/docker-images/pull/1503) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [ci: Add publish-to-quay toggle](https://github.com/stackabletech/docker-images/pull/1496) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [ci: Publish to quay.io](https://github.com/stackabletech/docker-images/pull/1492) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
 - [feat: Support dynamic image repositories](https://github.com/stackabletech/opensearch-operator/pull/141) on [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) (1 week ago)
-- [feat: Support dynamic image repositories](https://github.com/stackabletech/spark-k8s-operator/pull/684) on [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
