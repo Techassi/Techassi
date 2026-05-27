@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (5 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (6 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (6 days ago)
 - [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) - Stackable Operator for OpenSearch (1 week ago)
-- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Operator for Apache Spark-on-Kubernetes for Stackable Data Platform (1 week ago)
-- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (3 weeks ago)
+- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Operator for Apache Spark-on-Kubernetes for Stackable Data Platform (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(publish-helm-chart): Split helm stdout/stderr](https://github.com/stackabletech/actions/pull/106) on [stackabletech/actions](https://github.com/stackabletech/actions) (4 days ago)
-- [feat(boil): Add support for remote layer caching](https://github.com/stackabletech/docker-images/pull/1503) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (5 days ago)
-- [ci: Add publish-to-quay toggle](https://github.com/stackabletech/docker-images/pull/1496) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (5 days ago)
-- [ci: Publish to quay.io](https://github.com/stackabletech/docker-images/pull/1492) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
-- [feat: Support dynamic image repositories](https://github.com/stackabletech/opensearch-operator/pull/141) on [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) (2 weeks ago)
+- [feat(operator/client): Support feature gate retrieval](https://github.com/stackabletech/operator-rs/pull/1207) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [ci(template): Publish to quay.io](https://github.com/stackabletech/operator-templating/pull/594) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [revert(template): Publish to quay.io (#584)](https://github.com/stackabletech/operator-templating/pull/593) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [feat(publish-helm-chart): Split helm stdout/stderr](https://github.com/stackabletech/actions/pull/106) on [stackabletech/actions](https://github.com/stackabletech/actions) (5 days ago)
+- [feat(boil): Add support for remote layer caching](https://github.com/stackabletech/docker-images/pull/1503) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
 
 #### 📦 Latest releases I've contributed to
 
