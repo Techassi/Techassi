@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (3 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (3 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (5 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (4 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (4 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (6 days ago)
 - [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) - Stackable Operator for OpenSearch (1 week ago)
 - [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Operator for Apache Spark-on-Kubernetes for Stackable Data Platform (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci: Add publish toggle](https://github.com/stackabletech/docker-images/pull/1513) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
-- [feat(operator): Add client-feature-gates gate](https://github.com/stackabletech/operator-rs/pull/1208) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
-- [feat(operator/client): Support feature gate retrieval](https://github.com/stackabletech/operator-rs/pull/1207) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
-- [ci(template): Publish to quay.io](https://github.com/stackabletech/operator-templating/pull/594) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (5 days ago)
-- [revert(template): Publish to quay.io (#584)](https://github.com/stackabletech/operator-templating/pull/593) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (5 days ago)
+- [ci: Add publish toggle](https://github.com/stackabletech/docker-images/pull/1513) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (4 days ago)
+- [feat(operator): Add client-feature-gates gate](https://github.com/stackabletech/operator-rs/pull/1208) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
+- [feat(operator/client): Support feature gate retrieval](https://github.com/stackabletech/operator-rs/pull/1207) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
+- [ci(template): Publish to quay.io](https://github.com/stackabletech/operator-templating/pull/594) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (6 days ago)
+- [revert(template): Publish to quay.io (#584)](https://github.com/stackabletech/operator-templating/pull/593) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (6 days ago)
 
 #### 📦 Latest releases I've contributed to
 
