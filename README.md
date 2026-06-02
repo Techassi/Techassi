@@ -26,32 +26,32 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (4 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (4 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (6 days ago)
-- [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) - Stackable Operator for OpenSearch (1 week ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 week ago)
+- [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) - Stackable Operator for OpenSearch (2 weeks ago)
 - [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Operator for Apache Spark-on-Kubernetes for Stackable Data Platform (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci: Add publish toggle](https://github.com/stackabletech/docker-images/pull/1513) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (4 days ago)
-- [feat(operator): Add client-feature-gates gate](https://github.com/stackabletech/operator-rs/pull/1208) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
-- [feat(operator/client): Support feature gate retrieval](https://github.com/stackabletech/operator-rs/pull/1207) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
-- [ci(template): Publish to quay.io](https://github.com/stackabletech/operator-templating/pull/594) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (6 days ago)
-- [revert(template): Publish to quay.io (#584)](https://github.com/stackabletech/operator-templating/pull/593) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (6 days ago)
+- [chore: Bump ZooKeeper version to 3.9.5 for SDP 26.7.0](https://github.com/stackabletech/hdfs-operator/pull/788) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (1 day ago)
+- [docs(getting_started): Bump ZooKeeper version to 3.9.5](https://github.com/stackabletech/documentation/pull/857) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [chore: Bump ZooKeeper version to 3.9.5 for SDP 26.7.0](https://github.com/stackabletech/zookeeper-operator/pull/1039) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (1 day ago)
+- [feat(zookeeper): Add 3.9.5](https://github.com/stackabletech/docker-images/pull/1515) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [chore: Solve clippy::unwrap_in_result FIXMEs](https://github.com/stackabletech/operator-rs/pull/1213) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.14.2) ([v0.14.2](https://github.com/stackabletech/actions/releases/tag/v0.14.2)) - A collection of GitHub Actions used across Stackable repositories (1 month ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.14.3) ([v0.14.3](https://github.com/stackabletech/actions/releases/tag/v0.14.3)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.1) ([boil-0.2.1](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.1)) - Product images for the Stackable Data Platform (1 month ago)
 - [stackabletech/stackable-cockpit](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0) ([stackablectl-1.4.0](https://github.com/stackabletech/stackable-cockpit/releases/tag/stackablectl-1.4.0)) - Home of stackable-cockpit, stackablectl and stackable-cockpitd (2 months ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
 
-- [Low screen resolution after reboot](https://techassi.dev/posts/low-screen-resolution-after-reboot/) (1 month ago)
+- [Low screen resolution after reboot](https://techassi.dev/posts/low-screen-resolution-after-reboot/) (2 months ago)
 - [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (4 years ago)
 
 #### 📫 How to reach me
