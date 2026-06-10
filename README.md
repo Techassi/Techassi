@@ -26,7 +26,7 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (6 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
 - [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (1 week ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (1 week ago)
@@ -35,16 +35,16 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🧪 Latest PRs
 
 
-- [chore(shared/statsd_exporter): Bump to 0.29.0](https://github.com/stackabletech/docker-images/pull/1522) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [chore: Update versions for SDP 26.7.0](https://github.com/stackabletech/nifi-operator/pull/944) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (6 days ago)
-- [chore!(nifi): Remove 1.28.1, deprecate 2.7.2](https://github.com/stackabletech/docker-images/pull/1520) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
+- [chore(shared/statsd_exporter): Bump to 0.29.0](https://github.com/stackabletech/docker-images/pull/1522) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [chore: Update versions for SDP 26.7.0](https://github.com/stackabletech/nifi-operator/pull/944) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (1 week ago)
+- [chore!(nifi): Remove 1.28.1, deprecate 2.7.2](https://github.com/stackabletech/docker-images/pull/1520) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
 - [feat: Add check-pr-title action](https://github.com/stackabletech/actions/pull/107) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 week ago)
 - [feat(trino): Add 481](https://github.com/stackabletech/docker-images/pull/1517) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug/releases/tag/0.4.0) ([0.4.0](https://github.com/stackabletech/containerdebug/releases/tag/0.4.0)) -  (6 days ago)
+- [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug/releases/tag/0.4.0) ([0.4.0](https://github.com/stackabletech/containerdebug/releases/tag/0.4.0)) -  (1 week ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.14.3) ([v0.14.3](https://github.com/stackabletech/actions/releases/tag/v0.14.3)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.1) ([boil-0.2.1](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.1)) - Product images for the Stackable Data Platform (1 month ago)
 
