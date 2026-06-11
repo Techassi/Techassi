@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) -  (1 week ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (2 days ago)
+- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (1 week ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
-- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (1 week ago)
-- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Operator for Apache Spark-on-Kubernetes for Stackable Data Platform (1 week ago)
+- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore(shared/statsd_exporter): Bump to 0.29.0](https://github.com/stackabletech/docker-images/pull/1522) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [fix(superset): Use statsd_exporter 0.29.0](https://github.com/stackabletech/docker-images/pull/1523) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [chore(shared/statsd_exporter): Bump to 0.29.0](https://github.com/stackabletech/docker-images/pull/1522) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
 - [chore: Update versions for SDP 26.7.0](https://github.com/stackabletech/nifi-operator/pull/944) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (1 week ago)
 - [chore!(nifi): Remove 1.28.1, deprecate 2.7.2](https://github.com/stackabletech/docker-images/pull/1520) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
 - [feat: Add check-pr-title action](https://github.com/stackabletech/actions/pull/107) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 week ago)
-- [feat(trino): Add 481](https://github.com/stackabletech/docker-images/pull/1517) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
 
 #### 📦 Latest releases I've contributed to
 
