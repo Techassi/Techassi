@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (1 day ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (6 days ago)
-- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (2 weeks ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 day ago)
+- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (2 days ago)
+- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (2 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [docs(boil): Add config section to README](https://github.com/stackabletech/docker-images/pull/1538) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [feat(boil): Add image size command](https://github.com/stackabletech/docker-images/pull/1536) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
-- [fix(opa): Use $PRODUCT_VERSION instead of $PRODUCT](https://github.com/stackabletech/docker-images/pull/1531) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
-- [chore(boil): Release 0.2.2](https://github.com/stackabletech/docker-images/pull/1528) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
-- [chore(template): Ignore RUSTSEC-2026-0173 for now](https://github.com/stackabletech/operator-templating/pull/595) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (6 days ago)
+- [chore: Use RUNNER_DEBUG env var directly](https://github.com/stackabletech/actions/pull/109) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [chore(publish-helm-chart): Bump default Helm version to 3.21.1](https://github.com/stackabletech/actions/pull/108) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [feat: Support floating tag in product image selection](https://github.com/stackabletech/operator-rs/pull/1226) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [chore: Bump NiFi to 2.9.0](https://github.com/stackabletech/demos/pull/413) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
+- [docs(boil): Add config section to README](https://github.com/stackabletech/docker-images/pull/1538) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.2) ([boil-0.2.2](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.2)) - Product images for the Stackable Data Platform (6 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.2) ([boil-0.2.2](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.2)) - Product images for the Stackable Data Platform (1 week ago)
 - [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug/releases/tag/0.4.0) ([0.4.0](https://github.com/stackabletech/containerdebug/releases/tag/0.4.0)) -  (2 weeks ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.14.3) ([v0.14.3](https://github.com/stackabletech/actions/releases/tag/v0.14.3)) - A collection of GitHub Actions used across Stackable repositories (2 weeks ago)
 
