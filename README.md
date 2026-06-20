@@ -27,19 +27,19 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 
 
 - [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 day ago)
-- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - A kubernetes operator for Apache NiFi (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (2 days ago)
-- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS used by the Stackable Data Platform (2 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Use RUNNER_DEBUG env var directly](https://github.com/stackabletech/actions/pull/109) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [chore(publish-helm-chart): Bump default Helm version to 3.21.1](https://github.com/stackabletech/actions/pull/108) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [feat: Support floating tag in product image selection](https://github.com/stackabletech/operator-rs/pull/1226) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [chore: Bump NiFi to 2.9.0](https://github.com/stackabletech/demos/pull/413) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
-- [docs(boil): Add config section to README](https://github.com/stackabletech/docker-images/pull/1538) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [chore: Bump actions](https://github.com/stackabletech/actions/pull/110) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [test: Bump Superset to 6.1.0 in unit test](https://github.com/stackabletech/superset-operator/pull/739) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (1 day ago)
+- [chore: Bump Superset to 6.1.0](https://github.com/stackabletech/demos/pull/416) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
+- [chore: Use RUNNER_DEBUG env var directly](https://github.com/stackabletech/actions/pull/109) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
+- [chore(publish-helm-chart): Bump default Helm version to 3.21.1](https://github.com/stackabletech/actions/pull/108) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
