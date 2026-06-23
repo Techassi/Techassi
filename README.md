@@ -26,20 +26,20 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (3 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (3 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (3 days ago)
-- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - An Operator for Apache Druid for Stackable Data Platform (3 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (4 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (4 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (4 days ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (4 days ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (4 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Bump actions](https://github.com/stackabletech/actions/pull/110) on [stackabletech/actions](https://github.com/stackabletech/actions) (3 days ago)
-- [test: Bump Superset to 6.1.0 in unit test](https://github.com/stackabletech/superset-operator/pull/739) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (3 days ago)
-- [chore: Bump Superset to 6.1.0](https://github.com/stackabletech/demos/pull/416) on [stackabletech/demos](https://github.com/stackabletech/demos) (3 days ago)
-- [chore: Use RUNNER_DEBUG env var directly](https://github.com/stackabletech/actions/pull/109) on [stackabletech/actions](https://github.com/stackabletech/actions) (4 days ago)
-- [chore(publish-helm-chart): Bump default Helm version to 3.21.1](https://github.com/stackabletech/actions/pull/108) on [stackabletech/actions](https://github.com/stackabletech/actions) (4 days ago)
+- [chore: Bump actions](https://github.com/stackabletech/actions/pull/110) on [stackabletech/actions](https://github.com/stackabletech/actions) (4 days ago)
+- [test: Bump Superset to 6.1.0 in unit test](https://github.com/stackabletech/superset-operator/pull/739) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (4 days ago)
+- [chore: Bump Superset to 6.1.0](https://github.com/stackabletech/demos/pull/416) on [stackabletech/demos](https://github.com/stackabletech/demos) (4 days ago)
+- [chore: Use RUNNER_DEBUG env var directly](https://github.com/stackabletech/actions/pull/109) on [stackabletech/actions](https://github.com/stackabletech/actions) (5 days ago)
+- [chore(publish-helm-chart): Bump default Helm version to 3.21.1](https://github.com/stackabletech/actions/pull/108) on [stackabletech/actions](https://github.com/stackabletech/actions) (5 days ago)
 
 #### 📦 Latest releases I've contributed to
 
