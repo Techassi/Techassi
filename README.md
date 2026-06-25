@@ -26,27 +26,27 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (5 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (5 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (5 days ago)
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (5 days ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (5 days ago)
+- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (6 days ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (6 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat: Add curlrc to download scripts](https://github.com/stackabletech/actions/pull/111) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [chore: Bump actions](https://github.com/stackabletech/actions/pull/110) on [stackabletech/actions](https://github.com/stackabletech/actions) (5 days ago)
-- [test: Bump Superset to 6.1.0 in unit test](https://github.com/stackabletech/superset-operator/pull/739) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (5 days ago)
-- [chore: Bump Superset to 6.1.0](https://github.com/stackabletech/demos/pull/416) on [stackabletech/demos](https://github.com/stackabletech/demos) (5 days ago)
-- [chore: Use RUNNER_DEBUG env var directly](https://github.com/stackabletech/actions/pull/109) on [stackabletech/actions](https://github.com/stackabletech/actions) (6 days ago)
+- [ci(template): Add the missing &#39;v&#39;](https://github.com/stackabletech/operator-templating/pull/598) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [ci: Use prek instead of pre-commit](https://github.com/stackabletech/operator-templating/pull/597) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [ci(template): Bump stackabletech/actions to v0.15.0](https://github.com/stackabletech/operator-templating/pull/596) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [feat: Add curlrc to download scripts](https://github.com/stackabletech/actions/pull/111) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
+- [chore: Bump actions](https://github.com/stackabletech/actions/pull/110) on [stackabletech/actions](https://github.com/stackabletech/actions) (6 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.15.0) ([v0.15.0](https://github.com/stackabletech/actions/releases/tag/v0.15.0)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.2) ([boil-0.2.2](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.2)) - Product images for the Stackable Data Platform (1 week ago)
 - [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug/releases/tag/0.4.0) ([0.4.0](https://github.com/stackabletech/containerdebug/releases/tag/0.4.0)) -  (3 weeks ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.14.3) ([v0.14.3](https://github.com/stackabletech/actions/releases/tag/v0.14.3)) - A collection of GitHub Actions used across Stackable repositories (3 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
