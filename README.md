@@ -26,26 +26,26 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Stackable Operator for Apache Airflow (1 day ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [stackabletech/druid-opa-authorizer](https://github.com/stackabletech/druid-opa-authorizer) - Apache Druid Authorizer for OpenPolicyAgent (1 day ago)
 - [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (6 days ago)
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (6 days ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (1 day ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci(template): Add the missing &#39;v&#39;](https://github.com/stackabletech/operator-templating/pull/598) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [ci: Use prek instead of pre-commit](https://github.com/stackabletech/operator-templating/pull/597) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [ci(template): Bump stackabletech/actions to v0.15.0](https://github.com/stackabletech/operator-templating/pull/596) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [feat: Add curlrc to download scripts](https://github.com/stackabletech/actions/pull/111) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
-- [chore: Bump actions](https://github.com/stackabletech/actions/pull/110) on [stackabletech/actions](https://github.com/stackabletech/actions) (6 days ago)
+- [ci: Harden workflows](https://github.com/stackabletech/druid-opa-authorizer/pull/147) on [stackabletech/druid-opa-authorizer](https://github.com/stackabletech/druid-opa-authorizer) (1 day ago)
+- [ci(template): Harden workflows](https://github.com/stackabletech/operator-templating/pull/600) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [docs: Update the quay.io section](https://github.com/stackabletech/documentation/pull/863) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [ci(template): Add the missing &#39;v&#39;](https://github.com/stackabletech/operator-templating/pull/598) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
+- [ci: Use prek instead of pre-commit](https://github.com/stackabletech/operator-templating/pull/597) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.15.0) ([v0.15.0](https://github.com/stackabletech/actions/releases/tag/v0.15.0)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.2) ([boil-0.2.2](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.2)) - Product images for the Stackable Data Platform (1 week ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.15.0) ([v0.15.0](https://github.com/stackabletech/actions/releases/tag/v0.15.0)) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.2) ([boil-0.2.2](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.2)) - Product images for the Stackable Data Platform (2 weeks ago)
 - [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug/releases/tag/0.4.0) ([0.4.0](https://github.com/stackabletech/containerdebug/releases/tag/0.4.0)) -  (3 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
