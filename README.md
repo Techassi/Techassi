@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/druid-opa-authorizer](https://github.com/stackabletech/druid-opa-authorizer) - Apache Druid Authorizer for OpenPolicyAgent (1 day ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (1 day ago)
+- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (1 day ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (1 day ago)
+- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (1 day ago)
 - [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (1 day ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci: Harden workflows](https://github.com/stackabletech/druid-opa-authorizer/pull/147) on [stackabletech/druid-opa-authorizer](https://github.com/stackabletech/druid-opa-authorizer) (1 day ago)
-- [ci(template): Harden workflows](https://github.com/stackabletech/operator-templating/pull/600) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [docs: Update the quay.io section](https://github.com/stackabletech/documentation/pull/863) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
-- [ci(template): Add the missing &#39;v&#39;](https://github.com/stackabletech/operator-templating/pull/598) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
-- [ci: Use prek instead of pre-commit](https://github.com/stackabletech/operator-templating/pull/597) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
+- [chore: Import containerdebug](https://github.com/stackabletech/operator-rs/pull/1233) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [ci(template: Fix env var interpolation](https://github.com/stackabletech/operator-templating/pull/601) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [fix(spark): Use HBase 2.6.4 instead of 2.6.3](https://github.com/stackabletech/docker-images/pull/1553) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [ci: Harden worfkflows](https://github.com/stackabletech/docker-images/pull/1552) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [ci: Harden workflows](https://github.com/stackabletech/druid-opa-authorizer/pull/147) on [stackabletech/druid-opa-authorizer](https://github.com/stackabletech/druid-opa-authorizer) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.15.0) ([v0.15.0](https://github.com/stackabletech/actions/releases/tag/v0.15.0)) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.15.0) ([v0.15.0](https://github.com/stackabletech/actions/releases/tag/v0.15.0)) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.2) ([boil-0.2.2](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.2)) - Product images for the Stackable Data Platform (2 weeks ago)
 - [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug/releases/tag/0.4.0) ([0.4.0](https://github.com/stackabletech/containerdebug/releases/tag/0.4.0)) -  (3 weeks ago)
 
