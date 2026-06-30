@@ -1,20 +1,15 @@
 ### Hey there 👋
 
-I'm a backend software developer and tinkerer working at [Stackable][stackable] developing
-[operator-rs][op-rs] and friends as well as [stackablectl][sctl]. In my spare time, I work
-on a scalable high-performance [DNS Server][portal] with DNS blocking features and a home
-router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
+I'm a backend software developer and tinkerer working at [Stackable][stackable] working on rustifying
+the Kubernetes/container ecosystem with [operator-rs] and tooling. In my spare time, I do more of the
+things I mentioned above and a few other bits and pieces.
 
-[sctl]: https://github.com/stackabletech/stackable-cockpit
-[op-rs]: https://github.com/stackabletech/operator-rs
+[operator-rs]: https://github.com/stackabletech/operator-rs
 [stackable]: https://github.com/stackabletech
-[portal]: https://github.com/portal-rs/portal
-[vulcan]: https://github.com/vulcan-rs
 
 [![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust&logoColor=%23f97f39)](https://www.rust-lang.org/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-141414?style=flat&logo=kubernetes&logoColor=%23f97f39)](https://kubernetes.io/)
 [![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go&logoColor=%23f97f39)](https://go.dev/)
-[![Vue](https://img.shields.io/badge/-Vue-141414?style=flat&logo=vuedotjs&logoColor=%23f97f39)](https://vuejs.org/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript&logoColor=%23f97f39)](https://www.typescriptlang.org/)
 ![|](https://img.shields.io/badge/-%7C-141414?style=flat&logoColor=%23f97f39)
 [![Arch](https://img.shields.io/badge/-Arch-141414?style=flat&logo=archlinux&logoColor=%23f97f39)](https://archlinux.org/)
 [![Obsidian](https://img.shields.io/badge/-Obsidian-141414?style=flat&logo=obsidian&logoColor=%23f97f39)](https://obsidian.md/)
