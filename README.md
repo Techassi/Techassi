@@ -26,25 +26,25 @@ router OS called [vulcan-rs][vulcan], both written in pure Rust 🦀.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (3 days ago)
-- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (3 days ago)
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (3 days ago)
-- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Stackable Operator for network listeners and load balancers (3 days ago)
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (3 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug) -  (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (4 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Import containerdebug](https://github.com/stackabletech/operator-rs/pull/1233) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
-- [ci(template: Fix env var interpolation](https://github.com/stackabletech/operator-templating/pull/601) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (3 days ago)
-- [fix(spark): Use HBase 2.6.4 instead of 2.6.3](https://github.com/stackabletech/docker-images/pull/1553) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
-- [ci: Harden worfkflows](https://github.com/stackabletech/docker-images/pull/1552) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
-- [ci: Harden workflows](https://github.com/stackabletech/druid-opa-authorizer/pull/147) on [stackabletech/druid-opa-authorizer](https://github.com/stackabletech/druid-opa-authorizer) (4 days ago)
+- [refactor: Use prek workspaces](https://github.com/stackabletech/operator-rs/pull/1236) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [chore: Add archival note](https://github.com/stackabletech/containerdebug/pull/65) on [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug) (1 day ago)
+- [chore(stackable-base): Adjust containerdebug source](https://github.com/stackabletech/docker-images/pull/1554) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [ci: Use prek, bump action version](https://github.com/stackabletech/operator-rs/pull/1235) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [chore: Import containerdebug](https://github.com/stackabletech/operator-rs/pull/1233) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.15.0) ([v0.15.0](https://github.com/stackabletech/actions/releases/tag/v0.15.0)) - A collection of GitHub Actions used across Stackable repositories (5 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.15.0) ([v0.15.0](https://github.com/stackabletech/actions/releases/tag/v0.15.0)) - A collection of GitHub Actions used across Stackable repositories (6 days ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.2) ([boil-0.2.2](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.2)) - Product images for the Stackable Data Platform (2 weeks ago)
 - [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug/releases/tag/0.4.0) ([0.4.0](https://github.com/stackabletech/containerdebug/releases/tag/0.4.0)) -  (3 weeks ago)
 
