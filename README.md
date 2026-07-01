@@ -21,27 +21,27 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (today)
-- [stackabletech/config-utils](https://github.com/stackabletech/config-utils) - Utility to replace values in a file with values from environment variables and files (today)
-- [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug) -  (1 day ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/config-utils](https://github.com/stackabletech/config-utils) - Utility to replace values in a file with values from environment variables and files (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug) -  (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Release 0.5.0](https://github.com/stackabletech/config-utils/pull/16) on [stackabletech/config-utils](https://github.com/stackabletech/config-utils) (today)
-- [chore: Bump dependencies](https://github.com/stackabletech/config-utils/pull/15) on [stackabletech/config-utils](https://github.com/stackabletech/config-utils) (today)
-- [feat(boil): Add support for floating tags](https://github.com/stackabletech/docker-images/pull/1555) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (today)
-- [refactor: Use prek workspaces](https://github.com/stackabletech/operator-rs/pull/1236) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [chore: Add archival note](https://github.com/stackabletech/containerdebug/pull/65) on [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug) (1 day ago)
+- [chore: Release 0.5.0](https://github.com/stackabletech/config-utils/pull/16) on [stackabletech/config-utils](https://github.com/stackabletech/config-utils) (1 day ago)
+- [chore: Bump dependencies](https://github.com/stackabletech/config-utils/pull/15) on [stackabletech/config-utils](https://github.com/stackabletech/config-utils) (1 day ago)
+- [feat(boil): Add support for floating tags](https://github.com/stackabletech/docker-images/pull/1555) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [refactor: Use prek workspaces](https://github.com/stackabletech/operator-rs/pull/1236) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [chore: Add archival note](https://github.com/stackabletech/containerdebug/pull/65) on [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.15.0) ([v0.15.0](https://github.com/stackabletech/actions/releases/tag/v0.15.0)) - A collection of GitHub Actions used across Stackable repositories (6 days ago)
+- [stackabletech/config-utils](https://github.com/stackabletech/config-utils/releases/tag/0.5.0) ([0.5.0](https://github.com/stackabletech/config-utils/releases/tag/0.5.0)) - Utility to replace values in a file with values from environment variables and files (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.15.0) ([v0.15.0](https://github.com/stackabletech/actions/releases/tag/v0.15.0)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.2) ([boil-0.2.2](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.2)) - Product images for the Stackable Data Platform (2 weeks ago)
-- [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug/releases/tag/0.4.0) ([0.4.0](https://github.com/stackabletech/containerdebug/releases/tag/0.4.0)) -  (3 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
