@@ -21,32 +21,32 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/config-utils](https://github.com/stackabletech/config-utils) - Utility to replace values in a file with values from environment variables and files (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug) -  (2 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 days ago)
+- [stackabletech/config-utils](https://github.com/stackabletech/config-utils) - Utility to replace values in a file with values from environment variables and files (2 days ago)
+- [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug) -  (3 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (3 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Release 0.5.0](https://github.com/stackabletech/config-utils/pull/16) on [stackabletech/config-utils](https://github.com/stackabletech/config-utils) (1 day ago)
-- [chore: Bump dependencies](https://github.com/stackabletech/config-utils/pull/15) on [stackabletech/config-utils](https://github.com/stackabletech/config-utils) (1 day ago)
-- [feat(boil): Add support for floating tags](https://github.com/stackabletech/docker-images/pull/1555) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [refactor: Use prek workspaces](https://github.com/stackabletech/operator-rs/pull/1236) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
-- [chore: Add archival note](https://github.com/stackabletech/containerdebug/pull/65) on [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug) (2 days ago)
+- [chore(boil): Release 0.2.3-rc.1](https://github.com/stackabletech/docker-images/pull/1560) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [ci: Pin boil version to 0.2.2](https://github.com/stackabletech/docker-images/pull/1558) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [chore: Bump Rust dependencies](https://github.com/stackabletech/operator-rs/pull/1239) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [chore: Bump Rust version and workflow actions](https://github.com/stackabletech/operator-rs/pull/1238) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [chore: Release 0.5.0](https://github.com/stackabletech/config-utils/pull/16) on [stackabletech/config-utils](https://github.com/stackabletech/config-utils) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/config-utils](https://github.com/stackabletech/config-utils/releases/tag/0.5.0) ([0.5.0](https://github.com/stackabletech/config-utils/releases/tag/0.5.0)) - Utility to replace values in a file with values from environment variables and files (1 day ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.15.0) ([v0.15.0](https://github.com/stackabletech/actions/releases/tag/v0.15.0)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.16.0) ([v0.16.0](https://github.com/stackabletech/actions/releases/tag/v0.16.0)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [stackabletech/config-utils](https://github.com/stackabletech/config-utils/releases/tag/0.5.0) ([0.5.0](https://github.com/stackabletech/config-utils/releases/tag/0.5.0)) - Utility to replace values in a file with values from environment variables and files (2 days ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.2) ([boil-0.2.2](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.2)) - Product images for the Stackable Data Platform (2 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
 
-- [Low screen resolution after reboot](https://techassi.dev/posts/low-screen-resolution-after-reboot/) (2 months ago)
+- [Low screen resolution after reboot](https://techassi.dev/posts/low-screen-resolution-after-reboot/) (3 months ago)
 - [VLANs - The easy way](https://techassi.dev/posts/vlans-the-easy-way/) (4 years ago)
 
 #### 📫 How to reach me
