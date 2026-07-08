@@ -21,26 +21,26 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
+- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (1 day ago)
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/config-utils](https://github.com/stackabletech/config-utils) - Utility to replace values in a file with values from environment variables and files (1 week ago)
-- [stackabletech/containerdebug](https://github.com/stackabletech/containerdebug) -  (1 week ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci(boil): Checkout repo to fix gh command](https://github.com/stackabletech/docker-images/pull/1569) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [ci(boil): Fix env var interpolation](https://github.com/stackabletech/docker-images/pull/1568) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [chore: Bump Rust toolchains in various places](https://github.com/stackabletech/docker-images/pull/1567) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [chore: Pre-release updates for 26.7.0](https://github.com/stackabletech/docker-images/pull/1565) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [chore: Pre-release updates for 26.7.0](https://github.com/stackabletech/operator-templating/pull/605) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [chore: Bump Rust dependencies pre-26.7.0](https://github.com/stackabletech/hbase-operator/pull/774) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (1 day ago)
+- [chore: Bump Rust dependencies pre-26.7.0](https://github.com/stackabletech/druid-operator/pull/840) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (1 day ago)
+- [chore: Bump Rust dependencies pre-26.7.0](https://github.com/stackabletech/commons-operator/pull/430) on [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) (1 day ago)
+- [chore: Bump Rust dependencies pre-26.7.0](https://github.com/stackabletech/airflow-operator/pull/811) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (1 day ago)
+- [chore(operator): Release 0.113.3](https://github.com/stackabletech/operator-rs/pull/1246) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.3-rc.1) ([boil-0.2.3-rc.1](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.3-rc.1)) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.16.0) ([v0.16.0](https://github.com/stackabletech/actions/releases/tag/v0.16.0)) - A collection of GitHub Actions used across Stackable repositories (6 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.16.1) ([v0.16.1](https://github.com/stackabletech/actions/releases/tag/v0.16.1)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.3-rc.1) ([boil-0.2.3-rc.1](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.3-rc.1)) - Product images for the Stackable Data Platform (2 days ago)
 - [stackabletech/config-utils](https://github.com/stackabletech/config-utils/releases/tag/0.5.0) ([0.5.0](https://github.com/stackabletech/config-utils/releases/tag/0.5.0)) - Utility to replace values in a file with values from environment variables and files (1 week ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
