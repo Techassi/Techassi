@@ -21,26 +21,26 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
-- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (1 day ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Operator for Apache Spark-on-Kubernetes for Stackable Data Platform (1 day ago)
+- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) -  (1 day ago)
+- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - A kubernetes operator for the Open Policy Agent (1 day ago)
+- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Stackable Operator for Apache Kafka (1 day ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Stackable operator for provisioning and distributing secrets (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Bump Rust dependencies pre-26.7.0](https://github.com/stackabletech/hbase-operator/pull/774) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (1 day ago)
-- [chore: Bump Rust dependencies pre-26.7.0](https://github.com/stackabletech/druid-operator/pull/840) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (1 day ago)
-- [chore: Bump Rust dependencies pre-26.7.0](https://github.com/stackabletech/commons-operator/pull/430) on [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) (1 day ago)
-- [chore: Bump Rust dependencies pre-26.7.0](https://github.com/stackabletech/airflow-operator/pull/811) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (1 day ago)
-- [chore(operator): Release 0.113.3](https://github.com/stackabletech/operator-rs/pull/1246) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [fix: Properly auto derive image repos](https://github.com/stackabletech/listener-operator/pull/402) on [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) (1 day ago)
+- [chore: Bump Rust dependencies pre-26.7.0](https://github.com/stackabletech/zookeeper-operator/pull/1048) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (1 day ago)
+- [chore: Bump Rust dependencies pre-26.7.0](https://github.com/stackabletech/trino-operator/pull/908) on [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) (1 day ago)
+- [chore: Bump Rust dependencies pre-26.7.0](https://github.com/stackabletech/superset-operator/pull/751) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (1 day ago)
+- [chore: Bump Rust dependencies pre-26.7.0](https://github.com/stackabletech/spark-k8s-operator/pull/716) on [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.16.1) ([v0.16.1](https://github.com/stackabletech/actions/releases/tag/v0.16.1)) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.3-rc.1) ([boil-0.2.3-rc.1](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.3-rc.1)) - Product images for the Stackable Data Platform (2 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.16.1) ([v0.16.1](https://github.com/stackabletech/actions/releases/tag/v0.16.1)) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.3-rc.1) ([boil-0.2.3-rc.1](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.3-rc.1)) - Product images for the Stackable Data Platform (3 days ago)
 - [stackabletech/config-utils](https://github.com/stackabletech/config-utils/releases/tag/0.5.0) ([0.5.0](https://github.com/stackabletech/config-utils/releases/tag/0.5.0)) - Utility to replace values in a file with values from environment variables and files (1 week ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
