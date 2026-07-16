@@ -21,25 +21,25 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/ci](https://github.com/stackabletech/ci) - Config files for Jenkins jobs ran by our infrastructure (1 day ago)
 - [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) -  (1 day ago)
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (2 days ago)
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (2 days ago)
+- [stackabletech/ci](https://github.com/stackabletech/ci) - Config files for Jenkins jobs ran by our infrastructure (2 days ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (3 days ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (3 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Adjust rate limit to 250r/min](https://github.com/stackabletech/documentation/pull/879) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
-- [chore: Add rate limiting to whole page](https://github.com/stackabletech/documentation/pull/878) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
-- [chore: Pull in UI changes](https://github.com/stackabletech/documentation/pull/877) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
-- [chore: Temporarily disable Matomo](https://github.com/stackabletech/documentation-ui/pull/151) on [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) (1 day ago)
-- [chore: Add OKD 4.22, remove 4.17](https://github.com/stackabletech/ci/pull/145) on [stackabletech/ci](https://github.com/stackabletech/ci) (1 day ago)
+- [chore: Bump the normal rate limit back to 250](https://github.com/stackabletech/documentation/pull/884) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [chore: Place pagefind assets next to other assets](https://github.com/stackabletech/documentation/pull/883) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [chore: Adjust pagefind asset locations](https://github.com/stackabletech/documentation-ui/pull/152) on [stackabletech/documentation-ui](https://github.com/stackabletech/documentation-ui) (1 day ago)
+- [chore: Only use 2 rate limit rules](https://github.com/stackabletech/documentation/pull/882) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [chore: Add page specific rate limits](https://github.com/stackabletech/documentation/pull/881) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.16.2) ([v0.16.2](https://github.com/stackabletech/actions/releases/tag/v0.16.2)) - A collection of GitHub Actions used across Stackable repositories (5 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.16.2) ([v0.16.2](https://github.com/stackabletech/actions/releases/tag/v0.16.2)) - A collection of GitHub Actions used across Stackable repositories (6 days ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.3-rc.1) ([boil-0.2.3-rc.1](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.3-rc.1)) - Product images for the Stackable Data Platform (1 week ago)
 - [stackabletech/config-utils](https://github.com/stackabletech/config-utils/releases/tag/0.5.0) ([0.5.0](https://github.com/stackabletech/config-utils/releases/tag/0.5.0)) - Utility to replace values in a file with values from environment variables and files (2 weeks ago)
 
