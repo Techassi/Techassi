@@ -21,27 +21,27 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes Operator for Apache HBase built by Stackable for the Stackable Data Platform (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
-- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (1 day ago)
-- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (1 day ago)
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Operator for Apache Superset for Stackable Data Platform (1 day ago)
+- [stackabletech/release](https://github.com/stackabletech/release) - This repository contains the details about how releases of the Stackable platform are put together from individual components. (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Operator for Apache Spark-on-Kubernetes for Stackable Data Platform (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
+- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Operator for common objects of the Stackable Data Platform (2 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Add 26.7.0 release](https://github.com/stackabletech/release/pull/42) on [stackabletech/release](https://github.com/stackabletech/release) (1 day ago)
-- [chore: Update changelog from release 26.7.0](https://github.com/stackabletech/zookeeper-operator/pull/1061) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (1 day ago)
-- [chore: Update changelog from release 26.7.0](https://github.com/stackabletech/trino-operator/pull/916) on [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) (1 day ago)
-- [chore: Update changelog from release 26.7.0](https://github.com/stackabletech/superset-operator/pull/763) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (1 day ago)
-- [chore: Update changelog from release 26.7.0](https://github.com/stackabletech/spark-k8s-operator/pull/729) on [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) (1 day ago)
+- [fix(template): Use product string in docs templating script](https://github.com/stackabletech/operator-templating/pull/616) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [fix(argo-cd-git-ops): Bump SDP version to 26.7.0](https://github.com/stackabletech/demos/pull/445) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
+- [chore: Add 26.7.0 release](https://github.com/stackabletech/release/pull/42) on [stackabletech/release](https://github.com/stackabletech/release) (2 days ago)
+- [chore: Update changelog from release 26.7.0](https://github.com/stackabletech/zookeeper-operator/pull/1061) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (2 days ago)
+- [chore: Update changelog from release 26.7.0](https://github.com/stackabletech/trino-operator/pull/916) on [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) (2 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/nifi-opa-plugin](https://github.com/stackabletech/nifi-opa-plugin/releases/tag/v0.6.0) ([v0.6.0](https://github.com/stackabletech/nifi-opa-plugin/releases/tag/v0.6.0)) - A plugin for Apache NiFi to authorize access via an external policy engine such as OPA. (5 days ago)
+- [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl/releases/tag/stackablectl-1.5.0) ([stackablectl-1.5.0](https://github.com/stackabletech/stackablectl/releases/tag/stackablectl-1.5.0)) - Home of stackablectl and related crates (1 day ago)
+- [stackabletech/nifi-opa-plugin](https://github.com/stackabletech/nifi-opa-plugin/releases/tag/v0.6.0) ([v0.6.0](https://github.com/stackabletech/nifi-opa-plugin/releases/tag/v0.6.0)) - A plugin for Apache NiFi to authorize access via an external policy engine such as OPA. (6 days ago)
 - [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.16.2) ([v0.16.2](https://github.com/stackabletech/actions/releases/tag/v0.16.2)) - A collection of GitHub Actions used across Stackable repositories (1 week ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.3-rc.1) ([boil-0.2.3-rc.1](https://github.com/stackabletech/docker-images/releases/tag/boil-0.2.3-rc.1)) - Product images for the Stackable Data Platform (2 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
