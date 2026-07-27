@@ -21,26 +21,26 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 days ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (2 days ago)
-- [stackabletech/release](https://github.com/stackabletech/release) - This repository contains the details about how releases of the Stackable platform are put together from individual components. (4 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (4 days ago)
-- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (5 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (3 days ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (3 days ago)
+- [stackabletech/release](https://github.com/stackabletech/release) - This repository contains the details about how releases of the Stackable platform are put together from individual components. (5 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (5 days ago)
+- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - A tool that can be used to deploy and manager Apache ZooKeeper clusters/ensembles (6 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Add release branches to the playbooks for release 26.7](https://github.com/stackabletech/documentation/pull/899) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 days ago)
-- [derive: Run integration tests locally and in CI](https://github.com/kube-rs/kube/pull/2052) on [kube-rs/kube](https://github.com/kube-rs/kube) (2 days ago)
-- [derive: Split derive macro attributes into modules](https://github.com/kube-rs/kube/pull/2050) on [kube-rs/kube](https://github.com/kube-rs/kube) (3 days ago)
-- [fix(template): Use product string in docs templating script](https://github.com/stackabletech/operator-templating/pull/616) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (4 days ago)
-- [fix(argo-cd-git-ops): Bump SDP version to 26.7.0](https://github.com/stackabletech/demos/pull/445) on [stackabletech/demos](https://github.com/stackabletech/demos) (4 days ago)
+- [chore: Add release branches to the playbooks for release 26.7](https://github.com/stackabletech/documentation/pull/899) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (3 days ago)
+- [derive: Run integration tests locally and in CI](https://github.com/kube-rs/kube/pull/2052) on [kube-rs/kube](https://github.com/kube-rs/kube) (3 days ago)
+- [derive: Split derive macro attributes into modules](https://github.com/kube-rs/kube/pull/2050) on [kube-rs/kube](https://github.com/kube-rs/kube) (4 days ago)
+- [fix(template): Use product string in docs templating script](https://github.com/stackabletech/operator-templating/pull/616) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (5 days ago)
+- [fix(argo-cd-git-ops): Bump SDP version to 26.7.0](https://github.com/stackabletech/demos/pull/445) on [stackabletech/demos](https://github.com/stackabletech/demos) (5 days ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/4.2.0) ([4.2.0](https://github.com/kube-rs/kube/releases/tag/4.2.0)) - Rust Kubernetes client and controller runtime (4 days ago)
-- [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl/releases/tag/stackablectl-1.5.0) ([stackablectl-1.5.0](https://github.com/stackabletech/stackablectl/releases/tag/stackablectl-1.5.0)) - Home of stackablectl and related crates (4 days ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/4.2.0) ([4.2.0](https://github.com/kube-rs/kube/releases/tag/4.2.0)) - Rust Kubernetes client and controller runtime (5 days ago)
+- [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl/releases/tag/stackablectl-1.5.0) ([stackablectl-1.5.0](https://github.com/stackabletech/stackablectl/releases/tag/stackablectl-1.5.0)) - Home of stackablectl and related crates (5 days ago)
 - [stackabletech/nifi-opa-plugin](https://github.com/stackabletech/nifi-opa-plugin/releases/tag/v0.6.0) ([v0.6.0](https://github.com/stackabletech/nifi-opa-plugin/releases/tag/v0.6.0)) - A plugin for Apache NiFi to authorize access via an external policy engine such as OPA. (1 week ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
