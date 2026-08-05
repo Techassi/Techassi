@@ -30,12 +30,6 @@ things I mentioned above and a few other bits and pieces.
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📦 Latest releases I've contributed to
-
-{{range recentReleases 3}}
-- [{{.Name}}]({{.LastRelease.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}})) - {{.Description}} ({{humanize .LastRelease.PublishedAt}})
-{{- end}}
-
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
 {{range rss "https://techassi.dev/posts/index.xml" 3}}
