@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-<img align="right" src="https://raw.githubusercontent.com/Techassi/Techassi/master/assets/firefox-mascot-esc-rgb.svg" width="260">
+<img align="right" src="https://raw.githubusercontent.com/Techassi/Techassi/master/assets/firefox-mascot-esc-rgb.svg" width="150">
 
 I'm a backend software developer and tinkerer working at [Stackable][stackable] working on rustifying
 the Kubernetes/container ecosystem with [operator-rs] and tooling. In my spare time, I do more of the
