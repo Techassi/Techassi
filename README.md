@@ -21,11 +21,11 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
 - [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
 - [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) - Home of stackablectl and related crates (1 week ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (1 week ago)
-- [stackabletech/release](https://github.com/stackabletech/release) - This repository contains the details about how releases of the Stackable platform are put together from individual components. (1 week ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 week ago)
+- [stackabletech/release](https://github.com/stackabletech/release) - This repository contains the details about how releases of the Stackable platform are put together from individual components. (2 weeks ago)
 
 #### 🧪 Latest PRs
 
@@ -34,14 +34,14 @@ things I mentioned above and a few other bits and pieces.
 - [chore: Add release branches to the playbooks for release 26.7](https://github.com/stackabletech/documentation/pull/899) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
 - [derive: Run integration tests locally and in CI](https://github.com/kube-rs/kube/pull/2052) on [kube-rs/kube](https://github.com/kube-rs/kube) (1 week ago)
 - [derive: Split derive macro attributes into modules](https://github.com/kube-rs/kube/pull/2050) on [kube-rs/kube](https://github.com/kube-rs/kube) (1 week ago)
-- [fix(template): Use product string in docs templating script](https://github.com/stackabletech/operator-templating/pull/616) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 week ago)
+- [fix(template): Use product string in docs templating script](https://github.com/stackabletech/operator-templating/pull/616) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.16.3) ([v0.16.3](https://github.com/stackabletech/actions/releases/tag/v0.16.3)) - A collection of GitHub Actions used across Stackable repositories (4 days ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/4.2.0) ([4.2.0](https://github.com/kube-rs/kube/releases/tag/4.2.0)) - Rust Kubernetes client and controller runtime (1 week ago)
-- [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl/releases/tag/stackablectl-1.5.0) ([stackablectl-1.5.0](https://github.com/stackabletech/stackablectl/releases/tag/stackablectl-1.5.0)) - Home of stackablectl and related crates (1 week ago)
+- [stackabletech/trino-lb](https://github.com/stackabletech/trino-lb/releases/tag/v0.7.0) ([v0.7.0](https://github.com/stackabletech/trino-lb/releases/tag/v0.7.0)) - Trino load balancer with support for routing, queueing and auto-scaling (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions/releases/tag/v0.16.3) ([v0.16.3](https://github.com/stackabletech/actions/releases/tag/v0.16.3)) - A collection of GitHub Actions used across Stackable repositories (5 days ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube/releases/tag/4.2.0) ([4.2.0](https://github.com/kube-rs/kube/releases/tag/4.2.0)) - Rust Kubernetes client and controller runtime (2 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
