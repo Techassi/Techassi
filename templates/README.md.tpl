@@ -1,5 +1,7 @@
 ### Hey there 👋
 
+<img align="right" src="https://raw.githubusercontent.com/Techassi/Techassi/master/assets/firefox-mascot-esc-rgb.svg" width="260">
+
 I'm a backend software developer and tinkerer working at [Stackable][stackable] working on rustifying
 the Kubernetes/container ecosystem with [operator-rs] and tooling. In my spare time, I do more of the
 things I mentioned above and a few other bits and pieces.
