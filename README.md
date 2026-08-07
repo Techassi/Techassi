@@ -23,18 +23,18 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (3 days ago)
 - [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) - Home of stackablectl and related crates (1 week ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (1 week ago)
-- [stackabletech/release](https://github.com/stackabletech/release) - This repository contains the details about how releases of the Stackable platform are put together from individual components. (2 weeks ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
 - [docs: Add missing 1.5.0 header to release notes](https://github.com/stackabletech/stackablectl/pull/449) on [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) (1 week ago)
-- [chore: Add release branches to the playbooks for release 26.7](https://github.com/stackabletech/documentation/pull/899) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 week ago)
-- [derive: Run integration tests locally and in CI](https://github.com/kube-rs/kube/pull/2052) on [kube-rs/kube](https://github.com/kube-rs/kube) (1 week ago)
+- [chore: Add release branches to the playbooks for release 26.7](https://github.com/stackabletech/documentation/pull/899) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 weeks ago)
+- [derive: Run integration tests locally and in CI](https://github.com/kube-rs/kube/pull/2052) on [kube-rs/kube](https://github.com/kube-rs/kube) (2 weeks ago)
 - [derive: Split derive macro attributes into modules](https://github.com/kube-rs/kube/pull/2050) on [kube-rs/kube](https://github.com/kube-rs/kube) (2 weeks ago)
 - [fix(template): Use product string in docs templating script](https://github.com/stackabletech/operator-templating/pull/616) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 weeks ago)
 
