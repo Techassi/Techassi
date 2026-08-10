@@ -23,16 +23,16 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (3 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (3 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (5 days ago)
-- [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) - Home of stackablectl and related crates (1 week ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (4 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (4 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (6 days ago)
+- [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) - Home of stackablectl and related crates (2 weeks ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [docs: Add missing 1.5.0 header to release notes](https://github.com/stackabletech/stackablectl/pull/449) on [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) (1 week ago)
+- [docs: Add missing 1.5.0 header to release notes](https://github.com/stackabletech/stackablectl/pull/449) on [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) (2 weeks ago)
 - [chore: Add release branches to the playbooks for release 26.7](https://github.com/stackabletech/documentation/pull/899) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 weeks ago)
 - [derive: Run integration tests locally and in CI](https://github.com/kube-rs/kube/pull/2052) on [kube-rs/kube](https://github.com/kube-rs/kube) (2 weeks ago)
 - [derive: Split derive macro attributes into modules](https://github.com/kube-rs/kube/pull/2050) on [kube-rs/kube](https://github.com/kube-rs/kube) (2 weeks ago)
