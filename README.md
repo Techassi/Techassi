@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (6 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (6 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 week ago)
-- [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) - Home of stackablectl and related crates (2 weeks ago)
+- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - Kubernetes operator for Apache ZooKeeper. Deploy and run ZooKeeper ensembles with the Stackable Data Platform (SDP). (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci(template): Bump actions, add scheduled integration test](https://github.com/stackabletech/operator-templating/pull/629) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [docs: Add missing 1.5.0 header to release notes](https://github.com/stackabletech/stackablectl/pull/449) on [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) (2 weeks ago)
-- [chore: Add release branches to the playbooks for release 26.7](https://github.com/stackabletech/documentation/pull/899) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (2 weeks ago)
-- [derive: Run integration tests locally and in CI](https://github.com/kube-rs/kube/pull/2052) on [kube-rs/kube](https://github.com/kube-rs/kube) (2 weeks ago)
-- [derive: Split derive macro attributes into modules](https://github.com/kube-rs/kube/pull/2050) on [kube-rs/kube](https://github.com/kube-rs/kube) (2 weeks ago)
+- [fix(run-integration-test): Don&#39;t hard-code workflow name](https://github.com/stackabletech/actions/pull/130) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [feat(run-integration-test): Check if selected operator PR version exists](https://github.com/stackabletech/actions/pull/129) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [test: Enable schedule profile](https://github.com/stackabletech/zookeeper-operator/pull/1073) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (1 day ago)
+- [ci: Bump stackabletech/actions to v0.17.4](https://github.com/stackabletech/operator-templating/pull/630) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [ci(template): Bump actions, add scheduled integration test](https://github.com/stackabletech/operator-templating/pull/629) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
