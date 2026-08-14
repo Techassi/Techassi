@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - Kubernetes operator for Apache ZooKeeper. Deploy and run ZooKeeper ensembles with the Stackable Data Platform (SDP). (1 day ago)
+- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes operator for Apache HBase. Deploy and run HBase masters and region servers with the Stackable Data Platform (SDP). (1 day ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Kubernetes operator for Apache Superset. Deploy and run Superset with the Stackable Data Platform (SDP). (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
 - [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 week ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 week ago)
+- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Kubernetes operator for Apache Spark. Run Spark applications on Kubernetes with the Stackable Data Platform (SDP). (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix(run-integration-test): Don&#39;t hard-code workflow name](https://github.com/stackabletech/actions/pull/130) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [feat(run-integration-test): Check if selected operator PR version exists](https://github.com/stackabletech/actions/pull/129) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [test: Enable schedule profile](https://github.com/stackabletech/zookeeper-operator/pull/1073) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (1 day ago)
-- [ci: Bump stackabletech/actions to v0.17.4](https://github.com/stackabletech/operator-templating/pull/630) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [ci(template): Bump actions, add scheduled integration test](https://github.com/stackabletech/operator-templating/pull/629) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
+- [feat(boil)!: Output structured data in boil-target-tags file](https://github.com/stackabletech/docker-images/pull/1598) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [ci: Bump stackabletech/actions to v0.17.5](https://github.com/stackabletech/operator-templating/pull/631) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [chore(run-integration-test): Remove already set env vars](https://github.com/stackabletech/actions/pull/134) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [feat(run-integration-test): Detect release operator version](https://github.com/stackabletech/actions/pull/132) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [refactor(run-integration-test): Explicitly set repo for gh command](https://github.com/stackabletech/actions/pull/131) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
