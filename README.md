@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
+- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Kubernetes operator for Apache Kafka. Deploy and run Kafka brokers with the Stackable Data Platform (SDP). (1 day ago)
+- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Kubernetes operator for exposing pods through listeners, load balancers and NodePorts. Part of the Stackable Data Platform (SDP). (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
 - [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (3 days ago)
-- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Kubernetes operator for exposing pods through listeners, load balancers and NodePorts. Part of the Stackable Data Platform (SDP). (3 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
-- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Kubernetes operator for Apache Kafka. Deploy and run Kafka brokers with the Stackable Data Platform (SDP). (3 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [test: Add smoke test for run-integration-test action](https://github.com/stackabletech/actions/pull/138) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [feat(template): Support more args in test script](https://github.com/stackabletech/operator-templating/pull/633) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [chore(boil): Release 0.3.0](https://github.com/stackabletech/docker-images/pull/1599) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
-- [ci(template): Change operator version behaviour](https://github.com/stackabletech/operator-templating/pull/632) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (3 days ago)
-- [feat(run-integration-test,send-slack-notification): Add dashboard URL](https://github.com/stackabletech/actions/pull/136) on [stackabletech/actions](https://github.com/stackabletech/actions) (3 days ago)
+- [ci(template): Fix if condition in profile selection](https://github.com/stackabletech/operator-templating/pull/639) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [chore(publish-image)!: Support multiple image tags](https://github.com/stackabletech/actions/pull/139) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [chore(template): Use .yaml extension for artifacthub-repo.yml](https://github.com/stackabletech/operator-templating/pull/638) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [test: Add smoke test for run-integration-test action](https://github.com/stackabletech/actions/pull/138) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
+- [test(template): Support more args in test script](https://github.com/stackabletech/operator-templating/pull/633) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
