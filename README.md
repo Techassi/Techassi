@@ -24,19 +24,19 @@ things I mentioned above and a few other bits and pieces.
 
 
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/nifi-opa-plugin](https://github.com/stackabletech/nifi-opa-plugin) - A plugin for Apache NiFi to authorize access via an external policy engine such as OPA. (1 day ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (3 days ago)
-- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Kubernetes operator for Apache Kafka. Deploy and run Kafka brokers with the Stackable Data Platform (SDP). (4 days ago)
+- [stackabletech/nifi-opa-plugin](https://github.com/stackabletech/nifi-opa-plugin) - A plugin for Apache NiFi to authorize access via an external policy engine such as OPA. (2 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (4 days ago)
+- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Kubernetes operator for Apache Kafka. Deploy and run Kafka brokers with the Stackable Data Platform (SDP). (5 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(boil): Add circular local image dependency detection](https://github.com/stackabletech/docker-images/pull/1605) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
-- [chore(boil): Release 0.3.2](https://github.com/stackabletech/docker-images/pull/1604) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
-- [feat(boil): Support for per-image build arguments](https://github.com/stackabletech/docker-images/pull/1603) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
-- [chore(boil): Release 0.3.1](https://github.com/stackabletech/docker-images/pull/1602) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
-- [fix(boil): Include prerelease data in floating tag](https://github.com/stackabletech/docker-images/pull/1601) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
+- [chore(boil): Release 0.3.3](https://github.com/stackabletech/docker-images/pull/1609) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [feat(publish-image-index-manifest)!: Support other/additional tags](https://github.com/stackabletech/actions/pull/140) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [feat(boil): Add floating-tag tool](https://github.com/stackabletech/docker-images/pull/1607) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [fix(boil): Only include prerelease data if present](https://github.com/stackabletech/docker-images/pull/1606) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [feat(boil): Add circular local image dependency detection](https://github.com/stackabletech/docker-images/pull/1605) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
