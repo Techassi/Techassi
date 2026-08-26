@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
-- [stackabletech/nifi-opa-plugin](https://github.com/stackabletech/nifi-opa-plugin) - A plugin for Apache NiFi to authorize access via an external policy engine such as OPA. (5 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (2 days ago)
+- [stackabletech/nifi-opa-plugin](https://github.com/stackabletech/nifi-opa-plugin) - A plugin for Apache NiFi to authorize access via an external policy engine such as OPA. (6 days ago)
 - [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci: Replace pre-commit with prek](https://github.com/stackabletech/docker-images/pull/1618) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [feat(build-product-image): Support new structured output format](https://github.com/stackabletech/actions/pull/141) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [chore(boil): Release 0.4.0](https://github.com/stackabletech/docker-images/pull/1614) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [fix(boil)!: Don&#39;t override image manifest URIs in output](https://github.com/stackabletech/docker-images/pull/1613) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [chore(boil): Release 0.3.3](https://github.com/stackabletech/docker-images/pull/1609) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (4 days ago)
+- [chore: Import config-utils](https://github.com/stackabletech/operator-rs/pull/1268) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [ci: Replace pre-commit with prek](https://github.com/stackabletech/docker-images/pull/1618) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [feat(build-product-image): Support new structured output format](https://github.com/stackabletech/actions/pull/141) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
+- [chore(boil): Release 0.4.0](https://github.com/stackabletech/docker-images/pull/1614) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [fix(boil)!: Don&#39;t override image manifest URIs in output](https://github.com/stackabletech/docker-images/pull/1613) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
