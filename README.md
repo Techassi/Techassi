@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (today)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (4 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (4 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (5 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (5 days ago)
 - [stackabletech/nifi-opa-plugin](https://github.com/stackabletech/nifi-opa-plugin) - A plugin for Apache NiFi to authorize access via an external policy engine such as OPA. (1 week ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci: Bump actions](https://github.com/stackabletech/docker-images/pull/1624) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (today)
-- [fix(send-slack-notification): Handle multiline &#34;failed tests&#34; output](https://github.com/stackabletech/actions/pull/144) on [stackabletech/actions](https://github.com/stackabletech/actions) (today)
-- [feat(send-slack-notification): Add combined-checks-result input](https://github.com/stackabletech/actions/pull/143) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [chore(stackable-base): Adjust config-utils source](https://github.com/stackabletech/docker-images/pull/1622) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [chore: Import config-utils](https://github.com/stackabletech/operator-rs/pull/1268) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
+- [ci(template): Add helm-lint result to combined checks result](https://github.com/stackabletech/operator-templating/pull/643) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [ci(template): Add combined checks result](https://github.com/stackabletech/operator-templating/pull/642) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [ci: Bump stackabletech/actions to v0.18.0](https://github.com/stackabletech/operator-templating/pull/641) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [ci: Bump actions](https://github.com/stackabletech/docker-images/pull/1624) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [fix(send-slack-notification): Handle multiline &#34;failed tests&#34; output](https://github.com/stackabletech/actions/pull/144) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
