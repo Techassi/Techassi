@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (3 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (4 days ago)
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 week ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 week ago)
 - [stackabletech/nifi-opa-plugin](https://github.com/stackabletech/nifi-opa-plugin) - A plugin for Apache NiFi to authorize access via an external policy engine such as OPA. (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci(template): Add helm-lint result to combined checks result](https://github.com/stackabletech/operator-templating/pull/643) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (3 days ago)
-- [ci(template): Add combined checks result](https://github.com/stackabletech/operator-templating/pull/642) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (3 days ago)
-- [ci: Bump stackabletech/actions to v0.18.0](https://github.com/stackabletech/operator-templating/pull/641) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (3 days ago)
-- [ci: Bump actions](https://github.com/stackabletech/docker-images/pull/1624) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
-- [fix(send-slack-notification): Handle multiline &#34;failed tests&#34; output](https://github.com/stackabletech/actions/pull/144) on [stackabletech/actions](https://github.com/stackabletech/actions) (3 days ago)
+- [chore(java-devel): Disable Maven connection pooling](https://github.com/stackabletech/docker-images/pull/1626) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [chore(opa): Use per-image build args](https://github.com/stackabletech/docker-images/pull/1625) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [ci(template): Use correct env var in integration test workflow](https://github.com/stackabletech/operator-templating/pull/644) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [ci(template): Add helm-lint result to combined checks result](https://github.com/stackabletech/operator-templating/pull/643) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (4 days ago)
+- [ci(template): Add combined checks result](https://github.com/stackabletech/operator-templating/pull/642) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (4 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
