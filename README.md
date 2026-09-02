@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (4 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 week ago)
-- [stackabletech/nifi-opa-plugin](https://github.com/stackabletech/nifi-opa-plugin) - A plugin for Apache NiFi to authorize access via an external policy engine such as OPA. (1 week ago)
+- [stackabletech/config-utils](https://github.com/stackabletech/config-utils) - Utility to replace values in a file with values from environment variables and files (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/hdfs-utils](https://github.com/stackabletech/hdfs-utils) -  (1 day ago)
+- [stackabletech/csaf_publisher](https://github.com/stackabletech/csaf_publisher) -  (1 day ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore(java-devel): Disable Maven connection pooling](https://github.com/stackabletech/docker-images/pull/1626) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [chore(opa): Use per-image build args](https://github.com/stackabletech/docker-images/pull/1625) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [ci(template): Use correct env var in integration test workflow](https://github.com/stackabletech/operator-templating/pull/644) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [ci(template): Add helm-lint result to combined checks result](https://github.com/stackabletech/operator-templating/pull/643) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (4 days ago)
-- [ci(template): Add combined checks result](https://github.com/stackabletech/operator-templating/pull/642) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (4 days ago)
+- [chore: Add archival note](https://github.com/stackabletech/config-utils/pull/19) on [stackabletech/config-utils](https://github.com/stackabletech/config-utils) (1 day ago)
+- [chore(java-devel): Disable Maven connection pooling](https://github.com/stackabletech/docker-images/pull/1626) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [chore(opa): Use per-image build args](https://github.com/stackabletech/docker-images/pull/1625) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [ci(template): Use correct env var in integration test workflow](https://github.com/stackabletech/operator-templating/pull/644) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
+- [ci(template): Add helm-lint result to combined checks result](https://github.com/stackabletech/operator-templating/pull/643) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (5 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
