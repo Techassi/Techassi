@@ -24,19 +24,19 @@ things I mentioned above and a few other bits and pieces.
 
 
 - [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
 - [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/csaf_publisher](https://github.com/stackabletech/csaf_publisher) -  (2 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
-- [stackabletech/hdfs-utils](https://github.com/stackabletech/hdfs-utils) -  (2 days ago)
+- [stackabletech/hdfs-utils](https://github.com/stackabletech/hdfs-utils) -  (3 days ago)
+- [stackabletech/config-utils](https://github.com/stackabletech/config-utils) - Utility to replace values in a file with values from environment variables and files (3 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [ci: Remove old action input from reusable workflow](https://github.com/stackabletech/demos/pull/448) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
-- [ci: Enable floating tags](https://github.com/stackabletech/docker-images/pull/1627) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [chore: Add archival note](https://github.com/stackabletech/config-utils/pull/19) on [stackabletech/config-utils](https://github.com/stackabletech/config-utils) (2 days ago)
-- [chore(java-devel): Disable Maven connection pooling](https://github.com/stackabletech/docker-images/pull/1626) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
-- [chore(opa): Use per-image build args](https://github.com/stackabletech/docker-images/pull/1625) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
+- [chore(template): Add auto-generated notes](https://github.com/stackabletech/operator-templating/pull/648) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [chore(operator): Release 0.117.0](https://github.com/stackabletech/operator-rs/pull/1270) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [ci: Remove old action input from reusable workflow](https://github.com/stackabletech/demos/pull/448) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
+- [ci: Enable floating tags](https://github.com/stackabletech/docker-images/pull/1627) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [chore: Add archival note](https://github.com/stackabletech/config-utils/pull/19) on [stackabletech/config-utils](https://github.com/stackabletech/config-utils) (3 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
