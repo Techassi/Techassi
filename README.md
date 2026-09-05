@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/hdfs-utils](https://github.com/stackabletech/hdfs-utils) -  (3 days ago)
-- [stackabletech/config-utils](https://github.com/stackabletech/config-utils) - Utility to replace values in a file with values from environment variables and files (3 days ago)
+- [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) - Home of stackablectl and related crates (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (2 days ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (2 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore(template): Add auto-generated notes](https://github.com/stackabletech/operator-templating/pull/648) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [chore(operator): Release 0.117.0](https://github.com/stackabletech/operator-rs/pull/1270) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [ci: Remove old action input from reusable workflow](https://github.com/stackabletech/demos/pull/448) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
-- [ci: Enable floating tags](https://github.com/stackabletech/docker-images/pull/1627) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
-- [chore: Add archival note](https://github.com/stackabletech/config-utils/pull/19) on [stackabletech/config-utils](https://github.com/stackabletech/config-utils) (3 days ago)
+- [fix(operator): Add missing SecurityContextBuilder::build function](https://github.com/stackabletech/operator-rs/pull/1271) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [chore(stackablectl): Release 1.5.1](https://github.com/stackabletech/stackablectl/pull/454) on [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) (1 day ago)
+- [chore: Re-enable kube&#39;s proxy support](https://github.com/stackabletech/stackablectl/pull/453) on [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) (1 day ago)
+- [chore(template): Add auto-generated notes](https://github.com/stackabletech/operator-templating/pull/648) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
+- [chore(operator): Release 0.117.0](https://github.com/stackabletech/operator-rs/pull/1270) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
