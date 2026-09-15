@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (4 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (4 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (5 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (6 days ago)
-- [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) - Home of stackablectl and related crates (1 week ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (5 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (6 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix: Improve integration test cluster failure handling](https://github.com/stackabletech/actions/pull/148) on [stackabletech/actions](https://github.com/stackabletech/actions) (4 days ago)
-- [docs: Add stackableVersionPolicy to product image selection page](https://github.com/stackabletech/documentation/pull/936) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (4 days ago)
-- [refactor(operator): Improve pull policy handling/warning](https://github.com/stackabletech/operator-rs/pull/1275) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
-- [chore(operator): Add changelog entries for #1226](https://github.com/stackabletech/operator-rs/pull/1274) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
-- [chore(stackable-devel): Include run id&#43;attempt in npm UA [skip ci]](https://github.com/stackabletech/docker-images/pull/1633) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
+- [feat: Support floating tag in product image selection](https://github.com/stackabletech/opa-operator/pull/891) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (1 day ago)
+- [feat: Support floating tag in product image selection](https://github.com/stackabletech/airflow-operator/pull/862) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (1 day ago)
+- [feat: Support floating tag in product image selection](https://github.com/stackabletech/druid-operator/pull/876) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (1 day ago)
+- [feat: Support floating tag in product image selection](https://github.com/stackabletech/hbase-operator/pull/809) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (1 day ago)
+- [feat: Support floating tag in product image selection](https://github.com/stackabletech/hdfs-operator/pull/831) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (1 day ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
