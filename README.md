@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (5 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (6 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 week ago)
+- [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) - Kubernetes operator for Apache NiFi. Deploy and run NiFi clusters with the Stackable Data Platform (SDP). (1 day ago)
+- [stackabletech/opensearch-operator](https://github.com/stackabletech/opensearch-operator) - Kubernetes operator for OpenSearch. Deploy and run OpenSearch clusters with the Stackable Data Platform (SDP). (1 day ago)
+- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Kubernetes operator for Apache Spark. Run Spark applications on Kubernetes with the Stackable Data Platform (SDP). (1 day ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Kubernetes operator for Apache Superset. Deploy and run Superset with the Stackable Data Platform (SDP). (1 day ago)
+- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - Kubernetes operator for Apache ZooKeeper. Deploy and run ZooKeeper ensembles with the Stackable Data Platform (SDP). (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat: Support floating tag in product image selection](https://github.com/stackabletech/opa-operator/pull/891) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (1 day ago)
-- [feat: Support floating tag in product image selection](https://github.com/stackabletech/airflow-operator/pull/862) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (1 day ago)
-- [feat: Support floating tag in product image selection](https://github.com/stackabletech/druid-operator/pull/876) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (1 day ago)
-- [feat: Support floating tag in product image selection](https://github.com/stackabletech/hbase-operator/pull/809) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (1 day ago)
-- [feat: Support floating tag in product image selection](https://github.com/stackabletech/hdfs-operator/pull/831) on [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) (1 day ago)
+- [chore: Add release 26.7 retro improvements](https://github.com/stackabletech/operator-templating/pull/650) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [feat: Support floating tag in product image selection](https://github.com/stackabletech/opa-operator/pull/891) on [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) (2 days ago)
+- [feat: Support floating tag in product image selection](https://github.com/stackabletech/airflow-operator/pull/862) on [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) (2 days ago)
+- [feat: Support floating tag in product image selection](https://github.com/stackabletech/druid-operator/pull/876) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (2 days ago)
+- [feat: Support floating tag in product image selection](https://github.com/stackabletech/hbase-operator/pull/809) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (2 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
