@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (4 days ago)
-- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes operator for Apache HBase. Deploy and run HBase masters and region servers with the Stackable Data Platform (SDP). (4 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (4 days ago)
-- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS. Deploy and run HDFS NameNodes, DataNodes and JournalNodes with the Stackable Data Platform (SDP). (4 days ago)
-- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Kubernetes operator for Apache Kafka. Deploy and run Kafka brokers with the Stackable Data Platform (SDP). (4 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (5 days ago)
+- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes operator for Apache HBase. Deploy and run HBase masters and region servers with the Stackable Data Platform (SDP). (5 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (5 days ago)
+- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS. Deploy and run HDFS NameNodes, DataNodes and JournalNodes with the Stackable Data Platform (SDP). (5 days ago)
+- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Kubernetes operator for Apache Kafka. Deploy and run Kafka brokers with the Stackable Data Platform (SDP). (5 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [test: Bump ZooKeeper to 3.9.6 in integration test](https://github.com/stackabletech/druid-operator/pull/877) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (4 days ago)
-- [test: Bump ZooKeeper to 3.9.6 in integration test](https://github.com/stackabletech/kafka-operator/pull/1023) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (4 days ago)
-- [test: Bump ZooKeeper to 3.9.6 in integration test](https://github.com/stackabletech/hbase-operator/pull/810) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (4 days ago)
-- [test: Bump ZooKeeper to 3.9.6 in integration test](https://github.com/stackabletech/nifi-operator/pull/995) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (4 days ago)
-- [test: Bump ZooKeeper to 3.9.6 in integration test](https://github.com/stackabletech/trino-operator/pull/946) on [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) (4 days ago)
+- [test: Bump ZooKeeper to 3.9.6 in integration test](https://github.com/stackabletech/druid-operator/pull/877) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (5 days ago)
+- [test: Bump ZooKeeper to 3.9.6 in integration test](https://github.com/stackabletech/kafka-operator/pull/1023) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (5 days ago)
+- [test: Bump ZooKeeper to 3.9.6 in integration test](https://github.com/stackabletech/hbase-operator/pull/810) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (5 days ago)
+- [test: Bump ZooKeeper to 3.9.6 in integration test](https://github.com/stackabletech/nifi-operator/pull/995) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (5 days ago)
+- [test: Bump ZooKeeper to 3.9.6 in integration test](https://github.com/stackabletech/trino-operator/pull/946) on [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) (5 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
