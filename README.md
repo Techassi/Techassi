@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (5 days ago)
-- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes operator for Apache HBase. Deploy and run HBase masters and region servers with the Stackable Data Platform (SDP). (5 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (5 days ago)
-- [stackabletech/hdfs-operator](https://github.com/stackabletech/hdfs-operator) - Kubernetes operator for Apache Hadoop HDFS. Deploy and run HDFS NameNodes, DataNodes and JournalNodes with the Stackable Data Platform (SDP). (5 days ago)
-- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Kubernetes operator for Apache Kafka. Deploy and run Kafka brokers with the Stackable Data Platform (SDP). (5 days ago)
+- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - Kubernetes operator for Apache ZooKeeper. Deploy and run ZooKeeper ensembles with the Stackable Data Platform (SDP). (1 day ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes operator for Apache HBase. Deploy and run HBase masters and region servers with the Stackable Data Platform (SDP). (6 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [test: Bump ZooKeeper to 3.9.6 in integration test](https://github.com/stackabletech/druid-operator/pull/877) on [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) (5 days ago)
-- [test: Bump ZooKeeper to 3.9.6 in integration test](https://github.com/stackabletech/kafka-operator/pull/1023) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (5 days ago)
-- [test: Bump ZooKeeper to 3.9.6 in integration test](https://github.com/stackabletech/hbase-operator/pull/810) on [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) (5 days ago)
-- [test: Bump ZooKeeper to 3.9.6 in integration test](https://github.com/stackabletech/nifi-operator/pull/995) on [stackabletech/nifi-operator](https://github.com/stackabletech/nifi-operator) (5 days ago)
-- [test: Bump ZooKeeper to 3.9.6 in integration test](https://github.com/stackabletech/trino-operator/pull/946) on [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) (5 days ago)
+- [test: Bump ZooKeeper to 3.9.6 in integration test](https://github.com/stackabletech/spark-k8s-operator/pull/777) on [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) (1 day ago)
+- [test: Bump ZooKeeper to 3.9.6 in integration test](https://github.com/stackabletech/hive-operator/pull/769) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (1 day ago)
+- [docs(getting_started): Bump ZooKeeper to 3.9.6](https://github.com/stackabletech/documentation/pull/937) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [chore: Bump ZooKeeper to 3.9.6 in demos and stacks](https://github.com/stackabletech/demos/pull/452) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
+- [ci: Include commit SHA and fail-fast in run-name](https://github.com/stackabletech/operator-templating/pull/652) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
