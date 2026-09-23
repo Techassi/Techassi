@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - Kubernetes operator for Apache ZooKeeper. Deploy and run ZooKeeper ensembles with the Stackable Data Platform (SDP). (1 day ago)
+- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) - Kubernetes operator for Trino. Deploy and run Trino coordinators and workers with the Stackable Data Platform (SDP). (1 day ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (1 day ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes operator for Apache HBase. Deploy and run HBase masters and region servers with the Stackable Data Platform (SDP). (6 days ago)
+- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes operator for Apache HBase. Deploy and run HBase masters and region servers with the Stackable Data Platform (SDP). (1 day ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
+- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) - Kubernetes operator for Apache Hive. Deploy and run the Hive Metastore with the Stackable Data Platform (SDP). (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [test: Bump ZooKeeper to 3.9.6 in integration test](https://github.com/stackabletech/spark-k8s-operator/pull/777) on [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) (1 day ago)
-- [test: Bump ZooKeeper to 3.9.6 in integration test](https://github.com/stackabletech/hive-operator/pull/769) on [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) (1 day ago)
-- [docs(getting_started): Bump ZooKeeper to 3.9.6](https://github.com/stackabletech/documentation/pull/937) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
-- [chore: Bump ZooKeeper to 3.9.6 in demos and stacks](https://github.com/stackabletech/demos/pull/452) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
-- [ci: Include commit SHA and fail-fast in run-name](https://github.com/stackabletech/operator-templating/pull/652) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [docs: Fix section title level in KRaft usage guide](https://github.com/stackabletech/kafka-operator/pull/1026) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (1 day ago)
+- [ci: Use self-repository syntax in workflows](https://github.com/stackabletech/demos/pull/453) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
+- [ci: Use self-repository syntax in workflows [skip ci]](https://github.com/stackabletech/docker-images/pull/1668) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [ci: Use self-repository syntax in workflows](https://github.com/stackabletech/actions/pull/150) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [client: Add unit tests for NoProxy to increase coverage](https://github.com/kube-rs/kube/pull/2083) on [kube-rs/kube](https://github.com/kube-rs/kube) (1 day ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
