@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) - Kubernetes operator for Trino. Deploy and run Trino coordinators and workers with the Stackable Data Platform (SDP). (1 day ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (1 day ago)
-- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes operator for Apache HBase. Deploy and run HBase masters and region servers with the Stackable Data Platform (SDP). (1 day ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (1 day ago)
-- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) - Kubernetes operator for Apache Hive. Deploy and run the Hive Metastore with the Stackable Data Platform (SDP). (1 day ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
+- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) - Kubernetes operator for Trino. Deploy and run Trino coordinators and workers with the Stackable Data Platform (SDP). (2 days ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (2 days ago)
+- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes operator for Apache HBase. Deploy and run HBase masters and region servers with the Stackable Data Platform (SDP). (2 days ago)
+- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (2 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [docs: Fix section title level in KRaft usage guide](https://github.com/stackabletech/kafka-operator/pull/1026) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (1 day ago)
-- [ci: Use self-repository syntax in workflows](https://github.com/stackabletech/demos/pull/453) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
-- [ci: Use self-repository syntax in workflows [skip ci]](https://github.com/stackabletech/docker-images/pull/1668) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [ci: Use self-repository syntax in workflows](https://github.com/stackabletech/actions/pull/150) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
-- [client: Add unit tests for NoProxy to increase coverage](https://github.com/kube-rs/kube/pull/2083) on [kube-rs/kube](https://github.com/kube-rs/kube) (1 day ago)
+- [docs: Fix section title level in KRaft usage guide](https://github.com/stackabletech/kafka-operator/pull/1026) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (2 days ago)
+- [ci: Use self-repository syntax in workflows](https://github.com/stackabletech/demos/pull/453) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
+- [ci: Use self-repository syntax in workflows [skip ci]](https://github.com/stackabletech/docker-images/pull/1668) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [ci: Use self-repository syntax in workflows](https://github.com/stackabletech/actions/pull/150) on [stackabletech/actions](https://github.com/stackabletech/actions) (2 days ago)
+- [client: Add unit tests for NoProxy to increase coverage](https://github.com/kube-rs/kube/pull/2083) on [kube-rs/kube](https://github.com/kube-rs/kube) (2 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
