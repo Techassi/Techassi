@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) - Home of stackablectl and related crates (1 day ago)
-- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Kubernetes operator for Apache Spark. Run Spark applications on Kubernetes with the Stackable Data Platform (SDP). (1 day ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (2 days ago)
-- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Kubernetes operator for Apache Kafka. Deploy and run Kafka brokers with the Stackable Data Platform (SDP). (3 days ago)
-- [stackabletech/actions](https://github.com/stackabletech/actions) - A collection of GitHub Actions used across Stackable repositories (3 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) - Home of stackablectl and related crates (2 days ago)
+- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Kubernetes operator for Apache Spark. Run Spark applications on Kubernetes with the Stackable Data Platform (SDP). (2 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (3 days ago)
+- [stackabletech/druid-operator](https://github.com/stackabletech/druid-operator) - Kubernetes operator for Apache Druid. Deploy and run Druid clusters with the Stackable Data Platform (SDP). (4 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [e2e,examples: Properly inherit workspace lints](https://github.com/kube-rs/kube/pull/2088) on [kube-rs/kube](https://github.com/kube-rs/kube) (1 day ago)
-- [chore(stackablectl): Release 1.5.2](https://github.com/stackabletech/stackablectl/pull/458) on [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) (1 day ago)
-- [fix: Ignore artifacthub.io tags in OCI index](https://github.com/stackabletech/stackablectl/pull/457) on [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) (1 day ago)
-- [docs: Fix section title level in KRaft usage guide](https://github.com/stackabletech/kafka-operator/pull/1026) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (3 days ago)
-- [ci: Use self-repository syntax in workflows](https://github.com/stackabletech/demos/pull/453) on [stackabletech/demos](https://github.com/stackabletech/demos) (3 days ago)
+- [chore(operator): Fix cargo doc warning](https://github.com/stackabletech/operator-rs/pull/1282) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [e2e,examples: Properly inherit workspace lints](https://github.com/kube-rs/kube/pull/2088) on [kube-rs/kube](https://github.com/kube-rs/kube) (2 days ago)
+- [chore(stackablectl): Release 1.5.2](https://github.com/stackabletech/stackablectl/pull/458) on [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) (2 days ago)
+- [fix: Ignore artifacthub.io tags in OCI index](https://github.com/stackabletech/stackablectl/pull/457) on [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) (2 days ago)
+- [docs: Fix section title level in KRaft usage guide](https://github.com/stackabletech/kafka-operator/pull/1026) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (4 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
