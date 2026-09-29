@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (2 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (3 days ago)
-- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Kubernetes operator for Apache Spark. Run Spark applications on Kubernetes with the Stackable Data Platform (SDP). (4 days ago)
-- [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) - Home of stackablectl and related crates (4 days ago)
-- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (5 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (3 days ago)
+- [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) - Home of stackablectl and related crates (5 days ago)
+- [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Kubernetes operator for Apache Spark. Run Spark applications on Kubernetes with the Stackable Data Platform (SDP). (5 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore(operator): Fix cargo doc warning](https://github.com/stackabletech/operator-rs/pull/1282) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
-- [e2e,examples: Properly inherit workspace lints](https://github.com/kube-rs/kube/pull/2088) on [kube-rs/kube](https://github.com/kube-rs/kube) (4 days ago)
-- [chore(stackablectl): Release 1.5.2](https://github.com/stackabletech/stackablectl/pull/458) on [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) (4 days ago)
-- [fix: Ignore artifacthub.io tags in OCI index](https://github.com/stackabletech/stackablectl/pull/457) on [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) (4 days ago)
-- [docs: Fix section title level in KRaft usage guide](https://github.com/stackabletech/kafka-operator/pull/1026) on [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) (6 days ago)
+- [chore: Add groups to prek configs](https://github.com/stackabletech/operator-rs/pull/1283) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [ci(template): Use correct output for integration test notification](https://github.com/stackabletech/operator-templating/pull/653) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
+- [chore(operator): Fix cargo doc warning](https://github.com/stackabletech/operator-rs/pull/1282) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
+- [e2e,examples: Properly inherit workspace lints](https://github.com/kube-rs/kube/pull/2088) on [kube-rs/kube](https://github.com/kube-rs/kube) (5 days ago)
+- [chore(stackablectl): Release 1.5.2](https://github.com/stackabletech/stackablectl/pull/458) on [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) (5 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
