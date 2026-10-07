@@ -23,7 +23,7 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (4 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (5 days ago)
 - [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 week ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (1 week ago)
 - [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Kubernetes operator for Apache Spark. Run Spark applications on Kubernetes with the Stackable Data Platform (SDP). (1 week ago)
@@ -32,8 +32,8 @@ things I mentioned above and a few other bits and pieces.
 #### 🧪 Latest PRs
 
 
-- [docs(versioned): Add comment about map hint](https://github.com/stackabletech/operator-rs/pull/1288) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
-- [feat(operator)!: Introduce v1alpha2 Role and RoleGroup](https://github.com/stackabletech/operator-rs/pull/1287) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
+- [docs(versioned): Add comment about map hint](https://github.com/stackabletech/operator-rs/pull/1288) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
+- [feat(operator)!: Introduce v1alpha2 Role and RoleGroup](https://github.com/stackabletech/operator-rs/pull/1287) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [chore(versioned): Add changelog entries for #1284 and #1285](https://github.com/stackabletech/operator-rs/pull/1286) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [feat(versioned): Add &#34;map&#34; hint](https://github.com/stackabletech/operator-rs/pull/1285) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [feat(versioned): Emit generics in plain From impl](https://github.com/stackabletech/operator-rs/pull/1284) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
