@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 week ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
 - [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 weeks ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (2 weeks ago)
 - [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) - Kubernetes operator for Apache Spark. Run Spark applications on Kubernetes with the Stackable Data Platform (SDP). (2 weeks ago)
-- [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) - Home of stackablectl and related crates (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
+- [chore: Replace serde_yaml with yaml_serde](https://github.com/stackabletech/operator-rs/pull/1298) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [docs(boil): Mention per-version containerfile](https://github.com/stackabletech/docker-images/pull/1691) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
 - [docs(versioned): Add comment about map hint](https://github.com/stackabletech/operator-rs/pull/1288) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 - [feat(operator)!: Introduce v1alpha2 Role and RoleGroup](https://github.com/stackabletech/operator-rs/pull/1287) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
-- [chore(versioned): Add changelog entries for #1284 and #1285](https://github.com/stackabletech/operator-rs/pull/1286) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
-- [feat(versioned): Add &#34;map&#34; hint](https://github.com/stackabletech/operator-rs/pull/1285) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
-- [feat(versioned): Emit generics in plain From impl](https://github.com/stackabletech/operator-rs/pull/1284) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
+- [chore(versioned): Add changelog entries for #1284 and #1285](https://github.com/stackabletech/operator-rs/pull/1286) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 weeks ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
