@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (3 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (3 days ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (5 days ago)
-- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (5 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (3 weeks ago)
+- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Kubernetes operator for common resources shared across the Stackable Data Platform (SDP). (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (4 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (4 days ago)
+- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (6 days ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (6 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Fix typo in issue template](https://github.com/stackabletech/issues/pull/901) on [stackabletech/issues](https://github.com/stackabletech/issues) (5 days ago)
-- [feat: Add issue template for new product feature list](https://github.com/stackabletech/issues/pull/899) on [stackabletech/issues](https://github.com/stackabletech/issues) (5 days ago)
-- [fix(opensearch-dashboards): Use Vector 0.58.0](https://github.com/stackabletech/docker-images/pull/1698) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
-- [chore!: Replace serde_yaml with yaml_serde](https://github.com/stackabletech/operator-rs/pull/1298) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
-- [docs(boil): Mention per-version containerfile](https://github.com/stackabletech/docker-images/pull/1691) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
+- [feat(versioned): Re-add support for generics in tracking impls](https://github.com/stackabletech/operator-rs/pull/1304) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [feat: Maintain Scaler CRD](https://github.com/stackabletech/commons-operator/pull/467) on [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) (1 day ago)
+- [chore: Fix typo in issue template](https://github.com/stackabletech/issues/pull/901) on [stackabletech/issues](https://github.com/stackabletech/issues) (6 days ago)
+- [feat: Add issue template for new product feature list](https://github.com/stackabletech/issues/pull/899) on [stackabletech/issues](https://github.com/stackabletech/issues) (6 days ago)
+- [fix(opensearch-dashboards): Use Vector 0.58.0](https://github.com/stackabletech/docker-images/pull/1698) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
