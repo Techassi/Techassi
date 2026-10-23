@@ -24,19 +24,19 @@ things I mentioned above and a few other bits and pieces.
 
 
 - [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
-- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Kubernetes operator for common resources shared across the Stackable Data Platform (SDP). (3 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (6 days ago)
+- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Kubernetes operator for common resources shared across the Stackable Data Platform (SDP). (4 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 week ago)
 - [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (1 week ago)
 - [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix(versioned)!: Replace yaml_serde with serde_json to track changed values](https://github.com/stackabletech/operator-rs/pull/1307) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [fix(versioned): Handle tracked per-version changes across containers](https://github.com/stackabletech/operator-rs/pull/1306) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
-- [feat(versioned): Re-add support for generics in tracking impls](https://github.com/stackabletech/operator-rs/pull/1304) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (3 days ago)
-- [feat: Maintain Scaler CRD](https://github.com/stackabletech/commons-operator/pull/467) on [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) (3 days ago)
-- [chore: Fix typo in issue template](https://github.com/stackabletech/issues/pull/901) on [stackabletech/issues](https://github.com/stackabletech/issues) (1 week ago)
+- [chore(versioned)!: Rename &#34;since&#34; to &#34;in&#34;](https://github.com/stackabletech/operator-rs/pull/1311) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [chore(versioned)!: Remove unused yaml_serde crate override](https://github.com/stackabletech/operator-rs/pull/1309) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [fix(versioned)!: Replace yaml_serde with serde_json to track changed values](https://github.com/stackabletech/operator-rs/pull/1307) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [fix(versioned): Handle tracked per-version changes across containers](https://github.com/stackabletech/operator-rs/pull/1306) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (2 days ago)
+- [feat(versioned): Re-add support for generics in tracking impls](https://github.com/stackabletech/operator-rs/pull/1304) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
