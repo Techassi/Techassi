@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (4 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (2 days ago)
 - [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Kubernetes operator for common resources shared across the Stackable Data Platform (SDP). (1 week ago)
-- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (1 week ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 week ago)
+- [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (2 weeks ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (2 weeks ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix(krb5): Use correct image index manifest SHA hash](https://github.com/stackabletech/docker-images/pull/1724) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [chore(krb5): Bump base image](https://github.com/stackabletech/docker-images/pull/1721) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [chore(testing-tools): Bump various tools and dependencies](https://github.com/stackabletech/docker-images/pull/1720) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [ci: Update the grpcurl source registry in the mirror workflow](https://github.com/stackabletech/docker-images/pull/1719) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [chore(tools): Bump kubectl to 1.37.1, yq to 4.54.1, jq to 1.8.2](https://github.com/stackabletech/docker-images/pull/1718) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [fix(krb5): Use correct image index manifest SHA hash](https://github.com/stackabletech/docker-images/pull/1724) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [chore(krb5): Bump base image](https://github.com/stackabletech/docker-images/pull/1721) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [chore(testing-tools): Bump various tools and dependencies](https://github.com/stackabletech/docker-images/pull/1720) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [ci: Update the grpcurl source registry in the mirror workflow](https://github.com/stackabletech/docker-images/pull/1719) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
+- [chore(tools): Bump kubectl to 1.37.1, yq to 4.54.1, jq to 1.8.2](https://github.com/stackabletech/docker-images/pull/1718) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
