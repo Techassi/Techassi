@@ -23,8 +23,8 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (3 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (5 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (4 days ago)
 - [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Kubernetes operator for common resources shared across the Stackable Data Platform (SDP). (2 weeks ago)
 - [stackabletech/issues](https://github.com/stackabletech/issues) - This repository is only for issues that concern multiple repositories or don&#39;t fit into any specific repository (2 weeks ago)
 - [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (2 weeks ago)
@@ -32,11 +32,11 @@ things I mentioned above and a few other bits and pieces.
 #### 🧪 Latest PRs
 
 
-- [feat(operator)!: Add UrlExt::join_safe function](https://github.com/stackabletech/operator-rs/pull/1319) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
-- [chore(stackable-base,devel): Bump base image and Rust toolchain](https://github.com/stackabletech/docker-images/pull/1728) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (4 days ago)
-- [fix(krb5): Use correct image index manifest SHA hash](https://github.com/stackabletech/docker-images/pull/1724) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
-- [chore(krb5): Bump base image](https://github.com/stackabletech/docker-images/pull/1721) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
-- [chore(testing-tools): Bump various tools and dependencies](https://github.com/stackabletech/docker-images/pull/1720) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 week ago)
+- [chore: Release workspace members](https://github.com/stackabletech/operator-rs/pull/1323) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [chore: Bump Rust version and workflow actions](https://github.com/stackabletech/operator-rs/pull/1322) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 day ago)
+- [revert: feat: Maintain Scaler CRD](https://github.com/stackabletech/commons-operator/pull/470) on [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) (1 day ago)
+- [feat(operator)!: Add UrlExt::join_safe function](https://github.com/stackabletech/operator-rs/pull/1319) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (5 days ago)
+- [chore(stackable-base,devel): Bump base image and Rust toolchain](https://github.com/stackabletech/docker-images/pull/1728) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (5 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
