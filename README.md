@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - Kubernetes operator for the Open Policy Agent (OPA). Deploy and run OPA for authorization with the Stackable Data Platform (SDP). (2 days ago)
-- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) - Kubernetes operator for Apache Hive. Deploy and run the Hive Metastore with the Stackable Data Platform (SDP). (2 days ago)
-- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) - Kubernetes operator for Trino. Deploy and run Trino coordinators and workers with the Stackable Data Platform (SDP). (2 days ago)
-- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Kubernetes operator for Apache Airflow. Deploy and run Airflow with the Stackable Data Platform (SDP). (2 days ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (3 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
+- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - Kubernetes operator for the Open Policy Agent (OPA). Deploy and run OPA for authorization with the Stackable Data Platform (SDP). (3 days ago)
+- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Kubernetes operator for Apache Airflow. Deploy and run Airflow with the Stackable Data Platform (SDP). (3 days ago)
+- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) - Kubernetes operator for Apache Hive. Deploy and run the Hive Metastore with the Stackable Data Platform (SDP). (3 days ago)
+- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) - Kubernetes operator for Trino. Deploy and run Trino coordinators and workers with the Stackable Data Platform (SDP). (3 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Pre-release updates for 26.11.0](https://github.com/stackabletech/operator-templating/pull/663) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (3 days ago)
-- [chore(template): Add templated clippy.toml, disallow Url::join](https://github.com/stackabletech/operator-templating/pull/662) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (3 days ago)
-- [chore(stackable-base): Bump config-utils to 0.5.1, containerdebug to 0.5.0](https://github.com/stackabletech/docker-images/pull/1732) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (3 days ago)
-- [chore(issue_template): Add cockpit checkboxes to release issue](https://github.com/stackabletech/issues/pull/907) on [stackabletech/issues](https://github.com/stackabletech/issues) (3 days ago)
-- [chore: Release workspace members](https://github.com/stackabletech/operator-rs/pull/1323) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (4 days ago)
+- [fix(superset): Pin d3-selection to 3.0.0](https://github.com/stackabletech/docker-images/pull/1736) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [fix(superset): Pin d3-selection to 3.0.0](https://github.com/stackabletech/docker-images/pull/1735) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [chore: Bump Rust toolchains](https://github.com/stackabletech/docker-images/pull/1734) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
+- [chore: Pre-release updates for 26.11.0](https://github.com/stackabletech/operator-templating/pull/663) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (4 days ago)
+- [chore(template): Add templated clippy.toml, disallow Url::join](https://github.com/stackabletech/operator-templating/pull/662) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (4 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
