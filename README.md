@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Kubernetes operator for provisioning TLS certificates, Kerberos keytabs and other secrets to pods. Part of the Stackable Data Platform (SDP). (1 day ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (4 days ago)
-- [stackabletech/airflow-operator](https://github.com/stackabletech/airflow-operator) - Kubernetes operator for Apache Airflow. Deploy and run Airflow with the Stackable Data Platform (SDP). (6 days ago)
-- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - Kubernetes operator for the Open Policy Agent (OPA). Deploy and run OPA for authorization with the Stackable Data Platform (SDP). (6 days ago)
-- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) - Kubernetes operator for Trino. Deploy and run Trino coordinators and workers with the Stackable Data Platform (SDP). (6 days ago)
+- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 day ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Kubernetes operator for provisioning TLS certificates, Kerberos keytabs and other secrets to pods. Part of the Stackable Data Platform (SDP). (2 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (5 days ago)
+- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) - Kubernetes operator for Apache Hive. Deploy and run the Hive Metastore with the Stackable Data Platform (SDP). (1 week ago)
+- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - Kubernetes operator for the Open Policy Agent (OPA). Deploy and run OPA for authorization with the Stackable Data Platform (SDP). (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [fix(superset): Pin d3-selection to 3.0.0](https://github.com/stackabletech/docker-images/pull/1736) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (4 days ago)
-- [fix(superset): Pin d3-selection to 3.0.0](https://github.com/stackabletech/docker-images/pull/1735) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (4 days ago)
-- [chore: Bump Rust toolchains](https://github.com/stackabletech/docker-images/pull/1734) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (4 days ago)
-- [chore: Pre-release updates for 26.11.0](https://github.com/stackabletech/operator-templating/pull/663) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 week ago)
-- [chore(template): Add templated clippy.toml, disallow Url::join](https://github.com/stackabletech/operator-templating/pull/662) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 week ago)
+- [docs(signal-processing): Add namespace to commands and outputs](https://github.com/stackabletech/demos/pull/477) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
+- [fix(logging): Add --dangerously-allow-env-var-interpolation arg](https://github.com/stackabletech/demos/pull/476) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
+- [fix(superset): Pin d3-selection to 3.0.0](https://github.com/stackabletech/docker-images/pull/1736) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (5 days ago)
+- [fix(superset): Pin d3-selection to 3.0.0](https://github.com/stackabletech/docker-images/pull/1735) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (5 days ago)
+- [chore: Bump Rust toolchains](https://github.com/stackabletech/docker-images/pull/1734) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (5 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
