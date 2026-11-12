@@ -24,19 +24,19 @@ things I mentioned above and a few other bits and pieces.
 
 
 - [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 day ago)
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Kubernetes operator for provisioning TLS certificates, Kerberos keytabs and other secrets to pods. Part of the Stackable Data Platform (SDP). (2 days ago)
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (5 days ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Kubernetes operator for provisioning TLS certificates, Kerberos keytabs and other secrets to pods. Part of the Stackable Data Platform (SDP). (3 days ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (6 days ago)
 - [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) - Kubernetes operator for Apache Hive. Deploy and run the Hive Metastore with the Stackable Data Platform (SDP). (1 week ago)
 - [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - Kubernetes operator for the Open Policy Agent (OPA). Deploy and run OPA for authorization with the Stackable Data Platform (SDP). (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [docs(signal-processing): Add namespace to commands and outputs](https://github.com/stackabletech/demos/pull/477) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
-- [fix(logging): Add --dangerously-allow-env-var-interpolation arg](https://github.com/stackabletech/demos/pull/476) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
-- [fix(superset): Pin d3-selection to 3.0.0](https://github.com/stackabletech/docker-images/pull/1736) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (5 days ago)
-- [fix(superset): Pin d3-selection to 3.0.0](https://github.com/stackabletech/docker-images/pull/1735) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (5 days ago)
-- [chore: Bump Rust toolchains](https://github.com/stackabletech/docker-images/pull/1734) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (5 days ago)
+- [docs(end-to-end-security): Add namespace to commands and outputs](https://github.com/stackabletech/demos/pull/481) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
+- [docs(signal-processing): Add namespace to commands and outputs](https://github.com/stackabletech/demos/pull/477) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
+- [fix(logging): Add --dangerously-allow-env-var-interpolation arg](https://github.com/stackabletech/demos/pull/476) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
+- [fix(superset): Pin d3-selection to 3.0.0](https://github.com/stackabletech/docker-images/pull/1736) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
+- [fix(superset): Pin d3-selection to 3.0.0](https://github.com/stackabletech/docker-images/pull/1735) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (6 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
