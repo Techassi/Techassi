@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Kubernetes operator for exposing pods through listeners, load balancers and NodePorts. Part of the Stackable Data Platform (SDP). (1 day ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (1 day ago)
-- [stackabletech/stackable-utils](https://github.com/stackabletech/stackable-utils) -  (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Kubernetes operator for exposing pods through listeners, load balancers and NodePorts. Part of the Stackable Data Platform (SDP). (2 days ago)
+- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (2 days ago)
+- [stackabletech/stackable-utils](https://github.com/stackabletech/stackable-utils) -  (3 days ago)
 - [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 week ago)
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Kubernetes operator for provisioning TLS certificates, Kerberos keytabs and other secrets to pods. Part of the Stackable Data Platform (SDP). (1 week ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore(template): Accept RUSTSEC-2026-0543 and RUSTSEC-2026-0542](https://github.com/stackabletech/operator-templating/pull/664) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (1 day ago)
-- [fix: Write files without following symlinks](https://github.com/stackabletech/listener-operator/pull/450) on [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) (2 days ago)
-- [fix: Correct pre-26.11.0 findings](https://github.com/stackabletech/stackable-utils/pull/135) on [stackabletech/stackable-utils](https://github.com/stackabletech/stackable-utils) (5 days ago)
-- [feat(shared): Add time::DurationWithNever](https://github.com/stackabletech/operator-rs/pull/1328) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (6 days ago)
-- [docs(end-to-end-security): Add namespace to commands and outputs](https://github.com/stackabletech/demos/pull/481) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 week ago)
+- [tracking: Release Notes for SDP 26.11.0](https://github.com/stackabletech/documentation/pull/987) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [chore(template): Accept RUSTSEC-2026-0543 and RUSTSEC-2026-0542](https://github.com/stackabletech/operator-templating/pull/664) on [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) (2 days ago)
+- [fix: Write files without following symlinks](https://github.com/stackabletech/listener-operator/pull/450) on [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) (3 days ago)
+- [fix: Correct pre-26.11.0 findings](https://github.com/stackabletech/stackable-utils/pull/135) on [stackabletech/stackable-utils](https://github.com/stackabletech/stackable-utils) (6 days ago)
+- [feat(shared): Add time::DurationWithNever](https://github.com/stackabletech/operator-rs/pull/1328) on [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) (1 week ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
