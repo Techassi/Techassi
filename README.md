@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
-- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Kubernetes operator for exposing pods through listeners, load balancers and NodePorts. Part of the Stackable Data Platform (SDP). (3 days ago)
-- [stackabletech/operator-templating](https://github.com/stackabletech/operator-templating) - Templates for ci and packaging files that are common across all operators (3 days ago)
-- [stackabletech/stackable-utils](https://github.com/stackabletech/stackable-utils) -  (4 days ago)
-- [stackabletech/demos](https://github.com/stackabletech/demos) - This repo contains SDP stacks and demos (1 week ago)
+- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Kubernetes operator for exposing pods through listeners, load balancers and NodePorts. Part of the Stackable Data Platform (SDP). (1 day ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Kubernetes operator for provisioning TLS certificates, Kerberos keytabs and other secrets to pods. Part of the Stackable Data Platform (SDP). (1 day ago)
+- [stackabletech/release](https://github.com/stackabletech/release) - This repository contains the details about how releases of the Stackable platform are put together from individual components. (1 day ago)
+- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Kubernetes operator for Apache Kafka. Deploy and run Kafka brokers with the Stackable Data Platform (SDP). (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Release 26.11.0-rc1](https://github.com/stackabletech/cockpit/pull/484) on [stackabletech/cockpit](https://github.com/stackabletech/cockpit) (1 day ago)
-- [chore: Release 26.11.0-rc1](https://github.com/stackabletech/zookeeper-operator/pull/1112) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (1 day ago)
-- [chore: Release 26.11.0-rc1](https://github.com/stackabletech/trino-operator/pull/978) on [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) (1 day ago)
-- [chore: Release 26.11.0-rc1](https://github.com/stackabletech/superset-operator/pull/815) on [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) (1 day ago)
-- [chore: Release 26.11.0-rc1](https://github.com/stackabletech/spark-k8s-operator/pull/811) on [stackabletech/spark-k8s-operator](https://github.com/stackabletech/spark-k8s-operator) (1 day ago)
+- [chore: Release 1.5.3](https://github.com/stackabletech/stackablectl/pull/479) on [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) (1 day ago)
+- [fix: Use 26.11.0 for OpenSearch](https://github.com/stackabletech/demos/pull/492) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
+- [chore: Add 26.11 release](https://github.com/stackabletech/release/pull/43) on [stackabletech/release](https://github.com/stackabletech/release) (1 day ago)
+- [chore: Update changelog from release 26.11.0](https://github.com/stackabletech/cockpit/pull/493) on [stackabletech/cockpit](https://github.com/stackabletech/cockpit) (1 day ago)
+- [chore: Update changelog from release 26.11.0](https://github.com/stackabletech/zookeeper-operator/pull/1114) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (1 day ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
