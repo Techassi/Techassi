@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Kubernetes operator for exposing pods through listeners, load balancers and NodePorts. Part of the Stackable Data Platform (SDP). (1 day ago)
-- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (1 day ago)
-- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Kubernetes operator for provisioning TLS certificates, Kerberos keytabs and other secrets to pods. Part of the Stackable Data Platform (SDP). (1 day ago)
-- [stackabletech/release](https://github.com/stackabletech/release) - This repository contains the details about how releases of the Stackable platform are put together from individual components. (1 day ago)
-- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Kubernetes operator for Apache Kafka. Deploy and run Kafka brokers with the Stackable Data Platform (SDP). (1 day ago)
+- [stackabletech/listener-operator](https://github.com/stackabletech/listener-operator) - Kubernetes operator for exposing pods through listeners, load balancers and NodePorts. Part of the Stackable Data Platform (SDP). (2 days ago)
+- [stackabletech/operator-rs](https://github.com/stackabletech/operator-rs) - A collection of crates to make implementing Kubernetes operators easier (2 days ago)
+- [stackabletech/secret-operator](https://github.com/stackabletech/secret-operator) - Kubernetes operator for provisioning TLS certificates, Kerberos keytabs and other secrets to pods. Part of the Stackable Data Platform (SDP). (2 days ago)
+- [stackabletech/release](https://github.com/stackabletech/release) - This repository contains the details about how releases of the Stackable platform are put together from individual components. (2 days ago)
+- [stackabletech/kafka-operator](https://github.com/stackabletech/kafka-operator) - Kubernetes operator for Apache Kafka. Deploy and run Kafka brokers with the Stackable Data Platform (SDP). (2 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Release 1.5.3](https://github.com/stackabletech/stackablectl/pull/479) on [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) (1 day ago)
-- [fix: Use 26.11.0 for OpenSearch](https://github.com/stackabletech/demos/pull/492) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
-- [chore: Add 26.11 release](https://github.com/stackabletech/release/pull/43) on [stackabletech/release](https://github.com/stackabletech/release) (1 day ago)
-- [chore: Update changelog from release 26.11.0](https://github.com/stackabletech/cockpit/pull/493) on [stackabletech/cockpit](https://github.com/stackabletech/cockpit) (1 day ago)
-- [chore: Update changelog from release 26.11.0](https://github.com/stackabletech/zookeeper-operator/pull/1114) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (1 day ago)
+- [chore: Release 1.5.3](https://github.com/stackabletech/stackablectl/pull/479) on [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) (2 days ago)
+- [fix: Use 26.11.0 for OpenSearch](https://github.com/stackabletech/demos/pull/492) on [stackabletech/demos](https://github.com/stackabletech/demos) (2 days ago)
+- [chore: Add 26.11 release](https://github.com/stackabletech/release/pull/43) on [stackabletech/release](https://github.com/stackabletech/release) (2 days ago)
+- [chore: Update changelog from release 26.11.0](https://github.com/stackabletech/cockpit/pull/493) on [stackabletech/cockpit](https://github.com/stackabletech/cockpit) (2 days ago)
+- [chore: Update changelog from release 26.11.0](https://github.com/stackabletech/zookeeper-operator/pull/1114) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (2 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
