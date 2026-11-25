@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) - Kubernetes operator for Trino. Deploy and run Trino coordinators and workers with the Stackable Data Platform (SDP). (today)
-- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - Kubernetes operator for Apache ZooKeeper. Deploy and run ZooKeeper ensembles with the Stackable Data Platform (SDP). (today)
-- [stackabletech/hbase-operator](https://github.com/stackabletech/hbase-operator) - Kubernetes operator for Apache HBase. Deploy and run HBase masters and region servers with the Stackable Data Platform (SDP). (today)
-- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - Kubernetes operator for the Open Policy Agent (OPA). Deploy and run OPA for authorization with the Stackable Data Platform (SDP). (today)
-- [stackabletech/cockpit](https://github.com/stackabletech/cockpit) - Stackable UI (Cockpit v2) (today)
+- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) - Kubernetes operator for Apache Hive. Deploy and run the Hive Metastore with the Stackable Data Platform (SDP). (1 day ago)
+- [stackabletech/cockpit](https://github.com/stackabletech/cockpit) - Stackable UI (Cockpit v2) (1 day ago)
+- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Kubernetes operator for common resources shared across the Stackable Data Platform (SDP). (1 day ago)
+- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - Kubernetes operator for Apache ZooKeeper. Deploy and run ZooKeeper ensembles with the Stackable Data Platform (SDP). (1 day ago)
+- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Kubernetes operator for Apache Superset. Deploy and run Superset with the Stackable Data Platform (SDP). (1 day ago)
 
 #### 🧪 Latest PRs
 
 
-- [chore: Release 1.5.3](https://github.com/stackabletech/stackablectl/pull/479) on [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) (4 days ago)
-- [fix: Use 26.11.0 for OpenSearch](https://github.com/stackabletech/demos/pull/492) on [stackabletech/demos](https://github.com/stackabletech/demos) (4 days ago)
-- [chore: Add 26.11 release](https://github.com/stackabletech/release/pull/43) on [stackabletech/release](https://github.com/stackabletech/release) (4 days ago)
-- [chore: Update changelog from release 26.11.0](https://github.com/stackabletech/cockpit/pull/493) on [stackabletech/cockpit](https://github.com/stackabletech/cockpit) (4 days ago)
-- [chore: Update changelog from release 26.11.0](https://github.com/stackabletech/zookeeper-operator/pull/1114) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (4 days ago)
+- [chore: Release 1.5.3](https://github.com/stackabletech/stackablectl/pull/479) on [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) (5 days ago)
+- [fix: Use 26.11.0 for OpenSearch](https://github.com/stackabletech/demos/pull/492) on [stackabletech/demos](https://github.com/stackabletech/demos) (5 days ago)
+- [chore: Add 26.11 release](https://github.com/stackabletech/release/pull/43) on [stackabletech/release](https://github.com/stackabletech/release) (5 days ago)
+- [chore: Update changelog from release 26.11.0](https://github.com/stackabletech/cockpit/pull/493) on [stackabletech/cockpit](https://github.com/stackabletech/cockpit) (5 days ago)
+- [chore: Update changelog from release 26.11.0](https://github.com/stackabletech/zookeeper-operator/pull/1114) on [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) (5 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
