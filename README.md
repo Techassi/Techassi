@@ -23,20 +23,20 @@ things I mentioned above and a few other bits and pieces.
 #### 🔥 Check out what I'm working on
 
 
-- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (1 day ago)
-- [stackabletech/trino-operator](https://github.com/stackabletech/trino-operator) - Kubernetes operator for Trino. Deploy and run Trino coordinators and workers with the Stackable Data Platform (SDP). (3 days ago)
-- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Kubernetes operator for common resources shared across the Stackable Data Platform (SDP). (3 days ago)
-- [stackabletech/superset-operator](https://github.com/stackabletech/superset-operator) - Kubernetes operator for Apache Superset. Deploy and run Superset with the Stackable Data Platform (SDP). (3 days ago)
-- [stackabletech/zookeeper-operator](https://github.com/stackabletech/zookeeper-operator) - Kubernetes operator for Apache ZooKeeper. Deploy and run ZooKeeper ensembles with the Stackable Data Platform (SDP). (3 days ago)
+- [stackabletech/documentation](https://github.com/stackabletech/documentation) - Stackable&#39;s central documentation repository built on Antora (1 day ago)
+- [stackabletech/docker-images](https://github.com/stackabletech/docker-images) - Product images for the Stackable Data Platform (2 days ago)
+- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) - Kubernetes operator for Apache Hive. Deploy and run the Hive Metastore with the Stackable Data Platform (SDP). (4 days ago)
+- [stackabletech/opa-operator](https://github.com/stackabletech/opa-operator) - Kubernetes operator for the Open Policy Agent (OPA). Deploy and run OPA for authorization with the Stackable Data Platform (SDP). (4 days ago)
+- [stackabletech/commons-operator](https://github.com/stackabletech/commons-operator) - Kubernetes operator for common resources shared across the Stackable Data Platform (SDP). (4 days ago)
 
 #### 🧪 Latest PRs
 
 
-- [feat(boil): Auto-detect target platform](https://github.com/stackabletech/docker-images/pull/1762) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (1 day ago)
-- [chore: Release 1.5.3](https://github.com/stackabletech/stackablectl/pull/479) on [stackabletech/stackablectl](https://github.com/stackabletech/stackablectl) (1 week ago)
-- [fix: Use 26.11.0 for OpenSearch](https://github.com/stackabletech/demos/pull/492) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 week ago)
-- [chore: Add 26.11 release](https://github.com/stackabletech/release/pull/43) on [stackabletech/release](https://github.com/stackabletech/release) (1 week ago)
-- [chore: Update changelog from release 26.11.0](https://github.com/stackabletech/cockpit/pull/493) on [stackabletech/cockpit](https://github.com/stackabletech/cockpit) (1 week ago)
+- [chore(interu): Bump Rust dependencies](https://github.com/stackabletech/actions/pull/157) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [feat: Add build-rust-binary action](https://github.com/stackabletech/actions/pull/156) on [stackabletech/actions](https://github.com/stackabletech/actions) (1 day ago)
+- [chore: Add release branches to the playbooks for release 26.11](https://github.com/stackabletech/documentation/pull/998) on [stackabletech/documentation](https://github.com/stackabletech/documentation) (1 day ago)
+- [fix(docs): Adjust version from nightly to 26.11 in antora.yaml](https://github.com/stackabletech/demos/pull/498) on [stackabletech/demos](https://github.com/stackabletech/demos) (1 day ago)
+- [feat(boil): Auto-detect target platform](https://github.com/stackabletech/docker-images/pull/1762) on [stackabletech/docker-images](https://github.com/stackabletech/docker-images) (2 days ago)
 
 #### 📜 My recent blog posts - [Source](https://github.com/Techassi/page)
 
